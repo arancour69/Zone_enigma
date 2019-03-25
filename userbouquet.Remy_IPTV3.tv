@@ -1,10 +1,16 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
 #SERVICE 1:64:B0:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8:NR1 4K
+#DESCRIPTION NR1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr14k/nr14k_hd/chunklist.m3u8:NR1 4K
+#DESCRIPTION NR1 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr1tv/nr1tv/playlist.m3u8:NR1 HD
 #DESCRIPTION NR1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr1tv/nr1damartv/playlist.m3u8:NR1 DAMAR
 #DESCRIPTION NR1 DAMAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr1tv/nr1dancetv/playlist.m3u8:NR1 DANCE
+#DESCRIPTION NR1 DANCE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr1tv/nr1asktv/playlist.m3u8:NR1 ASK
 #DESCRIPTION NR1 ASK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV

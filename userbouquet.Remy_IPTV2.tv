@@ -1,6 +1,12 @@
 #NAME **ReMy_PREMIUM_WORLD**
 #SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/03.m3u8:SETANTA SPORT
+#DESCRIPTION SETANTA SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/04.m3u8:SETANTA SPORT
+#DESCRIPTION SETANTA SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.46.127.146%3a8080/SetantaSportPlus/index.m3u8:SetantaSportPlus
+#DESCRIPTION SetantaSportPlus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist_b2000000.m3u8:Dubai Sports 4 HD
 #DESCRIPTION Dubai Sports 4 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8:SPORTSMAX
@@ -95,6 +101,14 @@
 #DESCRIPTION Tele Romagna SPORT
 #SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8:ACTV
+#DESCRIPTION ACTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8:Bloomberg UK
+#DESCRIPTION Bloomberg UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8:BLOOMBERG TV (1+)
+#DESCRIPTION BLOOMBERG TV (1+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s24/index.m3u8:BBC World
+#DESCRIPTION BBC World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8:abc
 #DESCRIPTION abc
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abclive.abcnews.com/i/abc_live4@136330/master.m3u8:ABC News
@@ -909,12 +923,16 @@
 #DESCRIPTION Beach TV - Panama City
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/MTVHD/playlist.m3u8:Beach TV - Pawleys Island
 #DESCRIPTION Beach TV - Pawleys Island
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f:Box Hits
+#DESCRIPTION Box Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8:Bowie TV
 #DESCRIPTION Bowie TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8:Buffalo TV
 #DESCRIPTION Buffalo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8:Buy Home TV HD
 #DESCRIPTION Buy Home TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8:BYU TV
+#DESCRIPTION BYU TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//uvodscp-lh.akamaihd.net/i/rjrCvtv_1@79763/master.m3u8?fluxustv.m3u8:CaribVision
 #DESCRIPTION CaribVision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226865/index.m3u8?fluxustv.m3u8:Catch
@@ -931,6 +949,12 @@
 #DESCRIPTION CGTN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8:CGTN America
 #DESCRIPTION CGTN America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8:CHANNEL 11 NEWS WPXI PITTSBURGH
+#DESCRIPTION CHANNEL 11 NEWS WPXI PITTSBURGH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8:CLASSIC ARTS SHOWCASE
+#DESCRIPTION CLASSIC ARTS SHOWCASE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8:CLASSIC TV 4U
+#DESCRIPTION CLASSIC TV 4U
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net%3a80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8:CMC TV
 #DESCRIPTION CMC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8:CMC USA
@@ -941,6 +965,8 @@
 #DESCRIPTION Daystar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//oflash.dfw.swagit.com/live/daytonabeachfl/smil%3astd-4x3-1-a/chucklist.m3u8:Daytona Beach TV
 #DESCRIPTION Daytona Beach TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8:DesiBoX.DeSi TV Urban Desi Musix
+#DESCRIPTION DesiBoX.DeSi TV Urban Desi Musix
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.oct.dc.gov/out/u/96_4.m3u8:District Knowledge Network
 #DESCRIPTION District Knowledge Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.oct.dc.gov/out/u/DCN.m3u8:District of Columbia Network
@@ -949,6 +975,8 @@
 #DESCRIPTION Free Speech TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8:FOX 5
 #DESCRIPTION FOX 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8:FOX5
+#DESCRIPTION FOX5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8:FOX 29
 #DESCRIPTION FOX 29
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8:FOX 31
@@ -957,6 +985,10 @@
 #DESCRIPTION FOX 32
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high:FOX BUSINESS
 #DESCRIPTION FOX BUSINESS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/smil%3agarage.smil/master.m3u8:GARAGE TV
+#DESCRIPTION GARAGE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8:HBO
+#DESCRIPTION HBO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8:HBO 2
 #DESCRIPTION HBO 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8:InfoWars
@@ -979,8 +1011,20 @@
 #DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8:NASA HD
 #DESCRIPTION NASA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8:NBC 5
+#DESCRIPTION NBC 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8:NBC 11 News (Bay Area)
 #DESCRIPTION NBC 11 News (Bay Area)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8:NBC12
+#DESCRIPTION NBC12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8:NEWS CENTER 7 OHIO
+#DESCRIPTION NEWS CENTER 7 OHIO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8:Newsmax TV
+#DESCRIPTION Newsmax TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8:NEWSY
+#DESCRIPTION NEWSY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8:NYXT
+#DESCRIPTION NYXT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN:News 12 (Brooklyn)
 #DESCRIPTION News 12 (Brooklyn)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST:News 12 (Long Island)
@@ -991,10 +1035,22 @@
 #DESCRIPTION NTV Newfounland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//otv3.ocfl.net%3a1936/OrangeTV/smil%3aOrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8:Orange TV (Orlando)
 #DESCRIPTION Orange TV (Orlando)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/4/live.m3u8:PLANET GREEN
+#DESCRIPTION PLANET GREEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8:POP
+#DESCRIPTION POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8:RALEIGH TELEVISION NETWORK
+#DESCRIPTION RALEIGH TELEVISION NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8:Real News With David Knight
+#DESCRIPTION Real News With David Knight
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8:RTE ONE
 #DESCRIPTION RTE ONE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8:RTE TWO
 #DESCRIPTION RTE TWO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/9/live.m3u8:SCIENCE CHANNEL
+#DESCRIPTION SCIENCE CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/7/live.m3u8:SHOWTIME
+#DESCRIPTION SHOWTIME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8:Southeastern Channel
 #DESCRIPTION Southeastern Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8:Space
@@ -1031,6 +1087,8 @@
 #DESCRIPTION ZIZ
 #SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
 #DESCRIPTION === ★★ARABIA | PAKETI★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:Alhurra
+#DESCRIPTION Alhurra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//216.105.40.244/live/rotana_clip/index.m3u8:Rotana_Clip
 #DESCRIPTION Rotana_Clip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7904:Falastini
