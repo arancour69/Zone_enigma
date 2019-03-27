@@ -163,14 +163,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 https://streaming.kovalchuk.me/turk/trt_spor/index.m3u8
 #EXTINF:-1 group-title="****((ReMy_SPORT))****",TJK TV
 http://tjktv.ercdn.net/tjktv_576p.m3u8
-#EXTINF:-1 group-title="****((ReMy_SPORT))****",Arena Sport1 
-http://46.40.5.99:8000/arena_1_high
-#EXTINF:-1 group-title="****((ReMy_SPORT))****",Arena Sport2
-http://46.40.5.99:8000/arena_2_high
-#EXTINF:-1 group-title="****((ReMy_SPORT))****",Arena Sport3
-http://46.40.5.99:8000/arena_3_high
-#EXTINF:-1 group-title="****((ReMy_SPORT))****",Arena Sport4
-http://46.40.5.99:8000/arena_4_high
 #EXTINF:-1 group-title="****((ReMy_SPORT))****",Abu Dhabi SPORT 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1 group-title="****((ReMy_SPORT))****",Abu Dhabi SPORT 2
@@ -281,72 +273,8 @@ http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
 #EXTINF:-1 group-title="****((EX/YU-BALKAN))****",****((EX/YU-BALKAN))****
 ****((EX/YU-BALKAN))****
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",A1 BALKAN
-http://178.132.6.97/A1Balkan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",A1 ISLAM
-http://178.132.6.97/A1Islam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",A1 rtv novipazar
-http://178.132.6.97:8080/a1rtvnovipazar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",A1 SPORT
-http://178.132.6.97/A1Sport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",A1 vikom
-http://178.132.6.97:8080/a1vikom/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",ALBA SWISS
-http://178.132.6.97:8080/RtvIliriaGjeneve/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",CITY TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w545248789.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",Dashma TV
-http://178.132.6.97:8080/DashmaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",DashmaTV
-http://178.132.6.97:8080/DashmaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",dugatv
-http://178.132.6.97/dugatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="****((EX/YU-BALKAN))****",MAR TV
 http://178.132.6.97/martv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",MojeBugojno
-http://178.132.6.97:8080/MojeBugojno/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",NTV 101 Prijedor
-http://178.132.6.97:8080/NTV101Prijedor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",NTV AMNA
-http://178.132.6.97:8080/NTVAMNA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",OTV Valentino
-http://178.132.6.97:8080/OTVValentino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",PINK DM SAT
-http://178.132.6.97:8080/DMSAT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",PRIMERA HD MUSIC
-http://178.132.6.97:8080/a1vikommusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",PRIMERA HD PLUS TV
-http://178.132.6.97:8080/PLUSHDTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",PRIMERA MUSIC
-http://178.132.6.97:8080/PrimeraMusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",RTV SLON EXTRA
-http://178.132.6.97:8080/RTV:SLON/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",RTV Zenica
-http://178.132.6.97:8080/RTVZenica/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",RTV1 Vojvodina
-http://178.132.6.97:8080/RTV1Vojvodina/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",RTV2 Vojvodina
-http://178.132.6.97:8080/RTV2Vojvodina/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",SeharaTV
-http://178.132.6.97:8080/SeharaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",Sky Folk Makedonija
-http://178.132.6.97:8080/SkyFolkMakedonija/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",SMART TV BOSNIA HERZEGOVINA
-http://178.132.6.97/bs:SMARTTVTESANJ/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",SpinTV
-http://178.132.6.97:8080/SpinTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",SYRI BLUE HD TV
-http://178.132.6.97:8080/SYRIBLUEHDTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",TV Dukagjini
-http://178.132.6.97:8080/TVDukagjini/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",TV Plisi
-http://178.132.6.97:8080/TVPlisi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",TV Sharri HD
-http://178.132.6.97:8080/TV:SharriHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",TV Tetova
-http://178.132.6.97:8080/TVTetova/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="****((EX/YU-BALKAN))****",TV Vogosca
-http://178.132.6.97:8080/TVVogosca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="****((EX/YU-BALKAN))****",KCN1.rs
 http://212.200.102.3:5000/rtp/239.0.0.1:5000
 #EXTINF:-1 group-title="****((EX/YU-BALKAN))****",KCN2.rs
