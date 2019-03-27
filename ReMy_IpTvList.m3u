@@ -109,9 +109,9 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1 group-title="****((ULUSAL))****",TRT Avaz
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/trt-avaz.m3u8
-#EXTINF:-1 group-title="****((ULUSAL))****",TRT KURDÎ HD
+#EXTINF:-1 group-title="****((ULUSAL))****",TRT KURDÃŽ HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:-1 group-title="****((ULUSAL))****",TRT KURDÎ HD
+#EXTINF:-1 group-title="****((ULUSAL))****",TRT KURDÃŽ HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="****((ULUSAL))****",GEM KURDI
 http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
@@ -123,13 +123,13 @@ http://217.174.225.146/legacyhls/ch001_400/index.m3u8
 http://217.174.225.146/legacyhls/ch002_400/index.m3u8
 #EXTINF:-1 group-title="****((ULUSAL))****",Miras TV
 http://217.174.225.146/legacyhls/ch003_400/index.m3u8
-#EXTINF:-1 group-title="****((ULUSAL))****",Türkmen Sport
+#EXTINF:-1 group-title="****((ULUSAL))****",TÃ¼rkmen Sport
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1 group-title="****((ULUSAL))****",Türkmen Avazi 
+#EXTINF:-1 group-title="****((ULUSAL))****",TÃ¼rkmen Avazi 
 http://217.174.225.146/legacyhls/ch005_400/index.m3u8
 #EXTINF:-1 group-title="****((ULUSAL))****",Asgabat TV
 http://217.174.225.146/legacyhls/ch006_400/index.m3u8
-#EXTINF:-1 group-title="****((ULUSAL))****",Türkmenistan TV
+#EXTINF:-1 group-title="****((ULUSAL))****",TÃ¼rkmenistan TV
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1 group-title="****((ULUSAL))****",ND TV
 http://bglive-a.bitgravity.com/ndtv/247hi/live/native
@@ -367,7 +367,7 @@ http://46.20.136.59/live3/_definst_/utv/playlist.m3u8
 ****((Espana))****
 #EXTINF:-1 group-title="****((Espana))****",+24 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",101TV Málaga 
+#EXTINF:-1 group-title="****((Espana))****",101TV MÃ¡laga 
 https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",24h 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8
@@ -379,13 +379,13 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aos
 http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
 #EXTINF:-1 group-title="****((Espana))****",7 RM 
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
-#EXTINF:-1 group-title="****((Espana))****",8 Cádiz 
+#EXTINF:-1 group-title="****((Espana))****",8 CÃ¡diz 
 https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Algeciras 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - Algeciras 
 https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Almería 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - AlmerÃ­a 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Alternativa TV 
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
@@ -395,7 +395,7 @@ https://www.djing.com/tv/animation.m3u8%20
 https://livestartover.atresmedia.com/antena3/master.m3u8%20
 #EXTINF:-1 group-title="****((Espana))****",Antena 3 HD 
 https://livestartover.atresmedia.com/geoantena3/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Aragón TV 
+#EXTINF:-1 group-title="****((Espana))****",AragÃ³n TV 
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Atreseries HD 
 https://livestartover.atresmedia.com/a3series/master.m3u8
@@ -407,7 +407,7 @@ https://livestartover.atresmedia.com/eventos15/master.m3u8
 https://livestartover.atresmedia.com/eventos26/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Atresplayer Original (37) HD 
 https://livestartover.atresmedia.com/eventos37/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Bahía 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - BahÃ­a 
 https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8
 #EXTINF:-1 group-title="****((Espana))****",BDN 
 http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8
@@ -447,13 +447,13 @@ https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
 https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Canal Blau 
 https://liveingesta118.cdnmedia.tv/blautvlive/smil:blautv.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Canal Coín 
+#EXTINF:-1 group-title="****((Espana))****",Canal CoÃ­n 
 http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Canal Doñana 
+#EXTINF:-1 group-title="****((Espana))****",Canal DoÃ±ana 
 https://secure.todostreaming.es/live/disvision-alm.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Canal Extremadura 
 http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Canal Málaga 
+#EXTINF:-1 group-title="****((Espana))****",Canal MÃ¡laga 
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Canal Parlamento 
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
@@ -469,7 +469,7 @@ http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rt
 https://liveingesta118.cdnmedia.tv//taronjaanoialive/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Canal Taronja Central 
 https://liveingesta118.cdnmedia.tv//taronjacentrallive/smil:live.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Canal Taronja Osona i Moianés 
+#EXTINF:-1 group-title="****((Espana))****",Canal Taronja Osona i MoianÃ©s 
 http://ventdelnord.tv:8080/taronja/directe.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Canal Terres de l'Ebre 
 http://live10.cdnmedia.tv/canaltetvlive/smil:live.smil/playlist.m3u8
@@ -483,17 +483,17 @@ http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8
 http://89.140.99.41/hls/1080.m3u8
 #EXTINF:-1 group-title="****((Espana))****",CMM 
 http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Condavisión HD 
+#EXTINF:-1 group-title="****((Espana))****",CondavisiÃ³n HD 
 http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Costa Noroeste 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - Costa Noroeste 
 https://secure.todostreaming.es/live/ondaluz-olcosta.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Cuatro 
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Cuatro HD 
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Cádiz 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - CÃ¡diz 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Córdoba 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - CÃ³rdoba 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
 #EXTINF:-1 group-title="****((Espana))****",DJing - Dancefloor 
 https://www.djing.com/tv/dancefloor.m3u8%20
@@ -507,9 +507,9 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",El 9 TV 
 http://live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",El Correo de Andalucía 
+#EXTINF:-1 group-title="****((Espana))****",El Correo de AndalucÃ­a 
 http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",El Día TV 
+#EXTINF:-1 group-title="****((Espana))****",El DÃ­a TV 
 http://vs8.live.opencaster.com/opencaster/zmyrfjHztaoj/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",El Punt Avui TV 
 http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8
@@ -535,23 +535,23 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Fuengirola TV 
 https://secure.todostreaming.es/live/nerja-livestream.m3u8
-#EXTINF:-1 group-title="****((Espana))****",GH Dúo 24h
+#EXTINF:-1 group-title="****((Espana))****",GH DÃºo 24h
 https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_2.m3u8
-#EXTINF:-1 group-title="****((Espana))****",GH Dúo 24h 
+#EXTINF:-1 group-title="****((Espana))****",GH DÃºo 24h 
 https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8
-#EXTINF:-1 group-title="****((Espana))****",GH Dúo 24h HD 
+#EXTINF:-1 group-title="****((Espana))****",GH DÃºo 24h HD 
 https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8
-#EXTINF:-1 group-title="****((Espana))****",GH Dúo 24h HD 
+#EXTINF:-1 group-title="****((Espana))****",GH DÃºo 24h HD 
 https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Gigante TV 
 http://85.214.130.95:8080/live/stream.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Granada 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - Granada 
 https://secure.todostreaming.es/live/ondaluz-olgranada.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Hit TV HD
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",DJing - Hits 
 https://www.djing.com/tv/hits.m3u8%20
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Huelva 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - Huelva 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Huelva TV 
 http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
@@ -559,13 +559,13 @@ http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
 #EXTINF:-1 group-title="****((Espana))****",IB3 
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",interalmería HD 
+#EXTINF:-1 group-title="****((Espana))****",interalmerÃ­a HD 
 http://interalmeria.tv/directo/live.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Intereconomía 
+#EXTINF:-1 group-title="****((Espana))****",IntereconomÃ­a 
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Jaén 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - JaÃ©n 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Jerez 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - Jerez 
 https://secure.todostreaming.es/live/ondaluz-oljerez.m3u8
 #EXTINF:-1 group-title="****((Espana))****",DJing - Karaoke 
 https://www.djing.com/tv/karaoke.m3u8%20
@@ -601,25 +601,25 @@ https://www.djing.com/tv/live.m3u8%20
 http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Mar TV 
 http://k4.usastreams.com/CableLatino/martv/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Marbella 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - Marbella 
 https://secure.todostreaming.es/live/ondaluz-olmarbella.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Mataró TV 
+#EXTINF:-1 group-title="****((Espana))****",MatarÃ³ TV 
 http://live10.cdnmedia.tv/m1tvlive/live.smil/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Mega HD 
 https://livestartover.atresmedia.com/mega/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Mega HD 
 https://livestartover.atresmedia.com/geomega/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Mijas Comunicación 
+#EXTINF:-1 group-title="****((Espana))****",Mijas ComunicaciÃ³n 
 http://mijas.hls.flumotion.com/mijas/live-hls/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Mola TV 
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 group-title="****((Espana))****",mtmad 24h HD 
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Málaga 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - MÃ¡laga 
 https://secure.todostreaming.es/live/ondaluz-olmalaga.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Más TV Huelva 
+#EXTINF:-1 group-title="****((Espana))****",MÃ¡s TV Huelva 
 https://streaming-fr02.enetres.net/1855C32698CC47EC817DA7DB40DE72DB021/smil:live.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Mírame TV 
+#EXTINF:-1 group-title="****((Espana))****",MÃ­rame TV 
 https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Navarra TV 
 http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist.m3u8
@@ -631,23 +631,23 @@ https://livestartover.atresmedia.com/geoneox/master.m3u8
 https://livestartover.atresmedia.com/nova/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Nova HD 
 https://livestartover.atresmedia.com/geonova/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Olot Televisió 
+#EXTINF:-1 group-title="****((Espana))****",Olot TelevisiÃ³ 
 https://liveingesta118.cdnmedia.tv//olottvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Onda Algeciras TV 
 http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Onda Cádiz 
+#EXTINF:-1 group-title="****((Espana))****",Onda CÃ¡diz 
 http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Onda Mezquita TV 
 http://173.212.214.184:1935/mezquita/mezquita_360p/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Paramount Network 
 https://paramount-live.flumotion.com/live/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Penedès TV 
+#EXTINF:-1 group-title="****((Espana))****",PenedÃ¨s TV 
 https://liveingesta118.cdnmedia.tv//rtvvilafrancalive/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Popular TV Melilla 
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",PTV Córdoba HD 
+#EXTINF:-1 group-title="****((Espana))****",PTV CÃ³rdoba HD 
 http://149.91.98.146:1935/cordoba/stream/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",PTV Málaga HD 
+#EXTINF:-1 group-title="****((Espana))****",PTV MÃ¡laga HD 
 http://149.91.98.146:1935/live/stream/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",RealMadrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
@@ -657,7 +657,7 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",RTVCE 
 http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV Andalucía - Sevilla 
+#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÃ­a - Sevilla 
 https://secure.todostreaming.es/live/ondaluz-olsevilla.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TeleAntequera 
 http://37.187.108.127:554/las4esquinastv/radiostation.stream/.m3u8
@@ -671,9 +671,9 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m
 http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TeleToledo 
 https://cdn01.yowi.tv/1H23S04G4M/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Televisión Canaria 
+#EXTINF:-1 group-title="****((Espana))****",TelevisiÃ³n Canaria 
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Televisión Mogán 
+#EXTINF:-1 group-title="****((Espana))****",TelevisiÃ³n MogÃ¡n 
 https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Tindaya TV 
 https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live.smil/master.m3u8
@@ -681,17 +681,17 @@ https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live
 https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TRECE 
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",TV Centro Andalucía 
+#EXTINF:-1 group-title="****((Espana))****",TV Centro AndalucÃ­a 
 http://192.99.21.42:1935/paco/paco/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TV Costa Brava 
 http://liveingesta118.cdnmedia.tv//costabravatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TV Girona 
 http://ventdelnord.tv:8080/girona/directe.m3u8
-#EXTINF:-1 group-title="****((Espana))****",TV3 Càmeres 
+#EXTINF:-1 group-title="****((Espana))****",TV3 CÃ meres 
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/master_DVR.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TVG 2 
 http://amodino-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",TVG América 
+#EXTINF:-1 group-title="****((Espana))****",TVG AmÃ©rica 
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TVG Cultura HD 
 http://cultural-crtvg.flumotion.com/playlist.m3u8
@@ -713,7 +713,7 @@ http://musigal-crtvg.flumotion.com/playlist.m3u8
 https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",DJing - Underground 
 https://www.djing.com/tv/underground.m3u8%20
-#EXTINF:-1 group-title="****((Espana))****",Visión 6 
+#EXTINF:-1 group-title="****((Espana))****",VisiÃ³n 6 
 https://secure.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1 group-title="****((Espana))****",votv 
 http://live10.cdnmedia.tv/votvlive/live.smil/playlist.m3u8
@@ -897,7 +897,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 group-title="****((WORLD_IPTV))****",rbw
 http://62.113.210.250/medienasa-live/rbw_high/ReMy.m3u8
-#EXTINF:-1 group-title="****((WORLD_IPTV))****",RCG Televisión LATINO
+#EXTINF:-1 group-title="****((WORLD_IPTV))****",RCG TelevisiÃ³n LATINO
 http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
 #EXTINF:-1 group-title="****((WORLD_IPTV))****",Rrokum
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
@@ -1647,7 +1647,7 @@ https://www.djing.com/tv/s-27777-03-summer-vibes.m3u8
 https://www.djing.com/tv/s-27963-04-summer-vibes.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING UNDERGROUND
 https://www.djing.com/tv/u-27971-04.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DÝJÝNG UNDERGROUND HD
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DÄ°JÄ°NG UNDERGROUND HD
 https://www.djing.com/tv/u-27777-04.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Efecto TV
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
@@ -1781,7 +1781,7 @@ http://216.105.40.244/live/rotana_clip/index.m3u8
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Sarajevo 1 Tv
 rtmp://91.148.117.134:1935/radios/radiosweb.stream live=1
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",SEÑAL PROVINCIAL
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",SEÃ‘AL PROVINCIAL
 http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Sky Folk
 http://skyfolk.mk/live.m3u8
@@ -1793,7 +1793,7 @@ http://89.201.163.244:8080/hls/hdmi.m3u8
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",QUIERO MÚSICA
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",QUIERO MÃšSICA
 mms://200.42.92.6:1755/qmusica
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",??? Music
 http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
@@ -1889,7 +1889,7 @@ http://fenomenkarisik.listenfenomen.com/fenomenkarisik/128/icecast.audio
 http://fenomenoriental.listenfenomen.com/fenomenoriental/128/icecast.audio
 #EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",FenomenTurk
 http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Virgin Radio Türkiye
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Virgin Radio TÃ¼rkiye
 http://17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
 #EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Voyage AAC
 http://46.20.4.42/pozitif/smil:voyage.smil/media_w1726134719_b128000_14039.aac
@@ -1945,7 +1945,7 @@ https://20043.live.streamtheworld.com/SC5_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk
 https://17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc
 #EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo 34
 http://yayin1.canliyayin.org:7424/;
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Türkü-izmir
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo TÃ¼rkÃ¼-izmir
 http://radioturku.com:9400/;
 #EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Mydonose
 http://17753.live.streamtheworld.com:3690/RADIO_MYDONOSE_SC
