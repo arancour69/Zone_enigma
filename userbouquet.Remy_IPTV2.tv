@@ -1,16 +1,6 @@
 #NAME **ReMy_PREMIUM_WORLD**
 #SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/03.m3u8:SETANTA SPORT
-#DESCRIPTION SETANTA SPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/04.m3u8:SETANTA SPORT
-#DESCRIPTION SETANTA SPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.46.127.146%3a8080/SetantaSportPlus/index.m3u8:SetantaSportPlus
-#DESCRIPTION SetantaSportPlus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist_b2000000.m3u8:Dubai Sports 4 HD
-#DESCRIPTION Dubai Sports 4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8:SPORTSMAX
-#DESCRIPTION SPORTSMAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8:A SPOR HD
 #DESCRIPTION A SPOR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca:TRT Spor HD
@@ -19,6 +9,18 @@
 #DESCRIPTION TJK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a8000/tr1:SUPER SPORT
 #DESCRIPTION SUPER SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.46.127.146%3a8080/SetantaSportPlus/index.m3u8:SetantaSportPlus
+#DESCRIPTION SetantaSportPlus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8:SUPER SOCCER TV
+#DESCRIPTION SUPER SOCCER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist_b2000000.m3u8:Dubai Sports 4 HD
+#DESCRIPTION Dubai Sports 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/6/live.m3u8:ESPN
+#DESCRIPTION ESPN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8:ESPN 2
+#DESCRIPTION ESPN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8:ESPN MNF
+#DESCRIPTION ESPN MNF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8:MLB Network
 #DESCRIPTION MLB Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8:MLB Network 2
@@ -27,40 +29,20 @@
 #DESCRIPTION MLB USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8:MLB TV
 #DESCRIPTION MLB TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8:7 HD
-#DESCRIPTION 7 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8080:7 HD CRICKET
 #DESCRIPTION 7 HD CRICKET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/fanatik_livestream/smil%3afanatik.smil/chunklist_b996000.m3u8:Fanatik TV
-#DESCRIPTION Fanatik TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8:Red Bull TV HD
 #DESCRIPTION Red Bull TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8:Redbull TV HD
 #DESCRIPTION Redbull TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8:Fight Sports
 #DESCRIPTION Fight Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8:CCX Sports
-#DESCRIPTION CCX Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/04.m3u8:MUTV
 #DESCRIPTION MUTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8:FOX SPORTS RACING
-#DESCRIPTION FOX SPORTS RACING
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8:Cheddar Sports
 #DESCRIPTION Cheddar Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/6/live.m3u8:ESPN
-#DESCRIPTION ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8:ESPN 2
-#DESCRIPTION ESPN 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8:ESPN MNF
-#DESCRIPTION ESPN MNF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8:HSN
-#DESCRIPTION HSN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8:SUPER SOCCER TV
-#DESCRIPTION SUPER SOCCER TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8:Stadium
 #DESCRIPTION Stadium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.103.251/hls/xsport_ua_hi/index.m3u8:Xsport TV HD
-#DESCRIPTION Xsport TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1:AD Sports 1 HD
 #DESCRIPTION AD Sports 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:AD Sports 2 HD
@@ -203,6 +185,8 @@
 #DESCRIPTION SKY TG24 HD
 #SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★ESPANOL★★ ====
 #DESCRIPTION === ★★ESPANOL★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8:7 HD
+#DESCRIPTION 7 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestartover.atresmedia.com/antena3/master.m3u8 :Antena 3 HD
 #DESCRIPTION Antena 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5924d3ad0efcf.streamlock.net/canal4/canal4live/master.m3u8:Canal 4 Mancha Centro HD
@@ -417,6 +401,12 @@
 #DESCRIPTION Webcam OndaMadrid
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8:Webcame RNE
 #DESCRIPTION Webcame RNE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268131403489/VS-download_2000Kbps_720p_desktop.mp4:2017 Victoria’s Secret Fashion Show
+#DESCRIPTION 2017 Victoria’s Secret Fashion Show
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268137586424/120617_FS_LIVE_PINK-Carpet_1180x664x.mp4:Victoria’s Secret PINK CARPET
+#DESCRIPTION Victoria’s Secret PINK CARPET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268111608911/VS_TLAA_Master_1600x900.mp4:Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
+#DESCRIPTION Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
 #SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★EAST EUROPE | BALKAN★★ ====
 #DESCRIPTION === ★★EAST EUROPE | BALKAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.173.22.231%3a8080/video/emisie.m3u8:Accent TV Romania
@@ -741,12 +731,8 @@
 #DESCRIPTION TV 100 GREECE
 #SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★REMY | U.S.A_IPTV★★ ====
 #DESCRIPTION === ★★REMY | U.S.A_IPTV★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8:2GB Sydney
-#DESCRIPTION 2GB Sydney
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8:2UE Sydney
 #DESCRIPTION 2UE Sydney
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8:3AW Melbourne
-#DESCRIPTION 3AW Melbourne
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//158.69.124.9%3a1935/5aabtv/5aabtv/playlist.m3u8:5AAB TV
 #DESCRIPTION 5AAB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.field59.com/wwsb/ngrp%3awwsb1_all/playlist.m3u8:ABC TV
@@ -793,6 +779,8 @@
 #DESCRIPTION CBC TV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8:CBS
 #DESCRIPTION CBS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8:CCX Sports
+#DESCRIPTION CCX Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cgtn.com/500/prog_index.m3u8:CGTN
 #DESCRIPTION CGTN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8:CGTN America
@@ -851,6 +839,8 @@
 #DESCRIPTION HBO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8:HBO 2
 #DESCRIPTION HBO 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8:HSN
+#DESCRIPTION HSN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8:InfoWars
 #DESCRIPTION InfoWars
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/5/live.m3u8:Investigation Discovery

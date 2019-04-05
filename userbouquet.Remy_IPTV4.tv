@@ -29,42 +29,8 @@
 #DESCRIPTION Desire TV 1080
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/1463854277?ticket=66879F3BC21D8B1E87536D3F3E772D23F5BC9037&profile=pass:Honey 1080
 #DESCRIPTION Honey 1080
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.78.119%3a7781/udp/239.195.2.4%3a1234:BRAZZERS TV
-#DESCRIPTION BRAZZERS TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.107.192.48%3a9995/play/Brazzers/index.m3u8:BRAZZERS TV
-#DESCRIPTION BRAZZERS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.77.175%3a4022/udp/239.195.2.4%3a1234:BRAZZERS TV
 #DESCRIPTION BRAZZERS TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.115.136.45%3a8080/udp/233.166.172.155%3a1234:Russian Night 18+
-#DESCRIPTION Russian Night 18+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.107.192.48%3a9995/play/Russkaya_Noch/index.m3u8:Russian Night 18+
-#DESCRIPTION Russian Night 18+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.78.119%3a7781/udp/239.195.2.3%3a1234:Russian Night 18+
-#DESCRIPTION Russian Night 18+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.107.192.48%3a9995/play/Playboy/index.m3u8:PLAYBOY TV
-#DESCRIPTION PLAYBOY TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.78.119%3a7781/udp/239.195.2.5%3a1234:Playboy TV
-#DESCRIPTION Playboy TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.115.136.45%3a8080/udp/233.166.172.157%3a1234:O la la
-#DESCRIPTION O la la
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.107.192.48%3a9995/play/O-la-la/index.m3u8:O-la-la
-#DESCRIPTION O-la-la
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/527/index.m3u8:Playboy
-#DESCRIPTION Playboy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/147/index.m3u8:Russian Night 18+
-#DESCRIPTION Russian Night 18+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/910/index.m3u8:Brazzers TV Europe
-#DESCRIPTION Brazzers TV Europe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/919/index.m3u8:Temptation HD
-#DESCRIPTION Temptation HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/922/index.m3u8:Saluna
-#DESCRIPTION Saluna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/923/index.m3u8:Candy
-#DESCRIPTION Candy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/1073/index.m3u8:Penthouse TV
-#DESCRIPTION Penthouse TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/813/index.m3u8:Erox HD
-#DESCRIPTION Erox HD
 #SERVICE 1:64:96:0:0:0:0:0:0:0::MEGABOX TV-VOD
 #DESCRIPTION MEGABOX TV-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4:As Panteras
@@ -1485,12 +1451,6 @@
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #SERVICE 1:64:9A:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #DESCRIPTION === ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268131403489/VS-download_2000Kbps_720p_desktop.mp4:2017 Victoria’s Secret Fashion Show
-#DESCRIPTION 2017 Victoria’s Secret Fashion Show
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268137586424/120617_FS_LIVE_PINK-Carpet_1180x664x.mp4:Victoria’s Secret PINK CARPET
-#DESCRIPTION Victoria’s Secret PINK CARPET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268111608911/VS_TLAA_Master_1600x900.mp4:Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
-#DESCRIPTION Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/movies/xrated/xrayted_ep01_st1-2.mp4:xrayted_ep01_st1-2
 #DESCRIPTION xrayted_ep01_st1-2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/partners/xrayted/xrayted_ep02_st1-2.mp4:xrayted_ep02_st1-2
