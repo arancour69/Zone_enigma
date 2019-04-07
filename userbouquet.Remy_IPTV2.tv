@@ -1945,6 +1945,204 @@
 #DESCRIPTION Espreso TV
 #SERVICE 1:64:B8:0:0:0:0:0:0:0::__R U S S I A N__
 #DESCRIPTION __R U S S I A N__
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/hdtest/index.m3u8:H1_HD
+#DESCRIPTION H1_HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s1/index.m3u8:H1
+#DESCRIPTION H1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s2/index.m3u8:H2
+#DESCRIPTION H2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s3/index.m3u8:Shant
+#DESCRIPTION Shant
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s4/index.m3u8:Armenia TV
+#DESCRIPTION Armenia TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s5/index.m3u8:Kentron
+#DESCRIPTION Kentron
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s6/index.m3u8:Ararat
+#DESCRIPTION Ararat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s7/index.m3u8:Yerkir Media
+#DESCRIPTION Yerkir Media
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s8/index.m3u8:ATV
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s9/index.m3u8:AR
+#DESCRIPTION AR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s10/index.m3u8:21TV
+#DESCRIPTION 21TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s11/index.m3u8:ArmNews
+#DESCRIPTION ArmNews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s12/index.m3u8:H3 vk.com/iptv_iptv
+#DESCRIPTION H3 vk.com/iptv_iptv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s13/index.m3u8:Shoxakat
+#DESCRIPTION Shoxakat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s14/index.m3u8:Channel One
+#DESCRIPTION Channel One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s15/index.m3u8:Planet RTR
+#DESCRIPTION Planet RTR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s16/index.m3u8:Russia K
+#DESCRIPTION Russia K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s17/index.m3u8:NTV
+#DESCRIPTION NTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s18/index.m3u8:Food Network
+#DESCRIPTION Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s19/index.m3u8:TNT
+#DESCRIPTION TNT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s20/index.m3u8:DTV
+#DESCRIPTION DTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s21/index.m3u8:Russia 24
+#DESCRIPTION Russia 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s22/index.m3u8:Hay kino
+#DESCRIPTION Hay kino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s23/index.m3u8:Al Jazeera English
+#DESCRIPTION Al Jazeera English
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s24/index.m3u8:BBC
+#DESCRIPTION BBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s25/index.m3u8:France 24
+#DESCRIPTION France 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s26/index.m3u8:Deutsche Welle
+#DESCRIPTION Deutsche Welle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s27/index.m3u8:CNN vk.com/iptv_iptv
+#DESCRIPTION CNN vk.com/iptv_iptv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s28/index.m3u8:Kukhnya TV
+#DESCRIPTION Kukhnya TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s29/index.m3u8:Indian Cinema
+#DESCRIPTION Indian Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s30/index.m3u8:Fashion TV
+#DESCRIPTION Fashion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s31/index.m3u8:Country
+#DESCRIPTION Country
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s32/index.m3u8:Armenia Comedy
+#DESCRIPTION Armenia Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s33/index.m3u8:A2
+#DESCRIPTION A2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s34/index.m3u8:Bridge TV
+#DESCRIPTION Bridge TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s35/index.m3u8:Mezzo
+#DESCRIPTION Mezzo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s36/index.m3u8:RBC
+#DESCRIPTION RBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s37/index.m3u8:English Club
+#DESCRIPTION English Club
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s38/index.m3u8:Dress
+#DESCRIPTION Dress
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s39/index.m3u8:World
+#DESCRIPTION World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s40/index.m3u8:History
+#DESCRIPTION History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Football Channel
+#DESCRIPTION Football Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s42/index.m3u8:Jan TV
+#DESCRIPTION Jan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s43/index.m3u8:Chanson TV
+#DESCRIPTION Chanson TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s44/index.m3u8:Eurika
+#DESCRIPTION Eurika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s45/index.m3u8:Musicbox RU
+#DESCRIPTION Musicbox RU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s46/index.m3u8:Tuntunik
+#DESCRIPTION Tuntunik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s47/index.m3u8:Russian Extreme
+#DESCRIPTION Russian Extreme
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s48/index.m3u8:Filmzone ATV
+#DESCRIPTION Filmzone ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s49/index.m3u8:MCM TOP
+#DESCRIPTION MCM TOP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s50/index.m3u8:Rustavi 2
+#DESCRIPTION Rustavi 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s51/index.m3u8:Auto plus
+#DESCRIPTION Auto plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s52/index.m3u8:Russian Bestseller
+#DESCRIPTION Russian Bestseller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s53/index.m3u8:Tava ATV
+#DESCRIPTION Tava ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s54/index.m3u8:TBK vk.com/iptv_iptv
+#DESCRIPTION TBK vk.com/iptv_iptv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s55/index.m3u8:Hunter and Angler
+#DESCRIPTION Hunter and Angler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s56/index.m3u8:Telecafé
+#DESCRIPTION Telecafé
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s57/index.m3u8:Red
+#DESCRIPTION Red
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s58/index.m3u8:Cartoon
+#DESCRIPTION Cartoon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s59/index.m3u8:Tiji
+#DESCRIPTION Tiji
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s60/index.m3u8:Disney Channel
+#DESCRIPTION Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s61/index.m3u8:Carousel
+#DESCRIPTION Carousel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s62/index.m3u8:Spike
+#DESCRIPTION Spike
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s63/index.m3u8:Cartoon Network
+#DESCRIPTION Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s64/index.m3u8:Boomerang
+#DESCRIPTION Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s65/index.m3u8:Bloomberg
+#DESCRIPTION Bloomberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s66/index.m3u8:Cineman
+#DESCRIPTION Cineman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s67/index.m3u8:Viasat Nature
+#DESCRIPTION Viasat Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s68/index.m3u8:Techno 24
+#DESCRIPTION Techno 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s69/index.m3u8:Al Jazeera Arabic
+#DESCRIPTION Al Jazeera Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s70/index.m3u8:Viasat History
+#DESCRIPTION Viasat History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s71/index.m3u8:Tele-Travel
+#DESCRIPTION Tele-Travel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s72/index.m3u8:Viasat Explorer
+#DESCRIPTION Viasat Explorer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s73/index.m3u8:Hay ATV
+#DESCRIPTION Hay ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s74/index.m3u8:Bazmoc ATV
+#DESCRIPTION Bazmoc ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s75/index.m3u8:TV5 Monde
+#DESCRIPTION TV5 Monde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s76/index.m3u8:КаNAL 153
+#DESCRIPTION КаNAL 153
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s77/index.m3u8:ReMTeaM
+#DESCRIPTION ReMTeaM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s78/index.m3u8:Bridge TV Russian hit
+#DESCRIPTION Bridge TV Russian hit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s79/index.m3u8:Maestro TV
+#DESCRIPTION Maestro TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s80/index.m3u8:RTG
+#DESCRIPTION RTG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/index.m3u8:Setanta Sport
+#DESCRIPTION Setanta Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s82/index.m3u8:Setanta Sport Plus
+#DESCRIPTION Setanta Sport Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s83/index.m3u8:U! Premium
+#DESCRIPTION U! Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s84/index.m3u8:1TV
+#DESCRIPTION 1TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s85/index.m3u8:Imedi TV
+#DESCRIPTION Imedi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s87/index.m3u8:HCT
+#DESCRIPTION HCT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s88/index.m3u8:Kinohit
+#DESCRIPTION Kinohit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s89/index.m3u8:Film Premiere
+#DESCRIPTION Film Premiere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s90/index.m3u8:TV1000
+#DESCRIPTION TV1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s91/index.m3u8:TV1000 Action
+#DESCRIPTION TV1000 Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s92/index.m3u8:Zoo TV
+#DESCRIPTION Zoo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s93/index.m3u8:Russia Today Doc
+#DESCRIPTION Russia Today Doc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s94/index.m3u8:Kinoman ATV
+#DESCRIPTION Kinoman ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s95/index.m3u8:TV1000 Russian Cinema
+#DESCRIPTION TV1000 Russian Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s96/index.m3u8:Russia Today
+#DESCRIPTION Russia Today
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s97/index.m3u8:VIP Comedy
+#DESCRIPTION VIP Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s98/index.m3u8:Science vk.com/iptv_iptv
+#DESCRIPTION Science vk.com/iptv_iptv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s100/index.m3u8:TNT4
+#DESCRIPTION TNT4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3ar1.smil/chunklist_b1600000.m3u8:Russia 1
 #DESCRIPTION Russia 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3ar24.smil/playlist.m3u8:Russia 24
