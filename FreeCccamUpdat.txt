@@ -1,7 +1,7 @@
-Version = 5.0
+Version = 6.0
 Url = https://raw.githubusercontent.com/PrivateTr/Zone_enigma/master/enigma2-plugin-extensions-freecccam_5.0_all.ipk
 name = enigma2-plugin-extensions-free-cccam_5.0_all.ipk
 Date= 14/04/2019
-correct= NewUpdateFreeCccam_5.0
+correct= NewUpdateFreeCccam_6.0
 Download= Download 17000
 By = ReMyTr
