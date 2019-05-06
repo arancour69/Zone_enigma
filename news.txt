@@ -1,8 +1,8 @@
        *☪️ ®ReMy EnigmaTurk TeaM ☪️*
+             ***★★06.05.2019★★***
+              *FuLLKeyS UPDATE*	
              ***★★29.04.2019★★***
 *OpenATV_SoftCamPANEL_V2.0 & ReMy_SoftCamAPP_V2.1 UPDATE* 
-             ***★★28.04.2019★★***
-              *FuLLKeyS UPDATE*	
              ***★★14.04.2019★★***
 *ReMy_SATELLITE_ChannelList UPDATE* 
 	         *★★11.04.2019★★*
@@ -17,5 +17,6 @@
 ____________________________________________________
               ®ReMy EnigmaTurk TeaM		
 MAİL:enigma2_teknik_servis@hotmail.com
-
-saveemm-u=1
+01 B0 1B FF FF DD 00 00 09 04 10 10 E1 F4 09 04  58
+06 56 F2 BF 09 04 09 2B E0 C0 4F 7E 09 FA
+3031204230203142204646204646204444203030203030203039203034203130203130204531204634203039203034202035380D0A3036203536204632204246203039203034203039203242204530204330203446203745203039204641
