@@ -1,7 +1,7 @@
 #NAME **ReMy_IPTV_18+ADULT** 
-#SERVICE 1:64:94:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 1:64:8D:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
-#SERVICE 1:64:95:0:0:0:0:0:0:0::=== ★★ADULT | PREMIUM★★ ====
+#SERVICE 1:64:8E:0:0:0:0:0:0:0::=== ★★ADULT | PREMIUM★★ ====
 #DESCRIPTION === ★★ADULT | PREMIUM★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8:Jasmin.tv
 #DESCRIPTION Jasmin.tv
@@ -21,7 +21,7 @@
 #DESCRIPTION VISIT-X TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
-#SERVICE 1:64:96:0:0:0:0:0:0:0::MEGABOX TV-VOD
+#SERVICE 1:64:8F:0:0:0:0:0:0:0::MEGABOX TV-VOD
 #DESCRIPTION MEGABOX TV-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4:As Panteras
 #DESCRIPTION As Panteras
@@ -259,7 +259,7 @@
 #DESCRIPTION 20Filmes XXX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.pornonacionais.com/wp-content/uploads/2016/10/b0d26bd495439df83242e8b676696a54.mp4:21Filmes XXX
 #DESCRIPTION 21Filmes XXX
-#SERVICE 1:64:97:0:0:0:0:0:0:0::=== ★★PAPER_STREET | SOFT★★ ====
+#SERVICE 1:64:90:0:0:0:0:0:0:0::=== ★★PAPER_STREET | SOFT★★ ====
 #DESCRIPTION === ★★PAPER_STREET | SOFT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_allison_banks_12minute.mp4:Allison Banks
 #DESCRIPTION Allison Banks
@@ -411,7 +411,7 @@
 #DESCRIPTION Wow Girls Video 37
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//content2.sexforsure.com/2013/07/03/12/Video.mp4:Wow Girls Video 38
 #DESCRIPTION Wow Girls Video 38
-#SERVICE 1:64:98:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
+#SERVICE 1:64:91:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
 #DESCRIPTION === ★★VIDEO_CLIPS | HARD★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.servitubes.com/videos/6/f/7/6/4/6f764267353d6fa9108aa3518c817cb195db672a.mp4:69 increibles posturas mas actos bisexuales
 #DESCRIPTION 69 increibles posturas mas actos bisexuales
@@ -1345,7 +1345,7 @@
 #DESCRIPTION SELEN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4:SIGNORE SC@ND@LOSE DI PROVINCI@
 #DESCRIPTION SIGNORE SC@ND@LOSE DI PROVINCI@
-#SERVICE 1:64:99:0:0:0:0:0:0:0::=== ★★SEXY_CLIPS | EROTIC★★ ====
+#SERVICE 1:64:92:0:0:0:0:0:0:0::=== ★★SEXY_CLIPS | EROTIC★★ ====
 #DESCRIPTION === ★★SEXY_CLIPS | EROTIC★★ ====
 #SERVICE 4097:0:1:244:0:0:0:0:0:0:http%3a//zazax1.ru/video/barto.mp4:barto
 #DESCRIPTION barto
@@ -1439,7 +1439,7 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
+#SERVICE 1:64:93:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #DESCRIPTION === ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/movies/xrated/xrayted_ep01_st1-2.mp4:xrayted_ep01_st1-2
 #DESCRIPTION xrayted_ep01_st1-2
@@ -1839,169 +1839,11 @@
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_hd.mp4
 #SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/Bouncing_boobs/Bouncing_boobs_Window_Lovers_2037_sd.mp4:Bouncing_boobs_Window_Lovers_2037_sd.mp4
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_sd.mp4
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::LIVE-WEB-HEPSI FARKLI SAATTE ACILIR
+#SERVICE 1:64:94:0:0:0:0:0:0:0::LIVE-WEB-HEPSI FARKLI SAATTE ACILIR
 #DESCRIPTION LIVE-WEB-HEPSI FARKLI SAATTE ACILIR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge182.stream.highwebmedia.com/live-hls/amlst%3athreefundivas-sd-825124f85fd96155633545b1c632c207f3f4323716708d7879f60353f6148124_trns_h264/playlist.m3u8:Threefundivas's
-#DESCRIPTION Threefundivas's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge33.stream.highwebmedia.com/live-hls/amlst%3akirsten_xxx-sd-ce4afb25c405dc042d593f457d8394b522748b28050d4578b60d91207fb1225c_trns_h264/playlist.m3u8:Kirsten_xxx's
-#DESCRIPTION Kirsten_xxx's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge33.stream.highwebmedia.com/live-hls/amlst%3ainto_thevoid-sd-36c503fffc7b6d876fc76d686516952c5bd5985856206b4ae484c6be2b04441f_trns_h264/playlist.m3u8:Sadie-Into_thevoid's
-#DESCRIPTION Sadie-Into_thevoid's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge185.stream.highwebmedia.com/live-hls/amlst%3akarrin-sd-5c0ffd6d0677a5002fa53bd193ba08a63aee0fa93afb67162025168eeadc29cb_trns_h264/playlist.m3u8:Karrin's
-#DESCRIPTION Karrin's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge123.stream.highwebmedia.com/live-hls/amlst%3afatmagul_j-sd-735d7dd83810d5fff6ee3fb97902d5efd5805b63c8c1efe9a56f3bfbaef9083c_trns_h264/playlist.m3u8:Fatmagul
-#DESCRIPTION Fatmagul
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge248.stream.highwebmedia.com/live-hls/amlst%3agerman_honey-sd-3bd03ff91e075e4d658180e0ba128f15e3ebe22901ff59a31bd5d536f587eab7_trns_h264/chunklist_w2085186093_b3096000_t64RlBTOjMwLjA=.m3u8:German_honey's
-#DESCRIPTION German_honey's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge55.stream.highwebmedia.com/live-hls/amlst%3avenezolanacute-sd-3efd2801ea73ec42a37edebc8f41f8d14c80967a05f340a61534375fa727c812_trns_h264/chunklist_w368552764_b5128000_t64RlBTOjMwLjA=.m3u8:Venezolanacute's
-#DESCRIPTION Venezolanacute's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge135.stream.highwebmedia.com/live-hls/amlst%3achroniclove-sd-7ad937e28260d61e98dde5f60a63ce645e2dcc956fc848c2591113887897e203_trns_h264/chunklist_w187991709_b13192000_t64RlBTOjMwLjA=.m3u8:Chroniclove's 4k
-#DESCRIPTION Chroniclove's 4k
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge135.stream.highwebmedia.com/live-hls/amlst%3achroniclove-sd-7ad937e28260d61e98dde5f60a63ce645e2dcc956fc848c2591113887897e203_trns_h264/chunklist_w187991709_b5128000_t64RlBTOjMwLjA=.m3u8:Chroniclove's fhd
-#DESCRIPTION Chroniclove's fhd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge242.stream.highwebmedia.com/live-hls/amlst%3amae_malone-sd-f9b4020b4f6071d5334393c61ed4926219053d00e622ebe5e99b02fddcf8e9c2_trns_h264/chunklist_w1192340486_b5128000_t64RlBTOjMwLjA=.m3u8:Mae_malone's
-#DESCRIPTION Mae_malone's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge237.stream.highwebmedia.com/live-hls/amlst%3abimancool-sd-de274269280e0bfda086f830c5fdf111b67f5c2242b57529b1b96ff1630aabe8_trns_h264/chunklist_w1400544443_b3096000_t64RlBTOjMwLjA=.m3u8:Bimancool's
-#DESCRIPTION Bimancool's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge142.stream.highwebmedia.com/live-hls/amlst%3acute00kiara-sd-c1466ca76ea00edb891a71f3ff74171897d0a594ee03b563b19e4d64d1813aa4_trns_h264/chunklist_w239902790_b5128000_t64RlBTOjMwLjA=.m3u8:Cute00kiara's
-#DESCRIPTION Cute00kiara's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge34.stream.highwebmedia.com/live-hls/amlst%3acatty190-sd-e284bf0d405c0e23c8f46e8a919900d47e2ce39d3c8b0fed6aeb0acd9640530a_trns_h264/playlist.m3u8:Catty190's
-#DESCRIPTION Catty190's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge234.stream.highwebmedia.com/live-hls/amlst%3akittycaitlin-sd-3e15dd85b91ba11a16c77641f93b7ac09733b21d613ab280893314d898095cb8_trns_h264/chunklist_w1585833595_b8128000_t64RlBTOjMwLjA=.m3u8:Kittycaitlin's 4k
-#DESCRIPTION Kittycaitlin's 4k
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge239.stream.highwebmedia.com/live-hls/amlst%3akittycaitlin-sd-3e15dd85b91ba11a16c77641f93b7ac09733b21d613ab280893314d898095cb8_trns_h264/chunklist_w221656261_b5128000_t64RlBTOjMwLjA=.m3u8:Kittycaitlin's fhd
-#DESCRIPTION Kittycaitlin's fhd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge121.stream.highwebmedia.com/live-hls/amlst%3adiana_spicy-sd-7e61862ec51eabf4c1315eb75a06e7eff7cce3d86ce5eea9b46679ea79b42619_trns_h264/playlist.m3u8:Diana_spicy's Bio
-#DESCRIPTION Diana_spicy's Bio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge55.stream.highwebmedia.com/live-hls/amlst%3atwerkingbaby-sd-3a49cc50756a94e73f07e3be9407bc7e0fc4d8a3258d86d19587555c21f0d390_trns_h264/chunklist_w1450844688_b3096000_t64RlBTOjMwLjA=.m3u8:Twerkingbaby's
-#DESCRIPTION Twerkingbaby's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge142.stream.highwebmedia.com/live-hls/amlst%3acaylin-sd-1c33af0ec00b50f4ad85bcd3edd409f7ab0208ae3e83605a91c41eeb726f02a6_trns_h264/chunklist_w1558571771_b5128000_t64RlBTOjMwLjA=.m3u8:Caylin's
-#DESCRIPTION Caylin's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge239.stream.highwebmedia.com/live-hls/amlst%3asyriahsage-sd-df17cde1f28b55d4385c59fd579f4c02ab9531953a6273eaadcce52eec39fce1_trns_h264/chunklist_w181726407_b3096000_t64RlBTOjMwLjA=.m3u8:Syriahsage's
-#DESCRIPTION Syriahsage's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge110.stream.highwebmedia.com/live-hls/amlst%3apatrascanu333-sd-d4bccaee5f19d0714373fd0dfd8b708e5f295c105ee68ba17c26d10ab1cd5c11_trns_h264/chunklist_w1777863777_b5128000_t64RlBTOjIzLjk4.m3u8:Patrascanu333
-#DESCRIPTION Patrascanu333
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge138.stream.highwebmedia.com/live-hls/amlst%3adayanna_sweet-sd-b356ebe837c103422216d0b6f8e77045054bba18d3de7c07f4cd41ed635abd64_trns_h264/chunklist_w1691425647_b5128000_t64RlBTOjMwLjA=.m3u8:Dayanna_sweet's
-#DESCRIPTION Dayanna_sweet's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge140.stream.highwebmedia.com/live-hls/amlst%3asweetsexangel-ws-c18b677e6f760b9cd906be7a7f943b0d448853c1cb2672f32102abe66e78b111_trns_h264/chunklist_w761712426_b2196000_t64RlBTOjMwLjA=.m3u8:Sweetsexangel's
-#DESCRIPTION Sweetsexangel's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge231.stream.highwebmedia.com/live-hls/amlst%3adarkemporium-sd-86f382cd5e71d1c4a16c2c229eb6fa881195aba4037115e705901b52460593bc_trns_h264/chunklist_w425292485_b3096000_t64RlBTOjMwLjA=.m3u8:Darkemporium's
-#DESCRIPTION Darkemporium's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge234.stream.highwebmedia.com/live-hls/amlst%3ajessiccaburns-sd-6e831ab56b38cccc423bd5333e3e58ff1392b52bac1ffb0418373195c8c1b694_trns_h264/chunklist_w2091782711_b3096000_t64RlBTOjMwLjA=.m3u8:Jessiccaburns's
-#DESCRIPTION Jessiccaburns's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge114.stream.highwebmedia.com/live-hls/amlst%3amoniqueeass-sd-f432854ebdb3e9008eb63df2e5cb496bee747212b95c609ca002311f26ed8364_trns_h264/chunklist_w1775695552_b5128000_t64RlBTOjMwLjA=.m3u8:Moniqueeass's
-#DESCRIPTION Moniqueeass's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge115.stream.highwebmedia.com/live-hls/amlst%3akoramarina-sd-62560bab3abbaa783c7ddba686c650425d000eb012b06171226d9026b4e5409e_trns_h264/chunklist_w163100357_b2196000_t64RlBTOjMwLjA=.m3u8:Koramarina's
-#DESCRIPTION Koramarina's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge139.stream.highwebmedia.com/live-hls/amlst%3aannajelly-sd-c857de8e4aacb284e199b0910c2e192e612d53f3d47250e16c714912fafd24fc_trns_h264/chunklist_w298816530_b5128000_t64RlBTOjMwLjA=.m3u8:Annajelly's
-#DESCRIPTION Annajelly's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge244.stream.highwebmedia.com/live-hls/amlst%3afallingangel_-sd-0c045c06d02714937803f333a94a609e7cce984950dc46359d55c228244cd21c_trns_h264/chunklist_w13702460_b5128000_t64RlBTOjMwLjA=.m3u8:Fallingangel_'s
-#DESCRIPTION Fallingangel_'s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge244.stream.highwebmedia.com/live-hls/amlst%3afallingangel_-sd-0c045c06d02714937803f333a94a609e7cce984950dc46359d55c228244cd21c_trns_h264/chunklist_w13702460_b8128000_t64RlBTOjMwLjA=.m3u8:Fallingangel_'s 4k
-#DESCRIPTION Fallingangel_'s 4k
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge151.stream.highwebmedia.com/live-hls/amlst%3aloonyguitar-sd-5d61607a8510e0e933023b5117d04158e7fc8f4271d4204db1b5e6898398294b_trns_h264/chunklist_w965290203_b1308000_t64RlBTOjMwLjA=.m3u8:Loonyguitar's
-#DESCRIPTION Loonyguitar's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge55.stream.highwebmedia.com/live-hls/amlst%3aseductive__girl-sd-1fa98fe69624d7696e10d60d6da6235c367f58448e11b8fbc785976488358fab_trns_h264/chunklist_w1237455293_b1308000_t64RlBTOjMwLjA=.m3u8:Seductive__girl's
-#DESCRIPTION Seductive__girl's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge133.stream.highwebmedia.com/live-hls/amlst%3asofi_vegas-ws-1ca4a73e983299c75281521a199cbc566ca6102a6410738b128eb4bf0bbe1d16_trns_h264/chunklist_w730232743_b2196000_t64RlBTOjMwLjA=.m3u8:Sofi_vegas's
-#DESCRIPTION Sofi_vegas's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge148.stream.highwebmedia.com/live-hls/amlst%3aramonatorres_-sd-7e9e360b4dd1cc40b959430fb9e28d3bea478ec493d62252c43bc2d8ea48183b_trns_h264/chunklist_w100013804_b3096000_t64RlBTOjMwLjA=.m3u8:Ramonatorres_'s
-#DESCRIPTION Ramonatorres_'s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge142.stream.highwebmedia.com/live-hls/amlst%3asignatureee-sd-bf5eb5107eb0a9b83ac991d7df2150017d813d52d606f9f79a1fa1cba3bdc5eb_trns_h264/chunklist_w559156446_b5128000_t64RlBTOjMwLjA=.m3u8:Signatureee's
-#DESCRIPTION Signatureee's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge227.stream.highwebmedia.com/live-hls/amlst%3akewtkrystal-sd-06d31484236f43d4e14941505a4b1763adaa007a9f07f34d8ba57254835ac846_trns_h264/chunklist_w620326639_b818000_t64RlBTOjMwLjA=.m3u8:hairy-Kewtkrystal's
-#DESCRIPTION hairy-Kewtkrystal's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge142.stream.highwebmedia.com/live-hls/amlst%3acandymini-sd-b30d4f57bf0a4d21425e6b5d1d40342a20bb27f9f8d823965f2d0998cc7b3eb7_trns_h264/chunklist_w734005775_b5128000_t64RlBTOjMwLjA=.m3u8:Candymini's
-#DESCRIPTION Candymini's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge184.stream.highwebmedia.com/live-hls/amlst%3aflymybutterfly-sd-0bbe7ea557f38423e3ae0e8469f88cfae70498f1fa0234a3fb7f271fc7811fec_trns_h264/playlist.m3u8:Flymybutterfly's
-#DESCRIPTION Flymybutterfly's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge138.stream.highwebmedia.com/live-hls/amlst%3abudfairy-sd-ffd3527eda134548ade5307b694113c88fb9745ffbd79772a9625760b7ca600f_trns_h264/chunklist_w1671536989_b1148000_t64RlBTOjMwLjA=.m3u8:Budfairy's
-#DESCRIPTION Budfairy's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge34.stream.highwebmedia.com/live-hls/amlst%3afuckinhotcouple-sd-f163d1557283c009eb6ec514ac61c26e2616d7f4d5ddc004792d3f4a1a648a62_trns_h264/playlist.m3u8:Fuckinhotcouple's
-#DESCRIPTION Fuckinhotcouple's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge124.stream.highwebmedia.com/live-hls/amlst%3aholydumplings-sd-9719825386f1e877f791f23e7834ab4fde28354184df4fb33ab6c5d12b2a1ab4_trns_h264/playlist.m3u8:Holydumplings's Bio
-#DESCRIPTION Holydumplings's Bio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge35.stream.highwebmedia.com/live-hls/amlst%3ahornypuca-sd-9e5543db80da0cf58d8a4a7fdf13e812d233856a6167e7959e79257aa7e6c613_trns_h264/playlist.m3u8:Hornypuca's Bio
-#DESCRIPTION Hornypuca's Bio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge39.stream.highwebmedia.com/live-hls/amlst%3ahotblondyx-sd-bd0a85dc05744537fb1dbfc482f0b56100f23e76f345875d7677a9bcee673a65_trns_h264/playlist.m3u8:Hotblondyx's
-#DESCRIPTION Hotblondyx's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge188.stream.highwebmedia.com/live-hls/amlst%3ahotfallingdevil-ws-b59d0cb48100588b73030b17dda2a9507996f6826d623ed73d5515415f184fa6_trns_h264/playlist.m3u8:Hotfallingdevil's
-#DESCRIPTION Hotfallingdevil's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge206.stream.highwebmedia.com/live-hls/amlst%3ajennygriffin-sd-85b413eb0d0a02c7e8d2015a9bd8d6f62dcbb6aacd7afe3356bbd48697934dfe_trns_h264/playlist.m3u8:Jennygriffin's
-#DESCRIPTION Jennygriffin's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge120.stream.highwebmedia.com/live-hls/amlst%3ajennylove52-sd-6c94b37b9cd08470e2eb43396319dde8220f230b89c8f9d9eb0d1eaac7146b5e_trns_h264/playlist.m3u8:Jennylove52's
-#DESCRIPTION Jennylove52's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge117.stream.highwebmedia.com/live-hls/amlst%3aokay_google-sd-827d4b8df47737a318d297c6abf35a093bf406669c9ba6ea10fb0d6b953fe82e_trns_h264/playlist.m3u8:Jenny Okay_google's
-#DESCRIPTION Jenny Okay_google's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge119.stream.highwebmedia.com/live-hls/amlst%3ajoanna_jones-sd-d4ff6ddae0febf8e898e962b409f6cb3ae5dbf82686b616513bded81c4b57da0_trns_h264/playlist.m3u8:Joanna_jones
-#DESCRIPTION Joanna_jones
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge206.stream.highwebmedia.com/live-hls/amlst%3akaty_angel-sd-2c1274192334bfc8622903f3e2951d1543a53d726c071ed300a4f499a67757f2_trns_h264/playlist.m3u8:Katy_angel's
-#DESCRIPTION Katy_angel's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge35.stream.highwebmedia.com/live-hls/amlst%3aketrin_new-sd-9c0114fb8a7291ace5444cc5b40d44b7c83dff33854d4b9d59aa4c3889c3d0ec_trns_h264/playlist.m3u8:Ketrin_new's Bio
-#DESCRIPTION Ketrin_new's Bio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge123.stream.highwebmedia.com/live-hls/amlst%3aladymwc-ws-7e5cf3fbc4c996a8ab2a31385fd62e7adbdfb931331f85533ee5994630428166_trns_h264/playlist.m3u8:Ladymwc's
-#DESCRIPTION Ladymwc's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge189.stream.highwebmedia.com/live-hls/amlst%3aleks_nemikia-sd-b2f6a661f4964d69ff3fcbc20f22555e778e143f6664d6a475342860665690e9_trns_h264/playlist.m3u8:Leks_nemikia's
-#DESCRIPTION Leks_nemikia's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge187.stream.highwebmedia.com/live-hls/amlst%3alettali-sd-8ae8e1ca44290869735eb3f4460ff8a8d85267968197ad66df52ca2b76c15242_trns_h264/playlist.m3u8:Lettali's Bio
-#DESCRIPTION Lettali's Bio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge39.stream.highwebmedia.com/live-hls/amlst%3alittlepinkald-sd-2e6d1c335da18461ee7d78f36e2e93ec0fabe5e623ab568dcf0602c0f1754542_trns_h264/playlist.m3u8:Littlepinkald's
-#DESCRIPTION Littlepinkald's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge206.stream.highwebmedia.com/live-hls/amlst%3alizthewebcamlife-ws-8c4f1985241a6a3cad5ba2b108fbd480d3c1ab311baa75268c6235a607e0a7c1_trns_h264/playlist.m3u8:Lizthewebcamlife
-#DESCRIPTION Lizthewebcamlife
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge76.stream.highwebmedia.com/live-hls/amlst%3alucid_dream_-sd-ab173175c8f08f0270d4654b0265246ebaea462e47572ad183ae66819cf4a29a_trns_h264/playlist.m3u8:Lucid_dream_'s
-#DESCRIPTION Lucid_dream_'s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge32.stream.highwebmedia.com/live-hls/amlst%3a_mari_-sd-99624eda8ac3ada0ae0c7d77c0f27f1dad55f24ce8e4ed873b5f3f2184291890_trns_h264/playlist.m3u8:mari_'s Bio
-#DESCRIPTION mari_'s Bio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge78.stream.highwebmedia.com/live-hls/amlst%3amaryjanestillhere-sd-3f1e3077d4d280dc82e5fcec34dcf27c1490078ac90d80bae6c8162c712422f2_trns_h264/playlist.m3u8:Mary janes till here's
-#DESCRIPTION Mary janes till here's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge36.stream.highwebmedia.com/live-hls/amlst%3amia_and_sammy-sd-e5a10b47833be634796474f79a0d6f1444ca32e08804f79585ca0b0859b5d771_trns_h264/playlist.m3u8:Mia_and_sammy's
-#DESCRIPTION Mia_and_sammy's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge209.stream.highwebmedia.com/live-hls/amlst%3amia_garrison-ws-88697a961441f65534a96f64eb9d5d594dfb5a77ac87cf06ae365c97376c0bbf_trns_h264/playlist.m3u8:Mia_garrison's Bio
-#DESCRIPTION Mia_garrison's Bio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge183.stream.highwebmedia.com/live-hls/amlst%3amorgana_star_legs-sd-7d39d8b1afb4e4b821d599ee0e90aef348731245d00cc8987c7e287e46d0c3ac_trns_h264/playlist.m3u8:Morgana_star_legs's
 #DESCRIPTION Morgana_star_legs's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge124.stream.highwebmedia.com/live-hls/amlst%3amurmur_kati-sd-e84c0158644c542214a6395d01763e39ef21df9613f54d446b04b3618e7141cf_trns_h264/playlist.m3u8:Murmur_kati's
-#DESCRIPTION Murmur_kati's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge189.stream.highwebmedia.com/live-hls/amlst%3anaughty__goddess-sd-8995d59b10e62086daf86e5a910dd83552be949edf0d305ed175ca0dbe01e5b8_trns_h264/playlist.m3u8:Naughty__goddess's
-#DESCRIPTION Naughty__goddess's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge70.stream.highwebmedia.com/live-hls/amlst%3apixiepixelized-sd-018e593c1aa7391519e883cd5a5b833367bc768353c281588c29e385e4f394db_trns_h264/playlist.m3u8:Pixiepixelized's
-#DESCRIPTION Pixiepixelized's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge32.stream.highwebmedia.com/live-hls/amlst%3abbnymphokitty-sd-fdfdaeb73ba02c8d0f8851d2e891e02e866b0009dce5113bac71c427e532c490_trns_h264/playlist.m3u8:Princess Nympho Kitty
-#DESCRIPTION Princess Nympho Kitty
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge179.stream.highwebmedia.com/live-hls/amlst%3aramonatorres_-sd-c77e44d543a3e09f44bf40bd3b42d9fe9b19ace67410587cdfbcf693dce965be_trns_h264/playlist.m3u8:Ramona torres_'s
-#DESCRIPTION Ramona torres_'s
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge79.stream.highwebmedia.com/live-hls/amlst%3asarajaypolly-sd-466cfce78cb6b835309cce9ac66ff3918e9949bb14acaf30dea1009fa13f296e_trns_h264/playlist.m3u8:Sarajaypolly's Bio
-#DESCRIPTION Sarajaypolly's Bio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge121.stream.highwebmedia.com/live-hls/amlst%3a_sashagray_-sd-fa459baef4cfe89603e32d6beb98a7e893c6bf3c1433897680bc19b45bb00bd3_trns_h264/playlist.m3u8:sashagray_'s Bio
-#DESCRIPTION sashagray_'s Bio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge71.stream.highwebmedia.com/live-hls/amlst%3asellapink-sd-dccfa729417039d81d7b3b28995af8a81a5a37a209e2c764d5ea0eceb571f9f0_trns_h264/playlist.m3u8:Sellapink's
-#DESCRIPTION Sellapink's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge121.stream.highwebmedia.com/live-hls/amlst%3asexyalice1997-sd-3871cc22ad273ad8d800a1ed5cfe2297a6c5d5c5d25793bf7a437b41860ff651_trns_h264/playlist.m3u8:Sexyalice1997's
-#DESCRIPTION Sexyalice1997's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge121.stream.highwebmedia.com/live-hls/amlst%3ashy_vlrglns-sd-0e10a88084bf327fbc2fd0c0f19bf7f55af2881019b7265ea1df8e6f8d181d11_trns_h264/playlist.m3u8:Shy_vlrglns's
-#DESCRIPTION Shy_vlrglns's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge212.stream.highwebmedia.com/live-hls/amlst%3as_o_p_h_i_a-sd-5bb95ff1d57cfaeb7768a82544d8ea3cfe58f798720d65ad94cc2682bc27fc80_trns_h264/playlist.m3u8:S_o_p_h_i_a's
-#DESCRIPTION S_o_p_h_i_a's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge125.stream.highwebmedia.com/live-hls/amlst%3asveta1211-sd-50fa6507428b56bb92de6b7fa019a6d355611c88fb2e1a4f4253d12361247a4f_trns_h264/playlist.m3u8:Sveta1211's
-#DESCRIPTION Sveta1211's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge75.stream.highwebmedia.com/live-hls/amlst%3asweet_twins25-sd-2d881b6d725225d57f148eb1dfa98b100f593d9bd34afaa5763cfc0ac841b6e3_trns_h264/playlist.m3u8:Sweet Twins
-#DESCRIPTION Sweet Twins
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge121.stream.highwebmedia.com/live-hls/amlst%3asweetiejenny-sd-856fba3c0598a96e5603993deffc08ccedc6be3350b0011c1ea672b3e7de862b_trns_h264/playlist.m3u8:Sweetiejenny's
-#DESCRIPTION Sweetiejenny's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge182.stream.highwebmedia.com/live-hls/amlst%3asweet_ary-sd-af6a10c1690b514cca612e1d36c3b6590f1823eb9533311f88c2ee8d796ef56d_trns_h264/playlist.m3u8:Sweet_ary's
-#DESCRIPTION Sweet_ary's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge188.stream.highwebmedia.com/live-hls/amlst%3avany_love-ws-3bbfa72aed941c2e6b84c67ab8774c446388be04abf7262a0193d7ef0fddf603_trns_h264/playlist.m3u8:Vany_love's
-#DESCRIPTION Vany_love's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge189.stream.highwebmedia.com/live-hls/amlst%3avero_kek-sd-9f8cb1e3677ee5f5a135182fab97e8d420faac53c6dab49e83c1dab2fd4771ab_trns_h264/playlist.m3u8:Vero_kek's
-#DESCRIPTION Vero_kek's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge180.stream.highwebmedia.com/live-hls/amlst%3abubblekush7-sd-dbf94d4e0b12351f04b8baa92e3b256ca710e85c8abde950a75faae23ea1aef0_trns_h264/playlist.m3u8:Victoriadainty's Bio
-#DESCRIPTION Victoriadainty's Bio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge189.stream.highwebmedia.com/live-hls/amlst%3avikikinkygirl-sd-1542093b9262e6d3a27a5dde02da7d11c426755555b9cb083c38c8cf7ede530c_trns_h264/playlist.m3u8:Vikikinkygirl's
-#DESCRIPTION Vikikinkygirl's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge125.stream.highwebmedia.com/live-hls/amlst%3avsangel666-sd-9dfb3c6228cb361d039f63351e7df7cd2983b8f40cc054d42d66552813600cef_trns_h264/playlist.m3u8:Vsangel666's
-#DESCRIPTION Vsangel666's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge76.stream.highwebmedia.com/live-hls/amlst%3ayourmidnightcoffee-sd-5edb232bf7dbca8ad665f581d34dd0ccda771b243d47cd8ade743f10179b80e8_trns_h264/playlist.m3u8:Yourmidnightcoffee's Bio
 #DESCRIPTION Yourmidnightcoffee's Bio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge74.stream.highwebmedia.com/live-hls/amlst%3awearehottest-sd-6fd384c7068793e566ec89e219ba98fae26221c30a1f89ad416a9a264407e028_trns_h264/playlist.m3u8:Wearehottest's
-#DESCRIPTION Wearehottest's
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge182.stream.highwebmedia.com/live-hls/amlst%3athreefundivas-sd-825124f85fd96155633545b1c632c207f3f4323716708d7879f60353f6148124_trns_h264/playlist.m3u8:Threefundivas's
+#DESCRIPTION Threefundivas's

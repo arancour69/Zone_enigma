@@ -131,10 +131,6 @@
 #DESCRIPTION D MAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1.rtmp.org/tv117/yayin.stream/playlist.m3u8:Fortuna TV
 #DESCRIPTION Fortuna TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/ezcdn_Rlb6Y0obFxgx/Rlb6Y0obFxgx_1/chunklist.m3u8:HABER GLOBAL
-#DESCRIPTION HABER GLOBAL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8:KANAL D (1)
-#DESCRIPTION KANAL D (1)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8:KANAL D (2)
 #DESCRIPTION KANAL D (2)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8:KANAL D (3)
@@ -143,8 +139,6 @@
 #DESCRIPTION KRAL arabesk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV
 #DESCRIPTION NTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/showmax/smil%3ashowmax.smil/chunklist_b1264000.m3u8:SHOW MAX
-#DESCRIPTION SHOW MAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst%3alive-25/chunklist_w1011305533_b1200096.m3u8:TGRT HABER
 #DESCRIPTION TGRT HABER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8:TRT 1
@@ -153,8 +147,6 @@
 #DESCRIPTION TEVE 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ucankus-live.cdnnew.com/ucankus/ucankus.m3u8:UCAN KUS TV
 #DESCRIPTION UCAN KUS TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_700_av-p.m3u8:TRT BELGESEL
-#DESCRIPTION TRT BELGESEL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv_576p.m3u8:TAY TV
 #DESCRIPTION TAY TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch001_400/index.m3u8:Altin Asir TV
@@ -169,8 +161,6 @@
 #DESCRIPTION Milliy TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch003_400/index.m3u8:Miras TV
 #DESCRIPTION Miras TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.78.6%3a1935/live/muztv.stream/index.m3u8:MTV az
-#DESCRIPTION MTV az
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_400/index.m3u8:Türkmen Sport
 #DESCRIPTION Türkmen Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch007_400/index.m3u8:TURKMENISTAN
@@ -181,8 +171,6 @@
 #DESCRIPTION TURKMEN YASLIK
 #SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms.n1.tvkur.noccdn.com/cdn/55c4522e6c990/playlist.m3u8?wowzasessionid=959095225:ANKARA TV
-#DESCRIPTION ANKARA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza1:Istweb TV HD
 #DESCRIPTION Istweb TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv/dp//istanbul2:Istanbul 2
@@ -307,55 +295,7 @@
 #DESCRIPTION ZIRAAT TV
 #SERVICE 1:64:99:0:0:0:0:0:0:0::SEC IZLE
 #DESCRIPTION SEC IZLE
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::Androturkstream
-#DESCRIPTION Androturkstream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/1239.mp4:ARKA SOKAKLAR (KANALD)
-#DESCRIPTION ARKA SOKAKLAR (KANALD)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/4132.mp4:AVLU (STARTV)
-#DESCRIPTION AVLU (STARTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/1232.mp4:BIR ZAMANLAR CUKUROVA (ATV)
-#DESCRIPTION BIR ZAMANLAR CUKUROVA (ATV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/5494.mp4:BIZIM HIKAYE (FOXTV)
-#DESCRIPTION BIZIM HIKAYE (FOXTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/5487.mkv:CARPISMA (SHOW TV)
-#DESCRIPTION CARPISMA (SHOW TV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/1710.mkv:COCUKLAR DUYMASIN (KANALD)
-#DESCRIPTION COCUKLAR DUYMASIN (KANALD)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/2599.mp4:Cok Guzel Hareketler Bunlar 2 BL01
-#DESCRIPTION Cok Guzel Hareketler Bunlar 2 BL01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/3407.mp4:CUKUR (SHOWTV)
-#DESCRIPTION CUKUR (SHOWTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/1236.mkv:DIRILIS ERTUGRUL (TRT1)
-#DESCRIPTION DIRILIS ERTUGRUL (TRT1)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/5363.mp4:ELIMI BIRAKMA (TRT1)
-#DESCRIPTION ELIMI BIRAKMA (TRT1)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/1250.mp4:ESKIYA DUNYAYA HUKUMDAR OLMAZ (ATV)
-#DESCRIPTION ESKIYA DUNYAYA HUKUMDAR OLMAZ (ATV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/3248.mp4:GULPERI (SHOWTV)
-#DESCRIPTION GULPERI (SHOWTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/3243.mp4:IKIZLER MEMO-CAN (KANALD)
-#DESCRIPTION IKIZLER MEMO-CAN (KANALD)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/1847.mp4:ISTANBULLU GELIN (STARTV)
-#DESCRIPTION ISTANBULLU GELIN (STARTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/1763.mkv:JET SOSYETE (TV8)
-#DESCRIPTION JET SOSYETE (TV8)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/1833.mp4:KARDES COCUKLARI (STARTV)
-#DESCRIPTION KARDES COCUKLARI (STARTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/1993.mp4:KALK GIDELIM (TRT1)
-#DESCRIPTION KALK GIDELIM (TRT1)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/3220.mp4:KIZIM (TV8)
-#DESCRIPTION KIZIM (TV8)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/1249.mkv:PAYITAHT ABDÜLHAMIT (TRT1)
-#DESCRIPTION PAYITAHT ABDÜLHAMIT (TRT1)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/2597.mp4:SAVASCI (FOXTV)
-#DESCRIPTION SAVASCI (FOXTV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/4119.mp4:SEN ANLAT KARADENIZ (ATV)
-#DESCRIPTION SEN ANLAT KARADENIZ (ATV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/2596.mp4:SÖZ (STAR TV)
-#DESCRIPTION SÖZ (STAR TV)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//androturkstreamingserver.co%3a8000/movie/denizli20dizi/HnwuH892Nwub/1256.mp4:VUSLAT (TRT1)
-#DESCRIPTION VUSLAT (TRT1)
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::podsync.net_TURK FILMLERI
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::podsync.net_TURK FILMLERI
 #DESCRIPTION podsync.net_TURK FILMLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//podsync.net/download/16Q6tPfGG/okdVfV-MLxQ.mp4:3 ARKADAS
 #DESCRIPTION 3 ARKADAS
@@ -557,7 +497,7 @@
 #DESCRIPTION ZEHRA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//podsync.net/download/HgcKa_LGG/ran2AD99vaA.mp4:ZOR ADAM - TüRK FILMI
 #DESCRIPTION ZOR ADAM - TüRK FILMI
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::rsc.cdn77.org_TURK FILMLERI
+#SERVICE 1:64:9B:0:0:0:0:0:0:0::rsc.cdn77.org_TURK FILMLERI
 #DESCRIPTION rsc.cdn77.org_TURK FILMLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1290922571.rsc.cdn77.org/movies/72-Kogus-2011.mp4/playlist.m3u8:72 Kogus
 #DESCRIPTION 72 Kogus
@@ -1101,7 +1041,7 @@
 #DESCRIPTION Yusuf Yusuf
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1290922571.rsc.cdn77.org/movies/Yuz-Numarali-Adam.mp4/playlist.m3u8:Yuz Numarali Adam
 #DESCRIPTION Yuz Numarali Adam
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::ANIMASYON_TR DIL
+#SERVICE 1:64:9C:0:0:0:0:0:0:0::ANIMASYON_TR DIL
 #DESCRIPTION ANIMASYON_TR DIL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.70.13.195/movie/ANIMASYOON/a_storks_journey.avi:a_storks_journey
 #DESCRIPTION a_storks_journey
@@ -1387,7 +1327,7 @@
 #DESCRIPTION Yuruyen Sato
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1290922571.rsc.cdn77.org/moviesnew/tr/animation/Oyuncak-Hikayesi-Zamanla-Unutulanlar.mp4/playlist.m3u8:Zamanin Unuttugu Oyuncak Hikayesi
 #DESCRIPTION Zamanin Unuttugu Oyuncak Hikayesi
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::rsc.cdn77.org_TR DIL YABANCI FILMLER
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::rsc.cdn77.org_TR DIL YABANCI FILMLER
 #DESCRIPTION rsc.cdn77.org_TR DIL YABANCI FILMLER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1290922571.rsc.cdn77.org/vod1/movies/tr/action/spectre007jamesbond.mp4/playlist.m3u8:007 James Bond Spectre
 #DESCRIPTION 007 James Bond Spectre
@@ -1955,7 +1895,7 @@
 #DESCRIPTION Zorlu Ikili
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1290922571.rsc.cdn77.org/movies/Zubuk.mp4/playlist.m3u8:Zubuk
 #DESCRIPTION Zubuk
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::cdn13.vcdvideo.com
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::cdn13.vcdvideo.com
 #DESCRIPTION cdn13.vcdvideo.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn13.vcdvideo.com/71752-tr.mp4?st=Z2pt75IuBbTej3u5uBtSYg&amp;e=1527289519:O-It
 #DESCRIPTION O-It
@@ -1997,7 +1937,7 @@
 #DESCRIPTION 2017
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn11.vcdvideo.com/166.mp4:2017
 #DESCRIPTION 2017
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::moves.sytes
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::moves.sytes
 #DESCRIPTION moves.sytes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//moves.sytes.net%3a8789/movie/Novies/TKdnr0k8KU/590.mp4:12 Years a Slave
 #DESCRIPTION 12 Years a Slave
@@ -2695,7 +2635,7 @@
 #DESCRIPTION Yagmurlarda Yikansam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//moves.sytes.net%3a8789/movie/Novies/TKdnr0k8KU/293.mkv:Yasamak Guzel Sey
 #DESCRIPTION Yasamak Guzel Sey
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::cacanta-YABANCI AKSIYON FILMI
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::cacanta-YABANCI AKSIYON FILMI
 #DESCRIPTION cacanta-YABANCI AKSIYON FILMI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cacanta.sytes.net%3a4830/movie/GermanMovies/D4rmHIfjr3/175.mkv:12 Runden
 #DESCRIPTION 12 Runden
@@ -3353,7 +3293,7 @@
 #DESCRIPTION Zugelassen - Gib die Liebe eine Chance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cacanta.sytes.net%3a4830/movie/GermanMovies/D4rmHIfjr3/217.mkv:Zwischen Zwei Leben
 #DESCRIPTION Zwischen Zwei Leben
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::SERIES_151.80.100.155
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::SERIES_151.80.100.155
 #DESCRIPTION SERIES_151.80.100.155
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/983.avi:s13 vikings S04E20 FINAL
 #DESCRIPTION s13 vikings S04E20 FINAL
@@ -4897,7 +4837,7 @@
 #DESCRIPTION s13 Viking S04E18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/982.avi:s13 Viking S04E19
 #DESCRIPTION s13 Viking S04E19
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::sv1.brothersvod
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::sv1.brothersvod
 #DESCRIPTION sv1.brothersvod
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sv1.brothersvod.com%3a80/movie/diamante/05112018/7339.mp4:007: Cassino Royale (2006)
 #DESCRIPTION 007: Cassino Royale (2006)
@@ -22571,7 +22511,7 @@
 #DESCRIPTION Dragon Ball Super S01 E49
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sv1.brothersvod.com%3a80/series/diamante/05112018/20256.mp4:Dragon Ball Super S01 E50
 #DESCRIPTION Dragon Ball Super S01 E50
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::zaptuga
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::zaptuga
 #DESCRIPTION zaptuga
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zaptuga.dynu.com%3a12500/movie/mmcjwqokdl/ndkwichwlc/1845.mp4:18 The Story of MrBean DVDRip XviD
 #DESCRIPTION 18 The Story of MrBean DVDRip XviD
@@ -23717,7 +23657,7 @@
 #DESCRIPTION 13.Reasons.Why.S01E02
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zaptuga.dynu.com%3a12500/movie/mmcjwqokdl/ndkwichwlc/658.mp4:13.Reasons.Why.S01E01
 #DESCRIPTION 13.Reasons.Why.S01E01
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::wohuogai-FILM_1-SALON-VOD
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::wohuogai-FILM_1-SALON-VOD
 #DESCRIPTION wohuogai-FILM_1-SALON-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a58000/movie/vOd_IptV.PaRA...tooDS-..--/WKb3mCzjcJ/11727.mp4:1922 STEPHEN KING
 #DESCRIPTION 1922 STEPHEN KING
@@ -24591,7 +24531,7 @@
 #DESCRIPTION Zoolander 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a58000/movie/vOd_IptV.PaRA...tooDS-..--/WKb3mCzjcJ/1661.mkv:Zootopia
 #DESCRIPTION Zootopia
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::FILM_2-SALON-VOD
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::FILM_2-SALON-VOD
 #DESCRIPTION FILM_2-SALON-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4?STANIPTV:8mm - Oito Milimetros
 #DESCRIPTION 8mm - Oito Milimetros
@@ -25425,7 +25365,7 @@
 #DESCRIPTION Yearmix2015
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/zonafria:ZONA FRIA
 #DESCRIPTION ZONA FRIA
-#SERVICE 1:64:A7:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
+#SERVICE 1:64:A6:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/E6p0wL9k/index.m3u8:Becerikli Mandarin Bölüm 01
 #DESCRIPTION Becerikli Mandarin Bölüm 01
