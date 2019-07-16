@@ -1,5 +1,7 @@
 <xml>
-<plugins cont="TSpanel">
+<plugins cont="TSpanel"></plugin>
+<plugin name='turkvod_10.01'>
+<url>https://github.com/PrivateTr/Zone_enigma/raw/master/enigma2-plugin-extensions-turkvod_10.01_mips32el.ipk</url>
 <plugin name='speedtest.py'>
 <url>https://github.com/PrivateTr/Zone_enigma/raw/master/speedtest.py</url>
 <plugin name='Installer.sh-b'>
