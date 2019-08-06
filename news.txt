@@ -1,12 +1,12 @@
        *☪️ ®ReMy EnigmaTurk TeaM ☪️*
+             ***★★07.08.2019★★***
+*ReMy_SATELLITE_ChannelList UPDATE* 
              ***★★03.08.2019★★***
               *FuLLKeyS UPDATE*	
              ***★★15.07.2019★★***
 *OpenATV_SoftCamPANEL_V2.0 & ReMy_SoftCamAPP_V2.1 UPDATE* 
              ***★★29.06.2019★★***
 *IPTV_ChannelList UPDATE*
-             ***★★03.07.2019★★***
-*ReMy_SATELLITE_ChannelList UPDATE* 
 	         *★★07.05.2019★★*
 *FreeCccam Plugini UPDATE*
              *★★15.05.2018★★*
@@ -17,3 +17,5 @@
 ____________________________________________________
               ®ReMy EnigmaTurk TeaM		
 MAİL:enigma2_teknik_servis@hotmail.com
+protocol=cccam
+enable=0
