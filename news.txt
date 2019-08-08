@@ -18,5 +18,3 @@
 ____________________________________________________
               ®ReMy EnigmaTurk TeaM		
 MAİL:enigma2_teknik_servis@hotmail.com
-protocol=cccam
-enable=0
