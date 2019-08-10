@@ -13,8 +13,10 @@
 #DESCRIPTION TRT Spor HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
 #DESCRIPTION TJK TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.46.127.146%3a8080/SetantaSportPlus/index.m3u8:SetantaSportPlus
-#DESCRIPTION SetantaSportPlus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Football Channel
+#DESCRIPTION Football Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/index.m3u8:Setanta Sport
+#DESCRIPTION Setanta Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8:SUPER SOCCER TV
 #DESCRIPTION SUPER SOCCER TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist_b2000000.m3u8:Dubai Sports 4 HD
@@ -749,28 +751,16 @@
 #DESCRIPTION GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv3.streampulse.eu%3a1935/tilesport/movie2/playlist.m3u8:ART GREECE
 #DESCRIPTION ART GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-htvcapital-hsslive-25f-4x3-SDh/chunklist.m3u8:Capital GREECE
-#DESCRIPTION Capital GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8:ERT WORLD GREECE
-#DESCRIPTION ERT WORLD GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-mega-hsslive-25f-4x3-SDh/chunklist.m3u8:OMEGA GREECE
-#DESCRIPTION OMEGA GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-plus_tv-hsslive-25f-4x3-SDh/chunklist.m3u8:PLUS GREECE
-#DESCRIPTION PLUS GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//l3.cloudskep.com/cybcsat/abr/playlist.m3u8:cybcsat GREECE
 #DESCRIPTION cybcsat GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//master.cystreams.com%3a25461/live/faros/farostv/1866.m3u8:FAROS on Air GREECE
 #DESCRIPTION FAROS on Air GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.21.47.74/hls/live.m3u8:SIGMA GREECE
 #DESCRIPTION SIGMA GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/hightv/hightv/playlist.m3u8:HIGH TV GREECE
-#DESCRIPTION HIGH TV GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.ioniantv.gr%3a8081/ionian/live/playlist.m3u8:IONIAN CHANNEL GREECE
 #DESCRIPTION IONIAN CHANNEL GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flashcloud.mediacdn.com/live/kontratv/.m3u8:Kontra GREECE
 #DESCRIPTION Kontra GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-vouli-hsslive-25f-4x3-SDh/chunklist.m3u8:VOULI TV GREECE
-#DESCRIPTION VOULI TV GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS.m3u8:EBS GREECE
 #DESCRIPTION EBS GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8:EBS PLUS GREECE
@@ -779,52 +769,28 @@
 #DESCRIPTION DELTA TV GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cretetv.gr%3a1935/cretetv/myStream/playlist.m3u8:KRHTH TV GREECE
 #DESCRIPTION KRHTH TV GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/msg116s/msg116s/playlist.m3u8:SYROS TV1 GREECE
-#DESCRIPTION SYROS TV1 GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-nrg-hsslive-25f-4x3-SDh/chunklist.m3u8:ERT2 GREECE
-#DESCRIPTION ERT2 GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cretetv.gr%3a1935/cretetv/myStream/f1tv.m3u8:KRHTH TV GREECE
+#DESCRIPTION KRHTH TV GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/tvcreta/tvcreta/playlist.m3u8:CretaTV GREECE
 #DESCRIPTION CretaTV GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/tvfilopoli/tvfilopoli/playlist.m3u8:TV FILOPOLI GREECE
 #DESCRIPTION TV FILOPOLI GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cretetv.gr%3a1935/cretetv/myStream/f1tv.m3u8:Crete TV GREECE
-#DESCRIPTION Crete TV GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:mmsh%3a//wpso.com%3a200/kids?MSWMExt=.asf:WZRA Kids GREECE
-#DESCRIPTION WZRA Kids GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.62.176.153/hls/tv100/index.m3u8:TV 100 GREECE
-#DESCRIPTION TV 100 GREECE
 #SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
 #DESCRIPTION === ★★ARABIA | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:Alhurra
 #DESCRIPTION Alhurra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//216.105.40.244/live/rotana_clip/index.m3u8:Rotana_Clip
-#DESCRIPTION Rotana_Clip
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7904:Falastini
-#DESCRIPTION Falastini
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula:Abu Dhabi TV
 #DESCRIPTION Abu Dhabi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama:Abu Dhabi Drama
 #DESCRIPTION Abu Dhabi Drama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//africatv.live.net.sa%3a1935/live/africatv/playlist.m3u8:africatv
 #DESCRIPTION africatv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alaan.cdn.mangomolo.com/alaantv/smil%3aswitch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8:Al Aan
-#DESCRIPTION Al Aan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alaan.cdn.mangomolo.com/alaantv/smil%3aswitch.smil/playlist.m3u8:Alaan TV
-#DESCRIPTION Alaan TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flv2.alarab.com%3a8080/flv/94788.flv:alarab
-#DESCRIPTION alarab
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa:Al Arabiya
 #DESCRIPTION Al Arabiya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.islamexplained.com%3a1935/live/_definst_mp4%3aahme.stream_360p/playlist.m3u8:AL HAYAT
 #DESCRIPTION AL HAYAT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.islamexplained.com%3a1935/live/ngrp%3aahusa.stream_all/playlist.m3u8:AL HAYAT 2
-#DESCRIPTION AL HAYAT 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.islamexplained.com%3a1935/live/ngrp%3aahusa.stream_all/BratuMarian.m3u8:AL HAYAT 2
-#DESCRIPTION AL HAYAT 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:AL HURRA
 #DESCRIPTION AL HURRA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:Alhuraa
-#DESCRIPTION Alhuraa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream02.fasttelco.net/4/pub/asset/28/streams.m3u8:Al Rai
 #DESCRIPTION Al Rai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer11.elementssys.com%3a8080/alrashid/alrashid_1mbps/playlist.m3u8:Al Rasheed
@@ -839,8 +805,6 @@
 #DESCRIPTION BBC Arabic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svbps-sambavideos.akamaized.net/voda/_definst_/amlst%3astg;1685,3851,9207bc6b56e486b2fb21cc0bc60d6676;hidden32np;3WUEA6SURIAH2HUAYUEUL56DPXWM5YH7EIW3KNWUX7FCYL2T4P57JSWRFIM5HEMMGNAH6EZMDOYDFTZW3DJDGHIUJDB2MB5ZVMSNOEKHR7FQ2LVIKFFAT3IHUCPLJT7N2HO34JQWIROOAAGAMBDG7MRDFXUHD7DCZFSCITS4YBFPOMVHIO3D7TFZW33OV2AA2W3EYX2COFALG67R5RZMY4PE3COJ4XRTPWVUKWFQ7LVUD4ZJ2BMRVTA5UTSWWNWZQ3RYZQXYJT7XT3FYFN3G3FRONBNH4UD5RTYA!!!!/chunklist_b381952.m3u8:bcc-samba
 #DESCRIPTION bcc-samba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubaione/smil%3adubaione.smil/playlist.m3u8:dubaione
-#DESCRIPTION dubaione
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione:Dubai One**
 #DESCRIPTION Dubai One**
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv:Dubai TV
@@ -873,14 +837,6 @@
 #DESCRIPTION nat geo AD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adnatgeo/adnatgeo.m3u8:National Geographic
 #DESCRIPTION National Geographic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.148.30%3a1935/live/omantv1/playlist.m3u8:OMAN TV 1
-#DESCRIPTION OMAN TV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.148.30%3a1935/live/omantv3/playlist.m3u8:OMAN TV 3
-#DESCRIPTION OMAN TV 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.148.30%3a1935/live/omantv4/playlist.m3u8:OMAN TV 4
-#DESCRIPTION OMAN TV 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.147.94%3a9250/:Sandzak.rs
-#DESCRIPTION Sandzak.rs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai:Sama Dubai
 #DESCRIPTION Sama Dubai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ns8.indexforce.com%3a1935/alsharqiyalive/mystream/playlist.m3u8:Sharqiya News
@@ -889,28 +845,6 @@
 #DESCRIPTION === ★★REMY | WORLD★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.87.12.197%3a5555/udp/239.255.1.62%3a5004:KINO NOVA
 #DESCRIPTION KINO NOVA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8:Animal Planet HD
-#DESCRIPTION Animal Planet HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8:And TV
-#DESCRIPTION And TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8:B4U MUSIC
-#DESCRIPTION B4U MUSIC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8:B4U MOVIE
-#DESCRIPTION B4U MOVIE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.202.81.107%3a1935/stream/live/playlist.m3u8:BX1
-#DESCRIPTION BX1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8:CBS
-#DESCRIPTION CBS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8:CBC CANADA
-#DESCRIPTION CBC CANADA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8:HBO 2
-#DESCRIPTION HBO 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8:HBO 2
-#DESCRIPTION HBO 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8:NBC
-#DESCRIPTION NBC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8:NBC
-#DESCRIPTION NBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.enetres.net%3a1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8:13 TV
@@ -1819,14 +1753,12 @@
 #DESCRIPTION Hay kino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s23/index.m3u8:Al Jazeera English
 #DESCRIPTION Al Jazeera English
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s24/index.m3u8:BBC
-#DESCRIPTION BBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s25/index.m3u8:France 24
 #DESCRIPTION France 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s26/index.m3u8:Deutsche Welle
 #DESCRIPTION Deutsche Welle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s27/index.m3u8:CNN vk.com/iptv_iptv
-#DESCRIPTION CNN vk.com/iptv_iptv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s27/index.m3u8:CNN
+#DESCRIPTION CNN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s28/index.m3u8:Kukhnya TV
 #DESCRIPTION Kukhnya TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s29/index.m3u8:Indian Cinema
@@ -1853,8 +1785,6 @@
 #DESCRIPTION World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s40/index.m3u8:History
 #DESCRIPTION History
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Football Channel
-#DESCRIPTION Football Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s42/index.m3u8:Jan TV
 #DESCRIPTION Jan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s43/index.m3u8:Chanson TV
@@ -1933,10 +1863,6 @@
 #DESCRIPTION Maestro TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s80/index.m3u8:RTG
 #DESCRIPTION RTG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/index.m3u8:Setanta Sport
-#DESCRIPTION Setanta Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s82/index.m3u8:Setanta Sport Plus
-#DESCRIPTION Setanta Sport Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s83/index.m3u8:U! Premium
 #DESCRIPTION U! Premium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s84/index.m3u8:1TV
@@ -2295,12 +2221,6 @@
 #DESCRIPTION Эхо ТВ 24 (Новоуральск) +2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.ugratv.cdnvideo.ru/ugratv/smil%3augrastream1.smil/chunklist_b7192000.m3u8:Югра ТВ (Ханты-Мансийск) +2
 #DESCRIPTION Югра ТВ (Ханты-Мансийск) +2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8:Юмор ТВ
-#DESCRIPTION Юмор ТВ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//urgan.vintera.tv%3a8081/urgan/urganhd/playlist.m3u8:Юрган ТВ HD (Сыктывкар)
-#DESCRIPTION Юрган ТВ HD (Сыктывкар)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-yamalregion.cdnvideo.ru/yamalregion/yamalregion.sdp/playlist.m3u8:Ямал-Регион (Салехард) +2
-#DESCRIPTION Ямал-Регион (Салехард) +2
 #SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/43.stream/chunklist_w517754220.m3u8:BESİKTAS MEYDANI
