@@ -21,20 +21,12 @@
 #DESCRIPTION KRAL POP PERFORMANS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b2328000.m3u8:KRAL WORLD TV
 #DESCRIPTION KRAL WORLD TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/1HDmusic/index.m3u8:1HD
-#DESCRIPTION 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:1Music HU
 #DESCRIPTION 1Music HU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albmusic.dyndns.tv%3a1935/albuk/albmus.stream/playlist.m3u8:ALB MUSIC HD
 #DESCRIPTION ALB MUSIC HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8:Beatz TV
-#DESCRIPTION Beatz TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8:B4U MUSIC
-#DESCRIPTION B4U MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
 #DESCRIPTION Box Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8:CAPITAL U.S.A
-#DESCRIPTION CAPITAL U.S.A
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8:Capital Radio
 #DESCRIPTION Capital Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:ch au tv
@@ -43,16 +35,14 @@
 #DESCRIPTION City TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8:Chanson TV
 #DESCRIPTION Chanson TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8:CMC USA
-#DESCRIPTION CMC USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net%3a80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8:CMC TV
 #DESCRIPTION CMC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/CompanyTV/_definst_/mp4%3alivestream_720p/playlist.m3u8:Company TV
 #DESCRIPTION Company TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8:CzWORKA
 #DESCRIPTION CzWORKA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:D+ Duga plus rs
-#DESCRIPTION D+ Duga plus rs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8:Deejay TV (IT)
+#DESCRIPTION Deejay TV (IT)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza5.video-streams.nl%3a1935/denhaag/denhaag/playlist.m3u8:DHTV denhaag tv
 #DESCRIPTION DHTV denhaag tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.artcom-venture.de%3a1322/dmf/tv_360.m3u8:DMF
@@ -169,14 +159,6 @@
 #DESCRIPTION messinia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//176.9.123.140%3a1935/messinia/messinia:MESSINIA WEB TV
 #DESCRIPTION MESSINIA WEB TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz HD
-#DESCRIPTION Mooz HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Dance
-#DESCRIPTION Mooz Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Hits
-#DESCRIPTION Mooz Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz RO!
-#DESCRIPTION Mooz RO!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/nasa:Music Box
 #DESCRIPTION Music Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:Music Box UA
@@ -189,40 +171,14 @@
 #DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on:MTV HD
 #DESCRIPTION MTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8114/509:MTV Dance
-#DESCRIPTION MTV Dance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8114/508:MTV Hits
-#DESCRIPTION MTV Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8114/511:MTV Rocks
-#DESCRIPTION MTV Rocks
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10289.m3u8:MTV LIVE HD
-#DESCRIPTION MTV LIVE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8:MuzZone
-#DESCRIPTION MuzZone
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10207.m3u8:MYZ TV
-#DESCRIPTION MYZ TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.nebiset.tv/nebiset.m3u8:Nebiset
-#DESCRIPTION Nebiset
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8:NRJ TV
 #DESCRIPTION NRJ TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.196.138.6%3a1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8:NRJ Hist
-#DESCRIPTION NRJ Hist
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.196.138.6%3a1935/live/nrjbelgique_720p/playlist.m3u8:NRJ Hits HD
-#DESCRIPTION NRJ Hits HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.196.138.6%3a1935/live/nrjbelgique/playlist.m3u8:NRJ Hits TV (Opt-1)
-#DESCRIPTION NRJ Hits TV (Opt-1)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.196.138.6%3a1935/live/nrjbelgique/chunklist_w1339281553.m3u8:NRJ Hits TV (French)
-#DESCRIPTION NRJ Hits TV (French)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.196.138.6%3a1935/live/nrjbelgique_720p/playlist.m3u8:NRJ Hits TV* (French)
-#DESCRIPTION NRJ Hits TV* (French)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8:Ocko
 #DESCRIPTION Ocko
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8:Ocko Expres
 #DESCRIPTION Ocko Expres
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8:Ocko Star
 #DESCRIPTION Ocko Star
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/planetahd/planetahd.m3u8:Planeta HD
-#DESCRIPTION Planeta HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8:Polskie Radio 24 WEB
 #DESCRIPTION Polskie Radio 24 WEB
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.56.17.92%3a1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8:PortalFoxMix Tv
@@ -257,16 +213,8 @@
 #DESCRIPTION ROMAN TV Tr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/rocktv/playlist.m3u8:Rock TV
 #DESCRIPTION Rock TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//216.105.40.244/live/rotana_clip/index.m3u8:Rotana_clip
-#DESCRIPTION Rotana_clip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/playlist.m3u8:RTV Zik
 #DESCRIPTION RTV Zik
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:RTV Zeri
-#DESCRIPTION RTV Zeri
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.148.117.134%3a1935/radios/radiosweb.stream live=1:Sarajevo 1 Tv
-#DESCRIPTION Sarajevo 1 Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.trimi.com.ar%3a80/provincial/streaming/mystream.m3u8:SEÑAL PROVINCIAL
-#DESCRIPTION SEÑAL PROVINCIAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk
 #DESCRIPTION Sky Folk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8:SKY DE Adult Swim
@@ -277,20 +225,10 @@
 #DESCRIPTION Silence TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webmobile.xdev.ro%3a81/tv12/playlist.m3u8:Somax TV
 #DESCRIPTION Somax TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//200.42.92.6%3a1755/qmusica:QUIERO MÚSICA
-#DESCRIPTION QUIERO MÚSICA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/tntmusic/tracks-v1a1/index.m3u8:ТНТ Music
-#DESCRIPTION ТНТ Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvstream.tvtopsound.com%3a1935/live/ngrp%3ampegts.stream_all/playlist.m3u8:TOP SOUND
-#DESCRIPTION TOP SOUND
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8:TRACE Africa
 #DESCRIPTION TRACE Africa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8:TRACE Kitoko
 #DESCRIPTION TRACE Kitoko
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8:TRACE Mziki
-#DESCRIPTION TRACE Mziki
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8:TRACE Naija
-#DESCRIPTION TRACE Naija
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8:TRACE Toca
 #DESCRIPTION TRACE Toca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8:TRACE Tropical
@@ -487,9 +425,9 @@
 #DESCRIPTION GREATEST HITS OF ALL TIME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.171.218%3a8024:Ibiza Global Station
 #DESCRIPTION Ibiza Global Station
