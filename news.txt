@@ -1,15 +1,15 @@
        *☪️ ®ReMy EnigmaTurk TeaM ☪️*
+             ***★★10.08.2019★★***
+*IPTV_ChannelList UPDATE*
+	         *★★09.08.2019★★*
+*FreeCccam Plugini UPDATE*
              ***★★08.08.2019★★***
               *FuLLKeyS UPDATE*	
              ***★★08.08.2019★★***
 *ReMy_SATELLITE_ChannelList UPDATE* 
              ***★★08.08.2019★★***
 *OpenATV_SoftCamPANEL_V2.0 KALDIRILMISTIR REMY SOFTCAM_APP KULLANINIZ* 
-             ***★★08.08.2019★★***
-*IPTV_ChannelList UPDATE*
-	         *★★08.08.2019★★*
-*FreeCccam Plugini UPDATE*
-             *★★08.08.2019★★*
+             *★★09.08.2019★★*
 *ReMyTeaM PLUGINI UPDATE*
 *ReMy_MatrixMod_Backup UPDATE*
 *OPENVPN UPDATE*
@@ -18,3 +18,5 @@
 ____________________________________________________
               ®ReMy EnigmaTurk TeaM		
 MAİL:enigma2_teknik_servis@hotmail.com
+11.04xxx.mp4 
+#EXTINF:0,<http://5.9.13.108:12000/adulti/11.04xxx.mp4>  
