@@ -5,7 +5,7 @@
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:97:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_U L U S A L_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
 #DESCRIPTION TRT1 HD
@@ -109,7 +109,7 @@
 #DESCRIPTION CIZGI FILM 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/06880844-c79e-4b72-a64f-c4ca832e1637/58fa4765-2169-4cd0-ae68-9542b7fa05ee.ism/58fa4765-2169-4cd0-ae68-9542b7fa05ee-audio=131072-video_eng=4225000.m3u8:CIZGI FILM 10
 #DESCRIPTION CIZGI FILM 10
-#SERVICE 1:64:98:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_WEB TV / TURKEY_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8:ATV
 #DESCRIPTION ATV
@@ -169,8 +169,8 @@
 #DESCRIPTION TURKMEN OWAZY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch002_400/index.m3u8:TURKMEN YASLIK
 #DESCRIPTION TURKMEN YASLIK
-#SERVICE 1:64:97:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_S E R V E R1_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
-#DESCRIPTION :::::::::::::::::::::::_S E R V E R1_::::::::::::::
+#SERVICE 1:64:99:0:0:0:0:0:0:0:::::::::::::::::::::::::_S E R V E R1_:::::::::::::
+#DESCRIPTION :::::::::::::::::::::::_S E R V E R1_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.179%3a25461/line/Cqa1A@!21A1awEq/51:24 HABER MOBILE
 #DESCRIPTION 24 HABER MOBILE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.179%3a25461/line/Cqa1A@!21A1awEq/39:A2 HD MOBILE
@@ -253,7 +253,7 @@
 #DESCRIPTION ZAGROS HD MOBILE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.179%3a25461/line/Cqa1A@!21A1awEq/15:ZAROK TV MOBILE
 #DESCRIPTION ZAROK TV MOBILE
-#SERVICE 1:64:99:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_YEREL_/_TURKEY_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:9A:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza1:Istweb TV HD
 #DESCRIPTION Istweb TV HD
@@ -377,9 +377,9 @@
 #DESCRIPTION VUSLAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8:ZIRAAT TV
 #DESCRIPTION ZIRAAT TV
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::SEC IZLE
+#SERVICE 1:64:9B:0:0:0:0:0:0:0::SEC IZLE
 #DESCRIPTION SEC IZLE
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::cdn13.vcdvideo.com
+#SERVICE 1:64:9C:0:0:0:0:0:0:0::cdn13.vcdvideo.com
 #DESCRIPTION cdn13.vcdvideo.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn13.vcdvideo.com/71752-tr.mp4?st=Z2pt75IuBbTej3u5uBtSYg&amp;e=1527289519:O-It
 #DESCRIPTION O-It
@@ -389,7 +389,7 @@
 #DESCRIPTION Jumanji Vahsi Orman
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn11.vcdvideo.com/71758.mp4?st=_mLFDVfAllrn4JgviojCWQ&amp;e=1527350175:Kara Panter (2018)
 #DESCRIPTION Kara Panter (2018)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn11.vcdvideo.com/72101.mp4?st=hW3ktgu9Toml008gbhbBrw&amp;e=1527289763:2017Star Wars%3a The Last Jedi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn11.vcdvideo.com/72101.mp4?st=hW3ktgu9Toml008gbhbBrw&amp;e=1527289763:2017Star Wars: The Last Jedi
 #DESCRIPTION 2017Star Wars: The Last Jedi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn11.vcdvideo.com/72073-tr.mp4?st=Tymd5Sw1_p2Z6oousG9sQg&amp;e=1527289510:2017Blade Runner 2049
 #DESCRIPTION 2017Blade Runner 2049
@@ -421,7 +421,7 @@
 #DESCRIPTION 2017
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn11.vcdvideo.com/166.mp4:2017
 #DESCRIPTION 2017
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::178.132.3.122%3a25461/movies2
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::178.132.3.122:25461/movies2
 #DESCRIPTION 178.132.3.122:25461/movies2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74626.mkv:Si Accettano Miracoli
 #DESCRIPTION Si Accettano Miracoli
@@ -435,7 +435,7 @@
 #DESCRIPTION Bleed Piu Forte Del Destino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67777.mkv:Che Vuoi Che Sia
 #DESCRIPTION Che Vuoi Che Sia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67778.mkv:High-Rise%3a La Rivolta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67778.mkv:High-Rise: La Rivolta
 #DESCRIPTION High-Rise: La Rivolta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67779.mkv:Il Diario Di Bridget Jones
 #DESCRIPTION Il Diario Di Bridget Jones
@@ -901,7 +901,7 @@
 #DESCRIPTION Viaggio Al Centro Della Terra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54456.mkv:Viaggio Nell’Isola Misteriosa
 #DESCRIPTION Viaggio Nell’Isola Misteriosa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54457.mkv:Warcraft%3a L'inizio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54457.mkv:Warcraft: L'inizio
 #DESCRIPTION Warcraft: L'inizio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54458.mkv:Water Horse
 #DESCRIPTION Water Horse
@@ -1041,7 +1041,7 @@
 #DESCRIPTION Into The Storm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54542.mkv:Io Sono Vendetta
 #DESCRIPTION Io Sono Vendetta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54544.mkv:Ip Man%3a The Final Fight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54544.mkv:Ip Man: The Final Fight
 #DESCRIPTION Ip Man: The Final Fight
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54543.mkv:Ip Man
 #DESCRIPTION Ip Man
@@ -1049,7 +1049,7 @@
 #DESCRIPTION Ip Man 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54547.mkv:Ip Man 3
 #DESCRIPTION Ip Man 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54548.mkv:The Legend Is Born%3a Ip Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54548.mkv:The Legend Is Born: Ip Man
 #DESCRIPTION The Legend Is Born: Ip Man
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60339.mkv:It Follows
 #DESCRIPTION It Follows
@@ -1327,7 +1327,7 @@
 #DESCRIPTION Mr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54653.mkv:Naman Il Bramino
 #DESCRIPTION Naman Il Bramino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54655.mkv:Non Guardarmi%3a Non Ti Sento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54655.mkv:Non Guardarmi: Non Ti Sento
 #DESCRIPTION Non Guardarmi: Non Ti Sento
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54654.mkv:Non Mi Scaricare
 #DESCRIPTION Non Mi Scaricare
@@ -1781,7 +1781,7 @@
 #DESCRIPTION Fuck You Prof
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55147.mkv:Fuck You Prof 2
 #DESCRIPTION Fuck You Prof 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55149.mkv:Garfield%3a Il Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55149.mkv:Garfield: Il Film
 #DESCRIPTION Garfield: Il Film
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55150.mkv:Ghosthunters Gli Acchiappafantasmi
 #DESCRIPTION Ghosthunters Gli Acchiappafantasmi
@@ -2081,7 +2081,7 @@
 #DESCRIPTION Hackers CD2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/65879.mkv:Handsome
 #DESCRIPTION Handsome
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55009.mkv:Honey 3%3a Dare To Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55009.mkv:Honey 3: Dare To Dance
 #DESCRIPTION Honey 3: Dare To Dance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55010.mkv:Hungry Hearts
 #DESCRIPTION Hungry Hearts
@@ -2251,7 +2251,7 @@
 #DESCRIPTION Maze Runner
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55104.mkv:Mega Shark Vs Mecha Shark
 #DESCRIPTION Mega Shark Vs Mecha Shark
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55105.mkv:Monsters%3a Dark Continent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55105.mkv:Monsters: Dark Continent
 #DESCRIPTION Monsters: Dark Continent
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55107.mkv:Riddick
 #DESCRIPTION Riddick
@@ -2765,7 +2765,7 @@
 #DESCRIPTION Il Clan Dei Siciliani
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67943.mkv:Il Cliente
 #DESCRIPTION Il Cliente
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67944.mkv:Burning Sands%3a Il Codice Del Silenzio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67944.mkv:Burning Sands: Il Codice Del Silenzio
 #DESCRIPTION Burning Sands: Il Codice Del Silenzio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67945.mkv:Il Consigliori
 #DESCRIPTION Il Consigliori
@@ -2821,7 +2821,7 @@
 #DESCRIPTION Lo Zio Di Brooklyn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67968.mkv:Lucky Luciano
 #DESCRIPTION Lucky Luciano
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67969.mkv:Milano-Palermo%3a Il Ritorno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67969.mkv:Milano-Palermo: Il Ritorno
 #DESCRIPTION Milano-Palermo: Il Ritorno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67972.mkv:C'era Una Volta In America
 #DESCRIPTION C'era Una Volta In America
@@ -3385,7 +3385,7 @@
 #DESCRIPTION Quaranta Pistole
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55971.mkv:Quel Treno Per Yuma
 #DESCRIPTION Quel Treno Per Yuma
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55972.mkv:Ringo%3a Il Cavaliere Solitario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55972.mkv:Ringo: Il Cavaliere Solitario
 #DESCRIPTION Ringo: Il Cavaliere Solitario
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55973.mkv:Rullo Di Tamburi
 #DESCRIPTION Rullo Di Tamburi
@@ -3419,7 +3419,7 @@
 #DESCRIPTION Wyatt Earp
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/66563.mkv:----Saghe----
 #DESCRIPTION ----Saghe----
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75267.mp4:Err%3a510
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75267.mp4:Err:510
 #DESCRIPTION Err:510
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75253.mkv:American Pie
 #DESCRIPTION American Pie
@@ -3427,7 +3427,7 @@
 #DESCRIPTION American Pie 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75251.mkv:American Pie - Il Matrimonio
 #DESCRIPTION American Pie - Il Matrimonio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74674.mp4:Err%3a510
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74674.mp4:Err:510
 #DESCRIPTION Err:510
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75295.mkv:S Fast And Furious 2
 #DESCRIPTION S Fast And Furious 2
@@ -3465,13 +3465,13 @@
 #DESCRIPTION ----Hunger Games----
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67097.mkv:Hunger Games
 #DESCRIPTION Hunger Games
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67096.mkv:Hunger Games%3a La Ragazza Di Fuoco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67096.mkv:Hunger Games: La Ragazza Di Fuoco
 #DESCRIPTION Hunger Games: La Ragazza Di Fuoco
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67094.mkv:Hunger Games Il Canto Della Rivolta Part 1
 #DESCRIPTION Hunger Games Il Canto Della Rivolta Part 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67095.mkv:Hunger Games Il Canto Della Rivolta Part 2
 #DESCRIPTION Hunger Games Il Canto Della Rivolta Part 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74675.mp4:Err%3a510
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74675.mp4:Err:510
 #DESCRIPTION Err:510
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75248.mkv:Jurassic Park
 #DESCRIPTION Jurassic Park
@@ -3479,7 +3479,7 @@
 #DESCRIPTION Il Mondo Perduto - Jurassic Park
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75247.mkv:Jurassic World
 #DESCRIPTION Jurassic World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75379.mkv:Err%3a510
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75379.mkv:Err:510
 #DESCRIPTION Err:510
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75681.mp4:---- Il Silenzio Degli Innocenti ----
 #DESCRIPTION ---- Il Silenzio Degli Innocenti ----
@@ -3493,13 +3493,13 @@
 #DESCRIPTION Matrix Revolutions
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/66931.mkv:La Maledizione Della Prima Luna
 #DESCRIPTION La Maledizione Della Prima Luna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75277.mp4:Err%3a510
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75277.mp4:Err:510
 #DESCRIPTION Err:510
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/66564.mkv:----Resident Evil----
 #DESCRIPTION ----Resident Evil----
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/66558.mkv:Resident Evil
 #DESCRIPTION Resident Evil
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/66561.mkv:Resident Evil%3a Extinction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/66561.mkv:Resident Evil: Extinction
 #DESCRIPTION Resident Evil: Extinction
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/66562.mkv:Resident Evil Retribution
 #DESCRIPTION Resident Evil Retribution
@@ -3513,7 +3513,7 @@
 #DESCRIPTION Saw VI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67180.mkv:Saw VII - Il Capitolo Finale
 #DESCRIPTION Saw VII - Il Capitolo Finale
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76102.mp4:Err%3a510
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76102.mp4:Err:510
 #DESCRIPTION Err:510
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76097.mkv:Terminator 3 - Le Macchine Ribelli
 #DESCRIPTION Terminator 3 - Le Macchine Ribelli
@@ -3579,7 +3579,7 @@
 #DESCRIPTION La Maschera Di 3D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64762.mkv:La Tigre E Il Dragone - La Spada Del Destino
 #DESCRIPTION La Tigre E Il Dragone - La Spada Del Destino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64763.mkv:Lo Hobbit%3a La Battaglia Delle Cinque Armate 3D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64763.mkv:Lo Hobbit: La Battaglia Delle Cinque Armate 3D
 #DESCRIPTION Lo Hobbit: La Battaglia Delle Cinque Armate 3D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64764.mkv:Lo Straordinario Viaggio Di T S Spivet 3D
 #DESCRIPTION Lo Straordinario Viaggio Di T S Spivet 3D
@@ -3665,7 +3665,7 @@
 #DESCRIPTION Atlantis L Impero Perduto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56572.mkv:Barbie E Il Tesoro Dei Cuccioli
 #DESCRIPTION Barbie E Il Tesoro Dei Cuccioli
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56570.mkv:Barbie%3a La Principessa Delle Perle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56570.mkv:Barbie: La Principessa Delle Perle
 #DESCRIPTION Barbie: La Principessa Delle Perle
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56574.mkv:Berserk L Uovo Del Re Dominatore
 #DESCRIPTION Berserk L Uovo Del Re Dominatore
@@ -3829,7 +3829,7 @@
 #DESCRIPTION The Adventure Of Andre E Wally B
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56666.mkv:Tin Toy
 #DESCRIPTION Tin Toy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56667.mkv:Toy Story%3a Tutto Un Altro Mondo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56667.mkv:Toy Story: Tutto Un Altro Mondo
 #DESCRIPTION Toy Story: Tutto Un Altro Mondo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56668.mkv:Toy Story Of Terror
 #DESCRIPTION Toy Story Of Terror
@@ -3911,7 +3911,7 @@
 #DESCRIPTION Bug's Life
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61566.mkv:Il Mondo Incantato Di Belle
 #DESCRIPTION Il Mondo Incantato Di Belle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61567.mkv:Il Re Leone II - The Lion King II%3a Simba's Pride
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61567.mkv:Il Re Leone II - The Lion King II: Simba's Pride
 #DESCRIPTION Il Re Leone II - The Lion King II: Simba's Pride
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61568.mkv:Mulan
 #DESCRIPTION Mulan
@@ -4113,7 +4113,7 @@
 #DESCRIPTION L'estate Addosso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60761.mkv:HD L'Odio Che Uccide
 #DESCRIPTION HD L'Odio Che Uccide
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60762.mkv:Julekongen%3a Full Rustning
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60762.mkv:Julekongen: Full Rustning
 #DESCRIPTION Julekongen: Full Rustning
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60763.mkv:Love And Honor
 #DESCRIPTION Love And Honor
@@ -4365,7 +4365,7 @@
 #DESCRIPTION Bjork-Live At
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63835.mkv:By The Way
 #DESCRIPTION By The Way
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63836.mkv:Red Hot Chili Peppers%3a Californication
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63836.mkv:Red Hot Chili Peppers: Californication
 #DESCRIPTION Red Hot Chili Peppers: Californication
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63837.mkv:Can't Stop
 #DESCRIPTION Can't Stop
@@ -4375,7 +4375,7 @@
 #DESCRIPTION Clean Bandit Ft Jess Glynne - Rather Be
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63841.mkv:Concerto - Lucio Dalla E Francesco De Gregori
 #DESCRIPTION Concerto - Lucio Dalla E Francesco De Gregori
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63843.mkv:Deep Purple%3a Perfect Strangers Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63843.mkv:Deep Purple: Perfect Strangers Live
 #DESCRIPTION Deep Purple: Perfect Strangers Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63844.mkv:Concerto Il Volo Un Avventura Straordinaria - Aren
 #DESCRIPTION Concerto Il Volo Un Avventura Straordinaria - Aren
@@ -4385,7 +4385,7 @@
 #DESCRIPTION Concerto J-Ax Live-Hip Hop Tv Arena Di Verona
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63848.mkv:Concerto Ligabue In Tour - Quasi Acustico
 #DESCRIPTION Concerto Ligabue In Tour - Quasi Acustico
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63849.mkv:Michael Jackson Live In Bucharest%3a The Dangerous T
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63849.mkv:Michael Jackson Live In Bucharest: The Dangerous T
 #DESCRIPTION Michael Jackson Live In Bucharest: The Dangerous T
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63850.mkv:Concerto QUEEN The Freddie Mercury Tribute Concert
 #DESCRIPTION Concerto QUEEN The Freddie Mercury Tribute Concert
@@ -4555,17 +4555,17 @@
 #DESCRIPTION Pharrell Williams - Happy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63944.mkv:Pink Floyd - The Divison Bell - 20th Anniversary -
 #DESCRIPTION Pink Floyd - The Divison Bell - 20th Anniversary -
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63945.mkv:Pink Floyd - Divided We Fall%3a The Wall Live At Ear
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63945.mkv:Pink Floyd - Divided We Fall: The Wall Live At Ear
 #DESCRIPTION Pink Floyd - Divided We Fall: The Wall Live At Ear
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63946.mkv:Pink Floyd - Divided We Fall%3a The Wall Live At Ear
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63946.mkv:Pink Floyd - Divided We Fall: The Wall Live At Ear
 #DESCRIPTION Pink Floyd - Divided We Fall: The Wall Live At Ear
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63947.mkv:Pink Floyd A Pompei
 #DESCRIPTION Pink Floyd A Pompei
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63948.mkv:Pink Floyd%3a Shine On Live PT2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63948.mkv:Pink Floyd: Shine On Live PT2
 #DESCRIPTION Pink Floyd: Shine On Live PT2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63949.mkv:Pink Floyd%3a Shine On Live PT1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63949.mkv:Pink Floyd: Shine On Live PT1
 #DESCRIPTION Pink Floyd: Shine On Live PT1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63951.mkv:Pink Floyd%3a Welcome To The Machine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63951.mkv:Pink Floyd: Welcome To The Machine
 #DESCRIPTION Pink Floyd: Welcome To The Machine
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63953.mkv:Pitbull Ft Jennifer Lopez
 #DESCRIPTION Pitbull Ft Jennifer Lopez
@@ -4575,9 +4575,9 @@
 #DESCRIPTION PSY Ft Hyuna - Ohppan Just My Style
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63954.mkv:Road Trippin'
 #DESCRIPTION Road Trippin'
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63955.mkv:Robbie Williams%3a One Night At The Palladium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63955.mkv:Robbie Williams: One Night At The Palladium
 #DESCRIPTION Robbie Williams: One Night At The Palladium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63958.mkv:Red Hot Chili Peppers%3a Scar Tissue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63958.mkv:Red Hot Chili Peppers: Scar Tissue
 #DESCRIPTION Red Hot Chili Peppers: Scar Tissue
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63960.mkv:Soul To Squeeze
 #DESCRIPTION Soul To Squeeze
@@ -4585,7 +4585,7 @@
 #DESCRIPTION Stef Burns Group World - Universe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63962.mkv:Suck My Kiss
 #DESCRIPTION Suck My Kiss
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63963.mkv:The Best British Rock Concert Of All Time%3a Live At
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63963.mkv:The Best British Rock Concert Of All Time: Live At
 #DESCRIPTION The Best British Rock Concert Of All Time: Live At
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63964.mkv:The BiG 4 Metallica Slayer Megadeth Anthrax Live I
 #DESCRIPTION The BiG 4 Metallica Slayer Megadeth Anthrax Live I
@@ -11479,7 +11479,7 @@
 #DESCRIPTION Morgan Freeman Science Show S05 E04
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60117.mkv:Morgan Freeman Science Show S05 E05
 #DESCRIPTION Morgan Freeman Science Show S05 E05
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::SERIES_151.80.100.155
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::SERIES_151.80.100.155
 #DESCRIPTION SERIES_151.80.100.155
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/983.avi:s13 vikings S04E20 FINAL
 #DESCRIPTION s13 vikings S04E20 FINAL
@@ -13023,7 +13023,7 @@
 #DESCRIPTION s13 Viking S04E18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/982.avi:s13 Viking S04E19
 #DESCRIPTION s13 Viking S04E19
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_YABANCI DIZI_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:9F:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/E6p0wL9k/index.m3u8:Becerikli Mandarin Bölüm 01
 #DESCRIPTION Becerikli Mandarin Bölüm 01

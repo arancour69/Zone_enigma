@@ -1,5 +1,5 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV
 #DESCRIPTION DREAM TV
@@ -305,12 +305,16 @@
 #DESCRIPTION TVM3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//ip.tvtetova.net%3a5119/live/tvtetova:TV Tetova
 #DESCRIPTION TV Tetova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/utv/playlist.m3u8:U Tv
+#DESCRIPTION U Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8:UTV
 #DESCRIPTION UTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8:UA TV
 #DESCRIPTION UA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//139.59.166.48%3a8081/live/live3/playlist.m3u8:V2BEAT TV
 #DESCRIPTION V2BEAT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.51.131.28%3a8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8:YU PLANET
+#DESCRIPTION YU PLANET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8:Voice of America
 #DESCRIPTION Voice of America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8:Xite NL4 HD
@@ -327,7 +331,7 @@
 #DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kippingmultimediaal.nl%3a1935/live/ZFM1:ZFMRADIO.NL
 #DESCRIPTION ZFMRADIO.NL
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | K R A L/Music★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
@@ -349,7 +353,7 @@
 #DESCRIPTION KRAL TURKU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
 #DESCRIPTION Kral Türk FM
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/30/:ANKARA HAVALARI
 #DESCRIPTION ANKARA HAVALARI
@@ -407,7 +411,7 @@
 #DESCRIPTION TaksimFM - Arabesk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.133.218%3a1078:TURKUAZ FM
 #DESCRIPTION TURKUAZ FM
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:B0:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
