@@ -233,38 +233,14 @@
 #DESCRIPTION TRACE Toca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8:TRACE Tropical
 #DESCRIPTION TRACE Tropical
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv/live.m3u8:TV MAS HD
-#DESCRIPTION TV MAS HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv//master.m3u8:TVMas
-#DESCRIPTION TVMas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canal22santiago.cl/playlist.m3u8:TVR
-#DESCRIPTION TVR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.16.66.101%3a1935/livecast/_definst_/tvm3/playlist.m3u8:TVM3
-#DESCRIPTION TVM3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//ip.tvtetova.net%3a5119/live/tvtetova:TV Tetova
 #DESCRIPTION TV Tetova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/utv/playlist.m3u8:U Tv
 #DESCRIPTION U Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8:UTV
 #DESCRIPTION UTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8:UA TV
-#DESCRIPTION UA TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//139.59.166.48%3a8081/live/live3/playlist.m3u8:V2BEAT TV
-#DESCRIPTION V2BEAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.51.131.28%3a8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8:YU PLANET
 #DESCRIPTION YU PLANET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8:Voice of America
-#DESCRIPTION Voice of America
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8:Xite NL4 HD
-#DESCRIPTION Xite NL4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd5/livestream/index.m3u8:Xite NL5 HD
-#DESCRIPTION Xite NL5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8:Xite NL6 HD
-#DESCRIPTION Xite NL6 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd2/livestream/index.m3u8:Xite NL2 HD
-#DESCRIPTION Xite NL2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8114/507:VH1
-#DESCRIPTION VH1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
 #DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kippingmultimediaal.nl%3a1935/live/ZFM1:ZFMRADIO.NL
@@ -487,3 +463,11 @@
 #DESCRIPTION Zen fm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc:ZEPLIN
 #DESCRIPTION ZEPLIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8:TRACE Mziki
+#DESCRIPTION TRACE Mziki
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8:TRACE Naija
+#DESCRIPTION TRACE Naija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist.m3u8:TOP LATINO MUSICA
+#DESCRIPTION TOP LATINO MUSICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2200:oneby
+#DESCRIPTION oneby
