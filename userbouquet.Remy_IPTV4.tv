@@ -1,8 +1,10 @@
 #NAME **ReMy_IPTV_18+ADULT** 
-#SERVICE 1:64:8E:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 1:64:8D:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
-#SERVICE 1:64:8F:0:0:0:0:0:0:0::=== ★★ADULT | PREMIUM★★ ====
+#SERVICE 1:64:8E:0:0:0:0:0:0:0::=== ★★ADULT | PREMIUM★★ ====
 #DESCRIPTION === ★★ADULT | PREMIUM★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/hd.jasminchannel.stream/playlist.m3u8:Jasmin TV HD (18+)
+#DESCRIPTION Jasmin TV HD (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8:Jasmin.tv
 #DESCRIPTION Jasmin.tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream:JASMIN TV
@@ -11,6 +13,12 @@
 #DESCRIPTION Jasmin HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8:JASMIN TV
 #DESCRIPTION JASMIN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst%3a9528-mbr/chunklist_b1728000.m3u8:Babestation 24 (DE) (18+)
+#DESCRIPTION Babestation 24 (DE) (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59ec5453559f0.streamlock.net%3a1935/mexicotv/smil%3amiamitvmexicoROKU/chunklist_b1896000.m3u8:Miami TV - Jenny Live (18+)
+#DESCRIPTION Miami TV - Jenny Live (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59ec5453559f0.streamlock.net/canal18/smil%3acanal18/chunklist_b2592000.m3u8:Miami TV Latino (18+)
+#DESCRIPTION Miami TV Latino (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//server.miamitvchannel.com/canal18/smil%3acanal18/playlist.m3u8:Miami TV Latina
 #DESCRIPTION Miami TV Latina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//usaserver.miamitvchannel.com/miamitv/smil%3amiamitv/playlist.m3u8:miami TV
@@ -23,7 +31,39 @@
 #DESCRIPTION VISIT-X.tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telepavia/mp4%3atelepavia/playlist.m3u8:TelePavia
 #DESCRIPTION TelePavia
-#SERVICE 1:64:90:0:0:0:0:0:0:0::=== ★★SERVER | ADULT-PREMIUM★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigass.m3u8:RedTraffic Big Ass (18+)
+#DESCRIPTION RedTraffic Big Ass (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigdick.m3u8:RedTraffic Big Dick (18+)
+#DESCRIPTION RedTraffic Big Dick (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigtits.m3u8:RedTraffic Big Tits (18+)
+#DESCRIPTION RedTraffic Big Tits (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/blowjob.m3u8:RedTraffic Blowjob (18+)
+#DESCRIPTION RedTraffic Blowjob (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/cuckold.m3u8:RedTraffic Cuckold (18+)
+#DESCRIPTION RedTraffic Cuckold (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/fetish.m3u8:RedTraffic Fetish (18+)
+#DESCRIPTION RedTraffic Fetish (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/hardcore.m3u8:RedTraffic Hardcore (18+)
+#DESCRIPTION RedTraffic Hardcore (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/interracial.m3u8:RedTraffic Interracial (18+)
+#DESCRIPTION RedTraffic Interracial (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/latina.m3u8:RedTraffic Latina (18+)
+#DESCRIPTION RedTraffic Latina (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/lesbian.m3u8:RedTraffic Lesbian (18+)
+#DESCRIPTION RedTraffic Lesbian (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/milf.m3u8:RedTraffic MILF (18+)
+#DESCRIPTION RedTraffic MILF (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/pov.m3u8:RedTraffic POV (18+)
+#DESCRIPTION RedTraffic POV (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/pornstar.m3u8:RedTraffic Pornstar (18+)
+#DESCRIPTION RedTraffic Pornstar (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/russian.m3u8:RedTraffic Russian (18+)
+#DESCRIPTION RedTraffic Russian (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/teen.m3u8:RedTraffic Teen (18+)
+#DESCRIPTION RedTraffic Teen (18+)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/threesome.m3u8:RedTraffic Threesome (18+)
+#DESCRIPTION RedTraffic Threesome (18+)
+#SERVICE 1:64:8F:0:0:0:0:0:0:0::=== ★★SERVER | ADULT-PREMIUM★★ ====
 #DESCRIPTION === ★★SERVER | ADULT-PREMIUM★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75626.mkv:XXX S01 E01
 #DESCRIPTION XXX S01 E01
@@ -1545,7 +1585,7 @@
 #DESCRIPTION Incesto 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.videopornoitalia.com%3a81/5/8/a/5/2/58a52f2b7933f.mp4:Italian Beauty
 #DESCRIPTION Italian Beauty
-#SERVICE 1:64:91:0:0:0:0:0:0:0::MEGABOX TV-VOD
+#SERVICE 1:64:90:0:0:0:0:0:0:0::MEGABOX TV-VOD
 #DESCRIPTION MEGABOX TV-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4:As Panteras
 #DESCRIPTION As Panteras
@@ -1783,7 +1823,7 @@
 #DESCRIPTION 20Filmes XXX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.pornonacionais.com/wp-content/uploads/2016/10/b0d26bd495439df83242e8b676696a54.mp4:21Filmes XXX
 #DESCRIPTION 21Filmes XXX
-#SERVICE 1:64:92:0:0:0:0:0:0:0::=== ★★PAPER_STREET | SOFT★★ ====
+#SERVICE 1:64:91:0:0:0:0:0:0:0::=== ★★PAPER_STREET | SOFT★★ ====
 #DESCRIPTION === ★★PAPER_STREET | SOFT★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_allison_banks_12minute.mp4:Allison Banks
 #DESCRIPTION Allison Banks
@@ -1935,7 +1975,7 @@
 #DESCRIPTION Wow Girls Video 37
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//content2.sexforsure.com/2013/07/03/12/Video.mp4:Wow Girls Video 38
 #DESCRIPTION Wow Girls Video 38
-#SERVICE 1:64:93:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
+#SERVICE 1:64:92:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
 #DESCRIPTION === ★★VIDEO_CLIPS | HARD★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.servitubes.com/videos/6/f/7/6/4/6f764267353d6fa9108aa3518c817cb195db672a.mp4:69 increibles posturas mas actos bisexuales
 #DESCRIPTION 69 increibles posturas mas actos bisexuales
@@ -2869,7 +2909,7 @@
 #DESCRIPTION SELEN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4:SIGNORE SC@ND@LOSE DI PROVINCI@
 #DESCRIPTION SIGNORE SC@ND@LOSE DI PROVINCI@
-#SERVICE 1:64:94:0:0:0:0:0:0:0::=== ★★SEXY_CLIPS | EROTIC★★ ====
+#SERVICE 1:64:93:0:0:0:0:0:0:0::=== ★★SEXY_CLIPS | EROTIC★★ ====
 #DESCRIPTION === ★★SEXY_CLIPS | EROTIC★★ ====
 #SERVICE 4097:0:1:244:0:0:0:0:0:0:http%3a//zazax1.ru/video/barto.mp4:barto
 #DESCRIPTION barto
@@ -2963,7 +3003,7 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:95:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
+#SERVICE 1:64:94:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #DESCRIPTION === ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/movies/xrated/xrayted_ep01_st1-2.mp4:xrayted_ep01_st1-2
 #DESCRIPTION xrayted_ep01_st1-2
