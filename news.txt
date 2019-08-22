@@ -1,16 +1,17 @@
        *☪️ ®ReMy EnigmaTurk TeaM ☪️*
-             ***★★28.08.2019★★***
+             ***★★22.08.2019★★***
+*ReMyTeaM PLUGINI UPDATE*
+             ***★★22.08.2019★★***
+*ReMy_SOFTCAM_APP-ARM-4K ve ReMy_SOFTCAM_APP-MIPS-FHD eklenmiştir* 
+             ***★★22.08.2019★★***
+*FuLLKeyS UPDATE*	
+             ***★★22.08.2019★★***
 *IPTV_ChannelList UPDATE*
              ***★★17.08.2019★★***
 *ReMy_SATELLITE_ChannelList UPDATE*
-             ***★★17.08.2019★★***
-              *FuLLKeyS UPDATE*	
 	         *★★10.08.2019★★*
 *FreeCccam Plugini UPDATE*
-             ***★★08.08.2019★★***
-*OpenATV_SoftCamPANEL_V2.0 KALDIRILMISTIR REMY SOFTCAM_APP KULLANINIZ* 
              *★★09.08.2019★★*
-*ReMyTeaM PLUGINI UPDATE*
 *ReMy_MatrixMod_Backup UPDATE*
 *OPENVPN UPDATE*
 *REMY_TEAM DESTEK ALMAK ISTEYENLER*
@@ -18,3 +19,4 @@
 ____________________________________________________
               ®ReMy EnigmaTurk TeaM		
 MAİL:enigma2_teknik_servis@hotmail.com
+ and Mipsel OE2.0
