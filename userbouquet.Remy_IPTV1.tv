@@ -1,11 +1,11 @@
 #NAME **ReMy_TURKEY & VOD**
-#SERVICE 1:64:99:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #DESCRIPTION ==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/33/:KURAN MEAL
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:9A:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
+#SERVICE 1:64:9B:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
 #DESCRIPTION TRT1 HD
@@ -109,7 +109,7 @@
 #DESCRIPTION CIZGI FILM 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/06880844-c79e-4b72-a64f-c4ca832e1637/58fa4765-2169-4cd0-ae68-9542b7fa05ee.ism/58fa4765-2169-4cd0-ae68-9542b7fa05ee-audio=131072-video_eng=4225000.m3u8:CIZGI FILM 10
 #DESCRIPTION CIZGI FILM 10
-#SERVICE 1:64:9B:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
+#SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8:ATV
 #DESCRIPTION ATV
@@ -169,7 +169,7 @@
 #DESCRIPTION TURKMEN OWAZY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch002_400/index.m3u8:TURKMEN YASLIK
 #DESCRIPTION TURKMEN YASLIK
-#SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::::::::::::::::_S E R V E R1_:::::::::::::
+#SERVICE 1:64:9D:0:0:0:0:0:0:0:::::::::::::::::::::::::_S E R V E R1_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_S E R V E R1_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.179%3a25461/line/Cqa1A@!21A1awEq/51:24 HABER MOBILE
 #DESCRIPTION 24 HABER MOBILE
@@ -253,7 +253,7 @@
 #DESCRIPTION ZAGROS HD MOBILE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.179%3a25461/line/Cqa1A@!21A1awEq/15:ZAROK TV MOBILE
 #DESCRIPTION ZAROK TV MOBILE
-#SERVICE 1:64:9D:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
+#SERVICE 1:64:9E:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza1:Istweb TV HD
 #DESCRIPTION Istweb TV HD
@@ -377,11 +377,8 @@
 #DESCRIPTION VUSLAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8:ZIRAAT TV
 #DESCRIPTION ZIRAAT TV
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::SEC IZLE
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::SEC IZLE
 #DESCRIPTION SEC IZLE
-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//62.210.55.60/stream3xVJ/3x19:MAX Cuckold
-#DESCRIPTION MAX Cuckold
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1996-lara-croft-tomb-raider-the-cradle-of-life.mp4:Tombstone
 #DESCRIPTION Tombstone
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10975.mp4:Operação Condor
@@ -590,8 +587,8 @@
 #DESCRIPTION Quem Sou Eu? - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/5174-rush-hour-3.mp4:A Hora do Rush 3 - D
 #DESCRIPTION A Hora do Rush 3 - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/10204-around-the-world-in-80-days.mp4:Volta ao Mundo em 80 Dias – Uma Aposta Muito Louca - D
-#DESCRIPTION Volta ao Mundo em 80 Dias – Uma Aposta Muito Louca - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/10204-around-the-world-in-80-days.mp4:Volta ao Mundo em 80 Dias – Uma Aposta Muito Lou
+#DESCRIPTION Volta ao Mundo em 80 Dias – Uma Aposta Muito Lou
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/2109-rush-hour.mp4:A Hora do Rush - D
 #DESCRIPTION A Hora do Rush - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/25676-bo-bui-gai-wak.mp4:Três Ladrões e Um Bebê - D
@@ -922,8 +919,8 @@
 #DESCRIPTION Pânico 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/36647-blade.mp4:Blade – O Caçador de Vampiros
 #DESCRIPTION Blade – O Caçador de Vampiros
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/3602-i-ll-always-know-what-you-did-last-summer.mp4:Eu Sempre Vou Saber o que Vocês Fizeram no Verão Passado
-#DESCRIPTION Eu Sempre Vou Saber o que Vocês Fizeram no Verão Passado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/3602-i-ll-always-know-what-you-did-last-summer.mp4:Eu Sempre Vou Saber o que Vocês Fizeram no Verão
+#DESCRIPTION Eu Sempre Vou Saber o que Vocês Fizeram no Verão
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/35977-pumpkinhead-2-blood-wings.mp4:Pumpkinhead – O Retorno
 #DESCRIPTION Pumpkinhead – O Retorno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/274-the-silence-of-the-lambs.mp4:O Silêncio dos Inocentes
@@ -964,8 +961,8 @@
 #DESCRIPTION Os Esquecidos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9825-lake-placid.mp4:Pânico no lago
 #DESCRIPTION Pânico no lago
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10961-behind-the-mask-the-rise-of-leslie-vernon.mp4:Por Trás da Máscara – O Surgimento de Leslie Vernon
-#DESCRIPTION Por Trás da Máscara – O Surgimento de Leslie Vernon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10961-behind-the-mask-the-rise-of-leslie-vernon.mp4:Por Trás da Máscara – O Surgimento de Leslie V
+#DESCRIPTION Por Trás da Máscara – O Surgimento de Leslie V
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11428-sleepwalkers.mp4:Sonâmbulos
 #DESCRIPTION Sonâmbulos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/37865-buried-alive.mp4:Sepultado Vivo
@@ -1208,7 +1205,7 @@
 #DESCRIPTION Top Gang! – Ases Muito Loucos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9767-the-break-up.mp4:Separados pelo Casamento
 #DESCRIPTION Separados pelo Casamento
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::cdn13.vcdvideo.com
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::cdn13.vcdvideo.com
 #DESCRIPTION cdn13.vcdvideo.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn13.vcdvideo.com/71752-tr.mp4?st=Z2pt75IuBbTej3u5uBtSYg&amp;e=1527289519:O-It
 #DESCRIPTION O-It
@@ -1250,7 +1247,7 @@
 #DESCRIPTION 2017
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn11.vcdvideo.com/166.mp4:2017
 #DESCRIPTION 2017
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::178.132.3.122:25461/movies2
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::178.132.3.122:25461/movies2
 #DESCRIPTION 178.132.3.122:25461/movies2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74626.mkv:Si Accettano Miracoli
 #DESCRIPTION Si Accettano Miracoli
@@ -12308,7 +12305,7 @@
 #DESCRIPTION Morgan Freeman Science Show S05 E04
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60117.mkv:Morgan Freeman Science Show S05 E05
 #DESCRIPTION Morgan Freeman Science Show S05 E05
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::SERIES_151.80.100.155
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::SERIES_151.80.100.155
 #DESCRIPTION SERIES_151.80.100.155
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/983.avi:s13 vikings S04E20 FINAL
 #DESCRIPTION s13 vikings S04E20 FINAL
@@ -13852,7 +13849,7 @@
 #DESCRIPTION s13 Viking S04E18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/982.avi:s13 Viking S04E19
 #DESCRIPTION s13 Viking S04E19
-#SERVICE 1:64:A2:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
+#SERVICE 1:64:A3:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/E6p0wL9k/index.m3u8:Becerikli Mandarin Bölüm 01
 #DESCRIPTION Becerikli Mandarin Bölüm 01
