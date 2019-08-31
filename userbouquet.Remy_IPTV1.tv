@@ -1,11 +1,11 @@
 #NAME **ReMy_TURKEY & VOD**
-#SERVICE 1:64:96:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
+#SERVICE 1:64:99:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #DESCRIPTION ==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/33/:KURAN MEAL
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
+#SERVICE 1:64:9A:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
 #DESCRIPTION TRT1 HD
@@ -109,7 +109,7 @@
 #DESCRIPTION CIZGI FILM 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/06880844-c79e-4b72-a64f-c4ca832e1637/58fa4765-2169-4cd0-ae68-9542b7fa05ee.ism/58fa4765-2169-4cd0-ae68-9542b7fa05ee-audio=131072-video_eng=4225000.m3u8:CIZGI FILM 10
 #DESCRIPTION CIZGI FILM 10
-#SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
+#SERVICE 1:64:9B:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8:ATV
 #DESCRIPTION ATV
@@ -169,7 +169,7 @@
 #DESCRIPTION TURKMEN OWAZY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch002_400/index.m3u8:TURKMEN YASLIK
 #DESCRIPTION TURKMEN YASLIK
-#SERVICE 1:64:99:0:0:0:0:0:0:0:::::::::::::::::::::::::_S E R V E R1_:::::::::::::
+#SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::::::::::::::::_S E R V E R1_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_S E R V E R1_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.179%3a25461/line/Cqa1A@!21A1awEq/51:24 HABER MOBILE
 #DESCRIPTION 24 HABER MOBILE
@@ -253,7 +253,7 @@
 #DESCRIPTION ZAGROS HD MOBILE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.39.179%3a25461/line/Cqa1A@!21A1awEq/15:ZAROK TV MOBILE
 #DESCRIPTION ZAROK TV MOBILE
-#SERVICE 1:64:9A:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
+#SERVICE 1:64:9D:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza1:Istweb TV HD
 #DESCRIPTION Istweb TV HD
@@ -377,9 +377,838 @@
 #DESCRIPTION VUSLAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8:ZIRAAT TV
 #DESCRIPTION ZIRAAT TV
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::SEC IZLE
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::SEC IZLE
 #DESCRIPTION SEC IZLE
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::cdn13.vcdvideo.com
+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//62.210.55.60/stream3xVJ/3x19:MAX Cuckold
+#DESCRIPTION MAX Cuckold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1996-lara-croft-tomb-raider-the-cradle-of-life.mp4:Tombstone
+#DESCRIPTION Tombstone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10975.mp4:Operação Condor
+#DESCRIPTION Operação Condor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11678-vertical-limit.mp4:Limite Vertical
+#DESCRIPTION Limite Vertical
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11228-daylight.mp4:Daylight
+#DESCRIPTION Daylight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10762-without-a-paddle.mp4:Totalmente sem Rumo
+#DESCRIPTION Totalmente sem Rumo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10348.mp4:Thunderbolt - Ação Sobre Rodas
+#DESCRIPTION Thunderbolt - Ação Sobre Rodas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10345-k-9.mp4:K-9 - Um Policial Bom pra Cachorro
+#DESCRIPTION K-9 - Um Policial Bom pra Cachorro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10206-buffy-the-vampire-slayer.mp4:Buffy  a Caça Vampiros
+#DESCRIPTION Buffy  a Caça Vampiros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10167-half-past-dead.mp4:No Corredor da Morte
+#DESCRIPTION No Corredor da Morte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9825-lake-placid.mp4:Pânico no lago
+#DESCRIPTION Pânico no lago
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/287947-shazam.mp4:Shazam
+#DESCRIPTION Shazam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9335-transporter-2.mp4:Carga Explosiva 2
+#DESCRIPTION Carga Explosiva 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9595-hot-shots.mp4:Top Gang! – Ases Muito Loucos
+#DESCRIPTION Top Gang! – Ases Muito Loucos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9920-ultraviolet.mp4:Ultravioleta
+#DESCRIPTION Ultravioleta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/272-batman-begins.mp4:Batman Begins
+#DESCRIPTION Batman Begins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/984-dirty-harry.mp4:Perseguidor Implacável
+#DESCRIPTION Perseguidor Implacável
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9626-red-sonja.mp4:Guerreiros de Fogo
+#DESCRIPTION Guerreiros de Fogo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9604-red-heat.mp4:Inferno Vermelho
+#DESCRIPTION Inferno Vermelho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8856-the-karate-kid-part-ii.mp4:Karatê Kid 2 – A Hora da Verdade Continua
+#DESCRIPTION Karatê Kid 2 – A Hora da Verdade Continua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/79.mp4:Herói
+#DESCRIPTION Herói
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/6609-keoma.mp4:Keoma
+#DESCRIPTION Keoma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/557-spider-man.mp4:Homem-Aranha
+#DESCRIPTION Homem-Aranha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/558-spider-man-2.mp4:Homem-Aranha 2
+#DESCRIPTION Homem-Aranha 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/559-spider-man-3.mp4:Homem-Aranha 3
+#DESCRIPTION Homem-Aranha 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/49478-warriors-of-virtue.mp4:Guerreiros da Virtude
+#DESCRIPTION Guerreiros da Virtude
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/36349-black-moon-rising.mp4:Lua Negra
+#DESCRIPTION Lua Negra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/332-inspector-gadget.mp4:Inspetor Bugiganga
+#DESCRIPTION Inspetor Bugiganga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/331-jurassic-park-iii.mp4:Jurassic Park 3
+#DESCRIPTION Jurassic Park 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/27590-gotcha.mp4:Gotcha – Uma Arma do Barulho
+#DESCRIPTION Gotcha – Uma Arma do Barulho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1996-lara-croft-tomb-raider-the-cradle-of-life.mp4:Lara Croft: Tomb Raider – A Origem da Vida
+#DESCRIPTION Lara Croft: Tomb Raider – A Origem da Vida
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/umasaidademestre-dub-720p.mp4:Uma Saída de Mestre
+#DESCRIPTION Uma Saída de Mestre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/314-catwoman.mp4:Mulher-Gato
+#DESCRIPTION Mulher-Gato
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/293660-deadpool.mp4:Deadpool
+#DESCRIPTION Deadpool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/28761-white-hunter-black-heart.mp4:Coração de Caçador
+#DESCRIPTION Coração de Caçador
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/hellboy2019-leg-720p.mp46:Hellboy – 2019
+#DESCRIPTION Hellboy – 2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/mibinternacional-dub-720p.mp4:MIB: Homens de Preto Internacional
+#DESCRIPTION MIB: Homens de Preto Internacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/abatalhaderiddick-dub-720p.mp4:A Batalha de Riddick
+#DESCRIPTION A Batalha de Riddick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/capitamarvel-dub-720p.mp4:Capitã Marvel
+#DESCRIPTION Capitã Marvel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/deualoucanosnazis2-leg-720p.mp4:Deu a Louca nos Nazis 2
+#DESCRIPTION Deu a Louca nos Nazis 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/johnwick3ts-dub-720p.mp4:John Wick 3 – Parabellum
+#DESCRIPTION John Wick 3 – Parabellum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/aultimaresistencia-dub-720p.mp4:A Última Resistência
+#DESCRIPTION A Última Resistência
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/coldpursuit-leg-720p.mp4:Vingança a Sangue Frio
+#DESCRIPTION Vingança a Sangue Frio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/devoltaparaofuturo3-dub-720p.mp4:De Volta Para o Futuro 3
+#DESCRIPTION De Volta Para o Futuro 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/buumblebee-dub-720p.mp4:Bumblebee
+#DESCRIPTION Bumblebee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/operacaofronteira-dub-720p.mp4:Operação Fronteira
+#DESCRIPTION Operação Fronteira
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/aquamanhd-dub-720p.mp4:Aquaman
+#DESCRIPTION Aquaman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/ohomemquematouhitlerpegrande-leg-720p.mp4:O Homem que Matou Hitler e Depois o Pé-Grande - L
+#DESCRIPTION O Homem que Matou Hitler e Depois o Pé-Grande - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/robinhood2018-leg-720p.mp4:Robin Hood – A Origem - L
+#DESCRIPTION Robin Hood – A Origem - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/creed2-dub-720p.mp4:Creed 2
+#DESCRIPTION Creed 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/furiaemaltomar-dub-720p.mp4:Fúria em Alto Mar
+#DESCRIPTION Fúria em Alto Mar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/overloard-leg-720p.mp4:Operação Overlord
+#DESCRIPTION Operação Overlord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/batmanomisteriodamulhermorcego-dub-720p.mp4:Batman: O Mistério da Mulher-Morcego
+#DESCRIPTION Batman: O Mistério da Mulher-Morcego
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/ligadajusticaalegiaodomal-dub-720p.mp4:Liga da Justiça – A Legião do Mal
+#DESCRIPTION Liga da Justiça – A Legião do Mal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/batmanocavaleirodegotham-dub-720p.mp4:Batman: O Cavaleiro de Gotham
+#DESCRIPTION Batman: O Cavaleiro de Gotham
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/batmancontraocapuzvermelho-dub-720p.mp4:Batman Contra o Capuz Vermelho
+#DESCRIPTION Batman Contra o Capuz Vermelho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/animacaobatmancavaleirodastrevasparte2-dub-720p.mp4:Batman: O Cavaleiro das Trevas, Parte 2
+#DESCRIPTION Batman: O Cavaleiro das Trevas, Parte 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/animacaobatmancavaleirodastrevasparte1-dub-720p.mp4:Batman: O Cavaleiro das Trevas, Parte 1
+#DESCRIPTION Batman: O Cavaleiro das Trevas, Parte 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/eraumavezdeadpool-leg-720p.mp4:Era uma Vez um Deadpool
+#DESCRIPTION Era uma Vez um Deadpool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/batmanapiadamortal-dub-720p.mp4:Batman: A Piada Mortal
+#DESCRIPTION Batman: A Piada Mortal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/solis-leg-720p.mp4:Solis - L
+#DESCRIPTION Solis - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/bravestorm-dub-720p.mp4:BraveStorm
+#DESCRIPTION BraveStorm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/pequenosespioes4-dub-720p.mp4:Pequenos Espiões 4
+#DESCRIPTION Pequenos Espiões 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/pequenosespioes3-dub-720p.mp4:Pequenos Espiões 3: Game Over
+#DESCRIPTION Pequenos Espiões 3: Game Over
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/pequenosespioes-dub-720p.mp4:Pequenos Espiões
+#DESCRIPTION Pequenos Espiões
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/cowboysealiens-dub-720p.mp46:Cowboys &amp; Aliens
+#DESCRIPTION Cowboys &amp; Aliens
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/peppermint-leg-720p.mp4:A Justiceira - L
+#DESCRIPTION A Justiceira - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/venom-dub-720p.mp4:Venom
+#DESCRIPTION Venom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/meuexeumespiao-dub-720p.mp4:Meu Ex É um Espião
+#DESCRIPTION Meu Ex É um Espião
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/opredador2018-dub-720p.mp4:O Predador
+#DESCRIPTION O Predador
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/missaoimpossivelefeitofallout-dub-720p.mp4:Missão Impossível – Efeito Fallout
+#DESCRIPTION Missão Impossível – Efeito Fallout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/showdogs-leg-720p.mp4:Show Dogs - L
+#DESCRIPTION Show Dogs - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/bleachmovie-dub-720p.mp4:Bleach
+#DESCRIPTION Bleach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/homemformigaevespa-dub-720p.mp4:Homem-Formiga e a Vespa
+#DESCRIPTION Homem-Formiga e a Vespa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/sicariodayofsoldier-leg-720p.mp4:Sicário: Dia do Soldado - L
+#DESCRIPTION Sicário: Dia do Soldado - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/themegnew-dub-720p.mp4:Megatubarão
+#DESCRIPTION Megatubarão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/jurassikworld2-dub-480p.mp4:Jurassic World: Reino Ameaçado
+#DESCRIPTION Jurassic World: Reino Ameaçado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/avengers2new-dub-720p.mp4:Vingadores: Guerra Infinita
+#DESCRIPTION Vingadores: Guerra Infinita
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/deadpool2novo-dub-720p.mp4:Deadpool 2
+#DESCRIPTION Deadpool 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/ocarmadeumassassino-dub-720p.mp4:O Carma de um Assassino
+#DESCRIPTION O Carma de um Assassino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/tombraiderorigem-dub-720p.mp46:Tomb Raider – A Origem
+#DESCRIPTION Tomb Raider – A Origem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/deathwish-leg-720p.mp4:Desejo de Matar - L
+#DESCRIPTION Desejo de Matar - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/jogadornumeroum-dub-720p.mp4:Jogador Nº1
+#DESCRIPTION Jogador Nº1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/blackpanther-dub-720p.mp4:Pantera Negra
+#DESCRIPTION Pantera Negra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/batmanninja-leg-720p.mp4:Batman Ninja - L
+#DESCRIPTION Batman Ninja - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/thehurriceheist-leg-720p.mp4:No Olho do Furacão - L
+#DESCRIPTION No Olho do Furacão - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/esquadraosuicidaacertodecontas-dub-720p.mp4:Esquadrão Suicida: Acerto de Contas
+#DESCRIPTION Esquadrão Suicida: Acerto de Contas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/4108-the-transporter.mp4:Carga Explosiva
+#DESCRIPTION Carga Explosiva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/9654-the-italian-job.mp4:Uma Saída de Mestre
+#DESCRIPTION Uma Saída de Mestre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/10851-revolver.mp4:Revólver
+#DESCRIPTION Revólver
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/10431-war.mp4:Rogue – O Assassino
+#DESCRIPTION Rogue – O Assassino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/345940-meg.mp4:Megatubarão
+#DESCRIPTION Megatubarão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1948-crank.mp4:Adrenalina
+#DESCRIPTION Adrenalina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/A.Pantera.Cor.de.Rosa.2006.720p.Dual-WOLVERDONFILMES.COM.mkv.mp4:A Pantera Cor-de-Rosa
+#DESCRIPTION A Pantera Cor-de-Rosa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/100-lock-stock-and-two-smoking-barrels.mp4:Jogos, Trapaças e Dois Canos Fumegantes
+#DESCRIPTION Jogos, Trapaças e Dois Canos Fumegantes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9335-transporter-2.mp4:Carga Explosiva 2
+#DESCRIPTION Carga Explosiva 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/954-mission-impossible.mp4:Missão: Impossível - D
+#DESCRIPTION Missão: Impossível - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/955-mission-impossible-ii.mp4:Missão: Impossível 2 - D
+#DESCRIPTION Missão: Impossível 2 - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/956-mission-impossible-iii.mp4:Missão: Impossível 3 - D
+#DESCRIPTION Missão: Impossível 3 - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/353081-mission-impossible-fallout.mp4:Missão Impossível – Efeito Fallout - D
+#DESCRIPTION Missão Impossível – Efeito Fallout - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/11205.mp4:Detonando em Barcelona - D
+#DESCRIPTION Detonando em Barcelona - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/45408-the-protector.mp4:A Fúria do Protetor - D
+#DESCRIPTION A Fúria do Protetor - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/6038-shanghai-knights.mp4:Bater ou Correr em Londres - D
+#DESCRIPTION Bater ou Correr em Londres - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/8697.mp4:Quem Sou Eu? - D
+#DESCRIPTION Quem Sou Eu? - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/5174-rush-hour-3.mp4:A Hora do Rush 3 - D
+#DESCRIPTION A Hora do Rush 3 - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/10204-around-the-world-in-80-days.mp4:Volta ao Mundo em 80 Dias – Uma Aposta Muito Louca - D
+#DESCRIPTION Volta ao Mundo em 80 Dias – Uma Aposta Muito Louca - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/2109-rush-hour.mp4:A Hora do Rush - D
+#DESCRIPTION A Hora do Rush - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/25676-bo-bui-gai-wak.mp4:Três Ladrões e Um Bebê - D
+#DESCRIPTION Três Ladrões e Um Bebê - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/21521-a.mp4:Projeto China 2 – A Vingança - D
+#DESCRIPTION Projeto China 2 – A Vingança - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/180-minority-report.mp4:Minority Report: A Nova Lei
+#DESCRIPTION Minority Report: A Nova Lei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10622.mp4:Nice Guy – Bom de Briga - D
+#DESCRIPTION Nice Guy – Bom de Briga - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/12207.mp4:O Mestre Invencível 2
+#DESCRIPTION O Mestre Invencível 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/5175-rush-hour-2.mp4:A Hora do Rush 2 - D
+#DESCRIPTION A Hora do Rush 2 - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/A.Hist%C3%B3ria.Sem.Fim.2.1990.1080p.Dual.BrRip.x264.1046.mkv.mp4:A Hora do Acerto - D
+#DESCRIPTION A Hora do Acerto - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/Bater%20ou%20Correr.(2000).Dublado.720p.By.Luan.Harper.TPF.mp4:Bater ou Correr - D
+#DESCRIPTION Bater ou Correr - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O%20Terno%20de%20Dois%20Bilh%C3%B5es%20de%20D%C3%B3lares%20(2002)%205.1%20CH%20Dublado%20720p%20(By-LuanHarper).mp4:O Terno de 2 Bilhões de Dólares - D
+#DESCRIPTION O Terno de 2 Bilhões de Dólares - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/Arrebentando%20em%20Nova%20York%20(1995)%20BRrip%20Blu-Ray%20720p%20Dublado%20Dat2015.mp4:Arrebentando em Nova York - D
+#DESCRIPTION Arrebentando em Nova York - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O%20Mestre%20Invenc%C3%ADvel%20(1978)%20BRrip%20Blu-Ray%20720p%20Dublado%20Dat2015.mp4p:O Mestre Invencível - D
+#DESCRIPTION O Mestre Invencível - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O%20Jovem%20Mestre%20do%20Kung%20Fu%20(1980)%20BRrip%20Blu-Ray%20720p%20Dublado%20-%20Dat2015.mp4:O Jovem Mestre do Kung Fu - D
+#DESCRIPTION O Jovem Mestre do Kung Fu - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10348.mp4:Thunderbolt – Ação Sobre Rodas - D
+#DESCRIPTION Thunderbolt – Ação Sobre Rodas - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10975.mp4:Operação Condor - D
+#DESCRIPTION Operação Condor - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/16806-johnny-dangerously.mp4:Johnny, O Gangster
+#DESCRIPTION Johnny, O Gangster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1927-hulk.mp4:Hulk
+#DESCRIPTION Hulk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10428-hackers.mp4:Hackers – Piratas de Computador
+#DESCRIPTION Hackers – Piratas de Computador
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10222-kickboxer.mp4:Kickboxer – O Desafio do Dragão
+#DESCRIPTION Kickboxer – O Desafio do Dragão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9972-lock-up.mp4:Condenação Brutal
+#DESCRIPTION Condenação Brutal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9882-the-siege.mp4:Nova York Sitiada
+#DESCRIPTION Nova York Sitiada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9693-children-of-men.mp4:Filhos da Esperança
+#DESCRIPTION Filhos da Esperança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9659-mad-max.mp4:Mad Max
+#DESCRIPTION Mad Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9644-national-lampoon-s-loaded-weapon-1.mp4:Máquina Quase Mortífera
+#DESCRIPTION Máquina Quase Mortífera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9569-hard-to-kill.mp4:Difícil de Matar
+#DESCRIPTION Difícil de Matar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9567-tears-of-the-sun.mp4:Lágrimas do Sol
+#DESCRIPTION Lágrimas do Sol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9395-above-the-law.mp4:Nico – Acima da Lei
+#DESCRIPTION Nico – Acima da Lei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9355-mad-max-beyond-thunderdome.mp4:Mad Max: Além da Cúpula do Trovão
+#DESCRIPTION Mad Max: Além da Cúpula do Trovão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9334-the-scorpion-king.mp4:O Escorpião Rei
+#DESCRIPTION O Escorpião Rei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9053-doa-dead-or-alive.mp4:DOA: Vivo ou Morto
+#DESCRIPTION DOA: Vivo ou Morto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1571-live-free-or-die-hard.mp4:Duro de Matar 4.0
+#DESCRIPTION Duro de Matar 4.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9039-trapped.mp4:Encurralada
+#DESCRIPTION Encurralada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8810-mad-max-2.mp4:Mad Max: A Caçada Continua
+#DESCRIPTION Mad Max: A Caçada Continua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8592-dick-tracy.mp4:Dick Tracy
+#DESCRIPTION Dick Tracy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8337-they-live.mp4:Eles Vivem
+#DESCRIPTION Eles Vivem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/7299-equilibrium.mp4:Equilibrium
+#DESCRIPTION Equilibrium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/6479-i-am-legend.mp4:Eu Sou a Lenda
+#DESCRIPTION Eu Sou a Lenda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/605-the-matrix-revolutions.mp4:Matrix Revolutions
+#DESCRIPTION Matrix Revolutions
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/604-the-matrix-reloaded.mp4:Matrix Reloaded
+#DESCRIPTION Matrix Reloaded
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/603-the-matrix.mp4:Matrix
+#DESCRIPTION Matrix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/4824-the-jackal.mp4:O Chacal
+#DESCRIPTION O Chacal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/4474-my-super-ex-girlfriend.mp4:Minha Super Ex-Namorada
+#DESCRIPTION Minha Super Ex-Namorada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/4141-shoot-em-up.mp4:Mandando Bala
+#DESCRIPTION Mandando Bala
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/35854.mp4:Flashpoint
+#DESCRIPTION Flashpoint
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/2787-pitch-black.mp4:Eclipse Mortal
+#DESCRIPTION Eclipse Mortal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/27786-steel-dawn.mp4:Crepúsculo de Aço
+#DESCRIPTION Crepúsculo de Aço
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/26263-death-wish-4-the-crackdown.mp4:Desejo de Matar 4: Operação Crackdown
+#DESCRIPTION Desejo de Matar 4: Operação Crackdown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/24873-death-wish-3.mp4:Desejo de Matar 3
+#DESCRIPTION Desejo de Matar 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/22094-hard-times.mp4:Lutador de Rua
+#DESCRIPTION Lutador de Rua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/21733-fei-lung-mang-jeung.mp4:Dragões Para Sempre
+#DESCRIPTION Dragões Para Sempre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/2119-days-of-thunder.mp4:Dias de Trovão
+#DESCRIPTION Dias de Trovão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/2114-final-fantasy-the-spirits-within.mp4:Final Fantasy
+#DESCRIPTION Final Fantasy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/19124-blind-fury.mp4:Fúria Cega
+#DESCRIPTION Fúria Cega
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/18674-zhong-nan-hai-bao-biao.mp4:O Guarda-Costas em Ação
+#DESCRIPTION O Guarda-Costas em Ação
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1825-over-the-top.mp4:Falcão – O Campeão dos Campeões
+#DESCRIPTION Falcão – O Campeão dos Campeões
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/15860-lung-fu-moon.mp4:Dragon Tiger Gate
+#DESCRIPTION Dragon Tiger Gate
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/13154-showdown-in-little-tokyo.mp4:Massacre no Bairro Japonês
+#DESCRIPTION Massacre no Bairro Japonês
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/12481-tang-shan-da-xiong.mp4:O Dragão Chinês
+#DESCRIPTION O Dragão Chinês
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11690-bloodsport.mp4:O Grande Dragão Branco
+#DESCRIPTION O Grande Dragão Branco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11344.mp4:O Gosto da Vingança
+#DESCRIPTION O Gosto da Vingança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10173-marked-for-death.mp4:Marcado para a Morte
+#DESCRIPTION Marcado para a Morte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/98-gladiator.mp4:Gladiador
+#DESCRIPTION Gladiador
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/Blade%20Trinity%20720p%20-%20Filmes%20Beta.mp4:Blade: Trinity
+#DESCRIPTION Blade: Trinity
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/D%C3%A9j%C3%A0.Vu.2007.720p.WEB-DL.x264.DUAL.WWW.COMANDOTORRENTS.COM.mkv.mp4:Déjà Vu
+#DESCRIPTION Déjà Vu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O%20Especialista%20[1994]%20-%20BluRay%20720p%20Dublado.mkv.mp4:O Especialista
+#DESCRIPTION O Especialista
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/Kiss.of.the.dragon.2001.1080.bluray.x264.DTS.ComandoFilmes-PradO.mkv.mp4:O Beijo do Dragão
+#DESCRIPTION O Beijo do Dragão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O.Demolidor.1993.720p.BlUray.x264.DUAL-WWW.BLUDV.COM.mkv.mp4:O Demolidor
+#DESCRIPTION O Demolidor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/A.Hist%C3%B3ria.Sem.Fim.2.1990.1080p.Dual.BrRip.x264.1046.mkv.mp4:A Hora do Acerto
+#DESCRIPTION A Hora do Acerto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/2749-15-minutes.mp4:15 Minutos
+#DESCRIPTION 15 Minutos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/497370.mp4:O Rei das Drogas
+#DESCRIPTION O Rei das Drogas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9721-7-seconds.mp4:7 Segundos
+#DESCRIPTION 7 Segundos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9766-gridiron-gang.mp4:A Gangue está em Campo
+#DESCRIPTION A Gangue está em Campo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/12207.mp4:O Mestre Invencível 2
+#DESCRIPTION O Mestre Invencível 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10622.mp4:Mr. Nice Guy – Bom de Briga
+#DESCRIPTION Mr. Nice Guy – Bom de Briga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/8982.mp4:O Protetor - D
+#DESCRIPTION O Protetor - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9384-starsky-hutch.mp4:Starsky &amp; Hutch – Justiça em Dobro - D
+#DESCRIPTION Starsky &amp; Hutch – Justiça em Dobro - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9414-the-man-who-knew-too-little.mp4:O Homem que Sabia de Menos - D
+#DESCRIPTION O Homem que Sabia de Menos - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/942-lethal-weapon-2.mp4:Máquina Mortífera 2 - D
+#DESCRIPTION Máquina Mortífera 2 - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9481-the-bone-collector.mp4:O Colecionador de Ossos - D
+#DESCRIPTION O Colecionador de Ossos - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9533-red-dragon.mp4:Dragão Vermelho - D
+#DESCRIPTION Dragão Vermelho - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/388-inside-man.mp4:O Plano Perfeito
+#DESCRIPTION O Plano Perfeito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/36593-the-naked-gun-33-the-final-insult.mp4:Corra que a Polícia Vem Aí! 33?: O Insulto Final
+#DESCRIPTION Corra que a Polícia Vem Aí! 33?: O Insulto Final
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/34746-death-wish-v-the-face-of-death.mp4:Desejo de Matar 5: A Face da Morte
+#DESCRIPTION Desejo de Matar 5: A Face da Morte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/278-the-shawshank-redemptionm.mp4:Um Sonho de Liberdade
+#DESCRIPTION Um Sonho de Liberdade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/275-fargo.mp4:Fargo: Uma Comédia de Erros
+#DESCRIPTION Fargo: Uma Comédia de Erros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/274-the-silence-of-the-lambs.mp4:O Silêncio dos Inocentes
+#DESCRIPTION O Silêncio dos Inocentes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/214-saw-iii.mp4:Jogos Mortais III
+#DESCRIPTION Jogos Mortais III
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/187-sin-city.mp4:Sin City: A Cidade do Pecado
+#DESCRIPTION Sin City: A Cidade do Pecado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/176-saw.mp4:Jogos Mortais
+#DESCRIPTION Jogos Mortais
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1637-speed.mp4:Velocidade Máxima
+#DESCRIPTION Velocidade Máxima
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/8982.mp4:O Protetor
+#DESCRIPTION O Protetor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9384-starsky-hutch.mp4:Starsky &amp; Hutch – Justiça em Dobro
+#DESCRIPTION Starsky &amp; Hutch – Justiça em Dobro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9414-the-man-who-knew-too-little.mp4:O Homem que Sabia de Menos
+#DESCRIPTION O Homem que Sabia de Menos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/942-lethal-weapon-2.mp4:Máquina Mortífera 2
+#DESCRIPTION Máquina Mortífera 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9481-the-bone-collector.mp4:O Colecionador de Ossos
+#DESCRIPTION O Colecionador de Ossos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9910-two-for-the-money.mp4:Tudo por Dinheiro
+#DESCRIPTION Tudo por Dinheiro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1538-collateral.mp4:Colateral
+#DESCRIPTION Colateral
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1359-american-psycho.mp4:Psicopata Americano
+#DESCRIPTION Psicopata Americano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1213-the-talented-mr-ripley.mp4:O Talentoso Ripley
+#DESCRIPTION O Talentoso Ripley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/116-match-point.mp4:Match Point – Ponto Final
+#DESCRIPTION Match Point – Ponto Final
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11185-see-no-evil-hear-no-evil.mp4:Cegos Surdos e Loucos
+#DESCRIPTION Cegos Surdos e Loucos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10975.mp4:Operação Condor
+#DESCRIPTION Operação Condor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10952-new-jack-city.mp4:New Jack City: A Gangue Brutal
+#DESCRIPTION New Jack City: A Gangue Brutal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/107-snatch.mp4:Snatch: Porcos e Diamantes
+#DESCRIPTION Snatch: Porcos e Diamantes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10345-k-9.mp4:K-9 – Um Policial Bom pra Cachorro
+#DESCRIPTION K-9 – Um Policial Bom pra Cachorro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10167-half-past-dead.mp4:No Corredor da Morte
+#DESCRIPTION No Corredor da Morte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/272-batman-begins.mp4:Batman Begins
+#DESCRIPTION Batman Begins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/984-dirty-harry.mp4:Perseguidor Implacável
+#DESCRIPTION Perseguidor Implacável
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9604-red-heat.mp4:Inferno Vermelho
+#DESCRIPTION Inferno Vermelho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/663-saw-iv.mp4:Jogos Mortais IV
+#DESCRIPTION Jogos Mortais IV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/5121-the-sugarland-express.mp4:Louca Escapada
+#DESCRIPTION Louca Escapada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/5-four-rooms.mp4:Grande Hotel
+#DESCRIPTION Grande Hotel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/16806-johnny-dangerously.mp4:Johnny, O Gangster
+#DESCRIPTION Johnny, O Gangster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1620-hitman.mp4:Hitman – Assassino 47
+#DESCRIPTION Hitman – Assassino 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9359-maverick.mp4:Maverick
+#DESCRIPTION Maverick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11969-tombstone.mp4:Tombstone
+#DESCRIPTION Tombstone
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/6609-keoma.mp4:Keoma
+#DESCRIPTION Keoma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9474-il-mio-nome-nessuno.mp4:Meu Nome é Ninguém
+#DESCRIPTION Meu Nome é Ninguém
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8879-pale-rider.mp4:O Cavaleiro Solitário
+#DESCRIPTION O Cavaleiro Solitário
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/576-the-wild-bunch.mp4:Meu Ódio Será Sua Herança
+#DESCRIPTION Meu Ódio Será Sua Herança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/27277-the-war-wagon.mp4:Gigantes em Luta
+#DESCRIPTION Gigantes em Luta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10891-tremors-4-the-legend-begins.mp4:O Ataque dos Vermes Malditos 4: O Começo da Lenda
+#DESCRIPTION O Ataque dos Vermes Malditos 4: O Começo da Lenda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10212-ravenous.mp4:Mortos de Fome
+#DESCRIPTION Mortos de Fome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/335-c-era-una-volta-il-west.mp4:Era uma Vez no Oeste
+#DESCRIPTION Era uma Vez no Oeste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O%20Trem%20do%20Inferno%20(1975)%20BRRip%20Blu-Ray%20720p%20Dublado%20Dat2014.mp4:O Trem do Inferno
+#DESCRIPTION O Trem do Inferno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/8487-wild-wild-west.mp4:As Loucas Aventuras de James West
+#DESCRIPTION As Loucas Aventuras de James West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/Bater%20ou%20Correr.(2000).Dublado.720p.By.Luan.Harper.TPF.mp4:Bater ou Correr
+#DESCRIPTION Bater ou Correr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/5176-3-10-to-yuma.mp4:Os Indomáveis
+#DESCRIPTION Os Indomáveis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cd1.azureedge.net/movies/cowboysealiens-dub-720p.mp4:Cowboys e aliens
+#DESCRIPTION Cowboys e aliens
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/33-unforgiven.mp4:Os Imperdoáveis
+#DESCRIPTION Os Imperdoáveis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/16608-the-proposition.mp4:A Proposta
+#DESCRIPTION A Proposta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/414018-damsel.mp4:Sob o Sol do Oeste
+#DESCRIPTION Sob o Sol do Oeste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/38450-the-last-hard-men.mp4:Os Últimos Machões
+#DESCRIPTION Os Últimos Machões
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1936-river-of-no-return.mp4:O Rio das Almas Perdidas
+#DESCRIPTION O Rio das Almas Perdidas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1969-bandidas.mp4:Bandidas
+#DESCRIPTION Bandidas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11967-young-guns.mp4:Os Jovens Pistoleiros
+#DESCRIPTION Os Jovens Pistoleiros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/492429-american-gunslingers.mp4:Pistoleiros: Vingança Sem Perdão
+#DESCRIPTION Pistoleiros: Vingança Sem Perdão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/537996-the-ballad-of-buster-scruggs.mp4:A Balada de Buster Scruggs
+#DESCRIPTION A Balada de Buster Scruggs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11509-silverado.mp4:Silverado
+#DESCRIPTION Silverado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11829-continuavano-a-chiamarlo-trinit.mp4:Trinity Ainda é Meu Nome
+#DESCRIPTION Trinity Ainda é Meu Nome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/14881-joe-kidd.mp4:Joe Kidd
+#DESCRIPTION Joe Kidd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/22201-gunfight-at-the-o-k-corral.mp4:Sem Lei e Sem Alma
+#DESCRIPTION Sem Lei e Sem Alma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/391-per-un-pugno-di-dollari.mp4:Por um Punhado de Dólares
+#DESCRIPTION Por um Punhado de Dólares
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/938-per-qualche-dollaro-in-pi.mp4:Por Uns Dólares a Mais
+#DESCRIPTION Por Uns Dólares a Mais
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/12106-the-quick-and-the-dead.mp4:Rápida e Mortal
+#DESCRIPTION Rápida e Mortal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/11853-bad-girls.mp4:Quatro Mulheres e Um Destino
+#DESCRIPTION Quatro Mulheres e Um Destino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/13503-texas-rangers.mp4:Texas Rangers – Acima da Lei
+#DESCRIPTION Texas Rangers – Acima da Lei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/3114-the-searchers.mp4:Rastros de Ódio
+#DESCRIPTION Rastros de Ódio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/429-il-buono-il-brutto-il-cattivo.mp4:Três Homens em Conflito
+#DESCRIPTION Três Homens em Conflito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/966-the-magnificent-seven.mp4:Sete Homens e Um Destino
+#DESCRIPTION Sete Homens e Um Destino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/6644-el-dorado.mp4:El Dorado
+#DESCRIPTION El Dorado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/6529-hondo.mp4:Caminhos Asperos
+#DESCRIPTION Caminhos Asperos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/6038-shanghai-knights.mp46:Bater ou Correr em Londres
+#DESCRIPTION Bater ou Correr em Londres
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/546388-any-bullet-will-do.mp4:O Último Duelo
+#DESCRIPTION O Último Duelo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/56431-una-pistola-per-ringo.mp4:A Pistol for Ringo
+#DESCRIPTION A Pistol for Ringo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/2362-westworld.mp4:Westworld – Onde Ninguém Tem Alma
+#DESCRIPTION Westworld – Onde Ninguém Tem Alma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/30708-cahill-u-s-marshal.mp4:Cahill, Xerife do Oeste
+#DESCRIPTION Cahill, Xerife do Oeste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/21866-bronco-billy.mp4:Bronco Billy
+#DESCRIPTION Bronco Billy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/163907-the-villain.mp4:Cactus Jack, o Vilão
+#DESCRIPTION Cactus Jack, o Vilão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/455675-hickok.mp4:A Lenda de Wild Bill Hickok
+#DESCRIPTION A Lenda de Wild Bill Hickok
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/453807-justice.mp4:Justiça – Entre a Lei e a Vingança
+#DESCRIPTION Justiça – Entre a Lei e a Vingança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/398265-traded.mp4:Resgate no Oeste
+#DESCRIPTION Resgate no Oeste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/338766-hell-or-high-water.mp4:A Qualquer Custo
+#DESCRIPTION A Qualquer Custo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/4233-scream-2.mp4:Pânico 2
+#DESCRIPTION Pânico 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/36647-blade.mp4:Blade – O Caçador de Vampiros
+#DESCRIPTION Blade – O Caçador de Vampiros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/3602-i-ll-always-know-what-you-did-last-summer.mp4:Eu Sempre Vou Saber o que Vocês Fizeram no Verão Passado
+#DESCRIPTION Eu Sempre Vou Saber o que Vocês Fizeram no Verão Passado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/35977-pumpkinhead-2-blood-wings.mp4:Pumpkinhead – O Retorno
+#DESCRIPTION Pumpkinhead – O Retorno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/274-the-silence-of-the-lambs.mp4:O Silêncio dos Inocentes
+#DESCRIPTION O Silêncio dos Inocentes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/26954-puppet-master-ii.mp4:O Mestre dos Brinquedos
+#DESCRIPTION O Mestre dos Brinquedos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/214-saw-iii.mp4:Jogos Mortais III
+#DESCRIPTION Jogos Mortais III
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1975-the-grudge-2.mp4:O Grito 2
+#DESCRIPTION O Grito 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1933-the-others.mp4:Os Outros
+#DESCRIPTION Os Outros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/8913-pet-sematary.mp4:Cemitério Maldito
+#DESCRIPTION Cemitério Maldito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/928-gremlins-2-the-new-batch.mp4:Gremlins 2: A Nova Geração
+#DESCRIPTION Gremlins 2: A Nova Geração
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9362-tremors.mp4:O Ataque dos Vermes Malditos
+#DESCRIPTION O Ataque dos Vermes Malditos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9457-deep-rising.mp4:Tentáculos
+#DESCRIPTION Tentáculos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9885-wolf-creek.mp4:Wolf Creek – Viagem ao Inferno
+#DESCRIPTION Wolf Creek – Viagem ao Inferno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/12583-ginger-snaps-back-the-beginning.mp4:Ginger Snaps Back: The Beginning
+#DESCRIPTION Ginger Snaps Back: The Beginning
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11460-red-eye.mp4:Voo Noturno
+#DESCRIPTION Voo Noturno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10984-valentine.mp4:O Dia do Terror
+#DESCRIPTION O Dia do Terror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10906-pet-sematary-ii.mp4:Cemitério Maldito II
+#DESCRIPTION Cemitério Maldito II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10361-ginger-snaps-2-unleashed.mp4:Possuída 2: Força Incontrolável
+#DESCRIPTION Possuída 2: Força Incontrolável
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10206-buffy-the-vampire-slayer.mp4:Buffy, a Caça Vampiros
+#DESCRIPTION Buffy, a Caça Vampiros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10166-the-witches.mp4:Convenção das Bruxas
+#DESCRIPTION Convenção das Bruxas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10166-the-witches.mp4:Os Esquecidos
+#DESCRIPTION Os Esquecidos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9825-lake-placid.mp4:Pânico no lago
+#DESCRIPTION Pânico no lago
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10961-behind-the-mask-the-rise-of-leslie-vernon.mp4:Por Trás da Máscara – O Surgimento de Leslie Vernon
+#DESCRIPTION Por Trás da Máscara – O Surgimento de Leslie Vernon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11428-sleepwalkers.mp4:Sonâmbulos
+#DESCRIPTION Sonâmbulos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/37865-buried-alive.mp4:Sepultado Vivo
+#DESCRIPTION Sepultado Vivo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9406-an-american-werewolf-in-paris.mp4:Um Lobisomem Americano em Paris
+#DESCRIPTION Um Lobisomem Americano em Paris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9906-the-ant-bully.mp4:Os Mensageiros
+#DESCRIPTION Os Mensageiros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/948-halloween.mp4:Halloween – A Noite do Terror
+#DESCRIPTION Halloween – A Noite do Terror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/927-gremlins.mp4:Gremlins
+#DESCRIPTION Gremlins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/663-saw-iv.mp4:Jogos Mortais IV
+#DESCRIPTION Jogos Mortais IV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/37973.mp4:Espíritos 2 Você nunca está sozinho
+#DESCRIPTION Espíritos 2 Você nunca está sozinho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/215-saw-ii.mp4:Jogos Mortais II
+#DESCRIPTION Jogos Mortais II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/2082-halloween.mp4:Halloween – O Início
+#DESCRIPTION Halloween – O Início
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/14001-dead-silence.mp4:Gritos Mortais
+#DESCRIPTION Gritos Mortais
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1248-hannibal-rising.mp4:Hannibal – A Origem do Mal
+#DESCRIPTION Hannibal – A Origem do Mal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11361-halloween-5-the-revenge-of-michael-myers.mp4:Halloween 5 – A Vingança de Michael Myers
+#DESCRIPTION Halloween 5 – A Vingança de Michael Myers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11357-halloween-4-the-return-of-michael-myers.mp4:Halloween 4 – O Retorno de Michael Myers
+#DESCRIPTION Halloween 4 – O Retorno de Michael Myers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11281-halloween-ii.mp4:Halloween II – O Pesadelo Continua
+#DESCRIPTION Halloween II – O Pesadelo Continua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10987-halloween-the-curse-of-michael-myers.mp4:Halloween 6 – A Última Vingança
+#DESCRIPTION Halloween 6 – A Última Vingança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10676-halloween-iii-season-of-the-witch.mp4:Halloween III – A Noite das Bruxas
+#DESCRIPTION Halloween III – A Noite das Bruxas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9645-ghost-ship.mp4:Navio Fantasma
+#DESCRIPTION Navio Fantasma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9272-the-good-son.mp4:O Anjo Malvado
+#DESCRIPTION O Anjo Malvado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/924-dawn-of-the-dead.mp4:Madrugada dos Mortos
+#DESCRIPTION Madrugada dos Mortos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8619-master-and-commander-the-far-side-of-the-world.mp4:O Exorcismo de Emily Rose
+#DESCRIPTION O Exorcismo de Emily Rose
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8408-day-of-the-dead.mp4:Dia dos Mortos
+#DESCRIPTION Dia dos Mortos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/6479-i-am-legend.mp4:Eu Sou a Lenda
+#DESCRIPTION Eu Sou a Lenda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/6466-freddy-vs-jason.mp4:Freddy vs Jason
+#DESCRIPTION Freddy vs Jason
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/573-frenzy.mp4:Frenesi
+#DESCRIPTION Frenesi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/5680-elvira-mistress-of-the-dark.mp4:Elvira: A Rainha das Trevas
+#DESCRIPTION Elvira: A Rainha das Trevas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/4970-gothika.mp4:Na Companhia do Medo
+#DESCRIPTION Na Companhia do Medo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/25752-children-of-the-corn-666-isaac-s-return.mp4:Colheita Maldita 666: Isaac Está de Volta
+#DESCRIPTION Colheita Maldita 666: Isaac Está de Volta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/25751-children-of-the-corn-v-fields-of-terror.mp4:Colheita Maldita 5: Campos do Terror
+#DESCRIPTION Colheita Maldita 5: Campos do Terror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/25750-children-of-the-corn-iv-the-gathering.mp4:Colheita Maldita 4
+#DESCRIPTION Colheita Maldita 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/25748-children-of-the-corn-ii-the-final-sacrifice.mp4:Colheita Maldita 2: O Sacrifício Final
+#DESCRIPTION Colheita Maldita 2: O Sacrifício Final
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/24655-the-car.mp4:O Carro – A Máquina do Diabo
+#DESCRIPTION O Carro – A Máquina do Diabo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/170-28-days-later.mp4:Extermínio
+#DESCRIPTION Extermínio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/458723-us.mp4:Nós
+#DESCRIPTION Nós
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/13025-diary-of-the-dead.mp4:Diário dos Mortos
+#DESCRIPTION Diário dos Mortos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/13006-split-second.mp4:O Destruidor
+#DESCRIPTION O Destruidor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11974-the-burbs.mp4:Meus Vizinhos São um Terror
+#DESCRIPTION Meus Vizinhos São um Terror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11880-dog-soldiers.mp4:Dog Soldiers – Cães de Caça
+#DESCRIPTION Dog Soldiers – Cães de Caça
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11249-seed-of-chucky.mp4:O Filho de Chucky
+#DESCRIPTION O Filho de Chucky
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10891-tremors-4-the-legend-begins.mp4:O Ataque dos Vermes Malditos 4: O Começo da Lenda
+#DESCRIPTION O Ataque dos Vermes Malditos 4: O Começo da Lenda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10829-tremors-3-back-to-perfection.mp4:O Ataque dos Vermes Malditos 3
+#DESCRIPTION O Ataque dos Vermes Malditos 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10216-species-ii.mp4:Experiência II – A Mutação
+#DESCRIPTION Experiência II – A Mutação
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10127-critters-2.mp4:Criaturas 2
+#DESCRIPTION Criaturas 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/157433-pet-sematary.mp4:Cemitério Maldito
+#DESCRIPTION Cemitério Maldito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/cam/533642-child-s-play.mp4:Brinquedo Assassino
+#DESCRIPTION Brinquedo Assassino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10212-ravenous.mp4:Mortos de Fome
+#DESCRIPTION Mortos de Fome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9946-end-of-days.mp4:Fim dos Dias
+#DESCRIPTION Fim dos Dias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/535581-the-dead-don-t-die.mp4:Os Mortos Não Morrem
+#DESCRIPTION Os Mortos Não Morrem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/532635-the-golem.mp4:A Lenda do Golem
+#DESCRIPTION A Lenda do Golem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/361292-suspiria.mp4:Suspíria: A Dança do Medo
+#DESCRIPTION Suspíria: A Dança do Medo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/cam/521029-annabelle-comes-home.mp4:Annabelle 3: De Volta Para Casa
+#DESCRIPTION Annabelle 3: De Volta Para Casa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/4257-scary-movie-4.mp4:Todo Mundo em Pânico 4
+#DESCRIPTION Todo Mundo em Pânico 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/4247-scary-movie.mp4:Todo Mundo em Pânico
+#DESCRIPTION Todo Mundo em Pânico
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/3989-team-america-world-police.mp4:Team America – Detonando o Mundo
+#DESCRIPTION Team America – Detonando o Mundo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/36593-the-naked-gun-33-the-final-insult.mp4:Corra que a Polícia Vem Aí! 33?: O Insulto Final
+#DESCRIPTION Corra que a Polícia Vem Aí! 33?: O Insulto Final
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/2978-ghostbusters-ii.mp4:Os Caça-Fantasmas 2
+#DESCRIPTION Os Caça-Fantasmas 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/293660-deadpool.mp4:Deadpool
+#DESCRIPTION Deadpool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/28597-problem-child-2.mp4:O Pestinha 2
+#DESCRIPTION O Pestinha 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/2436-double-dragon.mp4:Double Dragon
+#DESCRIPTION Double Dragon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/2332-taxi-2.mp4:Taxi 2
+#DESCRIPTION Taxi 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/2293-mallrats.mp4:Barrados no Shopping
+#DESCRIPTION Barrados no Shopping
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/2110-wasabi.mp4:Wasabi
+#DESCRIPTION Wasabi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1832-dogma.mp4:Dogma
+#DESCRIPTION Dogma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1824-50-first-dates.mp4:Como Se Fosse a Primeira Vez
+#DESCRIPTION Como Se Fosse a Primeira Vez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1819-you-me-and-dupree.mp4:Dois é Bom, Três é Demais
+#DESCRIPTION Dois é Bom, Três é Demais
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/17379-last-holiday.mp4:As Férias da Minha Vida
+#DESCRIPTION As Férias da Minha Vida
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/165-back-to-the-future-part-ii.mp4:De Volta para o Futuro 2
+#DESCRIPTION De Volta para o Futuro 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1636-bedazzled.mp4:Endiabrado
+#DESCRIPTION Endiabrado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/8920-garfield.mp4:Garfield – O Filme
+#DESCRIPTION Garfield – O Filme
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/928-gremlins-2-the-new-batch.mp4:Gremlins 2: A Nova Geração
+#DESCRIPTION Gremlins 2: A Nova Geração
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9339-click.mp4:Click
+#DESCRIPTION Click
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9359-maverick.mp4:Maverick
+#DESCRIPTION Maverick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9384-starsky-hutch.mp4:Starsky &amp; Hutch – Justiça em Dobro
+#DESCRIPTION Starsky &amp; Hutch – Justiça em Dobro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9397-evolution.mp4:Evolução
+#DESCRIPTION Evolução
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9414-the-man-who-knew-too-little.mp4:O Homem que Sabia de Menos
+#DESCRIPTION O Homem que Sabia de Menos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9416-money-talks.mp4:Tudo Por Dinheiro
+#DESCRIPTION Tudo Por Dinheiro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/942-lethal-weapon-2.mp4:Máquina Mortífera 2
+#DESCRIPTION Máquina Mortífera 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9472-dodgeball-a-true-underdog-story.mp4:Com a Bola Toda
+#DESCRIPTION Com a Bola Toda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9593-last-action-hero.mp4:O Último Grande Herói
+#DESCRIPTION O Último Grande Herói
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9607-super-mario-bros.mp4:Super Mario Bros.
+#DESCRIPTION Super Mario Bros.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9718-talladega-nights-the-ballad-of-ricky-bobby.mp4:Ricky Bobby – A Toda Velocidade
+#DESCRIPTION Ricky Bobby – A Toda Velocidade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10157-police-academy-2-their-first-assignment.mp4:Loucademia de Polícia 2: A Primeira Missão
+#DESCRIPTION Loucademia de Polícia 2: A Primeira Missão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10587-police-academy-4-citizens-on-patrol.mp4:Loucademia de Polícia 4: O Cidadão se Defende
+#DESCRIPTION Loucademia de Polícia 4: O Cidadão se Defende
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/K-911%20Um%20Policial%20Bom%20pra%20Cachorro%202.1999.1080p.BluRay.x264.mkv.mp4:K-911: Um Policial Bom Pra Cachorro 2
+#DESCRIPTION K-911: Um Policial Bom Pra Cachorro 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/37136-the-naked-gun-from-the-files-of-police-squad.mp4:Corra que a Polícia Vem Aí!
+#DESCRIPTION Corra que a Polícia Vem Aí!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10345-k-9.mp4:K-9 – Um Policial Bom pra Cachorro
+#DESCRIPTION K-9 – Um Policial Bom pra Cachorro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9778-serendipity.mp4:Escrito nas Estrelas
+#DESCRIPTION Escrito nas Estrelas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9820-the-parent-trap.mp4:Operação Cupido
+#DESCRIPTION Operação Cupido
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/513576-always-be-my-maybe.mp4:Meu Eterno Talvez
+#DESCRIPTION Meu Eterno Talvez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1542-office-space.mp4:Como Enlouquecer seu Chefe
+#DESCRIPTION Como Enlouquecer seu Chefe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/14239-cool-world.mp4:Mundo Proibido
+#DESCRIPTION Mundo Proibido
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/137-groundhog-day.mp4:Feitiço do Tempo
+#DESCRIPTION Feitiço do Tempo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/134-o-brother-where-art-thou.mp4:E Aí, Meu Irmão, Cadê Você?
+#DESCRIPTION E Aí, Meu Irmão, Cadê Você?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/12508-rock-star.mp4:Rock Star
+#DESCRIPTION Rock Star
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/12475-in-the-army-now.mp4:Um Maluco no Exército
+#DESCRIPTION Um Maluco no Exército
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/12187-heart-and-souls.mp4:Morrendo e Aprendendo
+#DESCRIPTION Morrendo e Aprendendo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/12139-dennis-the-menace.mp4:Dennis, O Pimentinha
+#DESCRIPTION Dennis, O Pimentinha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11774-lemony-snicket-s-a-series-of-unfortunate-events.mp4:Desventuras em Série
+#DESCRIPTION Desventuras em Série
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11637-are-we-there-yet.mp4:Querem Acabar Comigo
+#DESCRIPTION Querem Acabar Comigo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11469-black-knight.mp4:Loucuras na Idade Média
+#DESCRIPTION Loucuras na Idade Média
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11453-deuce-bigalow-european-gigolo.mp4:Gigolô Europeu por Acidente
+#DESCRIPTION Gigolô Europeu por Acidente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11185-see-no-evil-hear-no-evil.mp4:Cegos Surdos e Loucos
+#DESCRIPTION Cegos Surdos e Loucos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11024-scooby-doo-2-monsters-unleashed.mp4:Scooby-Doo 2 – Monstros à Solta
+#DESCRIPTION Scooby-Doo 2 – Monstros à Solta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11011-ri-hie-ri-h.mp4:Riquinho
+#DESCRIPTION Riquinho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10992-cats-dogs.mp4:Como Cães e Gatos
+#DESCRIPTION Como Cães e Gatos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10947-high-school-musical.mp4:High School Musical
+#DESCRIPTION High School Musical
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10830-matilda.mp4:Matilda
+#DESCRIPTION Matilda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10762-without-a-paddle.mp4:Totalmente sem Rumo
+#DESCRIPTION Totalmente sem Rumo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10607-don-t-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood.mp4:Vizinhança do Barulho
+#DESCRIPTION Vizinhança do Barulho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10312-patch-adams.mp4:Patch Adams – O Amor É Contagioso
+#DESCRIPTION Patch Adams – O Amor É Contagioso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10096-13-going-on-30.mp4:De Repente 30
+#DESCRIPTION De Repente 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10025-just-my-luck.mp4:Sorte no Amor
+#DESCRIPTION Sorte no Amor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/287947-shazam.mp4:Shazam!
+#DESCRIPTION Shazam!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10402-deuce-bigalow-male-gigolo.mp4:Gigolô por Acidente
+#DESCRIPTION Gigolô por Acidente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/13499-yours-mine-ours.mp4:Os Seus, os Meus e os Nossos
+#DESCRIPTION Os Seus, os Meus e os Nossos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1597-meet-the-parents.mp4:Entrando numa Fria
+#DESCRIPTION Entrando numa Fria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1909-don-juan-demarco.mp4:Don Juan De Marco
+#DESCRIPTION Don Juan De Marco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/6961-the-wedding-date.mp4:Muito Bem Acompanhada
+#DESCRIPTION Muito Bem Acompanhada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9285-road-trip.mp4:Caindo na Estrada
+#DESCRIPTION Caindo na Estrada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9595-hot-shots.mp4:Top Gang! – Ases Muito Loucos
+#DESCRIPTION Top Gang! – Ases Muito Loucos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9767-the-break-up.mp4:Separados pelo Casamento
+#DESCRIPTION Separados pelo Casamento
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::cdn13.vcdvideo.com
 #DESCRIPTION cdn13.vcdvideo.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn13.vcdvideo.com/71752-tr.mp4?st=Z2pt75IuBbTej3u5uBtSYg&amp;e=1527289519:O-It
 #DESCRIPTION O-It
@@ -421,7 +1250,7 @@
 #DESCRIPTION 2017
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn11.vcdvideo.com/166.mp4:2017
 #DESCRIPTION 2017
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::178.132.3.122:25461/movies2
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::178.132.3.122:25461/movies2
 #DESCRIPTION 178.132.3.122:25461/movies2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74626.mkv:Si Accettano Miracoli
 #DESCRIPTION Si Accettano Miracoli
@@ -11479,7 +12308,7 @@
 #DESCRIPTION Morgan Freeman Science Show S05 E04
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60117.mkv:Morgan Freeman Science Show S05 E05
 #DESCRIPTION Morgan Freeman Science Show S05 E05
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::SERIES_151.80.100.155
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::SERIES_151.80.100.155
 #DESCRIPTION SERIES_151.80.100.155
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/983.avi:s13 vikings S04E20 FINAL
 #DESCRIPTION s13 vikings S04E20 FINAL
@@ -13023,7 +13852,7 @@
 #DESCRIPTION s13 Viking S04E18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/982.avi:s13 Viking S04E19
 #DESCRIPTION s13 Viking S04E19
-#SERVICE 1:64:9F:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
+#SERVICE 1:64:A2:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/E6p0wL9k/index.m3u8:Becerikli Mandarin Bölüm 01
 #DESCRIPTION Becerikli Mandarin Bölüm 01
