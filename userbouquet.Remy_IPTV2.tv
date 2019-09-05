@@ -1,5 +1,5 @@
 #NAME **ReMy_PREMIUM_WORLD**
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8181/ntvspor.ts:1SPOR LİG TV HD
 #DESCRIPTION 1SPOR LİG TV HD
@@ -93,7 +93,7 @@
 #DESCRIPTION UD Las Palmas HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv3.streampulse.eu%3a1935/tilesport/movie1/playlist.m3u8:TILESPORT GREECE
 #DESCRIPTION TILESPORT GREECE
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8:ABC News
 #DESCRIPTION ABC News
@@ -181,7 +181,7 @@
 #DESCRIPTION SKY TG24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8:Voice of America
 #DESCRIPTION Voice of America
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★REMY | U.S.A_IPTV★★ ====
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★REMY | U.S.A_IPTV★★ ====
 #DESCRIPTION === ★★REMY | U.S.A_IPTV★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8:2UE Sydney
 #DESCRIPTION 2UE Sydney
@@ -409,8 +409,10 @@
 #DESCRIPTION Victoria’s Secret PINK CARPET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268111608911/VS_TLAA_Master_1600x900.mp4:Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
 #DESCRIPTION Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★ATRESMEDIA_ESPANOL★★ ====
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★ATRESMEDIA_ESPANOL★★ ====
 #DESCRIPTION === ★★ATRESMEDIA_ESPANOL★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
+#DESCRIPTION movie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8:7 HD
 #DESCRIPTION 7 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestartover.atresmedia.com/antena3/master.m3u8 :Antena 3 HD
@@ -547,7 +549,7 @@
 #DESCRIPTION Video calabria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8:Webcam OndaMadrid
 #DESCRIPTION Webcam OndaMadrid
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★EAST EUROPE | BALKAN★★ ====
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★EAST EUROPE | BALKAN★★ ====
 #DESCRIPTION === ★★EAST EUROPE | BALKAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.adunity.com/b1/b1.m3u8:B1
 #DESCRIPTION B1
@@ -737,7 +739,7 @@
 #DESCRIPTION Wau hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.51.131.28%3a8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8:YU PLANET
 #DESCRIPTION YU PLANET
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::GREECE
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::GREECE
 #DESCRIPTION GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv3.streampulse.eu%3a1935/tilesport/movie2/playlist.m3u8:ART GREECE
 #DESCRIPTION ART GREECE
@@ -771,7 +773,7 @@
 #DESCRIPTION VOULI
 #SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//streamer-cache.grnet.gr/parliament/hls/webtv.m3u8:Vouli TV
 #DESCRIPTION Vouli TV
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
 #DESCRIPTION === ★★ARABIA | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:Alhurra
 #DESCRIPTION Alhurra
@@ -837,7 +839,7 @@
 #DESCRIPTION Sama Dubai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ns8.indexforce.com%3a1935/alsharqiyalive/mystream/playlist.m3u8:Sharqiya News
 #DESCRIPTION Sharqiya News
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★REMY | WORLD★★ ====
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★REMY | WORLD★★ ====
 #DESCRIPTION === ★★REMY | WORLD★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.87.12.197%3a5555/udp/239.255.1.62%3a5004:KINO NOVA
 #DESCRIPTION KINO NOVA
@@ -1407,7 +1409,7 @@
 #DESCRIPTION WFGC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wfc.bonus-tv.ru%3a80/cdn/wfcint/tracks-v1a1/index.m3u8:World Fashion Channel International HD
 #DESCRIPTION World Fashion Channel International HD
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::_U K R A I N E_
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::_U K R A I N E_
 #DESCRIPTION _U K R A I N E_
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/1tvod/1tvod-abr/playlist.m3u8:1TV Odessa
 #DESCRIPTION 1TV Odessa
@@ -1517,7 +1519,7 @@
 #DESCRIPTION Громадське TV (Украина) [FHD]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4:Espreso TV
 #DESCRIPTION Espreso TV
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::__R U S S I A N__
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::__R U S S I A N__
 #DESCRIPTION __R U S S I A N__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/hdtest/index.m3u8:H1_HD
 #DESCRIPTION H1_HD
@@ -2035,7 +2037,7 @@
 #DESCRIPTION Эхо ТВ 24 (Новоуральск) +2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.ugratv.cdnvideo.ru/ugratv/smil%3augrastream1.smil/chunklist_b7192000.m3u8:Югра ТВ (Ханты-Мансийск) +2
 #DESCRIPTION Югра ТВ (Ханты-Мансийск) +2
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/43.stream/chunklist_w517754220.m3u8:BESİKTAS MEYDANI
 #DESCRIPTION BESİKTAS MEYDANI
@@ -2091,7 +2093,7 @@
 #DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_meydan/playlist.m3u8:Sivas Kent Meydanı
 #DESCRIPTION Sivas Kent Meydanı
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
 #DESCRIPTION === ★★FilmOn Tv-WebSocket★★ ===
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/1-on-1-boxing-tv:1-on-1-boxing-tv
 #DESCRIPTION 1-on-1-boxing-tv
@@ -2249,7 +2251,7 @@
 #DESCRIPTION ZDF INFOKANAL
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/zdfneo:ZDF Neo
 #DESCRIPTION ZDF Neo
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★WEBSOCKET | LIVE_UPDATE★★ ====
+#SERVICE 1:64:B0:0:0:0:0:0:0:0::=== ★★WEBSOCKET | LIVE_UPDATE★★ ====
 #DESCRIPTION === ★★WEBSOCKET | LIVE_UPDATE★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=KNKi99yKozg:beIN SPORTS HABER  ᴴᴰ
 #DESCRIPTION beIN SPORTS HABER  ᴴᴰ
