@@ -31,6 +31,10 @@
 #DESCRIPTION VISIT-X.tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/telepavia/mp4%3atelepavia/playlist.m3u8:TelePavia
 #DESCRIPTION TelePavia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/246r/parasite.install:XXX: Super One HD
+#DESCRIPTION XXX: Super One HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/214g/parasite.install:XXX: Zest TV
+#DESCRIPTION XXX: Zest TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigass.m3u8:RedTraffic Big Ass (18+)
 #DESCRIPTION RedTraffic Big Ass (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigdick.m3u8:RedTraffic Big Dick (18+)
@@ -1845,70 +1849,62 @@
 #DESCRIPTION Hot Club S01 E27
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/70375.mkv:Hot Club S01 E28
 #DESCRIPTION Hot Club S01 E28
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.13.108%3a12000/:=== ★★RUS MOVIE /adult★★ ====
-#DESCRIPTION === ★★RUS MOVIE /adult★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cld.pt/dl/download/8b0f6df5-0f61-4c76-b278-b7012732644e/Monica%20Doce%201.mp4
-#DESCRIPTION Monica Doce
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cld.pt/dl/download/15cb5b1c-600b-4fed-9ee2-98a52c3644bc/Monica%20Doce%204.mp4
-#DESCRIPTION Monica Doce 204
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/246r/parasite.install:XXX: Super One HD
-#DESCRIPTION XXX: Super One HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.5%3a10007/stolen/214g/parasite.install:XXX: Zest TV
-#DESCRIPTION XXX: Zest TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Femme-objet.mp4: Robot Woman (1980)
-#DESCRIPTION  Robot Woman (1980)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erozman.com/video-z8b/357.mp4: Catherine and her wild stallions 1 (1983)
-#DESCRIPTION  Catherine and her wild stallions 1 (1983)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erozman.com/video-z8b/8.mp4: Catherine and her wild stallions 2 (1983)
-#DESCRIPTION  Catherine and her wild stallions 2 (1983)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erozman.com/video-z8b/1314.mp4: Rasputin: Orgies at the royal court (1984)
-#DESCRIPTION  Rasputin: Orgies at the royal court (1984)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2212332/kaligula__bezumnyy_imperator.mp4: Caligula: Mad Emperor
-#DESCRIPTION  Caligula: Mad Emperor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/top/CappuccettoRosso.mp4: Erotic adventures of Little Red Riding Hood (1993)
-#DESCRIPTION  Erotic adventures of Little Red Riding Hood (1993)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1139244/marko_polo_polnometrazhnyy_film.mp4: Marco Polo (1994)
-#DESCRIPTION  Marco Polo (1994)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Marquisdesade.mp4: Marquis De Sade (1994)
-#DESCRIPTION  Marquis De Sade (1994)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1071778/alisa_v_strane_porno_chudes.mp4: Alice in Wonderland (1993)
-#DESCRIPTION  Alice in Wonderland (1993)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1635526/napoleon___s_perevodom.mp4: Napoleon (1996)
-#DESCRIPTION  Napoleon (1996)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erozman.com/video-z8b/1469.mp4: Snow White and the Seven Dwarfs (1996)
-#DESCRIPTION  Snow White and the Seven Dwarfs (1996)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2135702/antoniy_i_kleopatra.mp4: Anthony and Cleopatra (1997)
-#DESCRIPTION  Anthony and Cleopatra (1997)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1397721/belosnezhka__10_let_spustya.mp4: Snow White 10 years later (1999)
-#DESCRIPTION  Snow White 10 years later (1999)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1479496/biancaneve_i_sete_nani.mp4: Hot Fella and the Seven Dwarfs (1999)
-#DESCRIPTION  Hot Fella and the Seven Dwarfs (1999)
+#SERVICE 1:64:95:0:0:0:0:0:0:0::=== ★★RUS_MOVIE | ADULT-SERVER★★ ====
+#DESCRIPTION === ★★RUS_MOVIE | ADULT-SERVER★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Femme-objet.mp4:Robot Woman (1980)
+#DESCRIPTION Robot Woman (1980)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erozman.com/video-z8b/357.mp4:Catherine and her wild stallions 1 (1983)
+#DESCRIPTION Catherine and her wild stallions 1 (1983)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erozman.com/video-z8b/8.mp4:Catherine and her wild stallions 2 (1983)
+#DESCRIPTION Catherine and her wild stallions 2 (1983)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erozman.com/video-z8b/1314.mp4:Rasputin: Orgies at the royal court (1984)
+#DESCRIPTION Rasputin: Orgies at the royal court (1984)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2212332/kaligula__bezumnyy_imperator.mp4:Caligula: Mad Emperor
+#DESCRIPTION Caligula: Mad Emperor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/top/CappuccettoRosso.mp4:Erotic adventures of Little Red Riding Hood (1993)
+#DESCRIPTION Erotic adventures of Little Red Riding Hood (1993)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1139244/marko_polo_polnometrazhnyy_film.mp4:Marco Polo (1994)
+#DESCRIPTION Marco Polo (1994)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Marquisdesade.mp4:Marquis De Sade (1994)
+#DESCRIPTION Marquis De Sade (1994)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1071778/alisa_v_strane_porno_chudes.mp4:Alice in Wonderland (1993)
+#DESCRIPTION Alice in Wonderland (1993)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1635526/napoleon___s_perevodom.mp4:Napoleon (1996)
+#DESCRIPTION Napoleon (1996)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erozman.com/video-z8b/1469.mp4:Snow White and the Seven Dwarfs (1996)
+#DESCRIPTION Snow White and the Seven Dwarfs (1996)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2135702/antoniy_i_kleopatra.mp4:Anthony and Cleopatra (1997)
+#DESCRIPTION Anthony and Cleopatra (1997)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1397721/belosnezhka__10_let_spustya.mp4:Snow White 10 years later (1999)
+#DESCRIPTION Snow White 10 years later (1999)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1479496/biancaneve_i_sete_nani.mp4:Hot Fella and the Seven Dwarfs (1999)
+#DESCRIPTION Hot Fella and the Seven Dwarfs (1999)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/2000_let_lyubvi.mp4:КаNAL 33
 #DESCRIPTION КаNAL 33
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1666467/porno_film___master_i_margarita.mp4: Master and Margarita: Satan's Ball (2002)
-#DESCRIPTION  Master and Margarita: Satan's Ball (2002)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1506111/zolushka.mp4: Cinderella (2003)
-#DESCRIPTION  Cinderella (2003)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1666467/porno_film___master_i_margarita.mp4:Master and Margarita: Satan's Ball (2002)
+#DESCRIPTION Master and Margarita: Satan's Ball (2002)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1506111/zolushka.mp4:Cinderella (2003)
+#DESCRIPTION Cinderella (2003)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/top/Cleopatra.mp4:КаNAL 39
 #DESCRIPTION КаNAL 39
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/kleopatra_2_legenda_erosa.mp4: Cleopatra 2: Legend of Eros (2003)
-#DESCRIPTION  Cleopatra 2: Legend of Eros (2003)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pl.cpnbb.net/videos/210118_22/210118_22.m3u8: City of sex 1 (2006)
-#DESCRIPTION  City of sex 1 (2006)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pl.cpnbb.net/videos/210118_21/210118_21.m3u8: City of Sex 2 (2006)
-#DESCRIPTION  City of Sex 2 (2006)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pl.cpnbb.net/videos/210118_20/210118_20.m3u8: City of Sex 3 (2006)
-#DESCRIPTION  City of Sex 3 (2006)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2215178/eto_ne_ohotniki_za_privideniyami_hhh___2011__rus.mp4: Ghostbusters (2011)
-#DESCRIPTION  Ghostbusters (2011)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pl.cpnbb.net/videos/130917_20/130917_20.m3u8: Ghost (2012)
-#DESCRIPTION  Ghost (2012)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/files/2547669/zena__porno_parodiya_na_russkom__obnovleno_hd.mp4: Xena - Princess Warrior (2012)
-#DESCRIPTION  Xena - Princess Warrior (2012)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1116580/eto_ne_avatar.__avatar_hhh.mp4: Avatar (2012)
-#DESCRIPTION  Avatar (2012)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Ghostbusters.mp4: Ghostbusters (2016)
-#DESCRIPTION  Ghostbusters (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/kleopatra_2_legenda_erosa.mp4:Cleopatra 2: Legend of Eros (2003)
+#DESCRIPTION Cleopatra 2: Legend of Eros (2003)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pl.cpnbb.net/videos/210118_22/210118_22.m3u8:City of sex 1 (2006)
+#DESCRIPTION City of sex 1 (2006)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pl.cpnbb.net/videos/210118_21/210118_21.m3u8:City of Sex 2 (2006)
+#DESCRIPTION City of Sex 2 (2006)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pl.cpnbb.net/videos/210118_20/210118_20.m3u8:City of Sex 3 (2006)
+#DESCRIPTION City of Sex 3 (2006)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2215178/eto_ne_ohotniki_za_privideniyami_hhh___2011__rus.mp4:Ghostbusters (2011)
+#DESCRIPTION Ghostbusters (2011)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pl.cpnbb.net/videos/130917_20/130917_20.m3u8:Ghost (2012)
+#DESCRIPTION Ghost (2012)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/files/2547669/zena__porno_parodiya_na_russkom__obnovleno_hd.mp4:Xena - Princess Warrior (2012)
+#DESCRIPTION Xena - Princess Warrior (2012)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1116580/eto_ne_avatar.__avatar_hhh.mp4:Avatar (2012)
+#DESCRIPTION Avatar (2012)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Ghostbusters.mp4:Ghostbusters (2016)
+#DESCRIPTION Ghostbusters (2016)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ondemand.cechire.info%3a40970/movie/newport/ZUP3wTh3e7/9715.mkv:xxRaccontiNapoletanixx
 #DESCRIPTION xxRaccontiNapoletanixx
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ondemand.cechire.info%3a40970/movie/newport/ZUP3wTh3e7/9714.mkv:xxQuelGuardoneDiMioPadrexx
@@ -2083,6 +2079,10 @@
 #DESCRIPTION XXX Il Ritorno di Tony
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.13.108%3a12000/:=== ★★Index of /adulti★★ ====
 #DESCRIPTION === ★★Index of /adulti★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cld.pt/dl/download/8b0f6df5-0f61-4c76-b278-b7012732644e/Monica%20Doce%201.mp4:Monica Doce
+#DESCRIPTION Monica Doce
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cld.pt/dl/download/15cb5b1c-600b-4fed-9ee2-98a52c3644bc/Monica%20Doce%204.mp4:Monica Doce 204
+#DESCRIPTION Monica Doce 204
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.13.108%3a12000/adulti/1000.facial.mp4:1000.facial.mp4
 #DESCRIPTION 1000.facial.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.9.13.108%3a12000/adulti/11.04xxx.mp4:11.04xxx.mp4
@@ -2381,7 +2381,7 @@
 #DESCRIPTION Girls and Studs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4:Incesto 7
 #DESCRIPTION Incesto 7
-#SERVICE 1:64:95:0:0:0:0:0:0:0::MEGABOX TV-VOD
+#SERVICE 1:64:96:0:0:0:0:0:0:0::MEGABOX TV-VOD
 #DESCRIPTION MEGABOX TV-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4:As Panteras
 #DESCRIPTION As Panteras
