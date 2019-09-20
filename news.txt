@@ -1,10 +1,10 @@
        *☪️ ®ReMy EnigmaTurk TeaM ☪️*
+             ***★★20.09.2019★★***
+*IPTV_ChannelList UPDATE*
              ***★★18.09.2019★★***
 *FuLLKeyS UPDATE*	
              ***★★14.09.2019★★***
 *ReMy_SATELLITE_ChannelList UPDATE*
-             ***★★06.09.2019★★***
-*IPTV_ChannelList UPDATE*
              ***★★22.08.2019★★***
 *ReMyTeaM PLUGINI UPDATE*
              ***★★22.08.2019★★***
@@ -22,4 +22,5 @@ ____________________________________________________
               ®ReMy EnigmaTurk TeaM		
 MAİL:enigma2_teknik_servis@hotmail.com
 
-T
+ #Tandberg keys 
+T 
