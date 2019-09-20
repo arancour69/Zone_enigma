@@ -1865,23 +1865,23 @@ rtmp://stream.taksimbilisim.com/tv52/bant1
 rtmp://91.93.118.165/tempotv/livestream
 #EXTINF:-1 group-title="****((YEREL_TURKEY))****",KONYA KON TV
 http://yayin3.canlitv.com:1935/live/kontv/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",****((YETISKIN_ICERIK))****
-****((YETISKIN_ICERIK))****
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Jasmin TV (18+)
+#EXTINF:-1 parent-code="1234" group-title="****(("Adult TV Dorcel Tv"))****",****(("Adult TV Dorcel Tv"))****
+****(("Adult TV Dorcel Tv"))****
+#EXTINF:-1 parent-code="1234" group-title="****(("Adult TV Dorcel Tv"))****",Jasmin TV (18+)
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Jasmin TV HD (18+)
+#EXTINF:-1 parent-code="1234" group-title="****(("Adult TV Dorcel Tv"))****",Jasmin TV HD (18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Jasmin HD
+#EXTINF:-1 parent-code="1234" group-title="****(("Adult TV Dorcel Tv"))****",Jasmin HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",JASMIN TV
+#EXTINF:-1 parent-code="1234" group-title="****(("Adult TV Dorcel Tv"))****",JASMIN TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Miami TV
+#EXTINF:-1 parent-code="1234" group-title="****(("Adult TV Dorcel Tv"))****",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Miami TV
+#EXTINF:-1 parent-code="1234" group-title="****(("Adult TV Dorcel Tv"))****",Miami TV
 http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",VISIT-X TV
+#EXTINF:-1 parent-code="1234" group-title="****(("Adult TV Dorcel Tv"))****",VISIT-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",VISIT-X TV (18+)
+#EXTINF:-1 parent-code="1234" group-title="****(("Adult TV Dorcel Tv"))****",VISIT-X TV (18+)
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",TelePAVIA
+#EXTINF:-1 parent-code="1234" group-title="****(("Adult TV Dorcel Tv"))****",TelePAVIA
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
