@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="ULUSAL",ULUSAL
+ULUSAL 
+group-title="Adult TV",
 #EXTINF:-1 group-title="ULUSAL",ATV
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1 group-title="ULUSAL",KANAL D
