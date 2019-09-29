@@ -5,6 +5,12 @@
 <channel>
 <title><![CDATA[REMY_TURK-FILMLERI]]></title>
 <description></description>
+<playlist_url><![CDATA[https://github.com/PrivateTr/Zone_enigma/raw/master/ReMy-Youtube-Movie.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[REMY_TURK-FILMLERI]]></title>
+<description></description>
 <playlist_url><![CDATA[https://github.com/PrivateTr/Zone_enigma/raw/master/REMY-TURK-FILMLERI.xml]]></playlist_url>
 </channel>
 
