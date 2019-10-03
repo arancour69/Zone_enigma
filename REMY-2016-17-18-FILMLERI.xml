@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <items>
-  <playlist_name><![CDATA[OtoPortal - 6.6.2018 04:57:12]]></playlist_name>
-  <channel>
-    <title><![CDATA[ReMy_IpTvList.m3u]]></title>
-    <logo_30x30><![CDATA[https://pp.userapi.com/c836328/v836328707/323da/Wgl_wgtzo-U.jpg]]></logo_30x30>
-    <description><![CDATA[<img src='https://pp.userapi.com/c836328/v836328707/323d8/qNUnvB4TLhc.jpg'/>ReMyTeaM hazırlanmıştır.]]></description>
-    <stream_url><![CDATA[https://github.com/PrivateTr/Zone_enigma/raw/master/ReMy_IpTvList.m3u]]></stream_url>
-  </channel>
-  
+  <playlist_name><![CDATA[OtoPortal - 6.6.2018 04:57:12]]></playlist_name>  
   <channel>
     <title><![CDATA[Drifter.2016.720p.BRRip.x264.AAC-ETRG]]></title>
     <logo_30x30><![CDATA[https://pp.userapi.com/c836328/v836328707/323da/Wgl_wgtzo-U.jpg]]></logo_30x30>
