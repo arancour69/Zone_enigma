@@ -1,6 +1,6 @@
 #NAME **ReMy_TURKEY & VOD**
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
-#DESCRIPTION ==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
+#SERVICE 1:64:9C:0:0:0:0:0:0:0::==== â˜…â˜…REMY_ENIGMA|TURK_TEAMâ˜…â˜… ====
+#DESCRIPTION ==== â˜…â˜…REMY_ENIGMA|TURK_TEAMâ˜…â˜… ====
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/33/:KURAN MEAL
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
@@ -59,8 +59,8 @@
 #DESCRIPTION TRT TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8:TRT AVAZ
 #DESCRIPTION TRT AVAZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8:TRT ARAPÇA
-#DESCRIPTION TRT ARAPÇA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8:TRT ARAPÃ‡A
+#DESCRIPTION TRT ARAPÃ‡A
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8:TRT Kurdi
 #DESCRIPTION TRT Kurdi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wms.brtk.net%3a1935/live/BRTHD:BRT HD
@@ -69,8 +69,8 @@
 #DESCRIPTION MAKINE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8?wowzasessionid=1804484551?sd=0&rebase=on:KOY TV
 #DESCRIPTION KOY TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/aturknewstv/aturknewstv/playlist.m3u8:ATürk TV
-#DESCRIPTION ATürk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/aturknewstv/aturknewstv/playlist.m3u8:ATÃ¼rk TV
+#DESCRIPTION ATÃ¼rk TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//151.80.102.86/ciftcitv/bant1:CIFTCI TV
 #DESCRIPTION CIFTCI TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/ciftcitv/bant1:CIFTCI TV
@@ -161,8 +161,8 @@
 #DESCRIPTION Milliy TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch003_400/index.m3u8:Miras TV
 #DESCRIPTION Miras TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_400/index.m3u8:Türkmen Sport
-#DESCRIPTION Türkmen Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_400/index.m3u8:TÃ¼rkmen Sport
+#DESCRIPTION TÃ¼rkmen Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch007_400/index.m3u8:TURKMENISTAN
 #DESCRIPTION TURKMENISTAN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch005_400/index.m3u8:TURKMEN OWAZY
@@ -381,44 +381,44 @@
 #DESCRIPTION SEC IZLE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1996-lara-croft-tomb-raider-the-cradle-of-life.mp4:Tombstone
 #DESCRIPTION Tombstone
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10975.mp4:Operação Condor
-#DESCRIPTION Operação Condor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10975.mp4:OperaÃ§Ã£o Condor
+#DESCRIPTION OperaÃ§Ã£o Condor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11678-vertical-limit.mp4:Limite Vertical
 #DESCRIPTION Limite Vertical
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11228-daylight.mp4:Daylight
 #DESCRIPTION Daylight
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10762-without-a-paddle.mp4:Totalmente sem Rumo
 #DESCRIPTION Totalmente sem Rumo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10348.mp4:Thunderbolt - Ação Sobre Rodas
-#DESCRIPTION Thunderbolt - Ação Sobre Rodas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10348.mp4:Thunderbolt - AÃ§Ã£o Sobre Rodas
+#DESCRIPTION Thunderbolt - AÃ§Ã£o Sobre Rodas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10345-k-9.mp4:K-9 - Um Policial Bom pra Cachorro
 #DESCRIPTION K-9 - Um Policial Bom pra Cachorro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10206-buffy-the-vampire-slayer.mp4:Buffy  a Caça Vampiros
-#DESCRIPTION Buffy  a Caça Vampiros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10206-buffy-the-vampire-slayer.mp4:Buffy  a CaÃ§a Vampiros
+#DESCRIPTION Buffy  a CaÃ§a Vampiros
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10167-half-past-dead.mp4:No Corredor da Morte
 #DESCRIPTION No Corredor da Morte
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9825-lake-placid.mp4:Pânico no lago
-#DESCRIPTION Pânico no lago
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9825-lake-placid.mp4:PÃ¢nico no lago
+#DESCRIPTION PÃ¢nico no lago
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/287947-shazam.mp4:Shazam
 #DESCRIPTION Shazam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9335-transporter-2.mp4:Carga Explosiva 2
 #DESCRIPTION Carga Explosiva 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9595-hot-shots.mp4:Top Gang! – Ases Muito Loucos
-#DESCRIPTION Top Gang! – Ases Muito Loucos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9595-hot-shots.mp4:Top Gang! â€“ Ases Muito Loucos
+#DESCRIPTION Top Gang! â€“ Ases Muito Loucos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9920-ultraviolet.mp4:Ultravioleta
 #DESCRIPTION Ultravioleta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/272-batman-begins.mp4:Batman Begins
 #DESCRIPTION Batman Begins
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/984-dirty-harry.mp4:Perseguidor Implacável
-#DESCRIPTION Perseguidor Implacável
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/984-dirty-harry.mp4:Perseguidor ImplacÃ¡vel
+#DESCRIPTION Perseguidor ImplacÃ¡vel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9626-red-sonja.mp4:Guerreiros de Fogo
 #DESCRIPTION Guerreiros de Fogo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9604-red-heat.mp4:Inferno Vermelho
 #DESCRIPTION Inferno Vermelho
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8856-the-karate-kid-part-ii.mp4:Karatê Kid 2 – A Hora da Verdade Continua
-#DESCRIPTION Karatê Kid 2 – A Hora da Verdade Continua
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/79.mp4:Herói
-#DESCRIPTION Herói
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8856-the-karate-kid-part-ii.mp4:KaratÃª Kid 2 â€“ A Hora da Verdade Continua
+#DESCRIPTION KaratÃª Kid 2 â€“ A Hora da Verdade Continua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/79.mp4:HerÃ³i
+#DESCRIPTION HerÃ³i
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/6609-keoma.mp4:Keoma
 #DESCRIPTION Keoma
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/557-spider-man.mp4:Homem-Aranha
@@ -435,56 +435,56 @@
 #DESCRIPTION Inspetor Bugiganga
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/331-jurassic-park-iii.mp4:Jurassic Park 3
 #DESCRIPTION Jurassic Park 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/27590-gotcha.mp4:Gotcha – Uma Arma do Barulho
-#DESCRIPTION Gotcha – Uma Arma do Barulho
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1996-lara-croft-tomb-raider-the-cradle-of-life.mp4:Lara Croft: Tomb Raider – A Origem da Vida
-#DESCRIPTION Lara Croft: Tomb Raider – A Origem da Vida
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/umasaidademestre-dub-720p.mp4:Uma Saída de Mestre
-#DESCRIPTION Uma Saída de Mestre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/27590-gotcha.mp4:Gotcha â€“ Uma Arma do Barulho
+#DESCRIPTION Gotcha â€“ Uma Arma do Barulho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1996-lara-croft-tomb-raider-the-cradle-of-life.mp4:Lara Croft: Tomb Raider â€“ A Origem da Vida
+#DESCRIPTION Lara Croft: Tomb Raider â€“ A Origem da Vida
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/umasaidademestre-dub-720p.mp4:Uma SaÃ­da de Mestre
+#DESCRIPTION Uma SaÃ­da de Mestre
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/314-catwoman.mp4:Mulher-Gato
 #DESCRIPTION Mulher-Gato
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/293660-deadpool.mp4:Deadpool
 #DESCRIPTION Deadpool
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/28761-white-hunter-black-heart.mp4:Coração de Caçador
-#DESCRIPTION Coração de Caçador
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/hellboy2019-leg-720p.mp46:Hellboy – 2019
-#DESCRIPTION Hellboy – 2019
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/28761-white-hunter-black-heart.mp4:CoraÃ§Ã£o de CaÃ§ador
+#DESCRIPTION CoraÃ§Ã£o de CaÃ§ador
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/hellboy2019-leg-720p.mp46:Hellboy â€“ 2019
+#DESCRIPTION Hellboy â€“ 2019
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/mibinternacional-dub-720p.mp4:MIB: Homens de Preto Internacional
 #DESCRIPTION MIB: Homens de Preto Internacional
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/abatalhaderiddick-dub-720p.mp4:A Batalha de Riddick
 #DESCRIPTION A Batalha de Riddick
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/capitamarvel-dub-720p.mp4:Capitã Marvel
-#DESCRIPTION Capitã Marvel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/capitamarvel-dub-720p.mp4:CapitÃ£ Marvel
+#DESCRIPTION CapitÃ£ Marvel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/deualoucanosnazis2-leg-720p.mp4:Deu a Louca nos Nazis 2
 #DESCRIPTION Deu a Louca nos Nazis 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/johnwick3ts-dub-720p.mp4:John Wick 3 – Parabellum
-#DESCRIPTION John Wick 3 – Parabellum
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/aultimaresistencia-dub-720p.mp4:A Última Resistência
-#DESCRIPTION A Última Resistência
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/coldpursuit-leg-720p.mp4:Vingança a Sangue Frio
-#DESCRIPTION Vingança a Sangue Frio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/johnwick3ts-dub-720p.mp4:John Wick 3 â€“ Parabellum
+#DESCRIPTION John Wick 3 â€“ Parabellum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/aultimaresistencia-dub-720p.mp4:A Ãšltima ResistÃªncia
+#DESCRIPTION A Ãšltima ResistÃªncia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/coldpursuit-leg-720p.mp4:VinganÃ§a a Sangue Frio
+#DESCRIPTION VinganÃ§a a Sangue Frio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/devoltaparaofuturo3-dub-720p.mp4:De Volta Para o Futuro 3
 #DESCRIPTION De Volta Para o Futuro 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/buumblebee-dub-720p.mp4:Bumblebee
 #DESCRIPTION Bumblebee
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/operacaofronteira-dub-720p.mp4:Operação Fronteira
-#DESCRIPTION Operação Fronteira
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/operacaofronteira-dub-720p.mp4:OperaÃ§Ã£o Fronteira
+#DESCRIPTION OperaÃ§Ã£o Fronteira
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/aquamanhd-dub-720p.mp4:Aquaman
 #DESCRIPTION Aquaman
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/ohomemquematouhitlerpegrande-leg-720p.mp4:O Homem que Matou Hitler e Depois o Pé-Grande - L
-#DESCRIPTION O Homem que Matou Hitler e Depois o Pé-Grande - L
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/robinhood2018-leg-720p.mp4:Robin Hood – A Origem - L
-#DESCRIPTION Robin Hood – A Origem - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/ohomemquematouhitlerpegrande-leg-720p.mp4:O Homem que Matou Hitler e Depois o PÃ©-Grande - L
+#DESCRIPTION O Homem que Matou Hitler e Depois o PÃ©-Grande - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/robinhood2018-leg-720p.mp4:Robin Hood â€“ A Origem - L
+#DESCRIPTION Robin Hood â€“ A Origem - L
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/creed2-dub-720p.mp4:Creed 2
 #DESCRIPTION Creed 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/furiaemaltomar-dub-720p.mp4:Fúria em Alto Mar
-#DESCRIPTION Fúria em Alto Mar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/overloard-leg-720p.mp4:Operação Overlord
-#DESCRIPTION Operação Overlord
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/batmanomisteriodamulhermorcego-dub-720p.mp4:Batman: O Mistério da Mulher-Morcego
-#DESCRIPTION Batman: O Mistério da Mulher-Morcego
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/ligadajusticaalegiaodomal-dub-720p.mp4:Liga da Justiça – A Legião do Mal
-#DESCRIPTION Liga da Justiça – A Legião do Mal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/furiaemaltomar-dub-720p.mp4:FÃºria em Alto Mar
+#DESCRIPTION FÃºria em Alto Mar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/overloard-leg-720p.mp4:OperaÃ§Ã£o Overlord
+#DESCRIPTION OperaÃ§Ã£o Overlord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/batmanomisteriodamulhermorcego-dub-720p.mp4:Batman: O MistÃ©rio da Mulher-Morcego
+#DESCRIPTION Batman: O MistÃ©rio da Mulher-Morcego
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/ligadajusticaalegiaodomal-dub-720p.mp4:Liga da JustiÃ§a â€“ A LegiÃ£o do Mal
+#DESCRIPTION Liga da JustiÃ§a â€“ A LegiÃ£o do Mal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/batmanocavaleirodegotham-dub-720p.mp4:Batman: O Cavaleiro de Gotham
 #DESCRIPTION Batman: O Cavaleiro de Gotham
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/batmancontraocapuzvermelho-dub-720p.mp4:Batman Contra o Capuz Vermelho
@@ -501,160 +501,160 @@
 #DESCRIPTION Solis - L
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/bravestorm-dub-720p.mp4:BraveStorm
 #DESCRIPTION BraveStorm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/pequenosespioes4-dub-720p.mp4:Pequenos Espiões 4
-#DESCRIPTION Pequenos Espiões 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/pequenosespioes3-dub-720p.mp4:Pequenos Espiões 3: Game Over
-#DESCRIPTION Pequenos Espiões 3: Game Over
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/pequenosespioes-dub-720p.mp4:Pequenos Espiões
-#DESCRIPTION Pequenos Espiões
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/pequenosespioes4-dub-720p.mp4:Pequenos EspiÃµes 4
+#DESCRIPTION Pequenos EspiÃµes 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/pequenosespioes3-dub-720p.mp4:Pequenos EspiÃµes 3: Game Over
+#DESCRIPTION Pequenos EspiÃµes 3: Game Over
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/pequenosespioes-dub-720p.mp4:Pequenos EspiÃµes
+#DESCRIPTION Pequenos EspiÃµes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/cowboysealiens-dub-720p.mp46:Cowboys &amp; Aliens
 #DESCRIPTION Cowboys &amp; Aliens
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/peppermint-leg-720p.mp4:A Justiceira - L
 #DESCRIPTION A Justiceira - L
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/venom-dub-720p.mp4:Venom
 #DESCRIPTION Venom
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/meuexeumespiao-dub-720p.mp4:Meu Ex É um Espião
-#DESCRIPTION Meu Ex É um Espião
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/meuexeumespiao-dub-720p.mp4:Meu Ex Ã‰ um EspiÃ£o
+#DESCRIPTION Meu Ex Ã‰ um EspiÃ£o
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/opredador2018-dub-720p.mp4:O Predador
 #DESCRIPTION O Predador
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/missaoimpossivelefeitofallout-dub-720p.mp4:Missão Impossível – Efeito Fallout
-#DESCRIPTION Missão Impossível – Efeito Fallout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/missaoimpossivelefeitofallout-dub-720p.mp4:MissÃ£o ImpossÃ­vel â€“ Efeito Fallout
+#DESCRIPTION MissÃ£o ImpossÃ­vel â€“ Efeito Fallout
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/showdogs-leg-720p.mp4:Show Dogs - L
 #DESCRIPTION Show Dogs - L
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/bleachmovie-dub-720p.mp4:Bleach
 #DESCRIPTION Bleach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/homemformigaevespa-dub-720p.mp4:Homem-Formiga e a Vespa
 #DESCRIPTION Homem-Formiga e a Vespa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/sicariodayofsoldier-leg-720p.mp4:Sicário: Dia do Soldado - L
-#DESCRIPTION Sicário: Dia do Soldado - L
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/themegnew-dub-720p.mp4:Megatubarão
-#DESCRIPTION Megatubarão
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/jurassikworld2-dub-480p.mp4:Jurassic World: Reino Ameaçado
-#DESCRIPTION Jurassic World: Reino Ameaçado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/sicariodayofsoldier-leg-720p.mp4:SicÃ¡rio: Dia do Soldado - L
+#DESCRIPTION SicÃ¡rio: Dia do Soldado - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/themegnew-dub-720p.mp4:MegatubarÃ£o
+#DESCRIPTION MegatubarÃ£o
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/jurassikworld2-dub-480p.mp4:Jurassic World: Reino AmeaÃ§ado
+#DESCRIPTION Jurassic World: Reino AmeaÃ§ado
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/avengers2new-dub-720p.mp4:Vingadores: Guerra Infinita
 #DESCRIPTION Vingadores: Guerra Infinita
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/deadpool2novo-dub-720p.mp4:Deadpool 2
 #DESCRIPTION Deadpool 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/ocarmadeumassassino-dub-720p.mp4:O Carma de um Assassino
 #DESCRIPTION O Carma de um Assassino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/tombraiderorigem-dub-720p.mp46:Tomb Raider – A Origem
-#DESCRIPTION Tomb Raider – A Origem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/tombraiderorigem-dub-720p.mp46:Tomb Raider â€“ A Origem
+#DESCRIPTION Tomb Raider â€“ A Origem
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/deathwish-leg-720p.mp4:Desejo de Matar - L
 #DESCRIPTION Desejo de Matar - L
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/jogadornumeroum-dub-720p.mp4:Jogador Nº1
-#DESCRIPTION Jogador Nº1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/jogadornumeroum-dub-720p.mp4:Jogador NÂº1
+#DESCRIPTION Jogador NÂº1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/blackpanther-dub-720p.mp4:Pantera Negra
 #DESCRIPTION Pantera Negra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/batmanninja-leg-720p.mp4:Batman Ninja - L
 #DESCRIPTION Batman Ninja - L
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/thehurriceheist-leg-720p.mp4:No Olho do Furacão - L
-#DESCRIPTION No Olho do Furacão - L
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/esquadraosuicidaacertodecontas-dub-720p.mp4:Esquadrão Suicida: Acerto de Contas
-#DESCRIPTION Esquadrão Suicida: Acerto de Contas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/thehurriceheist-leg-720p.mp4:No Olho do FuracÃ£o - L
+#DESCRIPTION No Olho do FuracÃ£o - L
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akr01.azureedge.net/movies/esquadraosuicidaacertodecontas-dub-720p.mp4:EsquadrÃ£o Suicida: Acerto de Contas
+#DESCRIPTION EsquadrÃ£o Suicida: Acerto de Contas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/4108-the-transporter.mp4:Carga Explosiva
 #DESCRIPTION Carga Explosiva
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/9654-the-italian-job.mp4:Uma Saída de Mestre
-#DESCRIPTION Uma Saída de Mestre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/10851-revolver.mp4:Revólver
-#DESCRIPTION Revólver
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/10431-war.mp4:Rogue – O Assassino
-#DESCRIPTION Rogue – O Assassino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/345940-meg.mp4:Megatubarão
-#DESCRIPTION Megatubarão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/9654-the-italian-job.mp4:Uma SaÃ­da de Mestre
+#DESCRIPTION Uma SaÃ­da de Mestre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/10851-revolver.mp4:RevÃ³lver
+#DESCRIPTION RevÃ³lver
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/10431-war.mp4:Rogue â€“ O Assassino
+#DESCRIPTION Rogue â€“ O Assassino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/345940-meg.mp4:MegatubarÃ£o
+#DESCRIPTION MegatubarÃ£o
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1948-crank.mp4:Adrenalina
 #DESCRIPTION Adrenalina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/A.Pantera.Cor.de.Rosa.2006.720p.Dual-WOLVERDONFILMES.COM.mkv.mp4:A Pantera Cor-de-Rosa
 #DESCRIPTION A Pantera Cor-de-Rosa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/100-lock-stock-and-two-smoking-barrels.mp4:Jogos, Trapaças e Dois Canos Fumegantes
-#DESCRIPTION Jogos, Trapaças e Dois Canos Fumegantes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/100-lock-stock-and-two-smoking-barrels.mp4:Jogos, TrapaÃ§as e Dois Canos Fumegantes
+#DESCRIPTION Jogos, TrapaÃ§as e Dois Canos Fumegantes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9335-transporter-2.mp4:Carga Explosiva 2
 #DESCRIPTION Carga Explosiva 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/954-mission-impossible.mp4:Missão: Impossível - D
-#DESCRIPTION Missão: Impossível - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/955-mission-impossible-ii.mp4:Missão: Impossível 2 - D
-#DESCRIPTION Missão: Impossível 2 - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/956-mission-impossible-iii.mp4:Missão: Impossível 3 - D
-#DESCRIPTION Missão: Impossível 3 - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/353081-mission-impossible-fallout.mp4:Missão Impossível – Efeito Fallout - D
-#DESCRIPTION Missão Impossível – Efeito Fallout - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/954-mission-impossible.mp4:MissÃ£o: ImpossÃ­vel - D
+#DESCRIPTION MissÃ£o: ImpossÃ­vel - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/955-mission-impossible-ii.mp4:MissÃ£o: ImpossÃ­vel 2 - D
+#DESCRIPTION MissÃ£o: ImpossÃ­vel 2 - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/956-mission-impossible-iii.mp4:MissÃ£o: ImpossÃ­vel 3 - D
+#DESCRIPTION MissÃ£o: ImpossÃ­vel 3 - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/353081-mission-impossible-fallout.mp4:MissÃ£o ImpossÃ­vel â€“ Efeito Fallout - D
+#DESCRIPTION MissÃ£o ImpossÃ­vel â€“ Efeito Fallout - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/11205.mp4:Detonando em Barcelona - D
 #DESCRIPTION Detonando em Barcelona - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/45408-the-protector.mp4:A Fúria do Protetor - D
-#DESCRIPTION A Fúria do Protetor - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/45408-the-protector.mp4:A FÃºria do Protetor - D
+#DESCRIPTION A FÃºria do Protetor - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/6038-shanghai-knights.mp4:Bater ou Correr em Londres - D
 #DESCRIPTION Bater ou Correr em Londres - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/8697.mp4:Quem Sou Eu? - D
 #DESCRIPTION Quem Sou Eu? - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/5174-rush-hour-3.mp4:A Hora do Rush 3 - D
 #DESCRIPTION A Hora do Rush 3 - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/10204-around-the-world-in-80-days.mp4:Volta ao Mundo em 80 Dias – Uma Aposta Muito Lou
-#DESCRIPTION Volta ao Mundo em 80 Dias – Uma Aposta Muito Lou
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/10204-around-the-world-in-80-days.mp4:Volta ao Mundo em 80 Dias â€“ Uma Aposta Muito Lou
+#DESCRIPTION Volta ao Mundo em 80 Dias â€“ Uma Aposta Muito Lou
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/2109-rush-hour.mp4:A Hora do Rush - D
 #DESCRIPTION A Hora do Rush - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/25676-bo-bui-gai-wak.mp4:Três Ladrões e Um Bebê - D
-#DESCRIPTION Três Ladrões e Um Bebê - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/21521-a.mp4:Projeto China 2 – A Vingança - D
-#DESCRIPTION Projeto China 2 – A Vingança - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/25676-bo-bui-gai-wak.mp4:TrÃªs LadrÃµes e Um BebÃª - D
+#DESCRIPTION TrÃªs LadrÃµes e Um BebÃª - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/21521-a.mp4:Projeto China 2 â€“ A VinganÃ§a - D
+#DESCRIPTION Projeto China 2 â€“ A VinganÃ§a - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/180-minority-report.mp4:Minority Report: A Nova Lei
 #DESCRIPTION Minority Report: A Nova Lei
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10622.mp4:Nice Guy – Bom de Briga - D
-#DESCRIPTION Nice Guy – Bom de Briga - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/12207.mp4:O Mestre Invencível 2
-#DESCRIPTION O Mestre Invencível 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10622.mp4:Nice Guy â€“ Bom de Briga - D
+#DESCRIPTION Nice Guy â€“ Bom de Briga - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/12207.mp4:O Mestre InvencÃ­vel 2
+#DESCRIPTION O Mestre InvencÃ­vel 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/5175-rush-hour-2.mp4:A Hora do Rush 2 - D
 #DESCRIPTION A Hora do Rush 2 - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/A.Hist%C3%B3ria.Sem.Fim.2.1990.1080p.Dual.BrRip.x264.1046.mkv.mp4:A Hora do Acerto - D
 #DESCRIPTION A Hora do Acerto - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/Bater%20ou%20Correr.(2000).Dublado.720p.By.Luan.Harper.TPF.mp4:Bater ou Correr - D
 #DESCRIPTION Bater ou Correr - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O%20Terno%20de%20Dois%20Bilh%C3%B5es%20de%20D%C3%B3lares%20(2002)%205.1%20CH%20Dublado%20720p%20(By-LuanHarper).mp4:O Terno de 2 Bilhões de Dólares - D
-#DESCRIPTION O Terno de 2 Bilhões de Dólares - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O%20Terno%20de%20Dois%20Bilh%C3%B5es%20de%20D%C3%B3lares%20(2002)%205.1%20CH%20Dublado%20720p%20(By-LuanHarper).mp4:O Terno de 2 BilhÃµes de DÃ³lares - D
+#DESCRIPTION O Terno de 2 BilhÃµes de DÃ³lares - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/Arrebentando%20em%20Nova%20York%20(1995)%20BRrip%20Blu-Ray%20720p%20Dublado%20Dat2015.mp4:Arrebentando em Nova York - D
 #DESCRIPTION Arrebentando em Nova York - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O%20Mestre%20Invenc%C3%ADvel%20(1978)%20BRrip%20Blu-Ray%20720p%20Dublado%20Dat2015.mp4p:O Mestre Invencível - D
-#DESCRIPTION O Mestre Invencível - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O%20Mestre%20Invenc%C3%ADvel%20(1978)%20BRrip%20Blu-Ray%20720p%20Dublado%20Dat2015.mp4p:O Mestre InvencÃ­vel - D
+#DESCRIPTION O Mestre InvencÃ­vel - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O%20Jovem%20Mestre%20do%20Kung%20Fu%20(1980)%20BRrip%20Blu-Ray%20720p%20Dublado%20-%20Dat2015.mp4:O Jovem Mestre do Kung Fu - D
 #DESCRIPTION O Jovem Mestre do Kung Fu - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10348.mp4:Thunderbolt – Ação Sobre Rodas - D
-#DESCRIPTION Thunderbolt – Ação Sobre Rodas - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10975.mp4:Operação Condor - D
-#DESCRIPTION Operação Condor - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10348.mp4:Thunderbolt â€“ AÃ§Ã£o Sobre Rodas - D
+#DESCRIPTION Thunderbolt â€“ AÃ§Ã£o Sobre Rodas - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10975.mp4:OperaÃ§Ã£o Condor - D
+#DESCRIPTION OperaÃ§Ã£o Condor - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/16806-johnny-dangerously.mp4:Johnny, O Gangster
 #DESCRIPTION Johnny, O Gangster
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1927-hulk.mp4:Hulk
 #DESCRIPTION Hulk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10428-hackers.mp4:Hackers – Piratas de Computador
-#DESCRIPTION Hackers – Piratas de Computador
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10222-kickboxer.mp4:Kickboxer – O Desafio do Dragão
-#DESCRIPTION Kickboxer – O Desafio do Dragão
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9972-lock-up.mp4:Condenação Brutal
-#DESCRIPTION Condenação Brutal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10428-hackers.mp4:Hackers â€“ Piratas de Computador
+#DESCRIPTION Hackers â€“ Piratas de Computador
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10222-kickboxer.mp4:Kickboxer â€“ O Desafio do DragÃ£o
+#DESCRIPTION Kickboxer â€“ O Desafio do DragÃ£o
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9972-lock-up.mp4:CondenaÃ§Ã£o Brutal
+#DESCRIPTION CondenaÃ§Ã£o Brutal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9882-the-siege.mp4:Nova York Sitiada
 #DESCRIPTION Nova York Sitiada
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9693-children-of-men.mp4:Filhos da Esperança
-#DESCRIPTION Filhos da Esperança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9693-children-of-men.mp4:Filhos da EsperanÃ§a
+#DESCRIPTION Filhos da EsperanÃ§a
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9659-mad-max.mp4:Mad Max
 #DESCRIPTION Mad Max
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9644-national-lampoon-s-loaded-weapon-1.mp4:Máquina Quase Mortífera
-#DESCRIPTION Máquina Quase Mortífera
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9569-hard-to-kill.mp4:Difícil de Matar
-#DESCRIPTION Difícil de Matar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9567-tears-of-the-sun.mp4:Lágrimas do Sol
-#DESCRIPTION Lágrimas do Sol
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9395-above-the-law.mp4:Nico – Acima da Lei
-#DESCRIPTION Nico – Acima da Lei
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9355-mad-max-beyond-thunderdome.mp4:Mad Max: Além da Cúpula do Trovão
-#DESCRIPTION Mad Max: Além da Cúpula do Trovão
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9334-the-scorpion-king.mp4:O Escorpião Rei
-#DESCRIPTION O Escorpião Rei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9644-national-lampoon-s-loaded-weapon-1.mp4:MÃ¡quina Quase MortÃ­fera
+#DESCRIPTION MÃ¡quina Quase MortÃ­fera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9569-hard-to-kill.mp4:DifÃ­cil de Matar
+#DESCRIPTION DifÃ­cil de Matar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9567-tears-of-the-sun.mp4:LÃ¡grimas do Sol
+#DESCRIPTION LÃ¡grimas do Sol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9395-above-the-law.mp4:Nico â€“ Acima da Lei
+#DESCRIPTION Nico â€“ Acima da Lei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9355-mad-max-beyond-thunderdome.mp4:Mad Max: AlÃ©m da CÃºpula do TrovÃ£o
+#DESCRIPTION Mad Max: AlÃ©m da CÃºpula do TrovÃ£o
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9334-the-scorpion-king.mp4:O EscorpiÃ£o Rei
+#DESCRIPTION O EscorpiÃ£o Rei
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9053-doa-dead-or-alive.mp4:DOA: Vivo ou Morto
 #DESCRIPTION DOA: Vivo ou Morto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1571-live-free-or-die-hard.mp4:Duro de Matar 4.0
 #DESCRIPTION Duro de Matar 4.0
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9039-trapped.mp4:Encurralada
 #DESCRIPTION Encurralada
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8810-mad-max-2.mp4:Mad Max: A Caçada Continua
-#DESCRIPTION Mad Max: A Caçada Continua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8810-mad-max-2.mp4:Mad Max: A CaÃ§ada Continua
+#DESCRIPTION Mad Max: A CaÃ§ada Continua
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8592-dick-tracy.mp4:Dick Tracy
 #DESCRIPTION Dick Tracy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8337-they-live.mp4:Eles Vivem
@@ -679,48 +679,48 @@
 #DESCRIPTION Flashpoint
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/2787-pitch-black.mp4:Eclipse Mortal
 #DESCRIPTION Eclipse Mortal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/27786-steel-dawn.mp4:Crepúsculo de Aço
-#DESCRIPTION Crepúsculo de Aço
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/26263-death-wish-4-the-crackdown.mp4:Desejo de Matar 4: Operação Crackdown
-#DESCRIPTION Desejo de Matar 4: Operação Crackdown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/27786-steel-dawn.mp4:CrepÃºsculo de AÃ§o
+#DESCRIPTION CrepÃºsculo de AÃ§o
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/26263-death-wish-4-the-crackdown.mp4:Desejo de Matar 4: OperaÃ§Ã£o Crackdown
+#DESCRIPTION Desejo de Matar 4: OperaÃ§Ã£o Crackdown
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/24873-death-wish-3.mp4:Desejo de Matar 3
 #DESCRIPTION Desejo de Matar 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/22094-hard-times.mp4:Lutador de Rua
 #DESCRIPTION Lutador de Rua
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/21733-fei-lung-mang-jeung.mp4:Dragões Para Sempre
-#DESCRIPTION Dragões Para Sempre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/2119-days-of-thunder.mp4:Dias de Trovão
-#DESCRIPTION Dias de Trovão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/21733-fei-lung-mang-jeung.mp4:DragÃµes Para Sempre
+#DESCRIPTION DragÃµes Para Sempre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/2119-days-of-thunder.mp4:Dias de TrovÃ£o
+#DESCRIPTION Dias de TrovÃ£o
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/2114-final-fantasy-the-spirits-within.mp4:Final Fantasy
 #DESCRIPTION Final Fantasy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/19124-blind-fury.mp4:Fúria Cega
-#DESCRIPTION Fúria Cega
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/18674-zhong-nan-hai-bao-biao.mp4:O Guarda-Costas em Ação
-#DESCRIPTION O Guarda-Costas em Ação
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1825-over-the-top.mp4:Falcão – O Campeão dos Campeões
-#DESCRIPTION Falcão – O Campeão dos Campeões
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/19124-blind-fury.mp4:FÃºria Cega
+#DESCRIPTION FÃºria Cega
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/18674-zhong-nan-hai-bao-biao.mp4:O Guarda-Costas em AÃ§Ã£o
+#DESCRIPTION O Guarda-Costas em AÃ§Ã£o
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1825-over-the-top.mp4:FalcÃ£o â€“ O CampeÃ£o dos CampeÃµes
+#DESCRIPTION FalcÃ£o â€“ O CampeÃ£o dos CampeÃµes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/15860-lung-fu-moon.mp4:Dragon Tiger Gate
 #DESCRIPTION Dragon Tiger Gate
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/13154-showdown-in-little-tokyo.mp4:Massacre no Bairro Japonês
-#DESCRIPTION Massacre no Bairro Japonês
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/12481-tang-shan-da-xiong.mp4:O Dragão Chinês
-#DESCRIPTION O Dragão Chinês
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11690-bloodsport.mp4:O Grande Dragão Branco
-#DESCRIPTION O Grande Dragão Branco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11344.mp4:O Gosto da Vingança
-#DESCRIPTION O Gosto da Vingança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/13154-showdown-in-little-tokyo.mp4:Massacre no Bairro JaponÃªs
+#DESCRIPTION Massacre no Bairro JaponÃªs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/12481-tang-shan-da-xiong.mp4:O DragÃ£o ChinÃªs
+#DESCRIPTION O DragÃ£o ChinÃªs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11690-bloodsport.mp4:O Grande DragÃ£o Branco
+#DESCRIPTION O Grande DragÃ£o Branco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11344.mp4:O Gosto da VinganÃ§a
+#DESCRIPTION O Gosto da VinganÃ§a
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10173-marked-for-death.mp4:Marcado para a Morte
 #DESCRIPTION Marcado para a Morte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/98-gladiator.mp4:Gladiador
 #DESCRIPTION Gladiador
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/Blade%20Trinity%20720p%20-%20Filmes%20Beta.mp4:Blade: Trinity
 #DESCRIPTION Blade: Trinity
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/D%C3%A9j%C3%A0.Vu.2007.720p.WEB-DL.x264.DUAL.WWW.COMANDOTORRENTS.COM.mkv.mp4:Déjà Vu
-#DESCRIPTION Déjà Vu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/D%C3%A9j%C3%A0.Vu.2007.720p.WEB-DL.x264.DUAL.WWW.COMANDOTORRENTS.COM.mkv.mp4:DÃ©jÃ  Vu
+#DESCRIPTION DÃ©jÃ  Vu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O%20Especialista%20[1994]%20-%20BluRay%20720p%20Dublado.mkv.mp4:O Especialista
 #DESCRIPTION O Especialista
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/Kiss.of.the.dragon.2001.1080.bluray.x264.DTS.ComandoFilmes-PradO.mkv.mp4:O Beijo do Dragão
-#DESCRIPTION O Beijo do Dragão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/Kiss.of.the.dragon.2001.1080.bluray.x264.DTS.ComandoFilmes-PradO.mkv.mp4:O Beijo do DragÃ£o
+#DESCRIPTION O Beijo do DragÃ£o
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/O.Demolidor.1993.720p.BlUray.x264.DUAL-WWW.BLUDV.COM.mkv.mp4:O Demolidor
 #DESCRIPTION O Demolidor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/A.Hist%C3%B3ria.Sem.Fim.2.1990.1080p.Dual.BrRip.x264.1046.mkv.mp4:A Hora do Acerto
@@ -731,52 +731,52 @@
 #DESCRIPTION O Rei das Drogas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9721-7-seconds.mp4:7 Segundos
 #DESCRIPTION 7 Segundos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9766-gridiron-gang.mp4:A Gangue está em Campo
-#DESCRIPTION A Gangue está em Campo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/12207.mp4:O Mestre Invencível 2
-#DESCRIPTION O Mestre Invencível 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10622.mp4:Mr. Nice Guy – Bom de Briga
-#DESCRIPTION Mr. Nice Guy – Bom de Briga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9766-gridiron-gang.mp4:A Gangue estÃ¡ em Campo
+#DESCRIPTION A Gangue estÃ¡ em Campo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/12207.mp4:O Mestre InvencÃ­vel 2
+#DESCRIPTION O Mestre InvencÃ­vel 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10622.mp4:Mr. Nice Guy â€“ Bom de Briga
+#DESCRIPTION Mr. Nice Guy â€“ Bom de Briga
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/8982.mp4:O Protetor - D
 #DESCRIPTION O Protetor - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9384-starsky-hutch.mp4:Starsky &amp; Hutch – Justiça em Dobro - D
-#DESCRIPTION Starsky &amp; Hutch – Justiça em Dobro - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9384-starsky-hutch.mp4:Starsky &amp; Hutch â€“ JustiÃ§a em Dobro - D
+#DESCRIPTION Starsky &amp; Hutch â€“ JustiÃ§a em Dobro - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9414-the-man-who-knew-too-little.mp4:O Homem que Sabia de Menos - D
 #DESCRIPTION O Homem que Sabia de Menos - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/942-lethal-weapon-2.mp4:Máquina Mortífera 2 - D
-#DESCRIPTION Máquina Mortífera 2 - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/942-lethal-weapon-2.mp4:MÃ¡quina MortÃ­fera 2 - D
+#DESCRIPTION MÃ¡quina MortÃ­fera 2 - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9481-the-bone-collector.mp4:O Colecionador de Ossos - D
 #DESCRIPTION O Colecionador de Ossos - D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9533-red-dragon.mp4:Dragão Vermelho - D
-#DESCRIPTION Dragão Vermelho - D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9533-red-dragon.mp4:DragÃ£o Vermelho - D
+#DESCRIPTION DragÃ£o Vermelho - D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/388-inside-man.mp4:O Plano Perfeito
 #DESCRIPTION O Plano Perfeito
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/36593-the-naked-gun-33-the-final-insult.mp4:Corra que a Polícia Vem Aí! 33?: O Insulto Final
-#DESCRIPTION Corra que a Polícia Vem Aí! 33?: O Insulto Final
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/36593-the-naked-gun-33-the-final-insult.mp4:Corra que a PolÃ­cia Vem AÃ­! 33?: O Insulto Final
+#DESCRIPTION Corra que a PolÃ­cia Vem AÃ­! 33?: O Insulto Final
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/34746-death-wish-v-the-face-of-death.mp4:Desejo de Matar 5: A Face da Morte
 #DESCRIPTION Desejo de Matar 5: A Face da Morte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/278-the-shawshank-redemptionm.mp4:Um Sonho de Liberdade
 #DESCRIPTION Um Sonho de Liberdade
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/275-fargo.mp4:Fargo: Uma Comédia de Erros
-#DESCRIPTION Fargo: Uma Comédia de Erros
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/274-the-silence-of-the-lambs.mp4:O Silêncio dos Inocentes
-#DESCRIPTION O Silêncio dos Inocentes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/275-fargo.mp4:Fargo: Uma ComÃ©dia de Erros
+#DESCRIPTION Fargo: Uma ComÃ©dia de Erros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/274-the-silence-of-the-lambs.mp4:O SilÃªncio dos Inocentes
+#DESCRIPTION O SilÃªncio dos Inocentes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/214-saw-iii.mp4:Jogos Mortais III
 #DESCRIPTION Jogos Mortais III
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/187-sin-city.mp4:Sin City: A Cidade do Pecado
 #DESCRIPTION Sin City: A Cidade do Pecado
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/176-saw.mp4:Jogos Mortais
 #DESCRIPTION Jogos Mortais
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1637-speed.mp4:Velocidade Máxima
-#DESCRIPTION Velocidade Máxima
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1637-speed.mp4:Velocidade MÃ¡xima
+#DESCRIPTION Velocidade MÃ¡xima
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/8982.mp4:O Protetor
 #DESCRIPTION O Protetor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9384-starsky-hutch.mp4:Starsky &amp; Hutch – Justiça em Dobro
-#DESCRIPTION Starsky &amp; Hutch – Justiça em Dobro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9384-starsky-hutch.mp4:Starsky &amp; Hutch â€“ JustiÃ§a em Dobro
+#DESCRIPTION Starsky &amp; Hutch â€“ JustiÃ§a em Dobro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9414-the-man-who-knew-too-little.mp4:O Homem que Sabia de Menos
 #DESCRIPTION O Homem que Sabia de Menos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/942-lethal-weapon-2.mp4:Máquina Mortífera 2
-#DESCRIPTION Máquina Mortífera 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/942-lethal-weapon-2.mp4:MÃ¡quina MortÃ­fera 2
+#DESCRIPTION MÃ¡quina MortÃ­fera 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9481-the-bone-collector.mp4:O Colecionador de Ossos
 #DESCRIPTION O Colecionador de Ossos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9910-two-for-the-money.mp4:Tudo por Dinheiro
@@ -787,24 +787,24 @@
 #DESCRIPTION Psicopata Americano
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1213-the-talented-mr-ripley.mp4:O Talentoso Ripley
 #DESCRIPTION O Talentoso Ripley
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/116-match-point.mp4:Match Point – Ponto Final
-#DESCRIPTION Match Point – Ponto Final
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/116-match-point.mp4:Match Point â€“ Ponto Final
+#DESCRIPTION Match Point â€“ Ponto Final
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11185-see-no-evil-hear-no-evil.mp4:Cegos Surdos e Loucos
 #DESCRIPTION Cegos Surdos e Loucos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10975.mp4:Operação Condor
-#DESCRIPTION Operação Condor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10975.mp4:OperaÃ§Ã£o Condor
+#DESCRIPTION OperaÃ§Ã£o Condor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10952-new-jack-city.mp4:New Jack City: A Gangue Brutal
 #DESCRIPTION New Jack City: A Gangue Brutal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/107-snatch.mp4:Snatch: Porcos e Diamantes
 #DESCRIPTION Snatch: Porcos e Diamantes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10345-k-9.mp4:K-9 – Um Policial Bom pra Cachorro
-#DESCRIPTION K-9 – Um Policial Bom pra Cachorro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10345-k-9.mp4:K-9 â€“ Um Policial Bom pra Cachorro
+#DESCRIPTION K-9 â€“ Um Policial Bom pra Cachorro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10167-half-past-dead.mp4:No Corredor da Morte
 #DESCRIPTION No Corredor da Morte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/272-batman-begins.mp4:Batman Begins
 #DESCRIPTION Batman Begins
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/984-dirty-harry.mp4:Perseguidor Implacável
-#DESCRIPTION Perseguidor Implacável
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/984-dirty-harry.mp4:Perseguidor ImplacÃ¡vel
+#DESCRIPTION Perseguidor ImplacÃ¡vel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9604-red-heat.mp4:Inferno Vermelho
 #DESCRIPTION Inferno Vermelho
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/663-saw-iv.mp4:Jogos Mortais IV
@@ -815,24 +815,24 @@
 #DESCRIPTION Grande Hotel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/16806-johnny-dangerously.mp4:Johnny, O Gangster
 #DESCRIPTION Johnny, O Gangster
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1620-hitman.mp4:Hitman – Assassino 47
-#DESCRIPTION Hitman – Assassino 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1620-hitman.mp4:Hitman â€“ Assassino 47
+#DESCRIPTION Hitman â€“ Assassino 47
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9359-maverick.mp4:Maverick
 #DESCRIPTION Maverick
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11969-tombstone.mp4:Tombstone
 #DESCRIPTION Tombstone
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/6609-keoma.mp4:Keoma
 #DESCRIPTION Keoma
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9474-il-mio-nome-nessuno.mp4:Meu Nome é Ninguém
-#DESCRIPTION Meu Nome é Ninguém
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8879-pale-rider.mp4:O Cavaleiro Solitário
-#DESCRIPTION O Cavaleiro Solitário
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/576-the-wild-bunch.mp4:Meu Ódio Será Sua Herança
-#DESCRIPTION Meu Ódio Será Sua Herança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9474-il-mio-nome-nessuno.mp4:Meu Nome Ã© NinguÃ©m
+#DESCRIPTION Meu Nome Ã© NinguÃ©m
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/8879-pale-rider.mp4:O Cavaleiro SolitÃ¡rio
+#DESCRIPTION O Cavaleiro SolitÃ¡rio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/576-the-wild-bunch.mp4:Meu Ã“dio SerÃ¡ Sua HeranÃ§a
+#DESCRIPTION Meu Ã“dio SerÃ¡ Sua HeranÃ§a
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/27277-the-war-wagon.mp4:Gigantes em Luta
 #DESCRIPTION Gigantes em Luta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10891-tremors-4-the-legend-begins.mp4:O Ataque dos Vermes Malditos 4: O Começo da Lenda
-#DESCRIPTION O Ataque dos Vermes Malditos 4: O Começo da Lenda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10891-tremors-4-the-legend-begins.mp4:O Ataque dos Vermes Malditos 4: O ComeÃ§o da Lenda
+#DESCRIPTION O Ataque dos Vermes Malditos 4: O ComeÃ§o da Lenda
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10212-ravenous.mp4:Mortos de Fome
 #DESCRIPTION Mortos de Fome
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/335-c-era-una-volta-il-west.mp4:Era uma Vez no Oeste
@@ -843,50 +843,50 @@
 #DESCRIPTION As Loucas Aventuras de James West
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/Bater%20ou%20Correr.(2000).Dublado.720p.By.Luan.Harper.TPF.mp4:Bater ou Correr
 #DESCRIPTION Bater ou Correr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/5176-3-10-to-yuma.mp4:Os Indomáveis
-#DESCRIPTION Os Indomáveis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/5176-3-10-to-yuma.mp4:Os IndomÃ¡veis
+#DESCRIPTION Os IndomÃ¡veis
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cd1.azureedge.net/movies/cowboysealiens-dub-720p.mp4:Cowboys e aliens
 #DESCRIPTION Cowboys e aliens
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/33-unforgiven.mp4:Os Imperdoáveis
-#DESCRIPTION Os Imperdoáveis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/33-unforgiven.mp4:Os ImperdoÃ¡veis
+#DESCRIPTION Os ImperdoÃ¡veis
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/16608-the-proposition.mp4:A Proposta
 #DESCRIPTION A Proposta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/414018-damsel.mp4:Sob o Sol do Oeste
 #DESCRIPTION Sob o Sol do Oeste
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/38450-the-last-hard-men.mp4:Os Últimos Machões
-#DESCRIPTION Os Últimos Machões
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/38450-the-last-hard-men.mp4:Os Ãšltimos MachÃµes
+#DESCRIPTION Os Ãšltimos MachÃµes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1936-river-of-no-return.mp4:O Rio das Almas Perdidas
 #DESCRIPTION O Rio das Almas Perdidas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1969-bandidas.mp4:Bandidas
 #DESCRIPTION Bandidas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11967-young-guns.mp4:Os Jovens Pistoleiros
 #DESCRIPTION Os Jovens Pistoleiros
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/492429-american-gunslingers.mp4:Pistoleiros: Vingança Sem Perdão
-#DESCRIPTION Pistoleiros: Vingança Sem Perdão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/492429-american-gunslingers.mp4:Pistoleiros: VinganÃ§a Sem PerdÃ£o
+#DESCRIPTION Pistoleiros: VinganÃ§a Sem PerdÃ£o
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/537996-the-ballad-of-buster-scruggs.mp4:A Balada de Buster Scruggs
 #DESCRIPTION A Balada de Buster Scruggs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11509-silverado.mp4:Silverado
 #DESCRIPTION Silverado
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11829-continuavano-a-chiamarlo-trinit.mp4:Trinity Ainda é Meu Nome
-#DESCRIPTION Trinity Ainda é Meu Nome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11829-continuavano-a-chiamarlo-trinit.mp4:Trinity Ainda Ã© Meu Nome
+#DESCRIPTION Trinity Ainda Ã© Meu Nome
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/14881-joe-kidd.mp4:Joe Kidd
 #DESCRIPTION Joe Kidd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/22201-gunfight-at-the-o-k-corral.mp4:Sem Lei e Sem Alma
 #DESCRIPTION Sem Lei e Sem Alma
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/391-per-un-pugno-di-dollari.mp4:Por um Punhado de Dólares
-#DESCRIPTION Por um Punhado de Dólares
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/938-per-qualche-dollaro-in-pi.mp4:Por Uns Dólares a Mais
-#DESCRIPTION Por Uns Dólares a Mais
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/12106-the-quick-and-the-dead.mp4:Rápida e Mortal
-#DESCRIPTION Rápida e Mortal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/391-per-un-pugno-di-dollari.mp4:Por um Punhado de DÃ³lares
+#DESCRIPTION Por um Punhado de DÃ³lares
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/938-per-qualche-dollaro-in-pi.mp4:Por Uns DÃ³lares a Mais
+#DESCRIPTION Por Uns DÃ³lares a Mais
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/12106-the-quick-and-the-dead.mp4:RÃ¡pida e Mortal
+#DESCRIPTION RÃ¡pida e Mortal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/11853-bad-girls.mp4:Quatro Mulheres e Um Destino
 #DESCRIPTION Quatro Mulheres e Um Destino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/13503-texas-rangers.mp4:Texas Rangers – Acima da Lei
-#DESCRIPTION Texas Rangers – Acima da Lei
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/3114-the-searchers.mp4:Rastros de Ódio
-#DESCRIPTION Rastros de Ódio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/429-il-buono-il-brutto-il-cattivo.mp4:Três Homens em Conflito
-#DESCRIPTION Três Homens em Conflito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/13503-texas-rangers.mp4:Texas Rangers â€“ Acima da Lei
+#DESCRIPTION Texas Rangers â€“ Acima da Lei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/3114-the-searchers.mp4:Rastros de Ã“dio
+#DESCRIPTION Rastros de Ã“dio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/429-il-buono-il-brutto-il-cattivo.mp4:TrÃªs Homens em Conflito
+#DESCRIPTION TrÃªs Homens em Conflito
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/966-the-magnificent-seven.mp4:Sete Homens e Um Destino
 #DESCRIPTION Sete Homens e Um Destino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/6644-el-dorado.mp4:El Dorado
@@ -895,36 +895,36 @@
 #DESCRIPTION Caminhos Asperos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/6038-shanghai-knights.mp46:Bater ou Correr em Londres
 #DESCRIPTION Bater ou Correr em Londres
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/546388-any-bullet-will-do.mp4:O Último Duelo
-#DESCRIPTION O Último Duelo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/546388-any-bullet-will-do.mp4:O Ãšltimo Duelo
+#DESCRIPTION O Ãšltimo Duelo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/56431-una-pistola-per-ringo.mp4:A Pistol for Ringo
 #DESCRIPTION A Pistol for Ringo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/2362-westworld.mp4:Westworld – Onde Ninguém Tem Alma
-#DESCRIPTION Westworld – Onde Ninguém Tem Alma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/2362-westworld.mp4:Westworld â€“ Onde NinguÃ©m Tem Alma
+#DESCRIPTION Westworld â€“ Onde NinguÃ©m Tem Alma
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/30708-cahill-u-s-marshal.mp4:Cahill, Xerife do Oeste
 #DESCRIPTION Cahill, Xerife do Oeste
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/21866-bronco-billy.mp4:Bronco Billy
 #DESCRIPTION Bronco Billy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/163907-the-villain.mp4:Cactus Jack, o Vilão
-#DESCRIPTION Cactus Jack, o Vilão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/163907-the-villain.mp4:Cactus Jack, o VilÃ£o
+#DESCRIPTION Cactus Jack, o VilÃ£o
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/455675-hickok.mp4:A Lenda de Wild Bill Hickok
 #DESCRIPTION A Lenda de Wild Bill Hickok
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/453807-justice.mp4:Justiça – Entre a Lei e a Vingança
-#DESCRIPTION Justiça – Entre a Lei e a Vingança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/453807-justice.mp4:JustiÃ§a â€“ Entre a Lei e a VinganÃ§a
+#DESCRIPTION JustiÃ§a â€“ Entre a Lei e a VinganÃ§a
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/398265-traded.mp4:Resgate no Oeste
 #DESCRIPTION Resgate no Oeste
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a01.unitplay.stream/hd/338766-hell-or-high-water.mp4:A Qualquer Custo
 #DESCRIPTION A Qualquer Custo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/4233-scream-2.mp4:Pânico 2
-#DESCRIPTION Pânico 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/36647-blade.mp4:Blade – O Caçador de Vampiros
-#DESCRIPTION Blade – O Caçador de Vampiros
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/3602-i-ll-always-know-what-you-did-last-summer.mp4:Eu Sempre Vou Saber o que Vocês Fizeram no Verão
-#DESCRIPTION Eu Sempre Vou Saber o que Vocês Fizeram no Verão
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/35977-pumpkinhead-2-blood-wings.mp4:Pumpkinhead – O Retorno
-#DESCRIPTION Pumpkinhead – O Retorno
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/274-the-silence-of-the-lambs.mp4:O Silêncio dos Inocentes
-#DESCRIPTION O Silêncio dos Inocentes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/4233-scream-2.mp4:PÃ¢nico 2
+#DESCRIPTION PÃ¢nico 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/36647-blade.mp4:Blade â€“ O CaÃ§ador de Vampiros
+#DESCRIPTION Blade â€“ O CaÃ§ador de Vampiros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/3602-i-ll-always-know-what-you-did-last-summer.mp4:Eu Sempre Vou Saber o que VocÃªs Fizeram no VerÃ£o
+#DESCRIPTION Eu Sempre Vou Saber o que VocÃªs Fizeram no VerÃ£o
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/35977-pumpkinhead-2-blood-wings.mp4:Pumpkinhead â€“ O Retorno
+#DESCRIPTION Pumpkinhead â€“ O Retorno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/274-the-silence-of-the-lambs.mp4:O SilÃªncio dos Inocentes
+#DESCRIPTION O SilÃªncio dos Inocentes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/26954-puppet-master-ii.mp4:O Mestre dos Brinquedos
 #DESCRIPTION O Mestre dos Brinquedos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/214-saw-iii.mp4:Jogos Mortais III
@@ -933,70 +933,70 @@
 #DESCRIPTION O Grito 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1933-the-others.mp4:Os Outros
 #DESCRIPTION Os Outros
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/8913-pet-sematary.mp4:Cemitério Maldito
-#DESCRIPTION Cemitério Maldito
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/928-gremlins-2-the-new-batch.mp4:Gremlins 2: A Nova Geração
-#DESCRIPTION Gremlins 2: A Nova Geração
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/8913-pet-sematary.mp4:CemitÃ©rio Maldito
+#DESCRIPTION CemitÃ©rio Maldito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/928-gremlins-2-the-new-batch.mp4:Gremlins 2: A Nova GeraÃ§Ã£o
+#DESCRIPTION Gremlins 2: A Nova GeraÃ§Ã£o
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9362-tremors.mp4:O Ataque dos Vermes Malditos
 #DESCRIPTION O Ataque dos Vermes Malditos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9457-deep-rising.mp4:Tentáculos
-#DESCRIPTION Tentáculos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9885-wolf-creek.mp4:Wolf Creek – Viagem ao Inferno
-#DESCRIPTION Wolf Creek – Viagem ao Inferno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9457-deep-rising.mp4:TentÃ¡culos
+#DESCRIPTION TentÃ¡culos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9885-wolf-creek.mp4:Wolf Creek â€“ Viagem ao Inferno
+#DESCRIPTION Wolf Creek â€“ Viagem ao Inferno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/12583-ginger-snaps-back-the-beginning.mp4:Ginger Snaps Back: The Beginning
 #DESCRIPTION Ginger Snaps Back: The Beginning
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11460-red-eye.mp4:Voo Noturno
 #DESCRIPTION Voo Noturno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10984-valentine.mp4:O Dia do Terror
 #DESCRIPTION O Dia do Terror
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10906-pet-sematary-ii.mp4:Cemitério Maldito II
-#DESCRIPTION Cemitério Maldito II
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10361-ginger-snaps-2-unleashed.mp4:Possuída 2: Força Incontrolável
-#DESCRIPTION Possuída 2: Força Incontrolável
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10206-buffy-the-vampire-slayer.mp4:Buffy, a Caça Vampiros
-#DESCRIPTION Buffy, a Caça Vampiros
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10166-the-witches.mp4:Convenção das Bruxas
-#DESCRIPTION Convenção das Bruxas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10906-pet-sematary-ii.mp4:CemitÃ©rio Maldito II
+#DESCRIPTION CemitÃ©rio Maldito II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10361-ginger-snaps-2-unleashed.mp4:PossuÃ­da 2: ForÃ§a IncontrolÃ¡vel
+#DESCRIPTION PossuÃ­da 2: ForÃ§a IncontrolÃ¡vel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10206-buffy-the-vampire-slayer.mp4:Buffy, a CaÃ§a Vampiros
+#DESCRIPTION Buffy, a CaÃ§a Vampiros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10166-the-witches.mp4:ConvenÃ§Ã£o das Bruxas
+#DESCRIPTION ConvenÃ§Ã£o das Bruxas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10166-the-witches.mp4:Os Esquecidos
 #DESCRIPTION Os Esquecidos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9825-lake-placid.mp4:Pânico no lago
-#DESCRIPTION Pânico no lago
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10961-behind-the-mask-the-rise-of-leslie-vernon.mp4:Por Trás da Máscara – O Surgimento de Leslie V
-#DESCRIPTION Por Trás da Máscara – O Surgimento de Leslie V
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11428-sleepwalkers.mp4:Sonâmbulos
-#DESCRIPTION Sonâmbulos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9825-lake-placid.mp4:PÃ¢nico no lago
+#DESCRIPTION PÃ¢nico no lago
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10961-behind-the-mask-the-rise-of-leslie-vernon.mp4:Por TrÃ¡s da MÃ¡scara â€“ O Surgimento de Leslie V
+#DESCRIPTION Por TrÃ¡s da MÃ¡scara â€“ O Surgimento de Leslie V
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11428-sleepwalkers.mp4:SonÃ¢mbulos
+#DESCRIPTION SonÃ¢mbulos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/37865-buried-alive.mp4:Sepultado Vivo
 #DESCRIPTION Sepultado Vivo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9406-an-american-werewolf-in-paris.mp4:Um Lobisomem Americano em Paris
 #DESCRIPTION Um Lobisomem Americano em Paris
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9906-the-ant-bully.mp4:Os Mensageiros
 #DESCRIPTION Os Mensageiros
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/948-halloween.mp4:Halloween – A Noite do Terror
-#DESCRIPTION Halloween – A Noite do Terror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/948-halloween.mp4:Halloween â€“ A Noite do Terror
+#DESCRIPTION Halloween â€“ A Noite do Terror
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/927-gremlins.mp4:Gremlins
 #DESCRIPTION Gremlins
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/663-saw-iv.mp4:Jogos Mortais IV
 #DESCRIPTION Jogos Mortais IV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/37973.mp4:Espíritos 2 Você nunca está sozinho
-#DESCRIPTION Espíritos 2 Você nunca está sozinho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/37973.mp4:EspÃ­ritos 2 VocÃª nunca estÃ¡ sozinho
+#DESCRIPTION EspÃ­ritos 2 VocÃª nunca estÃ¡ sozinho
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/215-saw-ii.mp4:Jogos Mortais II
 #DESCRIPTION Jogos Mortais II
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/2082-halloween.mp4:Halloween – O Início
-#DESCRIPTION Halloween – O Início
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/2082-halloween.mp4:Halloween â€“ O InÃ­cio
+#DESCRIPTION Halloween â€“ O InÃ­cio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/14001-dead-silence.mp4:Gritos Mortais
 #DESCRIPTION Gritos Mortais
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1248-hannibal-rising.mp4:Hannibal – A Origem do Mal
-#DESCRIPTION Hannibal – A Origem do Mal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11361-halloween-5-the-revenge-of-michael-myers.mp4:Halloween 5 – A Vingança de Michael Myers
-#DESCRIPTION Halloween 5 – A Vingança de Michael Myers
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11357-halloween-4-the-return-of-michael-myers.mp4:Halloween 4 – O Retorno de Michael Myers
-#DESCRIPTION Halloween 4 – O Retorno de Michael Myers
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11281-halloween-ii.mp4:Halloween II – O Pesadelo Continua
-#DESCRIPTION Halloween II – O Pesadelo Continua
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10987-halloween-the-curse-of-michael-myers.mp4:Halloween 6 – A Última Vingança
-#DESCRIPTION Halloween 6 – A Última Vingança
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10676-halloween-iii-season-of-the-witch.mp4:Halloween III – A Noite das Bruxas
-#DESCRIPTION Halloween III – A Noite das Bruxas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1248-hannibal-rising.mp4:Hannibal â€“ A Origem do Mal
+#DESCRIPTION Hannibal â€“ A Origem do Mal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11361-halloween-5-the-revenge-of-michael-myers.mp4:Halloween 5 â€“ A VinganÃ§a de Michael Myers
+#DESCRIPTION Halloween 5 â€“ A VinganÃ§a de Michael Myers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11357-halloween-4-the-return-of-michael-myers.mp4:Halloween 4 â€“ O Retorno de Michael Myers
+#DESCRIPTION Halloween 4 â€“ O Retorno de Michael Myers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11281-halloween-ii.mp4:Halloween II â€“ O Pesadelo Continua
+#DESCRIPTION Halloween II â€“ O Pesadelo Continua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10987-halloween-the-curse-of-michael-myers.mp4:Halloween 6 â€“ A Ãšltima VinganÃ§a
+#DESCRIPTION Halloween 6 â€“ A Ãšltima VinganÃ§a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10676-halloween-iii-season-of-the-witch.mp4:Halloween III â€“ A Noite das Bruxas
+#DESCRIPTION Halloween III â€“ A Noite das Bruxas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9645-ghost-ship.mp4:Navio Fantasma
 #DESCRIPTION Navio Fantasma
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9272-the-good-son.mp4:O Anjo Malvado
@@ -1017,64 +1017,64 @@
 #DESCRIPTION Elvira: A Rainha das Trevas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/4970-gothika.mp4:Na Companhia do Medo
 #DESCRIPTION Na Companhia do Medo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/25752-children-of-the-corn-666-isaac-s-return.mp4:Colheita Maldita 666: Isaac Está de Volta
-#DESCRIPTION Colheita Maldita 666: Isaac Está de Volta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/25752-children-of-the-corn-666-isaac-s-return.mp4:Colheita Maldita 666: Isaac EstÃ¡ de Volta
+#DESCRIPTION Colheita Maldita 666: Isaac EstÃ¡ de Volta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/25751-children-of-the-corn-v-fields-of-terror.mp4:Colheita Maldita 5: Campos do Terror
 #DESCRIPTION Colheita Maldita 5: Campos do Terror
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/25750-children-of-the-corn-iv-the-gathering.mp4:Colheita Maldita 4
 #DESCRIPTION Colheita Maldita 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/25748-children-of-the-corn-ii-the-final-sacrifice.mp4:Colheita Maldita 2: O Sacrifício Final
-#DESCRIPTION Colheita Maldita 2: O Sacrifício Final
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/24655-the-car.mp4:O Carro – A Máquina do Diabo
-#DESCRIPTION O Carro – A Máquina do Diabo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/170-28-days-later.mp4:Extermínio
-#DESCRIPTION Extermínio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/458723-us.mp4:Nós
-#DESCRIPTION Nós
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/13025-diary-of-the-dead.mp4:Diário dos Mortos
-#DESCRIPTION Diário dos Mortos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/25748-children-of-the-corn-ii-the-final-sacrifice.mp4:Colheita Maldita 2: O SacrifÃ­cio Final
+#DESCRIPTION Colheita Maldita 2: O SacrifÃ­cio Final
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/24655-the-car.mp4:O Carro â€“ A MÃ¡quina do Diabo
+#DESCRIPTION O Carro â€“ A MÃ¡quina do Diabo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/170-28-days-later.mp4:ExtermÃ­nio
+#DESCRIPTION ExtermÃ­nio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/458723-us.mp4:NÃ³s
+#DESCRIPTION NÃ³s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/13025-diary-of-the-dead.mp4:DiÃ¡rio dos Mortos
+#DESCRIPTION DiÃ¡rio dos Mortos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/13006-split-second.mp4:O Destruidor
 #DESCRIPTION O Destruidor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11974-the-burbs.mp4:Meus Vizinhos São um Terror
-#DESCRIPTION Meus Vizinhos São um Terror
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11880-dog-soldiers.mp4:Dog Soldiers – Cães de Caça
-#DESCRIPTION Dog Soldiers – Cães de Caça
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11974-the-burbs.mp4:Meus Vizinhos SÃ£o um Terror
+#DESCRIPTION Meus Vizinhos SÃ£o um Terror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11880-dog-soldiers.mp4:Dog Soldiers â€“ CÃ£es de CaÃ§a
+#DESCRIPTION Dog Soldiers â€“ CÃ£es de CaÃ§a
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/11249-seed-of-chucky.mp4:O Filho de Chucky
 #DESCRIPTION O Filho de Chucky
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10891-tremors-4-the-legend-begins.mp4:O Ataque dos Vermes Malditos 4: O Começo da Lenda
-#DESCRIPTION O Ataque dos Vermes Malditos 4: O Começo da Lenda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10891-tremors-4-the-legend-begins.mp4:O Ataque dos Vermes Malditos 4: O ComeÃ§o da Lenda
+#DESCRIPTION O Ataque dos Vermes Malditos 4: O ComeÃ§o da Lenda
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10829-tremors-3-back-to-perfection.mp4:O Ataque dos Vermes Malditos 3
 #DESCRIPTION O Ataque dos Vermes Malditos 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10216-species-ii.mp4:Experiência II – A Mutação
-#DESCRIPTION Experiência II – A Mutação
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10216-species-ii.mp4:ExperiÃªncia II â€“ A MutaÃ§Ã£o
+#DESCRIPTION ExperiÃªncia II â€“ A MutaÃ§Ã£o
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10127-critters-2.mp4:Criaturas 2
 #DESCRIPTION Criaturas 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/157433-pet-sematary.mp4:Cemitério Maldito
-#DESCRIPTION Cemitério Maldito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/157433-pet-sematary.mp4:CemitÃ©rio Maldito
+#DESCRIPTION CemitÃ©rio Maldito
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/cam/533642-child-s-play.mp4:Brinquedo Assassino
 #DESCRIPTION Brinquedo Assassino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10212-ravenous.mp4:Mortos de Fome
 #DESCRIPTION Mortos de Fome
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9946-end-of-days.mp4:Fim dos Dias
 #DESCRIPTION Fim dos Dias
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/535581-the-dead-don-t-die.mp4:Os Mortos Não Morrem
-#DESCRIPTION Os Mortos Não Morrem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/535581-the-dead-don-t-die.mp4:Os Mortos NÃ£o Morrem
+#DESCRIPTION Os Mortos NÃ£o Morrem
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/532635-the-golem.mp4:A Lenda do Golem
 #DESCRIPTION A Lenda do Golem
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/361292-suspiria.mp4:Suspíria: A Dança do Medo
-#DESCRIPTION Suspíria: A Dança do Medo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/361292-suspiria.mp4:SuspÃ­ria: A DanÃ§a do Medo
+#DESCRIPTION SuspÃ­ria: A DanÃ§a do Medo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/cam/521029-annabelle-comes-home.mp4:Annabelle 3: De Volta Para Casa
 #DESCRIPTION Annabelle 3: De Volta Para Casa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/4257-scary-movie-4.mp4:Todo Mundo em Pânico 4
-#DESCRIPTION Todo Mundo em Pânico 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/4247-scary-movie.mp4:Todo Mundo em Pânico
-#DESCRIPTION Todo Mundo em Pânico
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/3989-team-america-world-police.mp4:Team America – Detonando o Mundo
-#DESCRIPTION Team America – Detonando o Mundo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/36593-the-naked-gun-33-the-final-insult.mp4:Corra que a Polícia Vem Aí! 33?: O Insulto Final
-#DESCRIPTION Corra que a Polícia Vem Aí! 33?: O Insulto Final
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/2978-ghostbusters-ii.mp4:Os Caça-Fantasmas 2
-#DESCRIPTION Os Caça-Fantasmas 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/4257-scary-movie-4.mp4:Todo Mundo em PÃ¢nico 4
+#DESCRIPTION Todo Mundo em PÃ¢nico 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/4247-scary-movie.mp4:Todo Mundo em PÃ¢nico
+#DESCRIPTION Todo Mundo em PÃ¢nico
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/3989-team-america-world-police.mp4:Team America â€“ Detonando o Mundo
+#DESCRIPTION Team America â€“ Detonando o Mundo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/36593-the-naked-gun-33-the-final-insult.mp4:Corra que a PolÃ­cia Vem AÃ­! 33?: O Insulto Final
+#DESCRIPTION Corra que a PolÃ­cia Vem AÃ­! 33?: O Insulto Final
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/2978-ghostbusters-ii.mp4:Os CaÃ§a-Fantasmas 2
+#DESCRIPTION Os CaÃ§a-Fantasmas 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/293660-deadpool.mp4:Deadpool
 #DESCRIPTION Deadpool
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/28597-problem-child-2.mp4:O Pestinha 2
@@ -1091,106 +1091,106 @@
 #DESCRIPTION Dogma
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1824-50-first-dates.mp4:Como Se Fosse a Primeira Vez
 #DESCRIPTION Como Se Fosse a Primeira Vez
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1819-you-me-and-dupree.mp4:Dois é Bom, Três é Demais
-#DESCRIPTION Dois é Bom, Três é Demais
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/17379-last-holiday.mp4:As Férias da Minha Vida
-#DESCRIPTION As Férias da Minha Vida
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1819-you-me-and-dupree.mp4:Dois Ã© Bom, TrÃªs Ã© Demais
+#DESCRIPTION Dois Ã© Bom, TrÃªs Ã© Demais
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/17379-last-holiday.mp4:As FÃ©rias da Minha Vida
+#DESCRIPTION As FÃ©rias da Minha Vida
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/165-back-to-the-future-part-ii.mp4:De Volta para o Futuro 2
 #DESCRIPTION De Volta para o Futuro 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1636-bedazzled.mp4:Endiabrado
 #DESCRIPTION Endiabrado
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/8920-garfield.mp4:Garfield – O Filme
-#DESCRIPTION Garfield – O Filme
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/928-gremlins-2-the-new-batch.mp4:Gremlins 2: A Nova Geração
-#DESCRIPTION Gremlins 2: A Nova Geração
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/8920-garfield.mp4:Garfield â€“ O Filme
+#DESCRIPTION Garfield â€“ O Filme
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/928-gremlins-2-the-new-batch.mp4:Gremlins 2: A Nova GeraÃ§Ã£o
+#DESCRIPTION Gremlins 2: A Nova GeraÃ§Ã£o
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9339-click.mp4:Click
 #DESCRIPTION Click
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9359-maverick.mp4:Maverick
 #DESCRIPTION Maverick
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9384-starsky-hutch.mp4:Starsky &amp; Hutch – Justiça em Dobro
-#DESCRIPTION Starsky &amp; Hutch – Justiça em Dobro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9397-evolution.mp4:Evolução
-#DESCRIPTION Evolução
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9384-starsky-hutch.mp4:Starsky &amp; Hutch â€“ JustiÃ§a em Dobro
+#DESCRIPTION Starsky &amp; Hutch â€“ JustiÃ§a em Dobro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9397-evolution.mp4:EvoluÃ§Ã£o
+#DESCRIPTION EvoluÃ§Ã£o
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9414-the-man-who-knew-too-little.mp4:O Homem que Sabia de Menos
 #DESCRIPTION O Homem que Sabia de Menos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9416-money-talks.mp4:Tudo Por Dinheiro
 #DESCRIPTION Tudo Por Dinheiro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/942-lethal-weapon-2.mp4:Máquina Mortífera 2
-#DESCRIPTION Máquina Mortífera 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/942-lethal-weapon-2.mp4:MÃ¡quina MortÃ­fera 2
+#DESCRIPTION MÃ¡quina MortÃ­fera 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9472-dodgeball-a-true-underdog-story.mp4:Com a Bola Toda
 #DESCRIPTION Com a Bola Toda
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9593-last-action-hero.mp4:O Último Grande Herói
-#DESCRIPTION O Último Grande Herói
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9593-last-action-hero.mp4:O Ãšltimo Grande HerÃ³i
+#DESCRIPTION O Ãšltimo Grande HerÃ³i
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9607-super-mario-bros.mp4:Super Mario Bros.
 #DESCRIPTION Super Mario Bros.
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9718-talladega-nights-the-ballad-of-ricky-bobby.mp4:Ricky Bobby – A Toda Velocidade
-#DESCRIPTION Ricky Bobby – A Toda Velocidade
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10157-police-academy-2-their-first-assignment.mp4:Loucademia de Polícia 2: A Primeira Missão
-#DESCRIPTION Loucademia de Polícia 2: A Primeira Missão
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10587-police-academy-4-citizens-on-patrol.mp4:Loucademia de Polícia 4: O Cidadão se Defende
-#DESCRIPTION Loucademia de Polícia 4: O Cidadão se Defende
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9718-talladega-nights-the-ballad-of-ricky-bobby.mp4:Ricky Bobby â€“ A Toda Velocidade
+#DESCRIPTION Ricky Bobby â€“ A Toda Velocidade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10157-police-academy-2-their-first-assignment.mp4:Loucademia de PolÃ­cia 2: A Primeira MissÃ£o
+#DESCRIPTION Loucademia de PolÃ­cia 2: A Primeira MissÃ£o
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10587-police-academy-4-citizens-on-patrol.mp4:Loucademia de PolÃ­cia 4: O CidadÃ£o se Defende
+#DESCRIPTION Loucademia de PolÃ­cia 4: O CidadÃ£o se Defende
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/K-911%20Um%20Policial%20Bom%20pra%20Cachorro%202.1999.1080p.BluRay.x264.mkv.mp4:K-911: Um Policial Bom Pra Cachorro 2
 #DESCRIPTION K-911: Um Policial Bom Pra Cachorro 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/37136-the-naked-gun-from-the-files-of-police-squad.mp4:Corra que a Polícia Vem Aí!
-#DESCRIPTION Corra que a Polícia Vem Aí!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10345-k-9.mp4:K-9 – Um Policial Bom pra Cachorro
-#DESCRIPTION K-9 – Um Policial Bom pra Cachorro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/37136-the-naked-gun-from-the-files-of-police-squad.mp4:Corra que a PolÃ­cia Vem AÃ­!
+#DESCRIPTION Corra que a PolÃ­cia Vem AÃ­!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10345-k-9.mp4:K-9 â€“ Um Policial Bom pra Cachorro
+#DESCRIPTION K-9 â€“ Um Policial Bom pra Cachorro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9778-serendipity.mp4:Escrito nas Estrelas
 #DESCRIPTION Escrito nas Estrelas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9820-the-parent-trap.mp4:Operação Cupido
-#DESCRIPTION Operação Cupido
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/9820-the-parent-trap.mp4:OperaÃ§Ã£o Cupido
+#DESCRIPTION OperaÃ§Ã£o Cupido
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/513576-always-be-my-maybe.mp4:Meu Eterno Talvez
 #DESCRIPTION Meu Eterno Talvez
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/1542-office-space.mp4:Como Enlouquecer seu Chefe
 #DESCRIPTION Como Enlouquecer seu Chefe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/14239-cool-world.mp4:Mundo Proibido
 #DESCRIPTION Mundo Proibido
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/137-groundhog-day.mp4:Feitiço do Tempo
-#DESCRIPTION Feitiço do Tempo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/134-o-brother-where-art-thou.mp4:E Aí, Meu Irmão, Cadê Você?
-#DESCRIPTION E Aí, Meu Irmão, Cadê Você?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/137-groundhog-day.mp4:FeitiÃ§o do Tempo
+#DESCRIPTION FeitiÃ§o do Tempo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/134-o-brother-where-art-thou.mp4:E AÃ­, Meu IrmÃ£o, CadÃª VocÃª?
+#DESCRIPTION E AÃ­, Meu IrmÃ£o, CadÃª VocÃª?
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/12508-rock-star.mp4:Rock Star
 #DESCRIPTION Rock Star
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/12475-in-the-army-now.mp4:Um Maluco no Exército
-#DESCRIPTION Um Maluco no Exército
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/12475-in-the-army-now.mp4:Um Maluco no ExÃ©rcito
+#DESCRIPTION Um Maluco no ExÃ©rcito
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/12187-heart-and-souls.mp4:Morrendo e Aprendendo
 #DESCRIPTION Morrendo e Aprendendo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/12139-dennis-the-menace.mp4:Dennis, O Pimentinha
 #DESCRIPTION Dennis, O Pimentinha
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11774-lemony-snicket-s-a-series-of-unfortunate-events.mp4:Desventuras em Série
-#DESCRIPTION Desventuras em Série
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11774-lemony-snicket-s-a-series-of-unfortunate-events.mp4:Desventuras em SÃ©rie
+#DESCRIPTION Desventuras em SÃ©rie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11637-are-we-there-yet.mp4:Querem Acabar Comigo
 #DESCRIPTION Querem Acabar Comigo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11469-black-knight.mp4:Loucuras na Idade Média
-#DESCRIPTION Loucuras na Idade Média
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11453-deuce-bigalow-european-gigolo.mp4:Gigolô Europeu por Acidente
-#DESCRIPTION Gigolô Europeu por Acidente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11469-black-knight.mp4:Loucuras na Idade MÃ©dia
+#DESCRIPTION Loucuras na Idade MÃ©dia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11453-deuce-bigalow-european-gigolo.mp4:GigolÃ´ Europeu por Acidente
+#DESCRIPTION GigolÃ´ Europeu por Acidente
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11185-see-no-evil-hear-no-evil.mp4:Cegos Surdos e Loucos
 #DESCRIPTION Cegos Surdos e Loucos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11024-scooby-doo-2-monsters-unleashed.mp4:Scooby-Doo 2 – Monstros à Solta
-#DESCRIPTION Scooby-Doo 2 – Monstros à Solta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11024-scooby-doo-2-monsters-unleashed.mp4:Scooby-Doo 2 â€“ Monstros Ã  Solta
+#DESCRIPTION Scooby-Doo 2 â€“ Monstros Ã  Solta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/11011-ri-hie-ri-h.mp4:Riquinho
 #DESCRIPTION Riquinho
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10992-cats-dogs.mp4:Como Cães e Gatos
-#DESCRIPTION Como Cães e Gatos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10992-cats-dogs.mp4:Como CÃ£es e Gatos
+#DESCRIPTION Como CÃ£es e Gatos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10947-high-school-musical.mp4:High School Musical
 #DESCRIPTION High School Musical
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10830-matilda.mp4:Matilda
 #DESCRIPTION Matilda
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10762-without-a-paddle.mp4:Totalmente sem Rumo
 #DESCRIPTION Totalmente sem Rumo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10607-don-t-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood.mp4:Vizinhança do Barulho
-#DESCRIPTION Vizinhança do Barulho
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10312-patch-adams.mp4:Patch Adams – O Amor É Contagioso
-#DESCRIPTION Patch Adams – O Amor É Contagioso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10607-don-t-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood.mp4:VizinhanÃ§a do Barulho
+#DESCRIPTION VizinhanÃ§a do Barulho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10312-patch-adams.mp4:Patch Adams â€“ O Amor Ã‰ Contagioso
+#DESCRIPTION Patch Adams â€“ O Amor Ã‰ Contagioso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10096-13-going-on-30.mp4:De Repente 30
 #DESCRIPTION De Repente 30
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a04.unitplay.stream/hd/10025-just-my-luck.mp4:Sorte no Amor
 #DESCRIPTION Sorte no Amor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a03.unitplay.stream/hd/287947-shazam.mp4:Shazam!
 #DESCRIPTION Shazam!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10402-deuce-bigalow-male-gigolo.mp4:Gigolô por Acidente
-#DESCRIPTION Gigolô por Acidente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/10402-deuce-bigalow-male-gigolo.mp4:GigolÃ´ por Acidente
+#DESCRIPTION GigolÃ´ por Acidente
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/13499-yours-mine-ours.mp4:Os Seus, os Meus e os Nossos
 #DESCRIPTION Os Seus, os Meus e os Nossos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/1597-meet-the-parents.mp4:Entrando numa Fria
@@ -1201,8 +1201,8 @@
 #DESCRIPTION Muito Bem Acompanhada
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9285-road-trip.mp4:Caindo na Estrada
 #DESCRIPTION Caindo na Estrada
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9595-hot-shots.mp4:Top Gang! – Ases Muito Loucos
-#DESCRIPTION Top Gang! – Ases Muito Loucos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9595-hot-shots.mp4:Top Gang! â€“ Ases Muito Loucos
+#DESCRIPTION Top Gang! â€“ Ases Muito Loucos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bucket-a02.unitplay.stream/hd/9767-the-break-up.mp4:Separados pelo Casamento
 #DESCRIPTION Separados pelo Casamento
 #SERVICE 1:64:A2:0:0:0:0:0:0:0::cdn13.vcdvideo.com
@@ -1223,8 +1223,8 @@
 #DESCRIPTION 2017Bright
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn11.vcdvideo.com/44944.mp4?st=AqpQcmq_3rqAW5qDu7eyVg&amp;e=1527289850:2017Labirent 3 Son Isyan
 #DESCRIPTION 2017Labirent 3 Son Isyan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn13.vcdvideo.com/82191.mp4?st=yNzjMyOF42QBifQTsM1WFg&amp;e=1527289829:2017Koko – Coco (Animasyon)
-#DESCRIPTION 2017Koko – Coco (Animasyon)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn13.vcdvideo.com/82191.mp4?st=yNzjMyOF42QBifQTsM1WFg&amp;e=1527289829:2017Koko â€“ Coco (Animasyon)
+#DESCRIPTION 2017Koko â€“ Coco (Animasyon)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn11.vcdvideo.com/105.mp4:2017
 #DESCRIPTION 2017
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn11.vcdvideo.com/108.mp4:2017
@@ -1331,8 +1331,8 @@
 #DESCRIPTION Bred Pitt Bastardi Senza Gloria CD1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75969.mkv:Bred Pitt Bastardi Senza Gloria CD2
 #DESCRIPTION Bred Pitt Bastardi Senza Gloria CD2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75963.mkv:Bred Pitt Civiltà Perduta
-#DESCRIPTION Bred Pitt Civiltà Perduta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75963.mkv:Bred Pitt CiviltÃ  Perduta
+#DESCRIPTION Bred Pitt CiviltÃ  Perduta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75960.mkv:Bred Pitt Il Curioso Caso Di Benjamin Button
 #DESCRIPTION Bred Pitt Il Curioso Caso Di Benjamin Button
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75966.mkv:Bred Pitt L'Ombra Del Diavolo-The Devil's Own
@@ -1405,8 +1405,8 @@
 #DESCRIPTION Kickboxer 3 - Mani di pietra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/70284.mkv:Jean-Claude Van Damme-Bloodsport
 #DESCRIPTION Jean-Claude Van Damme-Bloodsport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/70283.mkv:Jean-Claude Van Damme-Mit Stählerner Faust
-#DESCRIPTION Jean-Claude Van Damme-Mit Stählerner Faust
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/70283.mkv:Jean-Claude Van Damme-Mit StÃ¤hlerner Faust
+#DESCRIPTION Jean-Claude Van Damme-Mit StÃ¤hlerner Faust
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//moretv.for-more.biz%3a8000/movie/Domenicomir/SBstEDd4r4/485.mp4:Senza esclusione di colpi
 #DESCRIPTION Senza esclusione di colpi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75988.mkv:Jean Claude Van Damme- Rischio Della Vita
@@ -1427,8 +1427,8 @@
 #DESCRIPTION Julia Roberts Duplicity  CD1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76075.mkv:Julia Roberts Duplicity CD2
 #DESCRIPTION Julia Roberts Duplicity CD2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76066.mkv:Julia Roberts Erin Brockovich-Forte Come La Verit�
-#DESCRIPTION Julia Roberts Erin Brockovich-Forte Come La Verit�
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76066.mkv:Julia Roberts Erin Brockovich-Forte Come La Veritï
+#DESCRIPTION Julia Roberts Erin Brockovich-Forte Come La Veritï
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76079.mkv:Julia Roberts-Il Matrimonio Del Mio Migliore Amico
 #DESCRIPTION Julia Roberts-Il Matrimonio Del Mio Migliore Amico
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76090.mkv:Julia Roberts-Il Segreto Dei Suoi Occhi
@@ -1449,8 +1449,8 @@
 #DESCRIPTION Gangs Of New York CD1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75348.mkv:Gangs Of New York CD2
 #DESCRIPTION Gangs Of New York CD2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75345.mkv:Taken - Io Vi Troverò
-#DESCRIPTION Taken - Io Vi Troverò
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75345.mkv:Taken - Io Vi TroverÃ²
+#DESCRIPTION Taken - Io Vi TroverÃ²
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75344.mkv:Non-Stop
 #DESCRIPTION Non-Stop
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75340.mkv:Taken - La Vendetta
@@ -1459,8 +1459,8 @@
 #DESCRIPTION Arizona Junior
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75936.mkv:Via Da Las Vegas
 #DESCRIPTION Via Da Las Vegas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75933.mkv:Al Di Là Della Vita
-#DESCRIPTION Al Di Là Della Vita
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75933.mkv:Al Di LÃ  Della Vita
+#DESCRIPTION Al Di LÃ  Della Vita
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75918.mkv:Con Air
 #DESCRIPTION Con Air
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75941.mkv:Cuore Selvaggio
@@ -1517,8 +1517,8 @@
 #DESCRIPTION C'era Una Volta In America - Pt 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76003.mkv:C'era Una Volta In America - Pt 2
 #DESCRIPTION C'era Una Volta In America - Pt 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75993.mkv:Casinò
-#DESCRIPTION Casinò
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75993.mkv:CasinÃ²
+#DESCRIPTION CasinÃ²
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76005.mkv:Lo Stagista Inaspettato
 #DESCRIPTION Lo Stagista Inaspettato
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76000.mkv:Nonno Scatenato
@@ -1567,8 +1567,8 @@
 #DESCRIPTION Angeli E Demoni PT2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76169.mkv:Apollo 13
 #DESCRIPTION Apollo 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76166.mkv:C'è Post@ Per Te
-#DESCRIPTION C'è Post@ Per Te
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76166.mkv:C'Ã¨ Post@ Per Te
+#DESCRIPTION C'Ã¨ Post@ Per Te
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76160.mkv:Forrest Gump
 #DESCRIPTION Forrest Gump
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76165.mkv:Il Miglio Verde
@@ -1577,12 +1577,12 @@
 #DESCRIPTION Prova A Prendermi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76174.mkv:The Terminal
 #DESCRIPTION The Terminal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75890.mkv:Hitch - Lui Sì Che Capisce Le Donne
-#DESCRIPTION Hitch - Lui Sì Che Capisce Le Donne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75890.mkv:Hitch - Lui SÃ¬ Che Capisce Le Donne
+#DESCRIPTION Hitch - Lui SÃ¬ Che Capisce Le Donne
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75883.mkv:Will Smit Io Sono Legganda Finale Alternativo
 #DESCRIPTION Will Smit Io Sono Legganda Finale Alternativo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75881.mkv:La Ricerca Della Felicità
-#DESCRIPTION La Ricerca Della Felicità
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75881.mkv:La Ricerca Della FelicitÃ 
+#DESCRIPTION La Ricerca Della FelicitÃ 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75899.mkv:Men In Black PT1
 #DESCRIPTION Men In Black PT1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75900.mkv:Men In Black PT2
@@ -1599,8 +1599,8 @@
 #DESCRIPTION Sette Anime PT2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75893.mkv:Suicide Squad
 #DESCRIPTION Suicide Squad
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75878.mkv:Zona D'ombra - Una Scomoda Verità
-#DESCRIPTION Zona D'ombra - Una Scomoda Verità
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75878.mkv:Zona D'ombra - Una Scomoda VeritÃ 
+#DESCRIPTION Zona D'ombra - Una Scomoda VeritÃ 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75884.mkv:Io Sono Leggenda PT1
 #DESCRIPTION Io Sono Leggenda PT1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75882.mkv:Io Sono Leggenda PT2
@@ -1725,8 +1725,8 @@
 #DESCRIPTION Un Piano Perfetto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54455.mkv:Viaggio Al Centro Della Terra
 #DESCRIPTION Viaggio Al Centro Della Terra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54456.mkv:Viaggio Nell’Isola Misteriosa
-#DESCRIPTION Viaggio Nell’Isola Misteriosa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54456.mkv:Viaggio Nellâ€™Isola Misteriosa
+#DESCRIPTION Viaggio Nellâ€™Isola Misteriosa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54457.mkv:Warcraft: L'inizio
 #DESCRIPTION Warcraft: L'inizio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54458.mkv:Water Horse
@@ -1931,8 +1931,8 @@
 #DESCRIPTION Ong Bak Nato Per Combattere
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54577.mkv:Ong-Bak 2 - La Nascita Del Dragone
 #DESCRIPTION Ong-Bak 2 - La Nascita Del Dragone
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54578.mkv:Onore E Lealtà
-#DESCRIPTION Onore E Lealtà
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54578.mkv:Onore E LealtÃ 
+#DESCRIPTION Onore E LealtÃ 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54580.mkv:Pam Xxx Indagine Ad Alto Rischio
 #DESCRIPTION Pam Xxx Indagine Ad Alto Rischio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54582.mkv:Persecuted
@@ -1983,28 +1983,28 @@
 #DESCRIPTION Mery Per Sempre
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54345.mkv:Nino D'Angelo - Aitanic
 #DESCRIPTION Nino D'Angelo - Aitanic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54346.mkv:Nino D'Angelo - Fatalitá
-#DESCRIPTION Nino D'Angelo - Fatalitá
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54346.mkv:Nino D'Angelo - FatalitÃ¡
+#DESCRIPTION Nino D'Angelo - FatalitÃ¡
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54357.mkv:Nino D'angelo - L'ammiratrice
 #DESCRIPTION Nino D'angelo - L'ammiratrice
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54350.mkv:Nino D'Angelo - La Ragazza Del Metrò
-#DESCRIPTION Nino D'Angelo - La Ragazza Del Metrò
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54350.mkv:Nino D'Angelo - La Ragazza Del MetrÃ²
+#DESCRIPTION Nino D'Angelo - La Ragazza Del MetrÃ²
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54351.mkv:Nino D'Angelo - Nu Jeans E Na Maglietta
 #DESCRIPTION Nino D'Angelo - Nu Jeans E Na Maglietta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54353.mkv:Nino D'Angelo - Popcorn E Patatine
 #DESCRIPTION Nino D'Angelo - Popcorn E Patatine
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54354.mkv:Quel Ragazzo Della Curva B
 #DESCRIPTION Quel Ragazzo Della Curva B
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54356.mkv:La Ragazza Del Metrò  OK
-#DESCRIPTION La Ragazza Del Metrò  OK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54356.mkv:La Ragazza Del MetrÃ²  OK
+#DESCRIPTION La Ragazza Del MetrÃ²  OK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54365.mkv:Nu Jeans E Na Maglietta
 #DESCRIPTION Nu Jeans E Na Maglietta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54366.mkv:Popcorn E Patatine
 #DESCRIPTION Popcorn E Patatine
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54359.mkv:Ragazzi Fuori
 #DESCRIPTION Ragazzi Fuori
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54360.mkv:Ultrà
-#DESCRIPTION Ultrà
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54360.mkv:UltrÃ 
+#DESCRIPTION UltrÃ 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74527.mkv:Catene
 #DESCRIPTION Catene
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74526.mp4:La Dolce Vita
@@ -2043,8 +2043,8 @@
 #DESCRIPTION Nick Mano Fredda
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74492.mkv:Papillon
 #DESCRIPTION Papillon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74488.mkv:Questa Terra è La Mia Terra OK
-#DESCRIPTION Questa Terra è La Mia Terra OK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74488.mkv:Questa Terra Ã¨ La Mia Terra OK
+#DESCRIPTION Questa Terra Ã¨ La Mia Terra OK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74518.mkv:Sette Giorni A Maggio
 #DESCRIPTION Sette Giorni A Maggio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74494.mkv:Serpico
@@ -2117,8 +2117,8 @@
 #DESCRIPTION Il Balio Asciutto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54629.mkv:Il Dottor Dolittle
 #DESCRIPTION Il Dottor Dolittle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54630.mkv:Il Film Più Pazzo Del Mondo
-#DESCRIPTION Il Film Più Pazzo Del Mondo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54630.mkv:Il Film PiÃ¹ Pazzo Del Mondo
+#DESCRIPTION Il Film PiÃ¹ Pazzo Del Mondo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54631.mkv:Il Giullare Del Re
 #DESCRIPTION Il Giullare Del Re
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54634.mkv:Il Nipote Picchiatello
@@ -2127,8 +2127,8 @@
 #DESCRIPTION Il Papocchio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54632.mkv:Il Ragazzo Del Pony Express
 #DESCRIPTION Il Ragazzo Del Pony Express
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54636.mkv:Il Testimone Più Pazzo Del Mondo
-#DESCRIPTION Il Testimone Più Pazzo Del Mondo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54636.mkv:Il Testimone PiÃ¹ Pazzo Del Mondo
+#DESCRIPTION Il Testimone PiÃ¹ Pazzo Del Mondo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54638.mkv:Io Vengo Ogni Giorno
 #DESCRIPTION Io Vengo Ogni Giorno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54639.mkv:Jerry Lewis - Ragazzo Tutto Fare
@@ -2197,16 +2197,16 @@
 #DESCRIPTION Striscia Vincente
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54678.mkv:SuperFast E SuperFurious Solo Party Originali
 #DESCRIPTION SuperFast E SuperFurious Solo Party Originali
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54679.mkv:Superhero - Il Più Dotato Fra I Supereroi
-#DESCRIPTION Superhero - Il Più Dotato Fra I Supereroi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54679.mkv:Superhero - Il PiÃ¹ Dotato Fra I Supereroi
+#DESCRIPTION Superhero - Il PiÃ¹ Dotato Fra I Supereroi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54681.mkv:Taxxi 3
 #DESCRIPTION Taxxi 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54682.mkv:Tenacious D E Il Destino Del Rock
 #DESCRIPTION Tenacious D E Il Destino Del Rock
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54683.mkv:Terra Nera
 #DESCRIPTION Terra Nera
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54684.mkv:Tesoro, Mi Si è Allargato Il Ragazzino
-#DESCRIPTION Tesoro, Mi Si è Allargato Il Ragazzino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54684.mkv:Tesoro, Mi Si Ã¨ Allargato Il Ragazzino
+#DESCRIPTION Tesoro, Mi Si Ã¨ Allargato Il Ragazzino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54685.mkv:The Stag Se Sopravvivo Mi Sposo
 #DESCRIPTION The Stag Se Sopravvivo Mi Sposo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54680.mkv:TO_BE_OR_NOT_TO_BE
@@ -2219,10 +2219,10 @@
 #DESCRIPTION Hot Chick - Una Bionda Esplosiva
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54692.mkv:Una Pallottola Spuntata
 #DESCRIPTION Una Pallottola Spuntata
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54694.mkv:La Vita è Una Cosa Meravigliosa Cd1
-#DESCRIPTION La Vita è Una Cosa Meravigliosa Cd1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54695.mkv:La Vita è Una Cosa Meravigliosa CD2
-#DESCRIPTION La Vita è Una Cosa Meravigliosa CD2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54694.mkv:La Vita Ã¨ Una Cosa Meravigliosa Cd1
+#DESCRIPTION La Vita Ã¨ Una Cosa Meravigliosa Cd1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54695.mkv:La Vita Ã¨ Una Cosa Meravigliosa CD2
+#DESCRIPTION La Vita Ã¨ Una Cosa Meravigliosa CD2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74566.mkv:Adriano Celentano Bluff
 #DESCRIPTION Adriano Celentano Bluff
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/74572.mkv:Adriano Celentano Innamorato Pazzo
@@ -2257,8 +2257,8 @@
 #DESCRIPTION Il Secondo Tragico Fantozzi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75980.mkv:Superfantozzi
 #DESCRIPTION Superfantozzi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76045.mkv:Finalmente La Felicità
-#DESCRIPTION Finalmente La Felicità
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76045.mkv:Finalmente La FelicitÃ 
+#DESCRIPTION Finalmente La FelicitÃ 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76049.mkv:Fuochi D'artificio
 #DESCRIPTION Fuochi D'artificio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76043.mkv:Il Principe E Il Pirata
@@ -2269,8 +2269,8 @@
 #DESCRIPTION Io E Marilyn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/76040.mkv:Ti Amo In Tutte Le Lingue Del Mondo
 #DESCRIPTION Ti Amo In Tutte Le Lingue Del Mondo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75906.mkv:Che Ora è?
-#DESCRIPTION Che Ora è?
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75906.mkv:Che Ora Ã¨?
+#DESCRIPTION Che Ora Ã¨?
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75905.mkv:Massimo Troisi Hotel Colonial
 #DESCRIPTION Massimo Troisi Hotel Colonial
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75948.mkv:Il Postino
@@ -2349,8 +2349,8 @@
 #DESCRIPTION Io E Mia Sorella
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61749.mkv:Io, Loro E Lara
 #DESCRIPTION Io, Loro E Lara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61751.mkv:L'amore è Eterno Finché Dura
-#DESCRIPTION L'amore è Eterno Finché Dura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61751.mkv:L'amore Ã¨ Eterno FinchÃ© Dura
+#DESCRIPTION L'amore Ã¨ Eterno FinchÃ© Dura
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61752.mkv:Ma Che Colpa Abbiamo Noi
 #DESCRIPTION Ma Che Colpa Abbiamo Noi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61753.mkv:Maledetto Il Giorno Che T'ho Incontrato
@@ -2371,8 +2371,8 @@
 #DESCRIPTION Un Sacco Bello
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61761.mkv:Viaggi Di Nozze
 #DESCRIPTION Viaggi Di Nozze
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54696.mkv:---- Ciclo Comicità Partenopea ----
-#DESCRIPTION ---- Ciclo Comicità Partenopea ----
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54696.mkv:---- Ciclo ComicitÃ  Partenopea ----
+#DESCRIPTION ---- Ciclo ComicitÃ  Partenopea ----
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54697.mkv:10 Regole Per Fare Innamorare
 #DESCRIPTION 10 Regole Per Fare Innamorare
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54698.mkv:Operazione San Gennaro
@@ -2383,10 +2383,10 @@
 #DESCRIPTION A Ruota Libera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54704.mkv:Allegro Fantasma
 #DESCRIPTION Allegro Fantasma
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54705.mkv:Alta Infedeltà CD1
-#DESCRIPTION Alta Infedeltà CD1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54706.mkv:Alta Infedeltà CD2
-#DESCRIPTION Alta Infedeltà CD2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54705.mkv:Alta InfedeltÃ  CD1
+#DESCRIPTION Alta InfedeltÃ  CD1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54706.mkv:Alta InfedeltÃ  CD2
+#DESCRIPTION Alta InfedeltÃ  CD2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54708.mkv:Animali Pazzi
 #DESCRIPTION Animali Pazzi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54709.mkv:Baaria CD1
@@ -2489,8 +2489,8 @@
 #DESCRIPTION Non Mi Muovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54775.mkv:Oggi
 #DESCRIPTION Oggi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54776.mkv:Olè
-#DESCRIPTION Olè
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54776.mkv:OlÃ¨
+#DESCRIPTION OlÃ¨
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54777.mkv:Pacco Doppio Pacco E Contropaccotto
 #DESCRIPTION Pacco Doppio Pacco E Contropaccotto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54778.mkv:Pane
@@ -2507,8 +2507,8 @@
 #DESCRIPTION Risate Di Gioia - PT 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54785.mkv:Risate Di Gioia - PT 2
 #DESCRIPTION Risate Di Gioia - PT 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54788.mkv:Senza Arte Né Parte
-#DESCRIPTION Senza Arte Né Parte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54788.mkv:Senza Arte NÃ© Parte
+#DESCRIPTION Senza Arte NÃ© Parte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54786.mkv:SMS - Sotto Mentite Spoglie
 #DESCRIPTION SMS - Sotto Mentite Spoglie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54791.mkv:Song E Napule
@@ -2517,8 +2517,8 @@
 #DESCRIPTION Tempi Nostri
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54794.mkv:Ti Conosco Mascherina
 #DESCRIPTION Ti Conosco Mascherina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54806.mkv:Totò All'inferno
-#DESCRIPTION Totò All'inferno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54806.mkv:TotÃ² All'inferno
+#DESCRIPTION TotÃ² All'inferno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54807.mkv:Toto Di Notte N1
 #DESCRIPTION Toto Di Notte N1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54797.mkv:Toto Diabolicus
@@ -2617,8 +2617,8 @@
 #DESCRIPTION Grandma
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55153.mkv:Grimsby Attenti A Quell'Altro
 #DESCRIPTION Grimsby Attenti A Quell'Altro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55154.mkv:Guida Per La Felicità Ok
-#DESCRIPTION Guida Per La Felicità Ok
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55154.mkv:Guida Per La FelicitÃ  Ok
+#DESCRIPTION Guida Per La FelicitÃ  Ok
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55155.mkv:Hannah Montana
 #DESCRIPTION Hannah Montana
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55156.mkv:Il Cacciatore Di Ex
@@ -2657,8 +2657,8 @@
 #DESCRIPTION Mood Indigo La Schiuma Dei Giorni
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55177.mkv:Mrs  Doubtfire - Mammo Per Sempre
 #DESCRIPTION Mrs  Doubtfire - Mammo Per Sempre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55179.mkv:Non Buttiamoci Giù
-#DESCRIPTION Non Buttiamoci Giù
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55179.mkv:Non Buttiamoci GiÃ¹
+#DESCRIPTION Non Buttiamoci GiÃ¹
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55180.mkv:Non Sposate Le Mie Figlie
 #DESCRIPTION Non Sposate Le Mie Figlie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55181.mkv:Nonno Cattivo
@@ -2889,8 +2889,8 @@
 #DESCRIPTION Fai Bei Sogni
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54997.mkv:Senza Destino
 #DESCRIPTION Senza Destino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54998.mkv:Focus - Niente è Come Sembra
-#DESCRIPTION Focus - Niente è Come Sembra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/54998.mkv:Focus - Niente Ã¨ Come Sembra
+#DESCRIPTION Focus - Niente Ã¨ Come Sembra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55000.mkv:Forza Maggiore
 #DESCRIPTION Forza Maggiore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55001.mkv:Frantz
@@ -2925,8 +2925,8 @@
 #DESCRIPTION Il Capitale Umano
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55019.mkv:Il Club
 #DESCRIPTION Il Club
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55020.mkv:Il Confine Della Verità
-#DESCRIPTION Il Confine Della Verità
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55020.mkv:Il Confine Della VeritÃ 
+#DESCRIPTION Il Confine Della VeritÃ 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55021.mkv:Il Destino Nel Nome - The Namesake
 #DESCRIPTION Il Destino Nel Nome - The Namesake
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55022.mkv:Il Discorso Del Re
@@ -2937,8 +2937,8 @@
 #DESCRIPTION Il Grande Quaderno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55025.mkv:Il Labirinto Del Silenzio
 #DESCRIPTION Il Labirinto Del Silenzio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55026.mkv:Il Mistero Di Galíndez
-#DESCRIPTION Il Mistero Di Galíndez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55026.mkv:Il Mistero Di GalÃ­ndez
+#DESCRIPTION Il Mistero Di GalÃ­ndez
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55027.mkv:Il Mondo Di Arthur Newman
 #DESCRIPTION Il Mondo Di Arthur Newman
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55033.mkv:Il Passato
@@ -3015,8 +3015,8 @@
 #DESCRIPTION The Last Death La Ultima Muerte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55060.mkv:The Lazarus Effect
 #DESCRIPTION The Lazarus Effect
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55061.mkv:The Zero Theorem - Tutto è Vanità
-#DESCRIPTION The Zero Theorem - Tutto è Vanità
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55061.mkv:The Zero Theorem - Tutto Ã¨ VanitÃ 
+#DESCRIPTION The Zero Theorem - Tutto Ã¨ VanitÃ 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55062.mkv:Titanium
 #DESCRIPTION Titanium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55063.mkv:Tomorrowland Il Mondo Di Domani
@@ -3045,8 +3045,8 @@
 #DESCRIPTION Avatar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55081.mkv:Elysium
 #DESCRIPTION Elysium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55083.mkv:Frequency - Il Futuro è In Ascolto
-#DESCRIPTION Frequency - Il Futuro è In Ascolto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55083.mkv:Frequency - Il Futuro Ã¨ In Ascolto
+#DESCRIPTION Frequency - Il Futuro Ã¨ In Ascolto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55084.mkv:Game Therapy
 #DESCRIPTION Game Therapy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55085.mkv:Garm Wars L'Ultimo Druido
@@ -3141,8 +3141,8 @@
 #DESCRIPTION Defiance - I Giorni Del Coraggio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55290.mkv:Divisione Folgore
 #DESCRIPTION Divisione Folgore
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55291.mkv:Dov'è Finita La 7ª Compagnia
-#DESCRIPTION Dov'è Finita La 7ª Compagnia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55291.mkv:Dov'Ã¨ Finita La 7Âª Compagnia
+#DESCRIPTION Dov'Ã¨ Finita La 7Âª Compagnia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55292.mkv:Duello Mortale
 #DESCRIPTION Duello Mortale
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55293.mkv:Duello Nel Pacifico
@@ -3173,8 +3173,8 @@
 #DESCRIPTION Fuga Per La Vittoria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55306.mkv:George Cosmatos-Rappresaglia
 #DESCRIPTION George Cosmatos-Rappresaglia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55307.mkv:Giorno Più Lungo
-#DESCRIPTION Giorno Più Lungo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55307.mkv:Giorno PiÃ¹ Lungo
+#DESCRIPTION Giorno PiÃ¹ Lungo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55309.mkv:Gli Eroi Del Pacifico
 #DESCRIPTION Gli Eroi Del Pacifico
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55310.mkv:I Sette Fratelli Cervi
@@ -3237,8 +3237,8 @@
 #DESCRIPTION La Squadriglia Dei Falchi Rossi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55339.mkv:La Storia
 #DESCRIPTION La Storia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55340.mkv:La Vita è Bella
-#DESCRIPTION La Vita è Bella
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55340.mkv:La Vita Ã¨ Bella
+#DESCRIPTION La Vita Ã¨ Bella
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55341.mkv:LabattagliadiRiodelaPlata
 #DESCRIPTION LabattagliadiRiodelaPlata
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55325.mkv:LAvventuraImpossibile
@@ -3277,10 +3277,10 @@
 #DESCRIPTION Quell Ultimo Ponte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55363.mkv:Quella Sporca Dozzina
 #DESCRIPTION Quella Sporca Dozzina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55364.mkv:Roma Città Aperta
-#DESCRIPTION Roma Città Aperta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55365.mkv:Rosenstraße
-#DESCRIPTION Rosenstraße
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55364.mkv:Roma CittÃ  Aperta
+#DESCRIPTION Roma CittÃ  Aperta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55365.mkv:RosenstraÃŸe
+#DESCRIPTION RosenstraÃŸe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55397.mkv:Salvate Il Soldato Ryan
 #DESCRIPTION Salvate Il Soldato Ryan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55369.mkv:Scemo Di Guerra - Pt 1
@@ -3429,8 +3429,8 @@
 #DESCRIPTION My Little Sister
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55463.mkv:Navy Seals Attacco A New Orleans
 #DESCRIPTION Navy Seals Attacco A New Orleans
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55464.mkv:Necropolis - La Città Dei Morti
-#DESCRIPTION Necropolis - La Città Dei Morti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55464.mkv:Necropolis - La CittÃ  Dei Morti
+#DESCRIPTION Necropolis - La CittÃ  Dei Morti
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55465.mkv:Nightmare - Dal Profondo Della Notte
 #DESCRIPTION Nightmare - Dal Profondo Della Notte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55469.mkv:Nightmare 5 - Il Mito
@@ -3453,8 +3453,8 @@
 #DESCRIPTION R L Stine I Racconti Del Brivido La Casa Stregata
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55478.mkv:Ratter
 #DESCRIPTION Ratter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55479.mkv:Reversal - La Fuga è Solo L'inizio
-#DESCRIPTION Reversal - La Fuga è Solo L'inizio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55479.mkv:Reversal - La Fuga Ã¨ Solo L'inizio
+#DESCRIPTION Reversal - La Fuga Ã¨ Solo L'inizio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55481.mkv:Rosewood Lane
 #DESCRIPTION Rosewood Lane
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55482.mkv:Shadowhunters Citta Di Ossa
@@ -3493,8 +3493,8 @@
 #DESCRIPTION The Other Side Of The Door
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55502.mkv:4 Amiche E Un Paio Di Jeans 2
 #DESCRIPTION 4 Amiche E Un Paio Di Jeans 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55503.mkv:La Città Che Aveva Paura
-#DESCRIPTION La Città Che Aveva Paura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55503.mkv:La CittÃ  Che Aveva Paura
+#DESCRIPTION La CittÃ  Che Aveva Paura
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55504.mkv:The Wicked
 #DESCRIPTION The Wicked
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55505.mkv:The Witch
@@ -3507,8 +3507,8 @@
 #DESCRIPTION Van Helsing
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55511.mkv:We Are What We Are
 #DESCRIPTION We Are What We Are
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55512.mkv:Werewolf-La Bestia è Tornata
-#DESCRIPTION Werewolf-La Bestia è Tornata
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55512.mkv:Werewolf-La Bestia Ã¨ Tornata
+#DESCRIPTION Werewolf-La Bestia Ã¨ Tornata
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55513.mkv:World War Z
 #DESCRIPTION World War Z
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55516.mkv:Zombeavers
@@ -3625,8 +3625,8 @@
 #DESCRIPTION L'impero Del Crimine
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67954.mkv:L'Uomo Di Vetro
 #DESCRIPTION L'Uomo Di Vetro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67961.mkv:La Moglie Più Bella
-#DESCRIPTION La Moglie Più Bella
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67961.mkv:La Moglie PiÃ¹ Bella
+#DESCRIPTION La Moglie PiÃ¹ Bella
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67957.mkv:La Promessa Dell'assassino
 #DESCRIPTION La Promessa Dell'assassino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67958.mkv:La Scorta
@@ -3641,8 +3641,8 @@
 #DESCRIPTION Lacapagira
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67965.mkv:Le Conseguenze Dell' Amore
 #DESCRIPTION Le Conseguenze Dell' Amore
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67966.mkv:Le Mani Sulla Città
-#DESCRIPTION Le Mani Sulla Città
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67966.mkv:Le Mani Sulla CittÃ 
+#DESCRIPTION Le Mani Sulla CittÃ 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67967.mkv:Lo Zio Di Brooklyn
 #DESCRIPTION Lo Zio Di Brooklyn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/67968.mkv:Lucky Luciano
@@ -3839,8 +3839,8 @@
 #DESCRIPTION Blue Mountain State
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/59160.mkv:Eddie The Eagle Il Coraggio Della Follia
 #DESCRIPTION Eddie The Eagle Il Coraggio Della Follia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/59161.mkv:Fastest - Il Più Veloce
-#DESCRIPTION Fastest - Il Più Veloce
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/59161.mkv:Fastest - Il PiÃ¹ Veloce
+#DESCRIPTION Fastest - Il PiÃ¹ Veloce
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/59162.mkv:Goool
 #DESCRIPTION Goool
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/59163.mkv:Home Run
@@ -3921,8 +3921,8 @@
 #DESCRIPTION Franklyn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55807.mkv:Freaky Deaky
 #DESCRIPTION Freaky Deaky
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55808.mkv:Fredda è La Notte
-#DESCRIPTION Fredda è La Notte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55808.mkv:Fredda Ã¨ La Notte
+#DESCRIPTION Fredda Ã¨ La Notte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55810.mkv:Giovani Ribelli
 #DESCRIPTION Giovani Ribelli
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55811.mkv:Giustizia Privata
@@ -4125,8 +4125,8 @@
 #DESCRIPTION Friends - David W Griffith
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55924.mkv:Giu La Testa
 #DESCRIPTION Giu La Testa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55925.mkv:Gli Amanti Della Città Sepolta Colorado Territory
-#DESCRIPTION Gli Amanti Della Città Sepolta Colorado Territory
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55925.mkv:Gli Amanti Della CittÃ  Sepolta Colorado Territory
+#DESCRIPTION Gli Amanti Della CittÃ  Sepolta Colorado Territory
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55926.mkv:Gli Avvoltoi Hanno Fame
 #DESCRIPTION Gli Avvoltoi Hanno Fame
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55927.mkv:The Tramplers
@@ -4175,10 +4175,10 @@
 #DESCRIPTION La Cavalcata Dei Diavoli Rossi Ok
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55950.mkv:La Dove Scende Il Fiume
 #DESCRIPTION La Dove Scende Il Fiume
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55957.mkv:La Legge Del Più Forte
-#DESCRIPTION La Legge Del Più Forte
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55951.mkv:La Più Grande Avventura
-#DESCRIPTION La Più Grande Avventura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55957.mkv:La Legge Del PiÃ¹ Forte
+#DESCRIPTION La Legge Del PiÃ¹ Forte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55951.mkv:La PiÃ¹ Grande Avventura
+#DESCRIPTION La PiÃ¹ Grande Avventura
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55952.mkv:La Signora Del West - Il Film
 #DESCRIPTION La Signora Del West - Il Film
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55953.mkv:La Signora Del West - Ritorno A Boston
@@ -4195,14 +4195,14 @@
 #DESCRIPTION Le Furie
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55961.mkv:Lucky Luke
 #DESCRIPTION Lucky Luke
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55964.mkv:Nessuna Pietà Per Ulzana
-#DESCRIPTION Nessuna Pietà Per Ulzana
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55965.mkv:Non è Un Paese Per Vecchi
-#DESCRIPTION Non è Un Paese Per Vecchi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55964.mkv:Nessuna PietÃ  Per Ulzana
+#DESCRIPTION Nessuna PietÃ  Per Ulzana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55965.mkv:Non Ã¨ Un Paese Per Vecchi
+#DESCRIPTION Non Ã¨ Un Paese Per Vecchi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55966.mkv:Nonrare
 #DESCRIPTION Nonrare
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55967.mkv:Ognuno Per Sé
-#DESCRIPTION Ognuno Per Sé
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55967.mkv:Ognuno Per SÃ©
+#DESCRIPTION Ognuno Per SÃ©
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55968.mkv:Passaggio Di Notte
 #DESCRIPTION Passaggio Di Notte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55969.mkv:Il Piccolo Grande Uomo
@@ -4379,8 +4379,8 @@
 #DESCRIPTION Hercules Reborn 3D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64748.mkv:Hidden 3D ITA ENG
 #DESCRIPTION Hidden 3D ITA ENG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64749.mkv:Home – A Casa 3D
-#DESCRIPTION Home – A Casa 3D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64749.mkv:Home â€“ A Casa 3D
+#DESCRIPTION Home â€“ A Casa 3D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64750.mkv:Hunger Games Il Canto Della Rivolta Pt 2 3D
 #DESCRIPTION Hunger Games Il Canto Della Rivolta Pt 2 3D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64751.mkv:I Frankenstein 3D
@@ -4421,8 +4421,8 @@
 #DESCRIPTION Minions 3D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64770.mkv:Mune - Il Guardiano Della Luna 3D
 #DESCRIPTION Mune - Il Guardiano Della Luna 3D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64771.mkv:Nut Job – Operazione Noccioline 3D
-#DESCRIPTION Nut Job – Operazione Noccioline 3D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64771.mkv:Nut Job â€“ Operazione Noccioline 3D
+#DESCRIPTION Nut Job â€“ Operazione Noccioline 3D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64772.mkv:Paranormal Activity La Dimensione Fantasma 3D
 #DESCRIPTION Paranormal Activity La Dimensione Fantasma 3D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64774.mkv:Piccoli Brividi Goosebumps 3D
@@ -4431,8 +4431,8 @@
 #DESCRIPTION Piovono Polpette 2 - La Rivinc Degli Avanzi 3D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64776.mkv:Piranha 3D
 #DESCRIPTION Piranha 3D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64777.mkv:Planes 2 – Missione Antincendio 3D
-#DESCRIPTION Planes 2 – Missione Antincendio 3D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64777.mkv:Planes 2 â€“ Missione Antincendio 3D
+#DESCRIPTION Planes 2 â€“ Missione Antincendio 3D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64778.mkv:Point Break 3D
 #DESCRIPTION Point Break 3D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/64779.mkv:Pompei
@@ -4509,8 +4509,8 @@
 #DESCRIPTION Cenerentola
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56584.mkv:Cloudy
 #DESCRIPTION Cloudy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56585.mkv:Curioso Come George – Ritorno Nella Giungla
-#DESCRIPTION Curioso Come George – Ritorno Nella Giungla
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56585.mkv:Curioso Come George â€“ Ritorno Nella Giungla
+#DESCRIPTION Curioso Come George â€“ Ritorno Nella Giungla
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56586.mkv:Dennou Coil DVD01
 #DESCRIPTION Dennou Coil DVD01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56587.mkv:Dennou Coil DVD02
@@ -4521,8 +4521,8 @@
 #DESCRIPTION Dennou Coil DVD04
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56590.mkv:Dino E La Macchina Del Tempo
 #DESCRIPTION Dino E La Macchina Del Tempo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56592.mkv:Doraemon – Le Avventure Di Nobita E Dei Cinque E
-#DESCRIPTION Doraemon – Le Avventure Di Nobita E Dei Cinque E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56592.mkv:Doraemon â€“ Le Avventure Di Nobita E Dei Cinque E
+#DESCRIPTION Doraemon â€“ Le Avventure Di Nobita E Dei Cinque E
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56591.mkv:Doraemon Nobita E Gli Eroi Dello Spazio
 #DESCRIPTION Doraemon Nobita E Gli Eroi Dello Spazio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56593.mkv:Dragon Trainer 2
@@ -4599,8 +4599,8 @@
 #DESCRIPTION George E A J
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56630.mkv:I Consigli Di Ken - Conosci Te Stesso
 #DESCRIPTION I Consigli Di Ken - Conosci Te Stesso
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56632.mkv:I Consigli Di Ken - La Comunicazione è Tutto
-#DESCRIPTION I Consigli Di Ken - La Comunicazione è Tutto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56632.mkv:I Consigli Di Ken - La Comunicazione Ã¨ Tutto
+#DESCRIPTION I Consigli Di Ken - La Comunicazione Ã¨ Tutto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56633.mkv:I Corti Di Pixar - Una Breve Storia
 #DESCRIPTION I Corti Di Pixar - Una Breve Storia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56634.mkv:Il Gioco Di Geri
@@ -4637,8 +4637,8 @@
 #DESCRIPTION Mr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56652.mkv:Next Door - Pete Docter
 #DESCRIPTION Next Door - Pete Docter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56654.mkv:Non C è Festa Senza Rex
-#DESCRIPTION Non C è Festa Senza Rex
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56654.mkv:Non C Ã¨ Festa Senza Rex
+#DESCRIPTION Non C Ã¨ Festa Senza Rex
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56656.mkv:Palm Springs - Pete Docter
 #DESCRIPTION Palm Springs - Pete Docter
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/56658.mkv:Pennuti Spennati
@@ -4759,8 +4759,8 @@
 #DESCRIPTION Lilli E Il Vagabondo II - Lady And The Tramp II
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61577.mkv:Monsters Inc
 #DESCRIPTION Monsters Inc
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61578.mkv:Cenerentola II - Quando I Sogni Diventano Realtà
-#DESCRIPTION Cenerentola II - Quando I Sogni Diventano Realtà
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61578.mkv:Cenerentola II - Quando I Sogni Diventano RealtÃ 
+#DESCRIPTION Cenerentola II - Quando I Sogni Diventano RealtÃ 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61579.mkv:Il Gobbo Di Notre Dame II - The Hunchback Of Notre
 #DESCRIPTION Il Gobbo Di Notre Dame II - The Hunchback Of Notre
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/61580.mkv:Il Pianeta Del Tesoro
@@ -4837,8 +4837,8 @@
 #DESCRIPTION 03 Il Torneo Di Miifan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60781.mkv:04 La Vendetta Divina
 #DESCRIPTION 04 La Vendetta Divina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60782.mkv:05 Il Più Forte Del Mondo
-#DESCRIPTION 05 Il Più Forte Del Mondo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60782.mkv:05 Il PiÃ¹ Forte Del Mondo
+#DESCRIPTION 05 Il PiÃ¹ Forte Del Mondo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60783.mkv:06 La Grande Battaglia Per Il Destino Del Mondo
 #DESCRIPTION 06 La Grande Battaglia Per Il Destino Del Mondo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/60784.mkv:07 La Sfida Dei Guerrieri Invincibili
@@ -5185,8 +5185,8 @@
 #DESCRIPTION Baglioni-Morandi - Capitani Coraggiosi 1 Parte
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63978.mkv:Baglioni-Morandi - Capitani Coraggiosi 2 Parte
 #DESCRIPTION Baglioni-Morandi - Capitani Coraggiosi 2 Parte
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63831.mkv:Beyoncè - Crazy In Love (Unofficial Video)
-#DESCRIPTION Beyoncè - Crazy In Love (Unofficial Video)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63831.mkv:BeyoncÃ¨ - Crazy In Love (Unofficial Video)
+#DESCRIPTION BeyoncÃ¨ - Crazy In Love (Unofficial Video)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63832.mkv:Bjork-Live At
 #DESCRIPTION Bjork-Live At
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63835.mkv:By The Way
@@ -5251,28 +5251,28 @@
 #DESCRIPTION Dream Theater - Breaking The Fourth Wall Photo Gal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63870.mkv:Ellie Goulding - Love Me Like You Do BTS
 #DESCRIPTION Ellie Goulding - Love Me Like You Do BTS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63871.mkv:Emis Killa - Maracanã
-#DESCRIPTION Emis Killa - Maracanã
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63871.mkv:Emis Killa - MaracanÃ£
+#DESCRIPTION Emis Killa - MaracanÃ£
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63872.mkv:Enrique Iglesias - Bailando Ft Descemer Bueno
 #DESCRIPTION Enrique Iglesias - Bailando Ft Descemer Bueno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63873.mkv:Eros Live Verona
 #DESCRIPTION Eros Live Verona
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63874.mkv:Europe - Live At Sweden Rock - 30th Anniversary Sh
 #DESCRIPTION Europe - Live At Sweden Rock - 30th Anniversary Sh
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63875.mkv:Fabrizio De Andrè Live A Sarzana
-#DESCRIPTION Fabrizio De Andrè Live A Sarzana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63875.mkv:Fabrizio De AndrÃ¨ Live A Sarzana
+#DESCRIPTION Fabrizio De AndrÃ¨ Live A Sarzana
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63876.mkv:Fifty Shades Of Grey Official Video 01) Annie Lenn
 #DESCRIPTION Fifty Shades Of Grey Official Video 01) Annie Lenn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63877.mkv:Fifty Shades Of Grey Official Video 02) The Weeknd
 #DESCRIPTION Fifty Shades Of Grey Official Video 02) The Weeknd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63878.mkv:Fifty Shades Of Grey Official Video 03) Ellie Goul
 #DESCRIPTION Fifty Shades Of Grey Official Video 03) Ellie Goul
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63879.mkv:Fifty Shades Of Grey Official Video 04) Beyoncè �
-#DESCRIPTION Fifty Shades Of Grey Official Video 04) Beyoncè �
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63880.mkv:Fifty Shades Of Grey Official Video 05) Vaults –
-#DESCRIPTION Fifty Shades Of Grey Official Video 05) Vaults –
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63881.mkv:Francesco Renga - Il Mio Giorno Più Bello Nel Mon
-#DESCRIPTION Francesco Renga - Il Mio Giorno Più Bello Nel Mon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63879.mkv:Fifty Shades Of Grey Official Video 04) BeyoncÃ¨ ï
+#DESCRIPTION Fifty Shades Of Grey Official Video 04) BeyoncÃ¨ ï
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63880.mkv:Fifty Shades Of Grey Official Video 05) Vaults â€“
+#DESCRIPTION Fifty Shades Of Grey Official Video 05) Vaults â€“
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63881.mkv:Francesco Renga - Il Mio Giorno PiÃ¹ Bello Nel Mon
+#DESCRIPTION Francesco Renga - Il Mio Giorno PiÃ¹ Bello Nel Mon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63882.mkv:Gabry Ponte - Buonanotte Giorno
 #DESCRIPTION Gabry Ponte - Buonanotte Giorno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63883.mkv:Gianni Morandi - Solo Insieme Saremo Felici
@@ -5297,8 +5297,8 @@
 #DESCRIPTION Le$t W3 F0rg3t ($)aint
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63893.mkv:Le$t W3 F0rg3t $w&amp;et 4ream$
 #DESCRIPTION Le$t W3 F0rg3t $w&amp;et 4ream$
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63895.mkv:Le$t W3 F0rg3t 8eaut1fu£ P3opl3
-#DESCRIPTION Le$t W3 F0rg3t 8eaut1fu£ P3opl3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63895.mkv:Le$t W3 F0rg3t 8eaut1fuÂ£ P3opl3
+#DESCRIPTION Le$t W3 F0rg3t 8eaut1fuÂ£ P3opl3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63896.mkv:Le$t W3 F0rg3t C0m@ Whit3
 #DESCRIPTION Le$t W3 F0rg3t C0m@ Whit3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63897.mkv:Le$t W3 F0rg3t Cr1pt0rch1d
@@ -5307,8 +5307,8 @@
 #DESCRIPTION Le$t W3 F0rg3t D0p3 $how
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63899.mkv:Le$t W3 F0rg3t D0p3 H4t
 #DESCRIPTION Le$t W3 F0rg3t D0p3 H4t
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63900.mkv:Le$t W3 F0rg3t Di$po$ab£e T3en$
-#DESCRIPTION Le$t W3 F0rg3t Di$po$ab£e T3en$
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63900.mkv:Le$t W3 F0rg3t Di$po$abÂ£e T3en$
+#DESCRIPTION Le$t W3 F0rg3t Di$po$abÂ£e T3en$
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63901.mkv:Le$t W3 F0rg3t F1ght $ong
 #DESCRIPTION Le$t W3 F0rg3t F1ght $ong
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63902.mkv:Le$t W3 F0rg3t G3t Y0ur Gunn
@@ -5343,8 +5343,8 @@
 #DESCRIPTION Marco Mengoni - Guerriero
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63921.mkv:Maroon 5 - Sugar
 #DESCRIPTION Maroon 5 - Sugar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63922.mkv:Michael Jackson Ft  Justin Timberlake – Love Nev
-#DESCRIPTION Michael Jackson Ft  Justin Timberlake – Love Nev
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63922.mkv:Michael Jackson Ft  Justin Timberlake â€“ Love Nev
+#DESCRIPTION Michael Jackson Ft  Justin Timberlake â€“ Love Nev
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63923.mkv:Miley Cyrus - Wrecking Ball
 #DESCRIPTION Miley Cyrus - Wrecking Ball
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63925.mkv:My Friends
@@ -5417,20 +5417,78 @@
 #DESCRIPTION The BiG 4 Metallica Slayer Megadeth Anthrax Live I
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63965.mkv:The Freddie Mercury Tribute Concert
 #DESCRIPTION The Freddie Mercury Tribute Concert
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63966.mkv:The Freddie Mercury Tribute Concert - Speciale 10�
-#DESCRIPTION The Freddie Mercury Tribute Concert - Speciale 10�
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63966.mkv:The Freddie Mercury Tribute Concert - Speciale 10ï
+#DESCRIPTION The Freddie Mercury Tribute Concert - Speciale 10ï
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63967.mkv:The Weeknd - Earned It BTS
 #DESCRIPTION The Weeknd - Earned It BTS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63968.mkv:Tiziano Ferro - Alla Mia Età - Dietro Le Quinte
-#DESCRIPTION Tiziano Ferro - Alla Mia Età - Dietro Le Quinte
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63969.mkv:Tiziano Ferro - Alla Mia Età - Live In Rome
-#DESCRIPTION Tiziano Ferro - Alla Mia Età - Live In Rome
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63968.mkv:Tiziano Ferro - Alla Mia EtÃ  - Dietro Le Quinte
+#DESCRIPTION Tiziano Ferro - Alla Mia EtÃ  - Dietro Le Quinte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63969.mkv:Tiziano Ferro - Alla Mia EtÃ  - Live In Rome
+#DESCRIPTION Tiziano Ferro - Alla Mia EtÃ  - Live In Rome
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63971.mkv:Universally Speaking
 #DESCRIPTION Universally Speaking
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/63974.mkv:Wisin Ft Jennifer Lopez
 #DESCRIPTION Wisin Ft Jennifer Lopez
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/65893.mkv:Bleach Movie 4 Jigokuhen
 #DESCRIPTION Bleach Movie 4 Jigokuhen
+#SERVICE 1:64:A0:0:0:0:0:0:0:0:::::::___________YABANCI DIZI:::::::::::
+#DESCRIPTION :::::::___________YABANCI DIZI:::::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.185.213.98/Multimédia/Séries/Chernobyl/Chernobyl%20-%201x01%20%5b720p%5d.mkv:Chernobyl - 1x01 [720p].mkv
+#DESCRIPTION Chernobyl - 1x01 [720p].mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.185.213.98/Multimédia/Séries/Chernobyl/Chernobyl%20-%201x02%20%5b720p%5d.mkv:Chernobyl - 1x02 [720p].mkv
+#DESCRIPTION Chernobyl - 1x02 [720p].mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.185.213.98/Multimédia/Séries/Chernobyl/Chernobyl%20-%201x03%20%5b720p%5d.mkv:Chernobyl - 1x03 [720p].mkv
+#DESCRIPTION Chernobyl - 1x03 [720p].mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.185.213.98/Multimédia/Séries/Chernobyl/Chernobyl%20-%201x04%20%5b720p%5d.mkv:Chernobyl - 1x04 [720p].mkv
+#DESCRIPTION Chernobyl - 1x04 [720p].mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.185.213.98/Multimédia/Séries/Chernobyl/Chernobyl%20-%201x05%20%5b720p%5d.mkv:Chernobyl - 1x05 [720p].mkv
+#DESCRIPTION Chernobyl - 1x05 [720p].mkv
+#SERVICE 1:64:837:0:0:0:0:0:0:0:
+#DESCRIPTION  *** The X Files S10 ***
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2010/S10E01%20-%20My%20Struggle.eng.srt:The X-Files S10E01 - My Struggle.eng.srt
+#DESCRIPTION The X-Files S10E01 - My Struggle.eng.srt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2010/S10E01%20-%20My%20Struggle.mp4:The X-Files S10E01 - My Struggle.mp4
+#DESCRIPTION The X-Files S10E01 - My Struggle.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2010/S10E02%20-%20Founder%27s%20Mutation.eng.srt:The X-Files S10E02 - Founder's Mutation.eng.srt
+#DESCRIPTION The X-Files S10E02 - Founder's Mutation.eng.srt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2010/S10E02%20-%20Founder%27s%20Mutation.mp4:The X-Files S10E02 - Founder's Mutation.mp4
+#DESCRIPTION The X-Files S10E02 - Founder's Mutation.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2010/S10E03%20-%20Mulder%20And%20Scully%20Meet%20the%20Were-Monster.eng.srt:The X-Files S10E03 - Mulder And Scully Meet the Were-Monster.eng.srt
+#DESCRIPTION The X-Files S10E03 - Mulder And Scully Meet the Were-Monster.eng.srt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2010/S10E03%20-%20Mulder%20And%20Scully%20Meet%20the%20Were-Monster.mp4:The X-Files S10E03 - Mulder And Scully Meet the Were-Monster.mp4
+#DESCRIPTION The X-Files S10E03 - Mulder And Scully Meet the Were-Monster.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2010/S10E04%20-%20Home%20Again.eng.srt:The X-Files S10E04 - Home Again.eng.srt
+#DESCRIPTION The X-Files S10E04 - Home Again.eng.srt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2010/S10E04%20-%20Home%20Again.mp4:The X-Files S10E04 - Home Again.mp4
+#DESCRIPTION The X-Files S10E04 - Home Again.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2010/S10E05%20-%20Babylon.mp4:The X-Files S10E05 - Babylon.mp4
+#DESCRIPTION The X-Files S10E05 - Babylon.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2010/S10E06%20-%20My%20Struggle%20II.eng.srt:The X-Files S10E06 - My Struggle II.eng.srt
+#DESCRIPTION The X-Files S10E06 - My Struggle II.eng.srt
+#SERVICE 1:64:836:0:0:0:0:0:0:0:
+#DESCRIPTION  *** The X Files S11 ***
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2011/S11E01%20-%20My%20Struggle%20III.mkv:The X-Files S11E01 - My Struggle III.mkv
+#DESCRIPTION The X-Files S11E01 - My Struggle III.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2011/S11E02%20-%20This.mkv:The X-Files S11E02 - This.mkv
+#DESCRIPTION The X-Files S11E02 - This.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2011/S11E03%20-%20Plus%20One.mkv:The X-Files S11E03 - Plus One.mkv
+#DESCRIPTION The X-Files S11E03 - Plus One.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2011/S11E04%20-%20The%20Lost%20Art%20of%20Forehead%20Sweat.mkv:The X-Files S11E04 - The Lost Art of Forehead Sweat.mkv
+#DESCRIPTION The X-Files S11E04 - The Lost Art of Forehead Sweat.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2011/S11E05%20-%20Ghouli.mkv:The X-Files S11E05 - Ghouli.mkv
+#DESCRIPTION The X-Files S11E05 - Ghouli.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2011/S11E06%20-%20Kitten.mkv:The X-Files S11E06 - Kitten.mkv
+#DESCRIPTION The X-Files S11E06 - Kitten.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2011/S11E07%20-%20Rm9sbG93ZXJz.mkv:The X-Files S11E07 - Rm9sbG93ZXJz.mkv
+#DESCRIPTION The X-Files S11E07 - Rm9sbG93ZXJz.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2011/S11E08%20-%20Familiar.mkv:The X-Files S11E08 - Familiar.mkv
+#DESCRIPTION The X-Files S11E08 - Familiar.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2011/S11E09%20-%20Nothing%20Lasts%20Forever.mkv:The X-Files S11E09 - Nothing Lasts Forever.mkv
+#DESCRIPTION The X-Files S11E09 - Nothing Lasts Forever.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2011/S11E10%20-%20My%20Struggle%20IV.eng.srt:The X-Files S11E10 - My Struggle IV.eng.srt
+#DESCRIPTION The X-Files S11E10 - My Struggle IV.eng.srt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.115.24.6/data/TV%20Series/English%20TV%20Shows/The%20X-Files/Season%2011/S11E10%20-%20My%20Struggle%20IV.mkv:The X-Files S11E10 - My Struggle IV.mkv
+#DESCRIPTION The X-Files S11E10 - My Struggle IV.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55565.mkv:Alias S01 E01
 #DESCRIPTION Alias S01 E01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/55566.mkv:Alias S01 E02
@@ -10325,150 +10383,150 @@
 #DESCRIPTION Spartacus S01 E32
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58831.mkv:Spartacus S01 E33
 #DESCRIPTION Spartacus S01 E33
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58833.mkv:Squadra Antimafia – Palermo Oggi S01 E01
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58834.mkv:Squadra Antimafia – Palermo Oggi S01 E02
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58835.mkv:Squadra Antimafia – Palermo Oggi S01 E03
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58836.mkv:Squadra Antimafia – Palermo Oggi S01 E04
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58837.mkv:Squadra Antimafia – Palermo Oggi S01 E05
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58838.mkv:Squadra Antimafia – Palermo Oggi S01 E06
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58839.mkv:Squadra Antimafia – Palermo Oggi S01 E07
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58840.mkv:Squadra Antimafia – Palermo Oggi S01 E08
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58841.mkv:Squadra Antimafia – Palermo Oggi S01 E09
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58842.mkv:Squadra Antimafia – Palermo Oggi S01 E10
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58843.mkv:Squadra Antimafia – Palermo Oggi S01 E11
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58844.mkv:Squadra Antimafia – Palermo Oggi S01 E12
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58845.mkv:Squadra Antimafia – Palermo Oggi S01 E13
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58846.mkv:Squadra Antimafia – Palermo Oggi S01 E14
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58847.mkv:Squadra Antimafia – Palermo Oggi S01 E15
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58848.mkv:Squadra Antimafia – Palermo Oggi S01 E16
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58849.mkv:Squadra Antimafia – Palermo Oggi S01 E17
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58850.mkv:Squadra Antimafia – Palermo Oggi S01 E18
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58851.mkv:Squadra Antimafia – Palermo Oggi S01 E19
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58852.mkv:Squadra Antimafia – Palermo Oggi S01 E20
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58853.mkv:Squadra Antimafia – Palermo Oggi S01 E21
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58854.mkv:Squadra Antimafia – Palermo Oggi S01 E22
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58855.mkv:Squadra Antimafia – Palermo Oggi S01 E23
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58856.mkv:Squadra Antimafia – Palermo Oggi S01 E24
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58857.mkv:Squadra Antimafia – Palermo Oggi S01 E25
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E25
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58858.mkv:Squadra Antimafia – Palermo Oggi S01 E26
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E26
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58859.mkv:Squadra Antimafia – Palermo Oggi S01 E27
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E27
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58860.mkv:Squadra Antimafia – Palermo Oggi S01 E28
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E28
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58861.mkv:Squadra Antimafia – Palermo Oggi S01 E29
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E29
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58862.mkv:Squadra Antimafia – Palermo Oggi S01 E30
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E30
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58863.mkv:Squadra Antimafia – Palermo Oggi S01 E31
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E31
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58864.mkv:Squadra Antimafia – Palermo Oggi S01 E32
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E32
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58865.mkv:Squadra Antimafia – Palermo Oggi S01 E33
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E33
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58866.mkv:Squadra Antimafia – Palermo Oggi S01 E34
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58867.mkv:Squadra Antimafia – Palermo Oggi S01 E35
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E35
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58868.mkv:Squadra Antimafia – Palermo Oggi S01 E36
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E36
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58869.mkv:Squadra Antimafia – Palermo Oggi S01 E37
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E37
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58870.mkv:Squadra Antimafia – Palermo Oggi S01 E38
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E38
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58871.mkv:Squadra Antimafia – Palermo Oggi S01 E39
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E39
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58872.mkv:Squadra Antimafia – Palermo Oggi S01 E40
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E40
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58873.mkv:Squadra Antimafia – Palermo Oggi S01 E41
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E41
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58874.mkv:Squadra Antimafia – Palermo Oggi S01 E42
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E42
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58875.mkv:Squadra Antimafia – Palermo Oggi S01 E43
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E43
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58876.mkv:Squadra Antimafia – Palermo Oggi S01 E44
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E44
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58877.mkv:Squadra Antimafia – Palermo Oggi S01 E45
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E45
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58878.mkv:Squadra Antimafia – Palermo Oggi S01 E46
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E46
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58879.mkv:Squadra Antimafia – Palermo Oggi S01 E47
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E47
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58880.mkv:Squadra Antimafia – Palermo Oggi S01 E48
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E48
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58881.mkv:Squadra Antimafia – Palermo Oggi S01 E49
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E49
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58882.mkv:Squadra Antimafia – Palermo Oggi S01 E50
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E50
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58883.mkv:Squadra Antimafia – Palermo Oggi S01 E51
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E51
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58884.mkv:Squadra Antimafia – Palermo Oggi S01 E52
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E52
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58885.mkv:Squadra Antimafia – Palermo Oggi S01 E53
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E53
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58886.mkv:Squadra Antimafia – Palermo Oggi S01 E54
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E54
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58887.mkv:Squadra Antimafia – Palermo Oggi S01 E55
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E55
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58888.mkv:Squadra Antimafia – Palermo Oggi S01 E56
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E56
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58889.mkv:Squadra Antimafia – Palermo Oggi S01 E57
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E57
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58890.mkv:Squadra Antimafia – Palermo Oggi S01 E58
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E58
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58891.mkv:Squadra Antimafia – Palermo Oggi S01 E59
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E59
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58892.mkv:Squadra Antimafia – Palermo Oggi S01 E60
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E60
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58893.mkv:Squadra Antimafia – Palermo Oggi S01 E61
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E61
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58894.mkv:Squadra Antimafia – Palermo Oggi S01 E62
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E62
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58895.mkv:Squadra Antimafia – Palermo Oggi S01 E63
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E63
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58896.mkv:Squadra Antimafia – Palermo Oggi S01 E64
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E64
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58898.mkv:Squadra Antimafia – Palermo Oggi S01 E65
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E65
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58899.mkv:Squadra Antimafia – Palermo Oggi S01 E66
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E66
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58900.mkv:Squadra Antimafia – Palermo Oggi S01 E67
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E67
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58901.mkv:Squadra Antimafia – Palermo Oggi S01 E68
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E68
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58897.mkv:Squadra Antimafia – Palermo Oggi S01 E69
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E69
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58902.mkv:Squadra Antimafia – Palermo Oggi S01 E70
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E70
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58903.mkv:Squadra Antimafia – Palermo Oggi S01 E71
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E71
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58904.mkv:Squadra Antimafia – Palermo Oggi S01 E72
-#DESCRIPTION Squadra Antimafia – Palermo Oggi S01 E72
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58833.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E01
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58834.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E02
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58835.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E03
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58836.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E04
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58837.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E05
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58838.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E06
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58839.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E07
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58840.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E08
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58841.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E09
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58842.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E10
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58843.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E11
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58844.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E12
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58845.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E13
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58846.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E14
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58847.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E15
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58848.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E16
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58849.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E17
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58850.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E18
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58851.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E19
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58852.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E20
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58853.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E21
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58854.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E22
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58855.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E23
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58856.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E24
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58857.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E25
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58858.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E26
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58859.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E27
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58860.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E28
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58861.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E29
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58862.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E30
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58863.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E31
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58864.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E32
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58865.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E33
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58866.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E34
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58867.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E35
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E35
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58868.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E36
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E36
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58869.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E37
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E37
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58870.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E38
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58871.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E39
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E39
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58872.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E40
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58873.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E41
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58874.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E42
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E42
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58875.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E43
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58876.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E44
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E44
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58877.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E45
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E45
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58878.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E46
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E46
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58879.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E47
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58880.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E48
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E48
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58881.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E49
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E49
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58882.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E50
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E50
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58883.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E51
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58884.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E52
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E52
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58885.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E53
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E53
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58886.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E54
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E54
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58887.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E55
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E55
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58888.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E56
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E56
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58889.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E57
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E57
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58890.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E58
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E58
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58891.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E59
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E59
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58892.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E60
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E60
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58893.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E61
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E61
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58894.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E62
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E62
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58895.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E63
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E63
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58896.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E64
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E64
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58898.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E65
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E65
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58899.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E66
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E66
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58900.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E67
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E67
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58901.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E68
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E68
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58897.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E69
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E69
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58902.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E70
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E70
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58903.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E71
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E71
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/58904.mkv:Squadra Antimafia â€“ Palermo Oggi S01 E72
+#DESCRIPTION Squadra Antimafia â€“ Palermo Oggi S01 E72
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/59021.mkv:The Young Pope S01 E01
 #DESCRIPTION The Young Pope S01 E01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/59022.mkv:The Young Pope S01 E02
@@ -12457,8 +12515,8 @@
 #DESCRIPTION v3 gold
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/225.avi:v3 hercules 2014
 #DESCRIPTION v3 hercules 2014
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/227.mkv:v3 hors de portée 2015
-#DESCRIPTION v3 hors de portée 2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/227.mkv:v3 hors de portÃ©e 2015
+#DESCRIPTION v3 hors de portÃ©e 2015
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/248.avi:v3 in secret 2013
 #DESCRIPTION v3 in secret 2013
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/247.avi:v3 independence day resurgence 2016
@@ -12561,8 +12619,8 @@
 #DESCRIPTION V4 interstellar 2015
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/271.avi:v4 intruders 2015
 #DESCRIPTION v4 intruders 2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/267.avi:v4 ip man la legende est née 2010
-#DESCRIPTION v4 ip man la legende est née 2010
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/267.avi:v4 ip man la legende est nÃ©e 2010
+#DESCRIPTION v4 ip man la legende est nÃ©e 2010
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/266.avi:v4 ip man le combat final 2014
 #DESCRIPTION v4 ip man le combat final 2014
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/283.avi:v4 joy 2015
@@ -12653,8 +12711,8 @@
 #DESCRIPTION v5 julieta 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/357.avi:v5 le ciel attendra 2016
 #DESCRIPTION v5 le ciel attendra 2016
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/313.avi:v5 le hobbit la bataille des cinq armées  2014
-#DESCRIPTION v5 le hobbit la bataille des cinq armées  2014
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/313.avi:v5 le hobbit la bataille des cinq armÃ©es  2014
+#DESCRIPTION v5 le hobbit la bataille des cinq armÃ©es  2014
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/355.avi:v5 le monde de narnia l'odyssee du passeur d'auror
 #DESCRIPTION v5 le monde de narnia l'odyssee du passeur d'auror
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/356.avi:v5 le monde de narnia l'odyssee du passeur d'auror
@@ -12969,8 +13027,8 @@
 #DESCRIPTION v8 get a job 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/473.avi:v8 good kids 2016
 #DESCRIPTION v8 good kids 2016
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/466.avi:v8 il a déja tes yeux 2016
-#DESCRIPTION v8 il a déja tes yeux 2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/466.avi:v8 il a dÃ©ja tes yeux 2016
+#DESCRIPTION v8 il a dÃ©ja tes yeux 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/497.avi:v8 josephine s'arrondit 2016
 #DESCRIPTION v8 josephine s'arrondit 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/475.mkv:v8 kollektivet 2016
@@ -12995,16 +13053,16 @@
 #DESCRIPTION v8 les tuche 2 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/492.avi:v8 les tuches 2011
 #DESCRIPTION v8 les tuches 2011
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/490.avi:v8 ma famille t'adore déja 2016
-#DESCRIPTION v8 ma famille t'adore déja 2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/490.avi:v8 ma famille t'adore dÃ©ja 2016
+#DESCRIPTION v8 ma famille t'adore dÃ©ja 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/489.avi:v8 marie et les naufrages 2016
 #DESCRIPTION v8 marie et les naufrages 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/525.avi:v8 masterminds 2016
 #DESCRIPTION v8 masterminds 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/512.avi:v8 meet the blacks 2016
 #DESCRIPTION v8 meet the blacks 2016
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/469.avi:v8 mes trésors 2016
-#DESCRIPTION v8 mes trésors 2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/469.avi:v8 mes trÃ©sors 2016
+#DESCRIPTION v8 mes trÃ©sors 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/513.avi:v8 middle school the worst years of my life 2016
 #DESCRIPTION v8 middle school the worst years of my life 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/485.avi:v8 mon amie victoria 2014
@@ -13021,8 +13079,8 @@
 #DESCRIPTION v8 pattaya 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/503.avi:v8 pension complete 2015
 #DESCRIPTION v8 pension complete 2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/467.avi:v8 pére fils therapie 2016
-#DESCRIPTION v8 pére fils therapie 2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/467.avi:v8 pÃ©re fils therapie 2016
+#DESCRIPTION v8 pÃ©re fils therapie 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/474.mkv:v8 pourquoi lui? 2016
 #DESCRIPTION v8 pourquoi lui? 2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.100.155%3a25443/movie/vodall/vrIzSCaxGN/504.avi:v8 radin 2016
@@ -13851,8 +13909,8 @@
 #DESCRIPTION s13 Viking S04E19
 #SERVICE 1:64:A5:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/E6p0wL9k/index.m3u8:Becerikli Mandarin Bölüm 01
-#DESCRIPTION Becerikli Mandarin Bölüm 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/E6p0wL9k/index.m3u8:Becerikli Mandarin BÃ¶lÃ¼m 01
+#DESCRIPTION Becerikli Mandarin BÃ¶lÃ¼m 01
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
 #DESCRIPTION Game of Thrones Season 1 Episode 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e2.mp4:Game of Thrones Season 1 Episode 2
