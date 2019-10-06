@@ -21,7 +21,3 @@
 ____________________________________________________
               ®ReMy EnigmaTurk TeaM		
 MAİL:enigma2_teknik_servis@hotmail.com
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2019/02/RTP-1.png" group-title="Portugal",RTP 1
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
- 
