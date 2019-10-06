@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
   <playlist_name><![CDATA[ReMy_XxX-IPTV-MOVIE]]></playlist_name>
 <channel>
     <title>Babestation 24 (DE) (18+)</title>
@@ -3360,3 +3361,6 @@
     <description></description>
     <stream_url><![CDATA[https://video1.tizam.cc/films/Ghostbusters.mp4]]></stream_url>
 </channel>
+  <!--<next_page_url text="Sonraki"><![CDATA[http://LinkIsminiziYazin.com/SonrakiDosyaIsmi.xml]]></next_page_url>-->
+  <!--<prev_page_url text="Onceki"><![CDATA[http://LinkIsminiziYazin.com/OncekiDosyaIsmi.xml]]></prev_page_url>-->
+</items>
