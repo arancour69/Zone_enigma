@@ -1,7 +1,7 @@
 #NAME **ReMy_IPTV_18+ADULT** 
-#SERVICE 1:64:93:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 1:64:B2:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
-#SERVICE 1:64:94:0:0:0:0:0:0:0::=== ★★ADULT | PREMIUM★★ ====
+#SERVICE 1:64:B3:0:0:0:0:0:0:0::=== ★★ADULT | PREMIUM★★ ====
 #DESCRIPTION === ★★ADULT | PREMIUM★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/hd.jasminchannel.stream/playlist.m3u8:Jasmin TV HD (18+)
 #DESCRIPTION Jasmin TV HD (18+)
@@ -67,8 +67,8 @@
 #DESCRIPTION RedTraffic Teen (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/threesome.m3u8:RedTraffic Threesome (18+)
 #DESCRIPTION RedTraffic Threesome (18+)
-#SERVICE 1:64:95:0:0:0:0:0:0:0::=== ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
-#DESCRIPTION === ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
+#SERVICE 1:64:B4:0:0:0:0:0:0:0::=== ★★ADULT-PREMIUM★★ ==
+#DESCRIPTION === ★★ADULT-PREMIUM★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8:PASSIONXXX
 #DESCRIPTION PASSIONXXX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.204.234.3%3a8000/play/a00p/index.m3u8:FrenchLover
@@ -105,6 +105,508 @@
 #DESCRIPTION Trans
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//62.210.55.60/stream3xVJ/3x08:Trans 500
 #DESCRIPTION Trans 500
+#SERVICE 1:64:B4:0:0:0:0:0:0:0::=== ★★ADULT-HUB_FHD-1080p_Only_ReMyTeaM★★ ==
+#DESCRIPTION === ★★ADULT-HUB_FHD-1080p_Only_ReMyTeaM★★ ==
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6100_1080.m3u8:829_AdultHub
+#DESCRIPTION 829_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6101_1080.m3u8:0_AdultHub
+#DESCRIPTION 0_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6102_1080.m3u8:1823_AdultHub
+#DESCRIPTION 1823_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6103_1080.m3u8:1268_AdultHub
+#DESCRIPTION 1268_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6104_1080.m3u8:1867_AdultHub
+#DESCRIPTION 1867_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6105_1080.m3u8:1327_AdultHub
+#DESCRIPTION 1327_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6106_1080.m3u8:1401_AdultHub
+#DESCRIPTION 1401_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6107_1080.m3u8:758_AdultHub
+#DESCRIPTION 758_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6110_1080.m3u8:2315_AdultHub
+#DESCRIPTION 2315_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6112_1080.m3u8:794_AdultHub
+#DESCRIPTION 794_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6115_1080.m3u8:1483_AdultHub
+#DESCRIPTION 1483_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6117_1080.m3u8:1860_AdultHub
+#DESCRIPTION 1860_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6118_1080.m3u8:1562_AdultHub
+#DESCRIPTION 1562_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6119_1080.m3u8:794_AdultHub
+#DESCRIPTION 794_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6120_1080.m3u8:1318_AdultHub
+#DESCRIPTION 1318_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6121_1080.m3u8:873_AdultHub
+#DESCRIPTION 873_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6122_1080.m3u8:1642_AdultHub
+#DESCRIPTION 1642_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6123_1080.m3u8:614_AdultHub
+#DESCRIPTION 614_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6124_1080.m3u8:2029_AdultHub
+#DESCRIPTION 2029_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6125_1080.m3u8:883_AdultHub
+#DESCRIPTION 883_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6126_1080.m3u8:1552_AdultHub
+#DESCRIPTION 1552_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6127_1080.m3u8:2039_AdultHub
+#DESCRIPTION 2039_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6128_1080.m3u8:1499_AdultHub
+#DESCRIPTION 1499_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6129_1080.m3u8:1959_AdultHub
+#DESCRIPTION 1959_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6130_1080.m3u8:1841_AdultHub
+#DESCRIPTION 1841_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6131_1080.m3u8:1162_AdultHub
+#DESCRIPTION 1162_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6132_1080.m3u8:736_AdultHub
+#DESCRIPTION 736_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6133_1080.m3u8:1336_AdultHub
+#DESCRIPTION 1336_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6134_1080.m3u8:1353_AdultHub
+#DESCRIPTION 1353_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6135_1080.m3u8:752_AdultHub
+#DESCRIPTION 752_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6136_1080.m3u8:1704_AdultHub
+#DESCRIPTION 1704_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6137_1080.m3u8:1863_AdultHub
+#DESCRIPTION 1863_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6138_1080.m3u8:1177_AdultHub
+#DESCRIPTION 1177_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6139_1080.m3u8:691_AdultHub
+#DESCRIPTION 691_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6141_1080.m3u8:2706_AdultHub
+#DESCRIPTION 2706_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6142_1080.m3u8:2019_AdultHub
+#DESCRIPTION 2019_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6143_1080.m3u8:626_AdultHub
+#DESCRIPTION 626_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6144_1080.m3u8:1369_AdultHub
+#DESCRIPTION 1369_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6145_1080.m3u8:1963_AdultHub
+#DESCRIPTION 1963_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6146_1080.m3u8:1638_AdultHub
+#DESCRIPTION 1638_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6147_1080.m3u8:792_AdultHub
+#DESCRIPTION 792_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6148_1080.m3u8:602_AdultHub
+#DESCRIPTION 602_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6149_1080.m3u8:1367_AdultHub
+#DESCRIPTION 1367_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6150_1080.m3u8:2455_AdultHub
+#DESCRIPTION 2455_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6151_1080.m3u8:1293_AdultHub
+#DESCRIPTION 1293_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6152_1080.m3u8:719_AdultHub
+#DESCRIPTION 719_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6153_1080.m3u8:1371_AdultHub
+#DESCRIPTION 1371_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6154_1080.m3u8:891_AdultHub
+#DESCRIPTION 891_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6155_1080.m3u8:1663_AdultHub
+#DESCRIPTION 1663_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6156_1080.m3u8:820_AdultHub
+#DESCRIPTION 820_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6157_1080.m3u8:1261_AdultHub
+#DESCRIPTION 1261_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6158_1080.m3u8:1786_AdultHub
+#DESCRIPTION 1786_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6159_1080.m3u8:1299_AdultHub
+#DESCRIPTION 1299_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6160_1080.m3u8:721_AdultHub
+#DESCRIPTION 721_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6161_1080.m3u8:794_AdultHub
+#DESCRIPTION 794_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6162_1080.m3u8:1470_AdultHub
+#DESCRIPTION 1470_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6163_1080.m3u8:1573_AdultHub
+#DESCRIPTION 1573_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6161_1080.m3u8:794_AdultHub
+#DESCRIPTION 794_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6165_1080.m3u8:1486_AdultHub
+#DESCRIPTION 1486_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6166_1080.m3u8:2547_AdultHub
+#DESCRIPTION 2547_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6167_1080.m3u8:724_AdultHub
+#DESCRIPTION 724_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6168_1080.m3u8:2045_AdultHub
+#DESCRIPTION 2045_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6169_1080.m3u8:957_AdultHub
+#DESCRIPTION 957_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6161_1080.m3u8:794_AdultHub
+#DESCRIPTION 794_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6161_1080.m3u8:794_AdultHub
+#DESCRIPTION 794_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6161_1080.m3u8:794_AdultHub
+#DESCRIPTION 794_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6161_1080.m3u8:794_AdultHub
+#DESCRIPTION 794_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6161_1080.m3u8:794_AdultHub
+#DESCRIPTION 794_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6175_1080.m3u8:1551_AdultHub
+#DESCRIPTION 1551_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6176_1080.m3u8:2085_AdultHub
+#DESCRIPTION 2085_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6177_1080.m3u8:622_AdultHub
+#DESCRIPTION 622_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6178_1080.m3u8:1572_AdultHub
+#DESCRIPTION 1572_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6179_1080.m3u8:688_AdultHub
+#DESCRIPTION 688_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6184_1080.m3u8:1776_AdultHub
+#DESCRIPTION 1776_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6185_1080.m3u8:3087_AdultHub
+#DESCRIPTION 3087_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6187_1080.m3u8:703_AdultHub
+#DESCRIPTION 703_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6188_1080.m3u8:1574_AdultHub
+#DESCRIPTION 1574_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6189_1080.m3u8:1449_AdultHub
+#DESCRIPTION 1449_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6190_1080.m3u8:1342_AdultHub
+#DESCRIPTION 1342_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6191_1080.m3u8:1249_AdultHub
+#DESCRIPTION 1249_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6192_1080.m3u8:1256_AdultHub
+#DESCRIPTION 1256_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6193_1080.m3u8:816_AdultHub
+#DESCRIPTION 816_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6194_1080.m3u8:1630_AdultHub
+#DESCRIPTION 1630_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6195_1080.m3u8:1710_AdultHub
+#DESCRIPTION 1710_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6196_1080.m3u8:1215_AdultHub
+#DESCRIPTION 1215_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6197_1080.m3u8:971_AdultHub
+#DESCRIPTION 971_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6198_1080.m3u8:2271_AdultHub
+#DESCRIPTION 2271_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6199_1080.m3u8:954_AdultHub
+#DESCRIPTION 954_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6200_1080.m3u8:2859_AdultHub
+#DESCRIPTION 2859_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6201_1080.m3u8:1779_AdultHub
+#DESCRIPTION 1779_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6202_1080.m3u8:1088_AdultHub
+#DESCRIPTION 1088_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6203_1080.m3u8:831_AdultHub
+#DESCRIPTION 831_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6207_1080.m3u8:664_AdultHub
+#DESCRIPTION 664_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6210_1080.m3u8:2317_AdultHub
+#DESCRIPTION 2317_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6212_1080.m3u8:1531_AdultHub
+#DESCRIPTION 1531_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6213_1080.m3u8:1963_AdultHub
+#DESCRIPTION 1963_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6214_1080.m3u8:2480_AdultHub
+#DESCRIPTION 2480_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6224_1080.m3u8:1845_AdultHub
+#DESCRIPTION 1845_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6225_1080.m3u8:1325_AdultHub
+#DESCRIPTION 1325_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6226_1080.m3u8:715_AdultHub
+#DESCRIPTION 715_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6228_1080.m3u8:864_AdultHub
+#DESCRIPTION 864_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6231_1080.m3u8:2227_AdultHub
+#DESCRIPTION 2227_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6235_1080.m3u8:2198_AdultHub
+#DESCRIPTION 2198_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6236_1080.m3u8:601_AdultHub
+#DESCRIPTION 601_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6238_1080.m3u8:3939_AdultHub
+#DESCRIPTION 3939_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6242_1080.m3u8:1168_AdultHub
+#DESCRIPTION 1168_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6249_1080.m3u8:1991_AdultHub
+#DESCRIPTION 1991_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6250_1080.m3u8:1275_AdultHub
+#DESCRIPTION 1275_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6252_1080.m3u8:3595_AdultHub
+#DESCRIPTION 3595_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6257_1080.m3u8:1941_AdultHub
+#DESCRIPTION 1941_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6258_1080.m3u8:714_AdultHub
+#DESCRIPTION 714_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6259_1080.m3u8:463_AdultHub
+#DESCRIPTION 463_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6260_1080.m3u8:710_AdultHub
+#DESCRIPTION 710_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6272_1080.m3u8:1831_AdultHub
+#DESCRIPTION 1831_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6274_1080.m3u8:1398_AdultHub
+#DESCRIPTION 1398_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6275_1080.m3u8:2048_AdultHub
+#DESCRIPTION 2048_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6276_1080.m3u8:2878_AdultHub
+#DESCRIPTION 2878_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6277_1080.m3u8:7152_AdultHub
+#DESCRIPTION 7152_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6278_1080.m3u8:5950_AdultHub
+#DESCRIPTION 5950_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6279_1080.m3u8:1953_AdultHub
+#DESCRIPTION 1953_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6280_1080.m3u8:4148_AdultHub
+#DESCRIPTION 4148_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6285_1080.m3u8:2367_AdultHub
+#DESCRIPTION 2367_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6289_1080.m3u8:1920_AdultHub
+#DESCRIPTION 1920_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6301_1080.m3u8:666_AdultHub
+#DESCRIPTION 666_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6302_1080.m3u8:412_AdultHub
+#DESCRIPTION 412_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6303_1080.m3u8:784_AdultHub
+#DESCRIPTION 784_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6307_1080.m3u8:1873_AdultHub
+#DESCRIPTION 1873_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6310_1080.m3u8:2169_AdultHub
+#DESCRIPTION 2169_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6312_1080.m3u8:2107_AdultHub
+#DESCRIPTION 2107_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6313_1080.m3u8:1295_AdultHub
+#DESCRIPTION 1295_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6314_1080.m3u8:699_AdultHub
+#DESCRIPTION 699_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6324_1080.m3u8:589_AdultHub
+#DESCRIPTION 589_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6325_1080.m3u8:1785_AdultHub
+#DESCRIPTION 1785_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6326_1080.m3u8:3107_AdultHub
+#DESCRIPTION 3107_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6328_1080.m3u8:687_AdultHub
+#DESCRIPTION 687_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6329_1080.m3u8:935_AdultHub
+#DESCRIPTION 935_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6330_1080.m3u8:1917_AdultHub
+#DESCRIPTION 1917_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6331_1080.m3u8:738_AdultHub
+#DESCRIPTION 738_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6335_1080.m3u8:1483_AdultHub
+#DESCRIPTION 1483_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6336_1080.m3u8:1500_AdultHub
+#DESCRIPTION 1500_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6337_1080.m3u8:999_AdultHub
+#DESCRIPTION 999_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6338_1080.m3u8:1755_AdultHub
+#DESCRIPTION 1755_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6342_1080.m3u8:1520_AdultHub
+#DESCRIPTION 1520_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6343_1080.m3u8:1647_AdultHub
+#DESCRIPTION 1647_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6346_1080.m3u8:1827_AdultHub
+#DESCRIPTION 1827_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6347_1080.m3u8:1752_AdultHub
+#DESCRIPTION 1752_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6349_1080.m3u8:1049_AdultHub
+#DESCRIPTION 1049_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6350_1080.m3u8:1777_AdultHub
+#DESCRIPTION 1777_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6352_1080.m3u8:1512_AdultHub
+#DESCRIPTION 1512_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6357_1080.m3u8:1649_AdultHub
+#DESCRIPTION 1649_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6358_1080.m3u8:2597_AdultHub
+#DESCRIPTION 2597_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6359_1080.m3u8:1394_AdultHub
+#DESCRIPTION 1394_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6360_1080.m3u8:3275_AdultHub
+#DESCRIPTION 3275_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6362_1080.m3u8:684_AdultHub
+#DESCRIPTION 684_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6363_1080.m3u8:3204_AdultHub
+#DESCRIPTION 3204_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6363_1080.m3u8:3204_AdultHub
+#DESCRIPTION 3204_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6366_1080.m3u8:1879_AdultHub
+#DESCRIPTION 1879_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6367_1080.m3u8:1583_AdultHub
+#DESCRIPTION 1583_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6368_1080.m3u8:1500_AdultHub
+#DESCRIPTION 1500_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6369_1080.m3u8:764_AdultHub
+#DESCRIPTION 764_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6370_1080.m3u8:2022_AdultHub
+#DESCRIPTION 2022_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6371_1080.m3u8:3283_AdultHub
+#DESCRIPTION 3283_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6372_1080.m3u8:1108_AdultHub
+#DESCRIPTION 1108_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6374_1080.m3u8:1500_AdultHub
+#DESCRIPTION 1500_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6375_1080.m3u8:1567_AdultHub
+#DESCRIPTION 1567_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6376_1080.m3u8:2273_AdultHub
+#DESCRIPTION 2273_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6377_1080.m3u8:1461_AdultHub
+#DESCRIPTION 1461_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6378_1080.m3u8:2167_AdultHub
+#DESCRIPTION 2167_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6379_1080.m3u8:733_AdultHub
+#DESCRIPTION 733_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6380_1080.m3u8:2320_AdultHub
+#DESCRIPTION 2320_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6384_1080.m3u8:2011_AdultHub
+#DESCRIPTION 2011_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6385_1080.m3u8:1313_AdultHub
+#DESCRIPTION 1313_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6389_1080.m3u8:2450_AdultHub
+#DESCRIPTION 2450_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6400_1080.m3u8:1050_AdultHub
+#DESCRIPTION 1050_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6401_1080.m3u8:1500_AdultHub
+#DESCRIPTION 1500_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6402_1080.m3u8:1770_AdultHub
+#DESCRIPTION 1770_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6403_1080.m3u8:1125_AdultHub
+#DESCRIPTION 1125_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6404_1080.m3u8:1313_AdultHub
+#DESCRIPTION 1313_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6406_1080.m3u8:2061_AdultHub
+#DESCRIPTION 2061_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6407_1080.m3u8:1652_AdultHub
+#DESCRIPTION 1652_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6410_1080.m3u8:2100_AdultHub
+#DESCRIPTION 2100_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6411_1080.m3u8:1521_AdultHub
+#DESCRIPTION 1521_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6414_1080.m3u8:869_AdultHub
+#DESCRIPTION 869_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6415_1080.m3u8:295_AdultHub
+#DESCRIPTION 295_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6416_1080.m3u8:2087_AdultHub
+#DESCRIPTION 2087_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6417_1080.m3u8:1553_AdultHub
+#DESCRIPTION 1553_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6418_1080.m3u8:1500_AdultHub
+#DESCRIPTION 1500_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6419_1080.m3u8:1400_AdultHub
+#DESCRIPTION 1400_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6420_1080.m3u8:1430_AdultHub
+#DESCRIPTION 1430_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6422_1080.m3u8:1418_AdultHub
+#DESCRIPTION 1418_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6423_1080.m3u8:2221_AdultHub
+#DESCRIPTION 2221_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6425_1080.m3u8:3261_AdultHub
+#DESCRIPTION 3261_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6427_1080.m3u8:1871_AdultHub
+#DESCRIPTION 1871_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6428_1080.m3u8:1857_AdultHub
+#DESCRIPTION 1857_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6429_1080.m3u8:1229_AdultHub
+#DESCRIPTION 1229_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6430_1080.m3u8:1875_AdultHub
+#DESCRIPTION 1875_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6431_1080.m3u8:1500_AdultHub
+#DESCRIPTION 1500_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6432_1080.m3u8:725_AdultHub
+#DESCRIPTION 725_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6433_1080.m3u8:1122_AdultHub
+#DESCRIPTION 1122_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6434_1080.m3u8:2242_AdultHub
+#DESCRIPTION 2242_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6435_1080.m3u8:3215_AdultHub
+#DESCRIPTION 3215_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6436_1080.m3u8:1573_AdultHub
+#DESCRIPTION 1573_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6437_1080.m3u8:722_AdultHub
+#DESCRIPTION 722_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6438_1080.m3u8:1475_AdultHub
+#DESCRIPTION 1475_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6439_1080.m3u8:748_AdultHub
+#DESCRIPTION 748_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6441_1080.m3u8:2070_AdultHub
+#DESCRIPTION 2070_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6442_1080.m3u8:2386_AdultHub
+#DESCRIPTION 2386_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6443_1080.m3u8:2059_AdultHub
+#DESCRIPTION 2059_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6444_1080.m3u8:2046_AdultHub
+#DESCRIPTION 2046_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6446_1080.m3u8:1243_AdultHub
+#DESCRIPTION 1243_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6447_1080.m3u8:1792_AdultHub
+#DESCRIPTION 1792_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6448_1080.m3u8:2142_AdultHub
+#DESCRIPTION 2142_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6449_1080.m3u8:1769_AdultHub
+#DESCRIPTION 1769_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6450_1080.m3u8:720_AdultHub
+#DESCRIPTION 720_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6451_1080.m3u8:737_AdultHub
+#DESCRIPTION 737_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6452_1080.m3u8:1823_AdultHub
+#DESCRIPTION 1823_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6453_1080.m3u8:1239_AdultHub
+#DESCRIPTION 1239_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6454_1080.m3u8:980_AdultHub
+#DESCRIPTION 980_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6455_1080.m3u8:2555_AdultHub
+#DESCRIPTION 2555_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6456_1080.m3u8:1617_AdultHub
+#DESCRIPTION 1617_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6457_1080.m3u8:2348_AdultHub
+#DESCRIPTION 2348_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6458_1080.m3u8:1825_AdultHub
+#DESCRIPTION 1825_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6459_1080.m3u8:2686_AdultHub
+#DESCRIPTION 2686_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6460_1080.m3u8:2246_AdultHub
+#DESCRIPTION 2246_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6461_1080.m3u8:1058_AdultHub
+#DESCRIPTION 1058_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6462_1080.m3u8:1531_AdultHub
+#DESCRIPTION 1531_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6463_1080.m3u8:2211_AdultHub
+#DESCRIPTION 2211_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6464_1080.m3u8:1917_AdultHub
+#DESCRIPTION 1917_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6465_1080.m3u8:1059_AdultHub
+#DESCRIPTION 1059_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6466_1080.m3u8:1669_AdultHub
+#DESCRIPTION 1669_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6467_1080.m3u8:1875_AdultHub
+#DESCRIPTION 1875_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6468_1080.m3u8:1285_AdultHub
+#DESCRIPTION 1285_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6469_1080.m3u8:852_AdultHub
+#DESCRIPTION 852_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6470_1080.m3u8:3754_AdultHub
+#DESCRIPTION 3754_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6471_1080.m3u8:2650_AdultHub
+#DESCRIPTION 2650_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6472_1080.m3u8:1906_AdultHub
+#DESCRIPTION 1906_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6473_1080.m3u8:1597_AdultHub
+#DESCRIPTION 1597_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6474_1080.m3u8:1500_AdultHub
+#DESCRIPTION 1500_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6475_1080.m3u8:1822_AdultHub
+#DESCRIPTION 1822_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6476_1080.m3u8:2629_AdultHub
+#DESCRIPTION 2629_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6477_1080.m3u8:1500_AdultHub
+#DESCRIPTION 1500_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6478_1080.m3u8:1643_AdultHub
+#DESCRIPTION 1643_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6479_1080.m3u8:1850_AdultHub
+#DESCRIPTION 1850_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6480_1080.m3u8:1573_AdultHub
+#DESCRIPTION 1573_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6484_1080.m3u8:1792_AdultHub
+#DESCRIPTION 1792_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6485_1080.m3u8:2058_AdultHub
+#DESCRIPTION 2058_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6487_1080.m3u8:1882_AdultHub
+#DESCRIPTION 1882_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6488_1080.m3u8:1431_AdultHub
+#DESCRIPTION 1431_AdultHub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.adulthubcdn.com/play/m3u8/6489_1080.m3u8:2074_AdultHub
+#DESCRIPTION 2074_AdultHub
+#SERVICE 1:64:B4:0:0:0:0:0:0:0::=== ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
+#DESCRIPTION === ★★HİREMCO_SERVER | ADULT-PREMIUM★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//ovhv20.twincdn.com/videos/11/11100/11100_720p.mp4:HİREMCO X VOD  1
 #DESCRIPTION HİREMCO X VOD  1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:Https%3a//ovhv20.twincdn.com/videos/11/11101/11101_720p.mp4:HİREMCO X VOD  2
@@ -687,7 +1189,7 @@
 #DESCRIPTION behaarten Fotze
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv36.twincdn.com/videos/7/7272/7272_720p.mp4:Behaarte Milf
 #DESCRIPTION Behaarte Milf
-#SERVICE 1:64:96:0:0:0:0:0:0:0::=== ★★CHINA_SERVER | ADULT-PREMIUM★★ ====
+#SERVICE 1:64:B5:0:0:0:0:0:0:0::=== ★★CHINA_SERVER | ADULT-PREMIUM★★ ====
 #DESCRIPTION === ★★CHINA_SERVER | ADULT-PREMIUM★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/75626.mkv:XXX S01 E01
 #DESCRIPTION XXX S01 E01
@@ -1849,7 +2351,7 @@
 #DESCRIPTION Hot Club S01 E27
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.3.122%3a25461/movies2/70375.mkv:Hot Club S01 E28
 #DESCRIPTION Hot Club S01 E28
-#SERVICE 1:64:97:0:0:0:0:0:0:0::=== ★★RUS_MOVIE | ADULT-SERVER★★ ====
+#SERVICE 1:64:B6:0:0:0:0:0:0:0::=== ★★RUS_MOVIE | ADULT-SERVER★★ ====
 #DESCRIPTION === ★★RUS_MOVIE | ADULT-SERVER★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Femme-objet.mp4:Robot Woman (1980)
 #DESCRIPTION Robot Woman (1980)
@@ -2299,7 +2801,7 @@
 #DESCRIPTION Girls and Studs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4:Incesto 7
 #DESCRIPTION Incesto 7
-#SERVICE 1:64:98:0:0:0:0:0:0:0::MEGABOX TV-VOD
+#SERVICE 1:64:B7:0:0:0:0:0:0:0::MEGABOX TV-VOD
 #DESCRIPTION MEGABOX TV-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4:As Panteras
 #DESCRIPTION As Panteras
@@ -2343,7 +2845,7 @@
 #DESCRIPTION Pegou na praia e levou para o motel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4:Marido aquecendo para o negrão comerA5Pnx5h
 #DESCRIPTION Marido aquecendo para o negrão comerA5Pnx5h
-#SERVICE 1:64:99:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
+#SERVICE 1:64:B8:0:0:0:0:0:0:0::=== ★★VIDEO_CLIPS | HARD★★ ====
 #DESCRIPTION === ★★VIDEO_CLIPS | HARD★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.servitubes.com/videos/6/f/7/6/4/6f764267353d6fa9108aa3518c817cb195db672a.mp4:69 increibles posturas mas actos bisexuales
 #DESCRIPTION 69 increibles posturas mas actos bisexuales
@@ -3241,7 +3743,7 @@
 #DESCRIPTION SELEN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4:SIGNORE SC@ND@LOSE DI PROVINCI@
 #DESCRIPTION SIGNORE SC@ND@LOSE DI PROVINCI@
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::=== ★★SEXY_CLIPS | EROTIC★★ ====
+#SERVICE 1:64:B9:0:0:0:0:0:0:0::=== ★★SEXY_CLIPS | EROTIC★★ ====
 #DESCRIPTION === ★★SEXY_CLIPS | EROTIC★★ ====
 #SERVICE 4097:0:1:244:0:0:0:0:0:0:http%3a//zazax1.ru/video/barto.mp4:barto
 #DESCRIPTION barto
@@ -3335,7 +3837,7 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
+#SERVICE 1:64:BA:0:0:0:0:0:0:0::=== ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #DESCRIPTION === ★★NAKED_SEXY | FUNNY_VIDEOS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/movies/xrated/xrayted_ep01_st1-2.mp4:xrayted_ep01_st1-2
 #DESCRIPTION xrayted_ep01_st1-2
