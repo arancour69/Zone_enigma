@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="ULUSAL",ULUSAL
+#EXTINF:-1,ULUSAL
 ULUSAL 
-group-title="Adult TV",
 #EXTINF:-1 group-title="ULUSAL",ATV
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1 group-title="ULUSAL",KANAL D
@@ -370,6 +369,8 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
 #EXTINF:-1 group-title="ReMy_SPORT",Bahrain Sport 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+#EXTINF:-1 group-title="ReMy_SPORT",BENFICA TV
+rtmp://89.163.224.168:80/live/btv1
 #EXTINF:-1 group-title="ReMy_SPORT",CBC Sport
 http://0s.ha2s4mjtgixdkmzogu3a.cmle.ru/azerbaijan/cbc_sport_hd/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",CBC Sport
@@ -560,6 +561,16 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Sony Six
 http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV 1
+rtmp://89.163.224.168:80/live/sporttv1
+#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV 2
+rtmp://89.163.224.168:80/live/sporttv2
+#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV 3
+rtmp://89.163.224.168:80/live/sporttv3
+#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV 4
+https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=Kzq_daAyt6ejfYRi2nh2UA&e=1562105938
+#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV 5
+rtmp://89.163.224.168:80/live/sporttv5
 #EXTINF:-1 group-title="ReMy_SPORT",Sport TV 1
 https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Sport TV 2
@@ -1108,6 +1119,16 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_a
 https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",ReMy_WORLD
 ReMy_WORLD
+#EXTINF:-1 group-title="ReMy_WORLD",ADVENTURE
+http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 group-title="ReMy_WORLD",Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Investigation Discovery
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",abc
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",ABC TV
@@ -1204,7 +1225,11 @@ http://62.113.210.250/medienasa-live/rbw_high/ReMy.m3u8
 http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",Rrokum
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",RTK1 (4:3)
+#EXTINF:-1 group-title="ReMy_WORLD",RTP 1
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",RTP 2
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",RTK1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",TELEMADRID
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
@@ -1212,6 +1237,10 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Tvi Reality
+http://85.244.70.140:7000/play/a00x
+#EXTINF:-1 group-title="ReMy_WORLD",TVI 24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
 #EXTINF:-1 group-title="ReMy_WORLD",Travel HD
