@@ -1,9 +1,81 @@
 #NAME **ReMy_PREMIUM_WORLD**
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::---ReMy SPORT INTERNATIONAL---
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::---ReMy SPORT INTERNATIONAL---
 #DESCRIPTION ---ReMy SPORT INTERNATIONAL---
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.165.241.33%3a8000/live/2rt/Hpe3kx4ptc/1.ts:BeinSportsHD1720p
+#DESCRIPTION BeinSportsHD1720p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.165.241.33%3a8000/live/2rt/Hpe3kx4ptc/2.ts:BeinSportsHD2720p
+#DESCRIPTION BeinSportsHD2720p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.165.241.33%3a8000/live/2rt/Hpe3kx4ptc/3.ts:BeinSportsHD3720
+#DESCRIPTION BeinSportsHD3720
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.165.241.33%3a8000/live/2rt/Hpe3kx4ptc/4.ts:bein4
+#DESCRIPTION bein4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20158:BeinSport 1 HEVC 1080p
+#DESCRIPTION BeinSport 1 HEVC 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20157:BeinSport 2 HEVC 1080p
+#DESCRIPTION BeinSport 2 HEVC 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20156:BeinSport 3 HEVC 1080p
+#DESCRIPTION BeinSport 3 HEVC 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20155:BeinSport 4 HEVC 1080p
+#DESCRIPTION BeinSport 4 HEVC 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20154:BeinSport 5 HEVC 1080p
+#DESCRIPTION BeinSport 5 HEVC 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20153:BeinSport 6 HEVC 1080p
+#DESCRIPTION BeinSport 6 HEVC 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20152:BeinSport 7 HEVC 1080p
+#DESCRIPTION BeinSport 7 HEVC 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20151:BeinSport 8 HEVC 1080p
+#DESCRIPTION BeinSport 8 HEVC 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20138:BeinSport 1 SD 576p
+#DESCRIPTION BeinSport 1 SD 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20137:BeinSport 2 SD 576p
+#DESCRIPTION BeinSport 2 SD 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20136:BeinSport 3 SD 576p
+#DESCRIPTION BeinSport 3 SD 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20135:BeinSport 4 SD 576p
+#DESCRIPTION BeinSport 4 SD 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20134:BeinSport 5 SD 576p
+#DESCRIPTION BeinSport 5 SD 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20133:BeinSport 6 SD 576p
+#DESCRIPTION BeinSport 6 SD 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20132:BeinSport 7 SD 576p
+#DESCRIPTION BeinSport 7 SD 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20131:BeinSport 8 SD 576p
+#DESCRIPTION BeinSport 8 SD 576p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20148:BeinSport 1 FHD 1080p
+#DESCRIPTION BeinSport 1 FHD 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20147:BeinSport 2 FHD 1080p
+#DESCRIPTION BeinSport 2 FHD 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20146:BeinSport 3 FHD 1080p
+#DESCRIPTION BeinSport 3 FHD 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20145:BeinSport 4 FHD 1080p
+#DESCRIPTION BeinSport 4 FHD 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20144:BeinSport 5 FHD 1080p
+#DESCRIPTION BeinSport 5 FHD 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20143:BeinSport 6 FHD 1080p
+#DESCRIPTION BeinSport 6 FHD 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20142:BeinSport 7 FHD 1080p
+#DESCRIPTION BeinSport 7 FHD 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/20141:BeinSport 8 FHD 1080p
+#DESCRIPTION BeinSport 8 FHD 1080p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/19849:BEIN 1 720P
+#DESCRIPTION BEIN 1 720P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/19848:BEIN 2 720P
+#DESCRIPTION BEIN 2 720P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/19850:BEIN 3 720P
+#DESCRIPTION BEIN 3 720P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/19851:BEIN 4 720P
+#DESCRIPTION BEIN 4 720P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/19852:BEIN 5 720P
+#DESCRIPTION BEIN 5 720P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/19847:BEIN 6 720P
+#DESCRIPTION BEIN 6 720P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/19853:BEIN 7 720P
+#DESCRIPTION BEIN 7 720P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.51.246%3a8080/haj/Hshzjc/19845:BEIN 8 720P
+#DESCRIPTION BEIN 8 720P
+#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/asporhd/asporhd.m3u8:A Spor Hd
 #DESCRIPTION A Spor Hd
@@ -1159,7 +1231,7 @@
 #DESCRIPTION Football
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Football
 #DESCRIPTION Football
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8:ABC News
 #DESCRIPTION ABC News
@@ -1247,7 +1319,7 @@
 #DESCRIPTION SKY TG24 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8:Voice of America
 #DESCRIPTION Voice of America
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★REMY | U.S.A_IPTV★★ ====
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★REMY | U.S.A_IPTV★★ ====
 #DESCRIPTION === ★★REMY | U.S.A_IPTV★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8:2UE Sydney
 #DESCRIPTION 2UE Sydney
@@ -1475,7 +1547,7 @@
 #DESCRIPTION Victoria’s Secret PINK CARPET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268111608911/VS_TLAA_Master_1600x900.mp4:Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
 #DESCRIPTION Victoria’s Secret THE TRAIN LIKE AN ANGEL MASTER
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★ATRESMEDIA_ESPANOL★★ ====
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★ATRESMEDIA_ESPANOL★★ ====
 #DESCRIPTION === ★★ATRESMEDIA_ESPANOL★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.planeta-online.tv:movie
 #DESCRIPTION movie
@@ -1615,7 +1687,7 @@
 #DESCRIPTION Video calabria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8:Webcam OndaMadrid
 #DESCRIPTION Webcam OndaMadrid
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★EAST EUROPE | BALKAN★★ ====
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★EAST EUROPE | BALKAN★★ ====
 #DESCRIPTION === ★★EAST EUROPE | BALKAN★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.adunity.com/b1/b1.m3u8:B1
 #DESCRIPTION B1
@@ -1805,7 +1877,7 @@
 #DESCRIPTION Wau hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.51.131.28%3a8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8:YU PLANET
 #DESCRIPTION YU PLANET
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::GREECE
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::GREECE
 #DESCRIPTION GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv3.streampulse.eu%3a1935/tilesport/movie2/playlist.m3u8:ART GREECE
 #DESCRIPTION ART GREECE
@@ -1839,7 +1911,7 @@
 #DESCRIPTION VOULI
 #SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//streamer-cache.grnet.gr/parliament/hls/webtv.m3u8:Vouli TV
 #DESCRIPTION Vouli TV
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
 #DESCRIPTION === ★★ARABIA | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:Alhurra
 #DESCRIPTION Alhurra
@@ -1905,7 +1977,7 @@
 #DESCRIPTION Sama Dubai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ns8.indexforce.com%3a1935/alsharqiyalive/mystream/playlist.m3u8:Sharqiya News
 #DESCRIPTION Sharqiya News
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::=== ★★REMY | WORLD★★ ====
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★REMY | WORLD★★ ====
 #DESCRIPTION === ★★REMY | WORLD★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.87.12.197%3a5555/udp/239.255.1.62%3a5004:KINO NOVA
 #DESCRIPTION KINO NOVA
@@ -2475,7 +2547,7 @@
 #DESCRIPTION WFGC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wfc.bonus-tv.ru%3a80/cdn/wfcint/tracks-v1a1/index.m3u8:World Fashion Channel International HD
 #DESCRIPTION World Fashion Channel International HD
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::_U K R A I N E_
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::_U K R A I N E_
 #DESCRIPTION _U K R A I N E_
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/1tvod/1tvod-abr/playlist.m3u8:1TV Odessa
 #DESCRIPTION 1TV Odessa
@@ -2585,7 +2657,7 @@
 #DESCRIPTION Громадське TV (Украина) [FHD]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4:Espreso TV
 #DESCRIPTION Espreso TV
-#SERVICE 1:64:B0:0:0:0:0:0:0:0::__R U S S I A N__
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::__R U S S I A N__
 #DESCRIPTION __R U S S I A N__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/hdtest/index.m3u8:H1_HD
 #DESCRIPTION H1_HD
@@ -3103,7 +3175,7 @@
 #DESCRIPTION Эхо ТВ 24 (Новоуральск) +2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.ugratv.cdnvideo.ru/ugratv/smil%3augrastream1.smil/chunklist_b7192000.m3u8:Югра ТВ (Ханты-Мансийск) +2
 #DESCRIPTION Югра ТВ (Ханты-Мансийск) +2
-#SERVICE 1:64:B1:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/43.stream/chunklist_w517754220.m3u8:BESİKTAS MEYDANI
 #DESCRIPTION BESİKTAS MEYDANI
@@ -3159,7 +3231,7 @@
 #DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_meydan/playlist.m3u8:Sivas Kent Meydanı
 #DESCRIPTION Sivas Kent Meydanı
-#SERVICE 1:64:B2:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
 #DESCRIPTION === ★★FilmOn Tv-WebSocket★★ ===
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/1-on-1-boxing-tv:1-on-1-boxing-tv
 #DESCRIPTION 1-on-1-boxing-tv
@@ -3317,7 +3389,7 @@
 #DESCRIPTION ZDF INFOKANAL
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/zdfneo:ZDF Neo
 #DESCRIPTION ZDF Neo
-#SERVICE 1:64:B3:0:0:0:0:0:0:0::=== ★★WEBSOCKET | LIVE_UPDATE★★ ====
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★WEBSOCKET | LIVE_UPDATE★★ ====
 #DESCRIPTION === ★★WEBSOCKET | LIVE_UPDATE★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=KNKi99yKozg:beIN SPORTS HABER  ᴴᴰ
 #DESCRIPTION beIN SPORTS HABER  ᴴᴰ
@@ -3429,7 +3501,7 @@
 #DESCRIPTION Pattaya Night Scenes 2018
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=n1rtLuQbAQA&t=57s:Pattaya Night Scenes 2018
 #DESCRIPTION Pattaya Night Scenes 2018
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5Sm7VOV1Kig:Kiev, Ukraine%3a Europe's Greatest City 🇺🇦
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5Sm7VOV1Kig:Kiev, Ukraine: Europe's Greatest City 🇺🇦
 #DESCRIPTION Kiev, Ukraine: Europe's Greatest City 🇺🇦
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=qbyoL7Qfa88:Nana Plaza After Midnight - VLOG 78
 #DESCRIPTION Nana Plaza After Midnight - VLOG 78
@@ -3441,7 +3513,7 @@
 #DESCRIPTION LADYBOYS BANGKOK THAILAND - NANA PLAZA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=BhdfuE2ReVk:Suwon şehir merkezinin gece manzarası
 #DESCRIPTION Suwon şehir merkezinin gece manzarası
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CIlPObPhkpM:Amsterdam Nightlife%3a TOP 15 Bars & Clubs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CIlPObPhkpM:Amsterdam Nightlife: TOP 15 Bars & Clubs
 #DESCRIPTION Amsterdam Nightlife: TOP 15 Bars & Clubs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=1ImC-KlLa9M:Pattaya Thailand Prostitutes Walking Street Sex To
 #DESCRIPTION Pattaya Thailand Prostitutes Walking Street Sex To
