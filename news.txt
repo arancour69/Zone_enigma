@@ -1,7 +1,7 @@
        *☪️ ®ReMy EnigmaTurk TeaM ☪️*
              ***★★07.10.2019★★***
 *ReMyTeaM PLUGINI UPDATE*
-             ***★★07.10.2019★★***
+             ***★★08.10.2019★★***
 *IPTV_ChannelList UPDATE*
              ***★★07.10.2019★★***
 *ReMy_SATELLITE_ChannelList UPDATE*
@@ -21,3 +21,5 @@
 ____________________________________________________
               ®ReMy EnigmaTurk TeaM		
 MAİL:enigma2_teknik_servis@hotmail.com
+#EXTINF:-1 tvg 
+https://www.adulthubcdn.com/play/m3u8/6484_1080.m3u8 
