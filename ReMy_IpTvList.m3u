@@ -227,80 +227,106 @@ http://163.172.39.179:25461/line/Cqa1A@!21A1awEq/61
 http://163.172.39.179:25461/line/Cqa1A@!21A1awEq/62
 #EXTINF:-1 group-title="ReMy_SPORT",ReMy_SPORT
 ReMy_SPORT
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSportsHD1720p
+#EXTINF:-1 group-title="ReMy_SPORT",BeinSportsHD1
 http://185.165.241.33:8000/live/2rt/Hpe3kx4ptc/1.ts
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSportsHD2720p
+#EXTINF:-1 group-title="ReMy_SPORT",BeinSportsHD2
 http://185.165.241.33:8000/live/2rt/Hpe3kx4ptc/2.ts
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSportsHD3720
+#EXTINF:-1 group-title="ReMy_SPORT",BeinSportsHD3
 http://185.165.241.33:8000/live/2rt/Hpe3kx4ptc/3.ts
-#EXTINF:-1 group-title="ReMy_SPORT",bein4
+#EXTINF:-1 group-title="ReMy_SPORT",BeinSportsHD4
 http://185.165.241.33:8000/live/2rt/Hpe3kx4ptc/4.ts
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 1 HEVC 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20158
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 2 HEVC 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20157
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 3 HEVC 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20156
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 4 HEVC 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20155
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 5 HEVC 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20154
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 6 HEVC 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20153
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 7 HEVC 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20152
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 8 HEVC 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20151
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 1 SD 576p
-http://163.172.51.246:8080/haj/Hshzjc/20138
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 2 SD 576p
-http://163.172.51.246:8080/haj/Hshzjc/20137
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 3 SD 576p
-http://163.172.51.246:8080/haj/Hshzjc/20136
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 4 SD 576p
-http://163.172.51.246:8080/haj/Hshzjc/20135
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 5 SD 576p
-http://163.172.51.246:8080/haj/Hshzjc/20134
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 6 SD 576p
-http://163.172.51.246:8080/haj/Hshzjc/20133
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 7 SD 576p
-http://163.172.51.246:8080/haj/Hshzjc/20132
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 8 SD 576p
-http://163.172.51.246:8080/haj/Hshzjc/20131
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 1 FHD 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20148
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 2 FHD 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20147
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 3 FHD 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20146
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 4 FHD 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20145
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 5 FHD 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20144
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 6 FHD 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20143
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 7 FHD 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20142
-#EXTINF:-1 group-title="ReMy_SPORT",BeinSport 8 FHD 1080p
-http://163.172.51.246:8080/haj/Hshzjc/20141
-#EXTINF:-1 group-title="ReMy_SPORT",BEIN 1 720P
-http://163.172.51.246:8080/haj/Hshzjc/19849
-#EXTINF:-1 group-title="ReMy_SPORT",BEIN 2 720P
-http://163.172.51.246:8080/haj/Hshzjc/19848
-#EXTINF:-1 group-title="ReMy_SPORT",BEIN 3 720P
-http://163.172.51.246:8080/haj/Hshzjc/19850
-#EXTINF:-1 group-title="ReMy_SPORT",BEIN 4 720P
-http://163.172.51.246:8080/haj/Hshzjc/19851
-#EXTINF:-1 group-title="ReMy_SPORT",BEIN 5 720P
-http://163.172.51.246:8080/haj/Hshzjc/19852
-#EXTINF:-1 group-title="ReMy_SPORT",BEIN 6 720P
-http://163.172.51.246:8080/haj/Hshzjc/19847
-#EXTINF:-1 group-title="ReMy_SPORT",BEIN 7 720P
-http://163.172.51.246:8080/haj/Hshzjc/19853
-#EXTINF:-1 group-title="ReMy_SPORT",BEIN 8 720P
-http://163.172.51.246:8080/haj/Hshzjc/19845
+#EXTINF:-1 group-title="ReMy_SPORT",HERASPORT DÜŞÜK ÇÖZÜNÜRLÜK
+http://78.46.47.220:8000/live/vA4HQYOvfD/a0o8HGxseG/5.ts
+#EXTINF:-1 group-title="ReMy_SPORT",HERA SPORT
+http://78.46.47.220:8000/live/vA4HQYOvfD/a0o8HGxseG/8.ts
+#EXTINF:-1 group-title="ReMy_SPORT",HERASPORTS 1 HD 720
+http://78.46.47.220:8000/live/vA4HQYOvfD/a0o8HGxseG/2.ts
+#EXTINF:-1 group-title="ReMy_SPORT",HERASPORTS 1 HD 1080
+http://78.46.47.220:8000/live/vA4HQYOvfD/a0o8HGxseG/6.ts
+#EXTINF:-1 group-title="ReMy_SPORT",HERASPORTS 2 HD 720
+http://78.46.47.220:8000/live/vA4HQYOvfD/a0o8HGxseG/1.ts
+#EXTINF:-1 group-title="ReMy_SPORT",HERASPORTS 3 HD 720
+http://78.46.47.220:8000/live/vA4HQYOvfD/a0o8HGxseG/3.ts
+#EXTINF:-1 group-title="ReMy_SPORT",HERASPORT 3 HD 1080
+http://78.46.47.220:8000/live/vA4HQYOvfD/a0o8HGxseG/7.ts
+#EXTINF:-1 group-title="ReMy_SPORT",HERASPORTS 4 HD 720
+http://78.46.47.220:8000/live/vA4HQYOvfD/a0o8HGxseG/4.ts
 #EXTINF:-1 group-title="ReMy_SPORT",1SPOR1 TV HD
 http://87.98.162.77:8000/tr1
+#EXTINF:-1 group-title="ReMy_SPORT",BR: Sport TV
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/7331
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport News HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/447.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport 2 HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/410.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport 1 HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/409.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3084.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3083.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3082.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3080.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3078.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3086.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Bundesliga 1 HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/408.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 1 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6746.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 10 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6755.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 4 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6749.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 5 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6750.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 6 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6751.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 7 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6752.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 9 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6754.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport News HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6745.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport Bundesliga 1 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6794.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport Bundesliga 2 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6795.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sport 1+ HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6980.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sport Digital HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6981.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: SPORT1 HD ( 1080P )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/7223.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sport 1  HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/511.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport Austria(1)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/931.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Motorvision TV
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/7263.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",M. LaLiga HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/6724
+#EXTINF:-1 group-title="ReMy_SPORT",M. LaLiga HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/5423
+#EXTINF:-1 group-title="ReMy_SPORT",M. LaLiga 1 HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/3068
+#EXTINF:-1 group-title="ReMy_SPORT",M. Liga de Campeones HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/6724
+#EXTINF:-1 group-title="ReMy_SPORT",M. Liga de Campeones HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/2690
+#EXTINF:-1 group-title="ReMy_SPORT",LA LIGA TV BAR
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/5424
+#EXTINF:-1 group-title="ReMy_SPORT",LA LIGA TV BAR
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/5422
+#EXTINF:-1 group-title="ReMy_SPORT",TELEDEPORTE HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/2723
+#EXTINF:-1 group-title="ReMy_SPORT",EUROSPORT 1
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/6694
+#EXTINF:-1 group-title="ReMy_SPORT",Barca TV
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/6718
 #EXTINF:-1 group-title="ReMy_SPORT",TRT SPOR HD
 https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",TRT SPOR SD
