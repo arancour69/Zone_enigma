@@ -145,6 +145,14 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",ReMy_SPORT
 ReMy_SPORT
+#EXTINF:-1 group-title="ReMy_SPORT",BeinSportsHD1
+http://185.165.241.33:8000/live/2rt/Hpe3kx4ptc/1.ts
+#EXTINF:-1 group-title="ReMy_SPORT",BeinSportsHD2
+http://185.165.241.33:8000/live/2rt/Hpe3kx4ptc/2.ts
+#EXTINF:-1 group-title="ReMy_SPORT",BeinSportsHD3
+http://185.165.241.33:8000/live/2rt/Hpe3kx4ptc/3.ts
+#EXTINF:-1 group-title="ReMy_SPORT",BeinSportsHD4
+http://185.165.241.33:8000/live/2rt/Hpe3kx4ptc/4.ts
 #EXTINF:-1 group-title="ReMy_SPORT",HERASPORT DÜŞÜK ÇÖZÜNÜRLÜK
 http://78.46.47.220:8000/live/vA4HQYOvfD/a0o8HGxseG/5.ts
 #EXTINF:-1 group-title="ReMy_SPORT",HERA SPORT
@@ -163,6 +171,80 @@ http://78.46.47.220:8000/live/vA4HQYOvfD/a0o8HGxseG/7.ts
 http://78.46.47.220:8000/live/vA4HQYOvfD/a0o8HGxseG/4.ts
 #EXTINF:-1 group-title="ReMy_SPORT",1SPOR1 TV HD
 http://87.98.162.77:8000/tr1
+#EXTINF:-1 group-title="ReMy_SPORT",BR: Sport TV
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/7331
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport News HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/447.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport 2 HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/410.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport 1 HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/409.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3084.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3083.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3082.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3080.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3078.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/3086.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Bundesliga 1 HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/408.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 1 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6746.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 10 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6755.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 4 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6749.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 5 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6750.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 6 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6751.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 7 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6752.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport 9 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6754.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",VIP DE: Sky Sport News HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6745.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport Bundesliga 1 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6794.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport Bundesliga 2 HD (1080P)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6795.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sport 1+ HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6980.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sport Digital HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/6981.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: SPORT1 HD ( 1080P )
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/7223.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sport 1  HD
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/511.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Sky Sport Austria(1)
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/931.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",DE: Motorvision TV
+http://premium-iptv.link:6969/live/teamnet@protonmail.com/HsJmCUFdth/7263.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",M. LaLiga HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/6724
+#EXTINF:-1 group-title="ReMy_SPORT",M. LaLiga HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/5423
+#EXTINF:-1 group-title="ReMy_SPORT",M. LaLiga 1 HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/3068
+#EXTINF:-1 group-title="ReMy_SPORT",M. Liga de Campeones HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/6724
+#EXTINF:-1 group-title="ReMy_SPORT",M. Liga de Campeones HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/2690
+#EXTINF:-1 group-title="ReMy_SPORT",LA LIGA TV BAR
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/5424
+#EXTINF:-1 group-title="ReMy_SPORT",LA LIGA TV BAR
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/5422
+#EXTINF:-1 group-title="ReMy_SPORT",TELEDEPORTE HD
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/2723
+#EXTINF:-1 group-title="ReMy_SPORT",EUROSPORT 1
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/6694
+#EXTINF:-1 group-title="ReMy_SPORT",Barca TV
+http://premium-iptv.link:6969/teamnet@protonmail.com/HsJmCUFdth/6718
 #EXTINF:-1 group-title="ReMy_SPORT",TRT SPOR HD
 https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",TRT SPOR SD
@@ -239,7 +321,7 @@ http://45.58.62.92:8084
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",A Spor
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT", ASpor
+#EXTINF:-1 group-title="ReMy_SPORT",A Spor
 https://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports
 http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
@@ -349,9 +431,9 @@ https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/play
 https://1.ip2stream.icu/live/eurosport_1_hd/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",EuroSports 1
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Fast & Fun Box ???????
+#EXTINF:-1 group-title="ReMy_SPORT",Fast&FunBox
 http://ott-cdn.ucom.am/s79/04.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Fast & Fun Box ???????
+#EXTINF:-1 group-title="ReMy_SPORT",Fast&FunBox
 http://ott-cdn.ucom.am/s79/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
@@ -689,12 +771,6 @@ http://46.20.136.59/live3/_definst_/rtv/playlist.m3u8
 http://46.20.136.59/live3/_definst_/utv/playlist.m3u8
 #EXTINF:-1 group-title="Espana",Espana
 Espana
-#EXTINF:-1 group-title="Espana",+24 
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 group-title="Espana",101TV Málaga 
-https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8
-#EXTINF:-1 group-title="Espana",24h 
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8
 #EXTINF:-1 group-title="Espana",24h 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 group-title="Espana",24h Catalunya 
@@ -703,36 +779,12 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aos
 http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
 #EXTINF:-1 group-title="Espana",7 RM 
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía 
-https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
 #EXTINF:-1 group-title="Espana",8 Cádiz 
 https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Algeciras 
-https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Almería 
-https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
 #EXTINF:-1 group-title="Espana",Alternativa TV 
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
-#EXTINF:-1 group-title="Espana",DJing - Animation 
-https://www.djing.com/tv/animation.m3u8%20
-#EXTINF:-1 group-title="Espana",Antena 3 HD 
-https://livestartover.atresmedia.com/antena3/master.m3u8%20
-#EXTINF:-1 group-title="Espana",Antena 3 HD 
-https://livestartover.atresmedia.com/geoantena3/master.m3u8
-#EXTINF:-1 group-title="Espana",Aragón TV 
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1 group-title="Espana",Atreseries HD 
-https://livestartover.atresmedia.com/a3series/master.m3u8
-#EXTINF:-1 group-title="Espana",Atreseries HD 
-https://livestartover.atresmedia.com/geoa3series/master.m3u8
-#EXTINF:-1 group-title="Espana",Atresplayer Original (15) HD 
-https://livestartover.atresmedia.com/eventos15/master.m3u8
-#EXTINF:-1 group-title="Espana",Atresplayer Original (26) HD 
-https://livestartover.atresmedia.com/eventos26/master.m3u8
 #EXTINF:-1 group-title="Espana",Atresplayer Original (37) HD 
 https://livestartover.atresmedia.com/eventos37/master.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Bahía 
-https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8
 #EXTINF:-1 group-title="Espana",BDN 
 http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Espana",Be Mad 
@@ -751,18 +803,8 @@ https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/mast
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master_DVR.m3u8
 #EXTINF:-1 group-title="Espana",Cadena Elite 
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
-#EXTINF:-1 group-title="Espana",Canal 10 
-https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8
-#EXTINF:-1 group-title="Espana",Canal 13 Digital 
-http://212.40.234.65/live/canal13/playlist.m3u8
-#EXTINF:-1 group-title="Espana",Canal 25 Barbastro TV 
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Espana",Canal 4 Mancha Centro HD 
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/master.m3u8
-#EXTINF:-1 group-title="Espana",Canal 4 Tenerife 
-https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
-#EXTINF:-1 group-title="Espana",Canal 45 TV 
-https://5940924978228.streamlock.net/f_Directo/f_Directo/master.m3u8
 #EXTINF:-1 group-title="Espana",Canal Andalucia Cocina 
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
 #EXTINF:-1 group-title="Espana",Canal Andalucia Flamenco 
@@ -789,8 +831,6 @@ https://common01.todostreaming.es/live/sanroque-livestream.m3u8
 https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8
 #EXTINF:-1 group-title="Espana",Canal Sur TV HD 
 http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8
-#EXTINF:-1 group-title="Espana",Canal Taronja Anoia 
-https://liveingesta118.cdnmedia.tv//taronjaanoialive/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="Espana",Canal Taronja Central 
 https://liveingesta118.cdnmedia.tv//taronjacentrallive/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="Espana",Canal Taronja Osona i Moianés 
@@ -801,48 +841,24 @@ http://live10.cdnmedia.tv/canaltetvlive/smil:live.smil/playlist.m3u8
 http://videos.rtva.ad:1935/live/web/playlist.m3u8
 #EXTINF:-1 group-title="Espana",CanalCosta 
 http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8
-#EXTINF:-1 group-title="Espana",canalterrassa 
-http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8
-#EXTINF:-1 group-title="Espana",Cancionero TV 
-http://89.140.99.41/hls/1080.m3u8
-#EXTINF:-1 group-title="Espana",CMM 
-http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8
 #EXTINF:-1 group-title="Espana",Condavisión HD 
 http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Costa Noroeste 
-https://secure.todostreaming.es/live/ondaluz-olcosta.m3u8
 #EXTINF:-1 group-title="Espana",Cuatro 
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
 #EXTINF:-1 group-title="Espana",Cuatro HD 
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Cádiz 
-https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Córdoba 
-https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
-#EXTINF:-1 group-title="Espana",DJing - Dancefloor 
-https://www.djing.com/tv/dancefloor.m3u8%20
-#EXTINF:-1 group-title="Espana",Diez TV 
-https://streaming.cloud.innovasur.es/mmj/34711900.m3u8
 #EXTINF:-1 group-title="Espana",Divinity 
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
 #EXTINF:-1 group-title="Espana",Divinity HD 
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1 group-title="Espana",DKISS HD 
-http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8
 #EXTINF:-1 group-title="Espana",El 9 TV 
 http://live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Espana",El Correo de Andalucía 
-http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Espana",El Día TV 
-http://vs8.live.opencaster.com/opencaster/zmyrfjHztaoj/playlist.m3u8
 #EXTINF:-1 group-title="Espana",El Punt Avui TV 
 http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Espana",Energy 
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
 #EXTINF:-1 group-title="Espana",Energy HD 
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:-1 group-title="Espana",Este Canal TV 
-https://api.new.livestream.com/accounts/8817409/events/7051352/videos/185182785.secure.m3u8
 #EXTINF:-1 group-title="Espana",ETB 1 HD 
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:-1 group-title="Espana",ETB 2 HD 
@@ -869,44 +885,20 @@ https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8
 https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8
 #EXTINF:-1 group-title="Espana",Gigante TV 
 http://85.214.130.95:8080/live/stream.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Granada 
-https://secure.todostreaming.es/live/ondaluz-olgranada.m3u8
-#EXTINF:-1 group-title="Espana",Hit TV HD
-http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
-#EXTINF:-1 group-title="Espana",DJing - Hits 
-https://www.djing.com/tv/hits.m3u8%20
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Huelva 
-https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
-#EXTINF:-1 group-title="Espana",Huelva TV 
-http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
 #EXTINF:-1 group-title="Espana",Huesca TV 
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
-#EXTINF:-1 group-title="Espana",IB3 
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8
-#EXTINF:-1 group-title="Espana",interalmería HD 
-http://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 group-title="Espana",Intereconomía 
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Jaén 
-https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Jerez 
-https://secure.todostreaming.es/live/ondaluz-oljerez.m3u8
-#EXTINF:-1 group-title="Espana",DJing - Karaoke 
-https://www.djing.com/tv/karaoke.m3u8%20
-#EXTINF:-1 group-title="Espana",La 1 Catalunya 
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8
 #EXTINF:-1 group-title="Espana",La 1 HD 
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 group-title="Espana",La 1 HD 
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8%20
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
+#EXTINF:-1 group-title="Espana",La 1 Catalunya 
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8
 #EXTINF:-1 group-title="Espana",La 2 Catalunya 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2ca_lv3_aosv4_gl0/la2ca_lv3_aosv4_gl0.isml/master.m3u8
 #EXTINF:-1 group-title="Espana",La 2 HD 
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
-#EXTINF:-1 group-title="Espana",La 8 Mediterraneo HD 
-http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Espana",La Tele TV 
-https://secure.todostreaming.es/live/generaltv-livestream.m3u8
 #EXTINF:-1 group-title="Espana",La Voz 24h HD 
 https://pull12.atresmedia.com/lavoz/master.m3u8
 #EXTINF:-1 group-title="Espana",La Xarxa 
@@ -915,54 +907,22 @@ https://liveingesta118.cdnmedia.tv//vsnxallive/smil:live.smil/master.m3u8
 http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 #EXTINF:-1 group-title="Espana",laSexta HD 
 https://livestartover.atresmedia.com/lasexta/master.m3u8
-#EXTINF:-1 group-title="Espana",laSexta HD 
-https://livestartover.atresmedia.com/geolasexta/master.m3u8
 #EXTINF:-1 group-title="Espana",Lebrija TV 
 http://212.104.160.156:1935/live/lebrijatv2/playlist2.m3u8?wowzasessionid=1758058924.m3u8
-#EXTINF:-1 group-title="Espana",DJing - Live 
-https://www.djing.com/tv/live.m3u8%20
 #EXTINF:-1 group-title="Espana",Lleida TV 
 http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Espana",Mar TV 
-http://k4.usastreams.com/CableLatino/martv/playlist.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Marbella 
-https://secure.todostreaming.es/live/ondaluz-olmarbella.m3u8
 #EXTINF:-1 group-title="Espana",Mataró TV 
 http://live10.cdnmedia.tv/m1tvlive/live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Espana",Mega HD 
-https://livestartover.atresmedia.com/mega/master.m3u8
-#EXTINF:-1 group-title="Espana",Mega HD 
-https://livestartover.atresmedia.com/geomega/master.m3u8
-#EXTINF:-1 group-title="Espana",Mijas Comunicación 
-http://mijas.hls.flumotion.com/mijas/live-hls/master.m3u8
 #EXTINF:-1 group-title="Espana",Mola TV 
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 group-title="Espana",mtmad 24h HD 
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Málaga 
-https://secure.todostreaming.es/live/ondaluz-olmalaga.m3u8
-#EXTINF:-1 group-title="Espana",Más TV Huelva 
-https://streaming-fr02.enetres.net/1855C32698CC47EC817DA7DB40DE72DB021/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="Espana",Mírame TV 
 https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8
-#EXTINF:-1 group-title="Espana",Navarra TV 
-http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist.m3u8
-#EXTINF:-1 group-title="Espana",Neox HD 
-https://livestartover.atresmedia.com/neox/master.m3u8
-#EXTINF:-1 group-title="Espana",Neox HD 
-https://livestartover.atresmedia.com/geoneox/master.m3u8
-#EXTINF:-1 group-title="Espana",Nova HD 
-https://livestartover.atresmedia.com/nova/master.m3u8
-#EXTINF:-1 group-title="Espana",Nova HD 
-https://livestartover.atresmedia.com/geonova/master.m3u8
 #EXTINF:-1 group-title="Espana",Olot Televisió 
 https://liveingesta118.cdnmedia.tv//olottvlive/smil:live.smil/master.m3u8
-#EXTINF:-1 group-title="Espana",Onda Algeciras TV 
-http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Espana",Onda Cádiz 
 http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-#EXTINF:-1 group-title="Espana",Onda Mezquita TV 
-http://173.212.214.184:1935/mezquita/mezquita_360p/master.m3u8
 #EXTINF:-1 group-title="Espana",Paramount Network 
 https://paramount-live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Espana",Penedès TV 
@@ -981,10 +941,6 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Espana",RTVCE 
 http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
-#EXTINF:-1 group-title="Espana",7TV Andalucía - Sevilla 
-https://secure.todostreaming.es/live/ondaluz-olsevilla.m3u8
-#EXTINF:-1 group-title="Espana",TeleAntequera 
-http://37.187.108.127:554/las4esquinastv/radiostation.stream/.m3u8
 #EXTINF:-1 group-title="Espana",Telecinco 
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
 #EXTINF:-1 group-title="Espana",Telecinco HD 
@@ -993,28 +949,20 @@ https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 #EXTINF:-1 group-title="Espana",Teleonuba 
 http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8
-#EXTINF:-1 group-title="Espana",TeleToledo 
-https://cdn01.yowi.tv/1H23S04G4M/master.m3u8
 #EXTINF:-1 group-title="Espana",Televisión Canaria 
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
 #EXTINF:-1 group-title="Espana",Televisión Mogán 
 https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8
-#EXTINF:-1 group-title="Espana",Tindaya TV 
-https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="Espana",TPA7 
 https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
 #EXTINF:-1 group-title="Espana",TRECE 
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
-#EXTINF:-1 group-title="Espana",TV Centro Andalucía 
-http://192.99.21.42:1935/paco/paco/master.m3u8
 #EXTINF:-1 group-title="Espana",TV Costa Brava 
 http://liveingesta118.cdnmedia.tv//costabravatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="Espana",TV Girona 
 http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 group-title="Espana",TV3 Càmeres 
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/master_DVR.m3u8
-#EXTINF:-1 group-title="Espana",TVG 2 
-http://amodino-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Espana",TVG América 
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Espana",TVG Cultura HD 
@@ -1029,16 +977,8 @@ http://events3-crtvg.flumotion.com/playlist.m3u8
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Espana",TVG Infantil 
 http://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Espana",TVG Momentos G 
-http://momentog-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="Espana",TVG Musigal HD 
 http://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Espana",UD Las Palmas HD 
-https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8
-#EXTINF:-1 group-title="Espana",DJing - Underground 
-https://www.djing.com/tv/underground.m3u8%20
-#EXTINF:-1 group-title="Espana",Visión 6 
-https://secure.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1 group-title="Espana",votv 
 http://live10.cdnmedia.tv/votvlive/live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Espana",Webcam Onda Cero HD 
@@ -1047,8 +987,6 @@ https://livestartover.atresmedia.com/eventos37/master.m3u8
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
 #EXTINF:-1 group-title="Espana",Webcam OndaMadrid 
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8
-#EXTINF:-1 group-title="Espana",Webcame RNE 
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve08_lv3_aosv4_gl0/irtve08_lv3_aosv4_gl0.isml/master.m3u8
 #EXTINF:-1 group-title="Espana",Yu No Te Pierdas Nada HD 
 https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",ReMy_WORLD
@@ -1465,6 +1403,18 @@ http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ZFMRADIO.NL
 rtmp://kippingmultimediaal.nl:1935/live/ZFM1
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJing - Animation 
+https://www.djing.com/tv/animation.m3u8%20
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJing - Dancefloor 
+https://www.djing.com/tv/dancefloor.m3u8%20
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJing - Hits 
+https://www.djing.com/tv/hits.m3u8%20
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJing - Karaoke 
+https://www.djing.com/tv/karaoke.m3u8%20
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJing - Live 
+https://www.djing.com/tv/live.m3u8%20
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJing - Underground 
+https://www.djing.com/tv/underground.m3u8%20
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",D-HOT
 https://www.djing.com/tv/h-02-fta.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",DJING HOT HOT
