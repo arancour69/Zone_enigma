@@ -15,12 +15,6 @@
 #DESCRIPTION KRAL POP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8:KRAL POP TV
 #DESCRIPTION KRAL POP TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8:KRAL POP AKUSTIK
-#DESCRIPTION KRAL POP AKUSTIK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8:KRAL POP KONSER TV
-#DESCRIPTION KRAL POP KONSER TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8:KRAL POP PERFORMANS
-#DESCRIPTION KRAL POP PERFORMANS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b2328000.m3u8:KRAL WORLD TV
 #DESCRIPTION KRAL WORLD TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:1Music HU
