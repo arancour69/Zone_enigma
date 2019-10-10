@@ -3,14 +3,8 @@
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #SERVICE 1:64:9D:0:0:0:0:0:0:0::---ReMy SPORT INTERNATIONAL---
 #DESCRIPTION ---ReMy SPORT INTERNATIONAL---
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.165.241.33%3a8000/live/2rt/Hpe3kx4ptc/1.ts:BeinSports 1HD
-#DESCRIPTION BeinSports 1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.165.241.33%3a8000/live/2rt/Hpe3kx4ptc/2.ts:BeinSports 2HD
-#DESCRIPTION BeinSports 2HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.165.241.33%3a8000/live/2rt/Hpe3kx4ptc/3.ts:BeinSports 3HD
-#DESCRIPTION BeinSports 3HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.165.241.33%3a8000/live/2rt/Hpe3kx4ptc/4.ts:BeinSports 4HD
-#DESCRIPTION BeinSports 4HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g5/beinsport1tur.m3u8:BEIN SPORT 1 (TUR)
+#DESCRIPTION BEIN SPORT 1 (TUR)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.46.47.220%3a8000/live/vA4HQYOvfD/a0o8HGxseG/5.ts:(222) HERASPORT DÜŞÜK ÇÖZÜNÜRLÜK
 #DESCRIPTION (222) HERASPORT DÜŞÜK ÇÖZÜNÜRLÜK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.46.47.220%3a8000/live/vA4HQYOvfD/a0o8HGxseG/8.ts:(1) HERA SPORT
@@ -27,81 +21,7 @@
 #DESCRIPTION (1) HERASPORT 3 HD 1080
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.46.47.220%3a8000/live/vA4HQYOvfD/a0o8HGxseG/4.ts:(2) HERASPORTS 4 HD 720
 #DESCRIPTION (2) HERASPORTS 4 HD 720
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/teamnet@protonmail.com/HsJmCUFdth/7331:BR%3a Sport TV
-#DESCRIPTION BR: Sport TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/447.m3u8:DE%3a Sky Sport News HD
-#DESCRIPTION DE: Sky Sport News HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/409.m3u8:DE%3a Sky Sport 1 HD
-#DESCRIPTION DE: Sky Sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/410.m3u8:DE%3a Sky Sport 2 HD
-#DESCRIPTION DE: Sky Sport 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/408.m3u8:DE%3a Sky Bundesliga 1 HD
-#DESCRIPTION DE: Sky Bundesliga 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/3078.m3u8:DE%3a Sky BUNDESLIGA 3 HD ( During Games only )
-#DESCRIPTION DE: Sky BUNDESLIGA 3 HD ( During Games only )
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/3080.m3u8:DE%3a Sky BUNDESLIGA 4 HD ( During Games only )
-#DESCRIPTION DE: Sky BUNDESLIGA 4 HD ( During Games only )
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/3082.m3u8:DE%3a Sky BUNDESLIGA 6 HD ( During Games only )
-#DESCRIPTION DE: Sky BUNDESLIGA 6 HD ( During Games only )
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/3083.m3u8:DE%3a Sky BUNDESLIGA 7 HD ( During Games only )
-#DESCRIPTION DE: Sky BUNDESLIGA 7 HD ( During Games only )
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/3084.m3u8:DE%3a Sky BUNDESLIGA 8 HD ( During Games only )
-#DESCRIPTION DE: Sky BUNDESLIGA 8 HD ( During Games only )
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/3086.m3u8:DE%3a Sky BUNDESLIGA 10 HD ( During Games only )
-#DESCRIPTION DE: Sky BUNDESLIGA 10 HD ( During Games only )
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6746.m3u8:VIP DE%3a Sky Sport 1 HD (1080P)
-#DESCRIPTION VIP DE: Sky Sport 1 HD (1080P)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6755.m3u8:VIP DE%3a Sky Sport 10 HD (1080P)
-#DESCRIPTION VIP DE: Sky Sport 10 HD (1080P)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6749.m3u8:VIP DE%3a Sky Sport 4 HD (1080P)
-#DESCRIPTION VIP DE: Sky Sport 4 HD (1080P)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6750.m3u8:VIP DE%3a Sky Sport 5 HD (1080P)
-#DESCRIPTION VIP DE: Sky Sport 5 HD (1080P)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6751.m3u8:VIP DE%3a Sky Sport 6 HD (1080P)
-#DESCRIPTION VIP DE: Sky Sport 6 HD (1080P)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6752.m3u8:VIP DE%3a Sky Sport 7 HD (1080P)
-#DESCRIPTION VIP DE: Sky Sport 7 HD (1080P)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6754.m3u8:VIP DE%3a Sky Sport 9 HD (1080P)
-#DESCRIPTION VIP DE: Sky Sport 9 HD (1080P)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6745.m3u8:VIP DE%3a Sky Sport News HD (1080P)
-#DESCRIPTION VIP DE: Sky Sport News HD (1080P)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6794.m3u8:DE%3a Sky Sport Bundesliga 1 HD (1080P)
-#DESCRIPTION DE: Sky Sport Bundesliga 1 HD (1080P)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6795.m3u8:DE%3a Sky Sport Bundesliga 2 HD (1080P)
-#DESCRIPTION DE: Sky Sport Bundesliga 2 HD (1080P)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6980.m3u8:DE%3a Sport 1+ HD
-#DESCRIPTION DE: Sport 1+ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/6981.m3u8:DE%3a Sport Digital HD
-#DESCRIPTION DE: Sport Digital HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/7223.m3u8:DE%3a SPORT1 HD ( 1080P )
-#DESCRIPTION DE: SPORT1 HD ( 1080P )
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/511.m3u8:DE%3a Sport 1  HD
-#DESCRIPTION DE: Sport 1  HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/931.m3u8:DE%3a Sky Sport Austria(1)
-#DESCRIPTION DE: Sky Sport Austria(1)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/live/teamnet@protonmail.com/HsJmCUFdth/7263.m3u8:DE%3a Motorvision TV
-#DESCRIPTION DE: Motorvision TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/teamnet@protonmail.com/HsJmCUFdth/6724:M. LaLiga HD
-#DESCRIPTION M. LaLiga HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/teamnet@protonmail.com/HsJmCUFdth/5423:M. LaLiga HD
-#DESCRIPTION M. LaLiga HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/teamnet@protonmail.com/HsJmCUFdth/3068:M. LaLiga 1 HD
-#DESCRIPTION M. LaLiga 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/teamnet@protonmail.com/HsJmCUFdth/6724:M. Liga de Campeones HD
-#DESCRIPTION M. Liga de Campeones HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/teamnet@protonmail.com/HsJmCUFdth/2690:M. Liga de Campeones HD
-#DESCRIPTION M. Liga de Campeones HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/teamnet@protonmail.com/HsJmCUFdth/5424:LA LIGA TV BAR
-#DESCRIPTION LA LIGA TV BAR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/teamnet@protonmail.com/HsJmCUFdth/5422:LA LIGA TV BAR
-#DESCRIPTION LA LIGA TV BAR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/teamnet@protonmail.com/HsJmCUFdth/2723:TELEDEPORTE HD
-#DESCRIPTION TELEDEPORTE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/teamnet@protonmail.com/HsJmCUFdth/6694:EUROSPORT 1
-#DESCRIPTION EUROSPORT 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//premium-iptv.link%3a6969/teamnet@protonmail.com/HsJmCUFdth/6718:Barca TV
-#DESCRIPTION Barca TV
-#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100%25 Automoto (BG)
+#SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/asporhd/asporhd.m3u8:A Spor Hd
 #DESCRIPTION A Spor Hd
@@ -3527,7 +3447,7 @@
 #DESCRIPTION Pattaya Night Scenes 2018
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=n1rtLuQbAQA&t=57s:Pattaya Night Scenes 2018
 #DESCRIPTION Pattaya Night Scenes 2018
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5Sm7VOV1Kig:Kiev, Ukraine%3a Europe's Greatest City 🇺🇦
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5Sm7VOV1Kig:Kiev, Ukraine: Europe's Greatest City 🇺🇦
 #DESCRIPTION Kiev, Ukraine: Europe's Greatest City 🇺🇦
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=qbyoL7Qfa88:Nana Plaza After Midnight - VLOG 78
 #DESCRIPTION Nana Plaza After Midnight - VLOG 78
@@ -3539,7 +3459,7 @@
 #DESCRIPTION LADYBOYS BANGKOK THAILAND - NANA PLAZA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=BhdfuE2ReVk:Suwon şehir merkezinin gece manzarası
 #DESCRIPTION Suwon şehir merkezinin gece manzarası
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CIlPObPhkpM:Amsterdam Nightlife%3a TOP 15 Bars & Clubs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CIlPObPhkpM:Amsterdam Nightlife: TOP 15 Bars & Clubs
 #DESCRIPTION Amsterdam Nightlife: TOP 15 Bars & Clubs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=1ImC-KlLa9M:Pattaya Thailand Prostitutes Walking Street Sex To
 #DESCRIPTION Pattaya Thailand Prostitutes Walking Street Sex To
