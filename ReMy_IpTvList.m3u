@@ -101,6 +101,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
 #EXTINF:-1 group-title="ULUSAL",TRT_belgesel
 https://streaming.kovalchuk.me/turk/trt_belgesel/index.m3u8
+#EXTINF:-1 group-title="ULUSAL",TRT COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 group-title="ULUSAL",TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 #EXTINF:-1 group-title="ULUSAL",TRT TURK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1 group-title="ULUSAL",TRT TBMM
@@ -697,12 +701,6 @@ http://37.98.152.116:8081/fft/fft/chunks.m3u8
 http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Football
 http://ott-cdn.ucom.am/s41/index.m3u8
-#EXTINF:-1 group-title="COCUK_KANALLARI_KIDS",COCUK_KANALLARI_KIDS
-COCUK_KANALLARI_KIDS
-#EXTINF:-1 group-title="COCUK_KANALLARI_KIDS",TRT COCUK
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 group-title="COCUK_KANALLARI_KIDS",TRT OKUL
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_WORLD_NEWS
 ReMy_WORLD_NEWS
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN Chile
@@ -717,6 +715,8 @@ http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN CHILE
 http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",france24
@@ -730,20 +730,25 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",C-Span 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Digi24
-http://81.196.0.126:80/digi24edge/digi24brasovlive/index.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",DW
+http://81.196.0.126:80/digi24edge/digi24brasovlive/index.m3u8#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Digi24 
+http://edge76.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w499716744.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Deutsche Welle
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Deutsche Welle
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",DW northamerica
 http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",DW
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",DW
-http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",DW
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",DW latino america
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",SKY NEWS
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",DW arabia
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",DW asia
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Sky TG24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",tagesschau24
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",WGN
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
@@ -753,22 +758,6 @@ http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF:-1 group-title="EX/YU-BALKAN",EX/YU-BALKAN
-EX/YU-BALKAN
-#EXTINF:-1 group-title="EX/YU-BALKAN",KCN1.rs
-http://212.200.102.3:5000/rtp/239.0.0.1:5000
-#EXTINF:-1 group-title="EX/YU-BALKAN",KCN2.rs
-http://212.200.102.3:5000/rtp/239.0.0.2:5000
-#EXTINF:-1 group-title="EX/YU-BALKAN",KCN3SvetPlus.rs
-http://212.200.102.3:5000/rtp/239.0.0.3:5000
-#EXTINF:-1 group-title="EX/YU-BALKAN",Etno tv
-http://46.20.136.59/live3/_definst_/etno/playlist.m3u8
-#EXTINF:-1 group-title="EX/YU-BALKAN",Realitatea Tv
-http://46.20.136.59/live3/_definst_/realitatea/playlist.m3u8
-#EXTINF:-1 group-title="EX/YU-BALKAN",Romania Tv
-http://46.20.136.59/live3/_definst_/rtv/playlist.m3u8
-#EXTINF:-1 group-title="EX/YU-BALKAN",U Tv
-http://46.20.136.59/live3/_definst_/utv/playlist.m3u8
 #EXTINF:-1 group-title="Espana",Espana
 Espana
 #EXTINF:-1 group-title="Espana",24h 
@@ -941,6 +930,8 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Espana",RTVCE 
 http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
+#EXTINF:-1 group-title="Espana",SENAL PROVINCIAL
+http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8
 #EXTINF:-1 group-title="Espana",Telecinco 
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
 #EXTINF:-1 group-title="Espana",Telecinco HD 
@@ -1009,25 +1000,11 @@ http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Carolina TV
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",china
 http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1
 #EXTINF:-1 group-title="ReMy_WORLD",Dessau
 rtmp://62.113.210.250/medienasa-live/ok-dessau_high
-#EXTINF:-1 group-title="ReMy_WORLD",Deutsche Welle
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&
-#EXTINF:-1 group-title="ReMy_WORLD",Digi24 
-http://edge76.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w499716744.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Digi24 brasov
-http://edge126.rcs-rds.ro/digi24edge/digi24brasovlive/chunklist_w1615665208.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",DW
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ReMy_WORLD",DW
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",DW
+#EXTINF:-1 group-title="ReMy_WORLD",DW Entretenimiento
 http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",DW Entretenimiento
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
@@ -1043,12 +1020,14 @@ http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m
 rtmp://str81.creacast.com/grandlilletv/high
 #EXTINF:-1 group-title="ReMy_WORLD",H 3D Media
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",hr
-http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",ILTV 
 rtmp://str81.creacast.com:80/iltv/high
 #EXTINF:-1 group-title="ReMy_WORLD",Israel 2
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Kanal 43
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",KCN1.rs
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
 #EXTINF:-1 group-title="ReMy_WORLD",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine3/remy.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",KURIAKOS KIDS
@@ -1095,6 +1074,10 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://62.113.210.250/medienasa-live/rbw_high/ReMy.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",RCG Televisión LATINO
 http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Realitatea Tv
+http://46.20.136.59/live3/_definst_/realitatea/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Romania Tv
+http://46.20.136.59/live3/_definst_/rtv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",Rrokum
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",RTP 1
@@ -1113,11 +1096,11 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://85.244.70.140:7000/play/a00x
 #EXTINF:-1 group-title="ReMy_WORLD",TVI 24
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Travel TV
+#EXTINF:-1 group-title="ReMy_WORLD",Travel TV Rus
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
-#EXTINF:-1 group-title="ReMy_WORLD",Travel HD
+#EXTINF:-1 group-title="ReMy_WORLD",Travel HD Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Travel HD
+#EXTINF:-1 group-title="ReMy_WORLD",Travel HD Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?hash=?
 #EXTINF:-1 group-title="ReMy_WORLD",TravelHD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
@@ -1131,8 +1114,6 @@ rtmp://vod.tv7.fi/tv7-fi/mp4:tv7-fi.stream_360p?PAZ_Chega_de_Guerras
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD",Welt Der Wunder
-http://live.vidoo.de/live/weltderwunder/playlist.m3u8
 #EXTINF:-1 group-title="NILESAT_ARABIC",NILESAT_ARABIC
 NILESAT_ARABIC
 #EXTINF:-1 group-title="NILESAT_ARABIC",AAA_FAMILY
@@ -1237,16 +1218,6 @@ http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
 https://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL POP TV
 http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL POP AKUSTIK
-http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL POP ASK
-http://5ptdjqov.rocketcdn.com/kraldijital-asktv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL POP DANS
-http://3ltdm73t.rocketcdn.com//smil:kraldijital-danstv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL POP KONSER TV
-http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL POP PERFORMANS
-http://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL WORLD TV
 https://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b2328000.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",1Music HU
@@ -1275,6 +1246,8 @@ http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8
 rtmp://46.249.95.140/live/livestream
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Duga TV
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Etno tv
+http://46.20.136.59/live3/_definst_/etno/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",First Music Channel
 http://rtmp.one.by:1200
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",First Music Channel HD
@@ -1287,24 +1260,14 @@ http://ec.playmedia.fr:1935/gong-base/live/playlist.m3u8
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",HIT RU
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",HOBOC TV
-http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",IMPACT TV
 http://89.36.10.12:8080
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Jefimija HD
 rtmp://212.200.108.253/live/jefimija.flv
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kanal 43
-http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kcn 2 Tv
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kcn 3 Tv
 http://212.200.102.3:5000/rtp/239.0.0.3:5000
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kiss TV
-http://46.20.136.59/live3/_definst_/kiss/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kiss TV (ROM)
-http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Klipkar TV
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chunklist-b1200000.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kronehit TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KURIAKOS MUSIC
@@ -1325,16 +1288,10 @@ rtmp://176.9.123.140:1935/messinia/messinia
 http://213.81.153.221:8080/nasa
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music Box UA
 http://212.26.132.86/hls/mb_ua_2500.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Music Box Gold
-http://live.musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV az
-http://85.132.78.6:1935/live/muztv.stream/index.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Nebiset
-http://hls.nebiset.tv/nebiset.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",NRJ TV
 http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Ocko
@@ -1371,14 +1328,8 @@ http://tv.105.net/live/rmc3/playlist.m3u8
 http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",RTV Zeri
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",SEÑAL PROVINCIAL
-http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Sky Folk
 http://skyfolk.mk/live.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",SKY DE Adult Swim
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Slavonska TV
-http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE Africa
