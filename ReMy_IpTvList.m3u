@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ULUSAL
 ULUSAL 
-#EXTINF:-1 group-title="ULUSAL",ATV
-http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1 group-title="ULUSAL",KANAL D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:-1 group-title="ULUSAL",KANAL D
@@ -241,7 +239,7 @@ http://45.58.62.92:8084
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",A Spor
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
-#EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://i.imgur.com/B8ML0VM.png" group-title="Sport",A Spor
+#EXTINF:-1 group-title="ReMy_SPORT", ASpor
 https://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Abu Dhabi Sports
 http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
