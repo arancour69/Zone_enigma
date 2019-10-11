@@ -623,9 +623,7 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 http://ott-cdn.ucom.am/s41/index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_WORLD_NEWS
 ReMy_WORLD_NEWS
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN Chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN Turkia
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN Turk
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
@@ -637,8 +635,6 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN CHILE
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",france24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",MSNBC
