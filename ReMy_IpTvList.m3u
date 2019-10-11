@@ -1306,11 +1306,11 @@ https://www.djing.com/tv/u-27777-04.m3u8
 ReMy-Clubbin/iTunes_Radio
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Baba Radyo
 http://37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Baba Radyo AAC
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Baba Radyo
 http://37.247.100.100/best/babaradyo.stream/media_w1575182589_3361.aac
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo Spor
 http://37.247.100.118/stream/70/
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",181.FM UK Top 40
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",181.FM UK
 http://listen.181fm.com/181-uktop40_128k.mp3?noPreRoll=true
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",iTunes Top 40
 http://mp3.ffh.de/ffhchannels/top40.mp3
@@ -1322,11 +1322,11 @@ http://stream.dancewave.online:8080/dance.mp3
 http://79.172.194.189:11540/live.mp3
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Balkansko Radio
 http://balkanskoradio.com:8001/live.mp3
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",JOY_FM
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",JOY FM
 http://17773.live.streamtheworld.com:3690/JOY_FM_SC
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",JoyTurk Akustik
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Joy Turk Akustik
 https://17753.live.streamtheworld.com/JOYTURK_AKUSTIK128AC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=128eb247-8725-40da-df6f-c986c80bd8f8
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",METRO_FM_SC
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",METRO FM SC
 http://17733.live.streamtheworld.com:3690/METRO_FM_SC
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Ibiza Global Station
 http://46.105.171.218:8024
