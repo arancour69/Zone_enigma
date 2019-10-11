@@ -650,7 +650,8 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",C-Span 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Digi24
-http://81.196.0.126:80/digi24edge/digi24brasovlive/index.m3u8#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Digi24 
+http://81.196.0.126:80/digi24edge/digi24brasovlive/index.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD_NEWS",Digi24 
 http://edge76.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w499716744.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",Deutsche Welle
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&
@@ -1526,7 +1527,7 @@ http://158.69.227.214:8167
 http://91.121.59.45:8361/stream
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Z104 Country KSOP-FM
 http://ice7.securenetsystems.net/KSOPFM
-#EXTINF:-1,ReMy_YEREL
+#EXTINF:-1 group-title="ReMy_YEREL",ReMy_YEREL
 ReMy_YEREL
 #EXTINF:-1 group-title="ReMy_YEREL",ONCU TV
 http://yayin3.canlitv.com:1935/live/oncutv/iptvdelisi.m3u8
