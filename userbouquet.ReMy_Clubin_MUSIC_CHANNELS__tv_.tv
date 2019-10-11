@@ -227,23 +227,7 @@
 #DESCRIPTION YU PLANET
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
 #DESCRIPTION Zeta TV
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
-#DESCRIPTION === ★★ReMy-Clubin | K R A L/Music★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akral45lik.smil/chunklist_w719726567_b64000.m3u8:KRAL 45LIK
-#DESCRIPTION KRAL 45LIK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3ak90s.smil/chunklist_w60242729_b64000.m3u8:KRAL 90LAR
-#DESCRIPTION KRAL 90LAR
-#SERVICE 4097:0:1:42:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akakustik.smil/chunklist_w2092025080_b64000.m3u8:KRAL AKUSTIK
-#DESCRIPTION KRAL AKUSTIK
-#SERVICE 4097:0:1:46:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akralask.smil/chunklist_w132048985_b64000.m3u8:KRAL ASK
-#DESCRIPTION KRAL ASK
-#SERVICE 4097:0:1:44:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akraldans.smil/chunklist_w263801280_b64000.m3u8:KRAL DANS
-#DESCRIPTION KRAL DANS
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akraltsm.smil/chunklist_w1376218780_b64000.m3u8:KRAL TSM
-#DESCRIPTION KRAL TSM
-#SERVICE 4097:0:1:32:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akturku.smil/chunklist_w423828388_b64000.m3u8:KRAL TURKU
-#DESCRIPTION KRAL TURKU
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
@@ -307,7 +291,7 @@
 #DESCRIPTION TaksimFM - Arabesk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.133.218%3a1078:TURKUAZ FM
 #DESCRIPTION TURKUAZ FM
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
