@@ -1308,6 +1308,12 @@ ReMy-Clubbin/iTunes_Radio
 http://37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Baba Radyo
 http://37.247.100.100/best/babaradyo.stream/media_w1575182589_3361.aac
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",KRAL FM
+https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/chunklist_w1224640543_b64000.m3u8
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",KRAL POP
+http://46.20.3.201:80
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Kral Turk
+http://canliradyoyayini.com:3434/;
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo Spor
 http://37.247.100.118/stream/70/
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",181.FM UK
@@ -1374,34 +1380,38 @@ http://188.138.1.52:17732
 http://37.247.101.101:5934
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo Derman
 http://sunucu2.radyolarburada.com:3636/;stream.mp3
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Efkar
-https://17773.live.streamtheworld.com/EFKAR128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a516ac84-3bdf-4b8e-f43b-0cf617f364fe
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",GONUL
-https://17773.live.streamtheworld.com/GONUL128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=e5db8a60-47e4-4ff9-9a1f-be649e3b3b21
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Efuli
-https://19993.live.streamtheworld.com/SC3_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=55cb3a47-f75b-469f-b4ca-a63833def139
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RetroTurk
-https://17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Ankarali
 https://19643.live.streamtheworld.com/SC6_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=ccf11eb9-8c91-4773-cab9-ff9a255e22d8
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Best FM
+https://17703.live.streamtheworld.com/BEST_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=72d38878-1ace-4439-f8f8-8e49607b5ca8
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Efkar
+https://17773.live.streamtheworld.com/EFKAR128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a516ac84-3bdf-4b8e-f43b-0cf617f364fe
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Efuli
+https://19993.live.streamtheworld.com/SC3_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=55cb3a47-f75b-469f-b4ca-a63833def139
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Efsane Sezen
+https://17733.live.streamtheworld.com/SEZEN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=1f044f9e-0c7c-437b-a97e-9e70efc35400
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Genc & Fit
+https://17703.live.streamtheworld.com/GENCVEFIT128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=dce3b2e0-c000-46fc-a6e7-c1c63af7ee94
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",GONUL
+https://17773.live.streamtheworld.com/GONUL128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=e5db8a60-47e4-4ff9-9a1f-be649e3b3b21
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",HOT TICKETS
+https://17773.live.streamtheworld.com/HOTTICKETS128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a1bc5789-f152-4511-a71b-330c7233db6c
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",İLKBAHAR
+https://17733.live.streamtheworld.com/EVENT_RADIO_128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=88f283c4-8a77-4b6a-93af-41b4f2d5d45e
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Love Zone
+https://20043.live.streamtheworld.com/SC5_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a8e19e57-e1d0-4799-f887-ac9ce15d564c
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",MydonoseTurk
+https://18463.live.streamtheworld.com/DANSTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=6da4c271-c45e-4308-85e3-e93ae3284a7a
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Pop90
 https://17703.live.streamtheworld.com/POP90128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=cb042a8e-6ab0-40ed-e5dd-104bbd35afe6
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo Komedi
 https://17753.live.streamtheworld.com/RADYO_KOMEDI128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=9241f62b-7e72-4cfe-b705-427219136126
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Genc & Fit
-https://17703.live.streamtheworld.com/GENCVEFIT128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=dce3b2e0-c000-46fc-a6e7-c1c63af7ee94
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Best FM
-https://17703.live.streamtheworld.com/BEST_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=72d38878-1ace-4439-f8f8-8e49607b5ca8
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Efsane Sezen
-https://17733.live.streamtheworld.com/SEZEN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=1f044f9e-0c7c-437b-a97e-9e70efc35400
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",MydonoseTurk
-https://18463.live.streamtheworld.com/DANSTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=6da4c271-c45e-4308-85e3-e93ae3284a7a
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo Play
 https://18463.live.streamtheworld.com/KOMSU128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=477eff09-b7bd-40e0-db19-7bec5cb43cd1
+#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",RetroTurk
+https://17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",SUPER_FM
 https://17753.live.streamtheworld.com/SUPER_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=5f5ce410-ba94-4cfc-a10f-70e4eec5cbf9
-#EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Love Zone
-https://20043.live.streamtheworld.com/SC5_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a8e19e57-e1d0-4799-f887-ac9ce15d564c
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",ZEPLIN
 https://17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc
 #EXTINF:-1 group-title="ReMy-Clubbin/iTunes_Radio",Radyo 34
