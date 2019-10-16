@@ -21,14 +21,12 @@
 #DESCRIPTION (1) HERASPORT 3 HD 1080
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.46.47.220%3a8000/live/vA4HQYOvfD/a0o8HGxseG/4.ts:(2) HERASPORTS 4 HD 720
 #DESCRIPTION (2) HERASPORTS 4 HD 720
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
+#DESCRIPTION 100 Automoto Bulgaria
 #SERVICE 4097:0:1:2FAB:2DB4:13E:820000:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100% Automoto (BG)
 #DESCRIPTION 100% Automoto (BG)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/asporhd/asporhd.m3u8:A Spor Hd
-#DESCRIPTION A Spor Hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/ABC/index.m3u8:Abc
-#DESCRIPTION Abc
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/ABC/tracks-v1a1/index.m3u8:ABC (USA)
-#DESCRIPTION ABC (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8181/ntvspor.ts:1SPOR LİG TV HD
+#DESCRIPTION 1SPOR LİG TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1:Abu Dhabi Sports
 #DESCRIPTION Abu Dhabi Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_360p.m3u8:Abu Dhabi Sports 1
@@ -59,10 +57,6 @@
 #DESCRIPTION Abu Dhabi Sports 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6:Abu Dhabi Sports 6
 #DESCRIPTION Abu Dhabi Sports 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8:Adventure Sports Network
-#DESCRIPTION Adventure Sports Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/five/master570.m3u8:Al Kass Five
-#DESCRIPTION Al Kass Five
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/alkassone1/master570.m3u8:Al Kass One
 #DESCRIPTION Al Kass One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlineZI/master570.m3u8:Al Kass Online
@@ -77,8 +71,6 @@
 #DESCRIPTION Al Kass Sports 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5:Al Kass Sports 5
 #DESCRIPTION Al Kass Sports 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/alkasstwo/master570.m3u8:Al Kass Two
-#DESCRIPTION Al Kass Two
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/dgrau/_definst_/dgrau/media.m3u8:All Sports
 #DESCRIPTION All Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//173.236.10.10%3a1935/dgrau/dgrau/live.m3u8:All Sports
@@ -111,40 +103,16 @@
 #DESCRIPTION beIN Sports 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.170.215.101%3a80/hls/m3u8/Bein-Sport-HD5.m3u8:beIN Sports 5
 #DESCRIPTION beIN Sports 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a3333/6:beIN Sports 6
-#DESCRIPTION beIN Sports 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.236.230.110%3a3333/8:beIN Sports 8
-#DESCRIPTION beIN Sports 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a4.tvizio.bg/liveedge/bnt1_ff_mid.stream/playlist.m3u8?28844&amp;gflnm5c1665mo84mj5j8p16l35&amp;1&amp;tvz:Bnt 1 (bg)
-#DESCRIPTION Bnt 1 (bg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webplayer.tvbulgarialive.com%3a25461/live/tvbulgaria/tvbulgaria/28.m3u8:Bnt 1 (opz.1)
-#DESCRIPTION Bnt 1 (opz.1)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webplayer.tvbulgarialive.com%3a25461/live/tvbulgaria/tvbulgaria/27.m3u8:Bnt 2
-#DESCRIPTION Bnt 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//u1.tvizio.bg/liveedge/bnthd_ff_mid.stream/playlist.m3u8?28865&amp;7e7qbup3hr49p9a8g9kn77bc67&amp;40&amp;tvz:Bnt 3 (bg)
-#DESCRIPTION Bnt 3 (bg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webplayer.tvbulgarialive.com%3a25461/live/tvbulgaria/tvbulgaria/18.m3u8:BNT 3 (opz.3)
-#DESCRIPTION BNT 3 (opz.3)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcasting.cdn.contentgm.com%3a8080/boets/video.m3u8?token=8UjWeshNwq:Boets
-#DESCRIPTION Boets
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.202.81.107%3a1935/stream/live/playlist.m3u8:Brt Spor
-#DESCRIPTION Brt Spor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.202.81.107%3a1935/stream/live/playlist.m3u8:Brt Spor (tr)
-#DESCRIPTION Brt Spor (tr)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/NFL_REDZONE/index.m3u8:Bt Sport 2 (uk)
-#DESCRIPTION Bt Sport 2 (uk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.202.81.107%3a1935/stream/live/playlist.m3u8:Bx
+#DESCRIPTION Bx
 #SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale85/mp4%3acanale85/playlist.m3u8:Canale 85
 #DESCRIPTION Canale 85
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8:Cbc Sport
-#DESCRIPTION Cbc Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8:Cbc Sport
-#DESCRIPTION Cbc Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//az2.canlitvplayer.com/azerbaijan/cbc_sport_hd/playlist.m3u8:Cbc Sport (az)
 #DESCRIPTION Cbc Sport (az)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8:Cctv-5+
 #DESCRIPTION Cctv-5+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.242.130%3a6610/gitv/live1/G_CCTV-5-HQ/1.m3u8:Cctv5
-#DESCRIPTION Cctv5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8:CCX CITIES
+#DESCRIPTION CCX CITIES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/cdofree/live/chunklist.m3u8:Cdo
 #DESCRIPTION Cdo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8:Cdo Basico
@@ -155,10 +123,6 @@
 #DESCRIPTION DD Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8:DD Sports
 #DESCRIPTION DD Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webplayer.tvbulgarialive.com%3a25461/live/tvbulgaria/tvbulgaria/23.m3u8:Diema Sport (bg)
-#DESCRIPTION Diema Sport (bg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webplayer.tvbulgarialive.com%3a25461/live/tvbulgaria/tvbulgaria/22.m3u8:Diema Sport 2 (bg)
-#DESCRIPTION Diema Sport 2 (bg)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8:DSports
 #DESCRIPTION DSports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmisvthvll.cdn.mangomolo.com/events/smil%3aevents.smil/chunklist.m3u8:Dubai Racing
@@ -167,12 +131,6 @@
 #DESCRIPTION Dubai Racing
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/chunklist_b1600000.m3u8:Dubai Racing 2
 #DESCRIPTION Dubai Racing 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmi.mangomolo.com%3a1935/dubaisports/smil%3adubaisports.smil/playlist.m3u8:Dubai Sports
-#DESCRIPTION Dubai Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisports/smil%3adubaisports.smil/chunklist.m3u8:Dubai Sports 1
-#DESCRIPTION Dubai Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmivll.mangomolo.com/dubaisports/smil%3adubaisports.smil/playlist.m3u8:Dubai Sports 1 HD
-#DESCRIPTION Dubai Sports 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist.m3u8:Dubai Sports 2
 #DESCRIPTION Dubai Sports 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmivll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/playlist.m3u8:Dubai Sports 2 HD
@@ -181,78 +139,36 @@
 #DESCRIPTION Dubai Sports 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8:Edge Sport HD (USA)
 #DESCRIPTION Edge Sport HD (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/6/2500000/live.m3u8:Espn Hd
-#DESCRIPTION Espn Hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ak-hls-brs-espn1.espn.go.com/hls/live/218616/p/1/espn1-p-4500/espn1-p-4500.m3u8:Espn (opz.2)
-#DESCRIPTION Espn (opz.2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8:Espn (opz.3)
-#DESCRIPTION Espn (opz.3)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ak-hls-brs-espn2.espn.go.com/hls/live/218615/p/2/espn2-p-4500/espn2-p-4500.m3u8:Espn 2
-#DESCRIPTION Espn 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.6%3a80/PLTV/88888888/224/3221226881/index.m3u8:Espn 2 (opz.2)
-#DESCRIPTION Espn 2 (opz.2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/ESPN_CLASSIC/index.m3u8:Espn Classic
-#DESCRIPTION Espn Classic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8:Espn Classic (opz.2)
-#DESCRIPTION Espn Classic (opz.2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ak-hls-brs-espndep.espn.go.com/hls/live/218618/p/deportes/espndep-p-4500/espndep-p-4500.m3u8:Espn Deportes
-#DESCRIPTION Espn Deportes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yrsprts.xyz/hls/m3.m3u8?ch=espndep:Espn Deportes (opz.2)
-#DESCRIPTION Espn Deportes (opz.2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ak-hls-brs-espnlhn.espn.go.com/hls/live/203628/p/lhn/espnlhn-p-4500/espnlhn-p-4500.m3u8:Espn Longhorn
-#DESCRIPTION Espn Longhorn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/ESPN_NEWS/index.m3u8:Espn News
-#DESCRIPTION Espn News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yrsprts.xyz/hls/m3.m3u8?ch=espnnews:Espn News (opz.2)
-#DESCRIPTION Espn News (opz.2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ak-hls-brs-espnews.espn.go.com/hls/live/215388/p/news/espnews-p-4500/espnews-p-4500.m3u8:Espn News (opz.3)
-#DESCRIPTION Espn News (opz.3)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yrsprts.xyz/hls/m3.m3u8?ch=sec:Espn Sec (usa)
-#DESCRIPTION Espn Sec (usa)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ak-hls-brs-espnu.espn.go.com/hls/live/203627/p/u/espnu-p-4500/espnu-p-4500.m3u8:Espnu
-#DESCRIPTION Espnu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yrsprts.xyz/hls/m3.m3u8?ch=espnu:Espnu (opz.2)
-#DESCRIPTION Espnu (opz.2)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8:Espn
+#DESCRIPTION Espn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp%3aes3_web/playlist.m3u8:ESport3
 #DESCRIPTION ESport3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3aes3_web/chunklist_b1296000_DVR.m3u8:ESport3
 #DESCRIPTION ESport3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp%3aes3_web/chunklist.m3u8:ESport3
 #DESCRIPTION ESport3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp%3aes3_web/chunklist_b1296000.m3u8:Esports 3
+#DESCRIPTION Esports 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8:Estonia TV
 #DESCRIPTION Estonia TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1.ip2stream.icu/live/eurosport_1_hd/playlist.m3u8:Eurosport 1
-#DESCRIPTION Eurosport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8:Eurosport 1 (bg)
 #DESCRIPTION Eurosport 1 (bg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/228/index.m3u8:Eurosport 1 (ru)
-#DESCRIPTION Eurosport 1 (ru)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.si/ts/EUROSPORT/stream_iptv_2000k.m3u8:Eurosport 1 (slo)
-#DESCRIPTION Eurosport 1 (slo)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/228/index.m3u:Eurosport 1 Hd
-#DESCRIPTION Eurosport 1 Hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8:Eurosport 2 (bg)
 #DESCRIPTION Eurosport 2 (bg)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/234/index.m3u:Eurosport 2 Hd
-#DESCRIPTION Eurosport 2 Hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.112.101.69%3a8081/stream44/output.m3u8:Eurosports 1
-#DESCRIPTION Eurosports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.si/ts/EXTREME/stream_iptv_2000k.m3u8:Extreme Sport (nld)
-#DESCRIPTION Extreme Sport (nld)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s79/04.m3u8:Fast &; Fun Box
+#DESCRIPTION Fast &; Fun Box
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s79/index.m3u8:Fast &; Fun Box
+#DESCRIPTION Fast &; Fun Box
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.200/s86/index.m3u8:Fight Box
+#DESCRIPTION Fight Box
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.249/s86/04.m3u8:Fight Box
+#DESCRIPTION Fight Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/uq2663/h/h05/01.m3u8:Fight Sports
 #DESCRIPTION Fight Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/uq2663/h/h05/index.m3u8:Fight Sports
 #DESCRIPTION Fight Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8:Fight Sports
 #DESCRIPTION Fight Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s86/index.m3u8:Fight Box
-#DESCRIPTION Fight Box
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.200/s86/index.m3u8:Fight Box
-#DESCRIPTION Fight Box
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.249/s86/04.m3u8:Fight Box
-#DESCRIPTION Fight Box
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8:Fish Channel
-#DESCRIPTION Fish Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8:Flow Sports
 #DESCRIPTION Flow Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8:Flow Sports
@@ -261,72 +177,40 @@
 #DESCRIPTION Flow Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8:Flow Sports 1
 #DESCRIPTION Flow Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcasting.cdn.contentgm.com%3a8080/footbal_1/video.m3u8?token=8UjWeshNwq:Footbal_1
-#DESCRIPTION Footbal_1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcasting.cdn.contentgm.com%3a8080/footbal_2/video.m3u8?token=8UjWeshNwq:Footbal_2
-#DESCRIPTION Footbal_2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/1109/index.m3u:Football 1 Ucraina
-#DESCRIPTION Football 1 Ucraina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/1110/index.m3u:Football 2 Ucraina
-#DESCRIPTION Football 2 Ucraina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Football
+#DESCRIPTION Football
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.237.22.82%3a8086/udp/127.0.0.1%3a56046:Fox Sport 1 US
-#DESCRIPTION Fox Sport 1 US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/FOX_SPORTS1/tracks-v1a1/index.m3u8:Fox Sport 1 US
 #DESCRIPTION Fox Sport 1 US
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.237.22.82%3a8086/udp/127.0.0.1%3a56047:Fox Sport 2 US
 #DESCRIPTION Fox Sport 2 US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/FOX_SPORTS1/index.m3u8:Fox Sports 1
-#DESCRIPTION Fox Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8:Fox Sports News
 #DESCRIPTION Fox Sports News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8:Fox Sports Racing
-#DESCRIPTION Fox Sports Racing
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2.hoolatv.com/live/freesports_hi/chunks.m3u8?__fvd__:Free Sports
-#DESCRIPTION Free Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.fs1.tv%3a8080/hls/webstream.m3u8:Fs1 Hd
 #DESCRIPTION Fs1 Hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&amp;deviceMake=&amp;deviceModel=&amp;sid=2&amp;deviceId=&amp;deviceVersion=&amp;appVersion=&amp;deviceDNT=&amp;userId=&amp;advertisingId=&amp;deviceLat=&amp;deviceLon=-&amp;app_name=&amp;appName=&amp;appStoreUrl=&amp;profileLimit=high:Glory Kickboxing (usa)
-#DESCRIPTION Glory Kickboxing (usa)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/GOL_TV/index.m3u8:Gol Tv
-#DESCRIPTION Gol Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8:Garage TV
+#DESCRIPTION Garage TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8:GB GAME
+#DESCRIPTION GB GAME
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//203.162.235.41%3a16924:Golf Net
 #DESCRIPTION Golf Net
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//central.dashstreams.net/onestudio/gonefishing/playlist.m3u8:Gone Fishing
 #DESCRIPTION Gone Fishing
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//central.dashstreams.net/onestudio/hunting/playlist.m3u8:Gone Hunting
 #DESCRIPTION Gone Hunting
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8:Hard Knocks Fighting (CAN)
-#DESCRIPTION Hard Knocks Fighting (CAN)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8:Horizon Sports
 #DESCRIPTION Horizon Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//182.19.212.148%3a8089/1.ts:Horse Racing Ch 88
 #DESCRIPTION Horse Racing Ch 88
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.livetv.az/azerbaijan/idman2_stream/playlist.m3u8:Idman Sport Hd
-#DESCRIPTION Idman Sport Hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.livetv.az/azerbaijan/idmanhd/playlist.m3u8:Idman Tv (az)
-#DESCRIPTION Idman Tv (az)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.livetv.az/azerbaijan/idman2_stream/playlist.m3u8:IDMAN Sport HD
-#DESCRIPTION IDMAN Sport HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/irctv/mp4%3airctv/playlist.m3u8:IRC Sport TV
 #DESCRIPTION IRC Sport TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.32.140.155/irctv/mp4%3airctv/playlist.m3u8:Irc Sport Tv
 #DESCRIPTION Irc Sport Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/irctv/mp4%3airctv/playlist.m3u8:Irc Sport Tv
-#DESCRIPTION Irc Sport Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.persianleague.com/live/tv3/playlist.m3u8:Irib 3
-#DESCRIPTION Irib 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.persianleague.com/live/varzesh/playlist.m3u8:Irib Varzesh
-#DESCRIPTION Irib Varzesh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.joinvisions.net%3a1935/jorlive/sport/playlist.m3u8?DVR:Jordan Sport TV
-#DESCRIPTION Jordan Sport TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.joinvisions.net%3a1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR:Jordan Sport TV
 #DESCRIPTION Jordan Sport TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.129.115.21%3a1935/edgedol/_definst_/tao129/chunklist_w1957069897.m3u8:Jtbc Golf
 #DESCRIPTION Jtbc Golf
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.129.115.21%3a1935/edgedol/_definst_/tao123/playlist.m3u8:Kbs N Sports
 #DESCRIPTION Kbs N Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcasting.cdn.contentgm.com%3a8080/khl/video.m3u8?token=8UjWeshNwq:Khl
-#DESCRIPTION Khl
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onlinetv.ktrk.kg%3a1935/live/myStream4/playlist.m3u8:Ktrk Sport
 #DESCRIPTION Ktrk Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3:Ktv Sport
@@ -337,56 +221,10 @@
 #DESCRIPTION Ktv Sport (arab)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8:Kuwait Sport
 #DESCRIPTION Kuwait Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s4.tntendirect.com/lequipe21/live/playlist.m3u8:L Equipe 21
-#DESCRIPTION L Equipe 21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8:La 1
 #DESCRIPTION La 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdx.dailysport.pw/1/1.m3u8:LIVE 1
-#DESCRIPTION LIVE 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdx.dailysport.pw/2/2.m3u8:LIVE 2
-#DESCRIPTION LIVE 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdx.dailysport.pw/3/3.m3u8:LIVE 3
-#DESCRIPTION LIVE 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdx.dailysport.pw/4/4.m3u8:LIVE 4
-#DESCRIPTION LIVE 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdx.dailysport.pw/5/5.m3u8:LIVE 5
-#DESCRIPTION LIVE 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdx.dailysport.pw/6/6.m3u8:LIVE 6
-#DESCRIPTION LIVE 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdx.dailysport.pw/7/7.m3u8:LIVE 7
-#DESCRIPTION LIVE 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdx.dailysport.pw/8/8.m3u8:LIVE 8
-#DESCRIPTION LIVE 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdx.dailysport.pw/9/9.m3u8:LIVE 9
-#DESCRIPTION LIVE 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdx.dailysport.pw/10/10.m3u8:LIVE 10
-#DESCRIPTION LIVE 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.43.207%3a8081/m6/live/playlist.m3u8:M6
-#DESCRIPTION M6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/207/index.m3u:Match Arena HD (RUS)
-#DESCRIPTION Match Arena HD (RUS)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/222/index.m3u:Match Futbol 1 HD(RUS)
-#DESCRIPTION Match Futbol 1 HD(RUS)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/211/index.m3u:Match Futbol 2 HD(RUS)
-#DESCRIPTION Match Futbol 2 HD(RUS)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/206/index.m3u:Match Futbol 3 HD(RUS)
-#DESCRIPTION Match Futbol 3 HD(RUS)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/225/index.m3u:Match Igra  HD(RUS)
-#DESCRIPTION Match Igra  HD(RUS)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/220/index.m3u:Match Premier HD (RUS)
-#DESCRIPTION Match Premier HD (RUS)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/212/index.m3u:Match Tv Hd (rus)
-#DESCRIPTION Match Tv Hd (rus)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uiptv.do.am/1ufc/000000003/playlist.m3u8:Match! Football
-#DESCRIPTION Match! Football
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3477/395381/10217.m3u8:Match! Football 2
-#DESCRIPTION Match! Football 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/MAV_TV/index.m3u8:Mav Tv
-#DESCRIPTION Mav Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/MAV_TV/tracks-v1a1/index.m3u8:Mav Tv (usa)
-#DESCRIPTION Mav Tv (usa)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//configuration.tn%3a8000/live/asean3158/as9860/8660.m3u8:Max Sport 1 (bg)
-#DESCRIPTION Max Sport 1 (bg)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8084:LIVE MOTOR SPORT
+#DESCRIPTION LIVE MOTOR SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8:Mlb Network
 #DESCRIPTION Mlb Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8:Mlb Network
@@ -395,42 +233,16 @@
 #DESCRIPTION Mlb Network Hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.mncnow.id/mncsports/1001.m3u8?virtualDomain=000001.live_hls.zte.com:Mnc Sports
 #DESCRIPTION Mnc Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp%3aes3_web/chunklist_b1296000.m3u8:Movistar Esports
-#DESCRIPTION Movistar Esports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/MSG/index.m3u8:Msg
-#DESCRIPTION Msg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/MSG+/index.m3u8:Msg+
-#DESCRIPTION Msg+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.upstream-cloud.ch/sstvlinear/ngrp%3asstvlinear_all/chunklist_w2102582891_b6628000.m3u8:My Sports 1
 #DESCRIPTION My Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.upstream-cloud.ch/sstvlinear/ngrp%3asstvlinear_all/playlist.m3u8:Mysports 1
-#DESCRIPTION Mysports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcasting.cdn.contentgm.com%3a8080/nash_football/video.m3u8?token=8UjWeshNwq:Nash_football
-#DESCRIPTION Nash_football
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_nbaplus_1000kb_36bay2/tracks-v1a1/mono.m3u8:Nba Plus
-#DESCRIPTION Nba Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/NBA9/index.m3u8:Nba Tv
-#DESCRIPTION Nba Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.237.22.82%3a8086/udp/127.0.0.1%3a56052:Nba Tv
-#DESCRIPTION Nba Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/NBA_TV/index.m3u8:Nba Tv Hd
-#DESCRIPTION Nba Tv Hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//54.39.124.28/pro.php/http%3a//tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8:NBC Golf
-#DESCRIPTION NBC Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.upstream-cloud.ch/sstvlinear/ngrp%3asstvlinear_all/playlist.m3u8:My Sports 1
+#DESCRIPTION My Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8:Nbc Golf
 #DESCRIPTION Nbc Golf
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.237.22.82%3a8086/udp/127.0.0.1%3a56016:Nbc Sports
-#DESCRIPTION Nbc Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:Newtv Super Sports Hd
-#DESCRIPTION Newtv Super Sports Hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/NHL_NETWORK/index.m3u8:Nhl Network
-#DESCRIPTION Nhl Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8:Nova Sport (bg)
 #DESCRIPTION Nova Sport (bg)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8181/hls/ntvspor/playlist.m3u8:Ntv Spor (tr)
 #DESCRIPTION Ntv Spor (tr)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8:Nwct 12
-#DESCRIPTION Nwct 12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC1_1.m3u8:Olympic Channel
 #DESCRIPTION Olympic Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC2_1.m3u8:Olympic Channel 2
@@ -441,52 +253,22 @@
 #DESCRIPTION Olympic Channel 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC5_1.m3u8:Olympic Channel 5
 #DESCRIPTION Olympic Channel 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC6_1.m3u8:Olympic Channel 6
-#DESCRIPTION Olympic Channel 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC7_1.m3u8:Olympic Channel 7
-#DESCRIPTION Olympic Channel 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC8_1.m3u8:Olympic Channel 8
-#DESCRIPTION Olympic Channel 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC9_1.m3u8:Olympic Channel 9
-#DESCRIPTION Olympic Channel 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC10_1.m3u8:Olympic Channel 10
-#DESCRIPTION Olympic Channel 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC11_1.m3u8:Olympic Channel 11
-#DESCRIPTION Olympic Channel 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC12_1.m3u8:Olympic Channel 12
-#DESCRIPTION Olympic Channel 12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport:Oman Sport
 #DESCRIPTION Oman Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.148.35%3a1935/live/omantv02/playlist.m3u8:Oman Sport
 #DESCRIPTION Oman Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.148.35%3a1935/live/omantv02/chunklist.m3u8:Oman Sports
 #DESCRIPTION Oman Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.151.233.20%3a8000/dna-6428-tv-pc/hls/4001v102.m3u8:Orange Sport
-#DESCRIPTION Orange Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.si/ts/ORF2/stream_iptv_2000k.m3u8:Orf 2 (aut)
-#DESCRIPTION Orf 2 (aut)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//at.iptvboard.me/ORFSPORTPLUS/index.m3u8:Orf Sport Plus
-#DESCRIPTION Orf Sport Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/OUTDOOR/index.m3u8:Outdoor
-#DESCRIPTION Outdoor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/OUTDOOR/tracks-v1a1/index.m3u8:Outdoor (usa)
-#DESCRIPTION Outdoor (usa)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&amp;deviceMake=Chrome&amp;deviceModel=Chrome&amp;sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&amp;deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&amp;deviceVersion=67.0.3396.99&amp;appVersion=2.0.0&amp;deviceDNT=0&amp;userId=&amp;advertisingId=&amp;deviceLat=38.8177&amp;deviceLon=-77.1527&amp;app_name=&amp;appName=&amp;appStoreUrl=&amp;serverSideAds=true:Pluto Tv Sport
-#DESCRIPTION Pluto Tv Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=&amp;deviceMake=&amp;deviceVersion=&amp;deviceId=&amp;appVersion=&amp;deviceDNT=0&amp;deviceModel=&amp;embedPartner=pluto.tv&amp;sid=tb3stkgum0jt2soq367mu97333:Pluto Tv Sport (usa)
-#DESCRIPTION Pluto Tv Sport (usa)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.182.100.184/live/pptvthai/index.m3u8:Pptv 36 (th)
 #DESCRIPTION Pptv 36 (th)
-#SERVICE 4097:0:1:2172:2:13E:EEEE0000:0:0:0:http%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975:Rai Sport
-#DESCRIPTION Rai Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8:Pro X
-#DESCRIPTION Pro X
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8:Racing.com
 #DESCRIPTION Racing.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8:Racing.com (Australia)
 #DESCRIPTION Racing.com (Australia)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58f12ffd2447a.streamlock.net/RadioBianconeraTV/smil%3aRadioBianconeraTV.smil/chunklist_w1487084414_b1428000_slita.m3u8:Radio Bianconera (Juventus - R.B.N.)
 #DESCRIPTION Radio Bianconera (Juventus - R.B.N.)
+#SERVICE 4097:0:1:2172:2:13E:EEEE0000:0:0:0:http%3a//mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975:Rai Sport
+#DESCRIPTION Rai Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/rbetislive/smil%3atelevision.smil/playlist.m3u8:Real Betis TV
 #DESCRIPTION Real Betis TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net%3a80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8:Real Madrid TV
@@ -501,6 +283,8 @@
 #DESCRIPTION Real Madrid Tv (Opt-2)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net%3a80/i/rmtv_1@154306/index_1000_av-p.m3u8:Real Madrid TV (Opt-3)
 #DESCRIPTION Real Madrid TV (Opt-3)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on:Real.M
+#DESCRIPTION Real.M
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8:Red Bull TV
 #DESCRIPTION Red Bull TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8:Red Bull TV
@@ -517,18 +301,14 @@
 #DESCRIPTION Red Bull TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8:Red Bull TV
 #DESCRIPTION Red Bull TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8:Red Bull Tv Sd
-#DESCRIPTION Red Bull Tv Sd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8:Red Bull TV HD
+#DESCRIPTION Red Bull TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8:Redbull TV HD
+#DESCRIPTION Redbull TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8:Rev'n
 #DESCRIPTION Rev'n
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kalhlspd-a.akamaihd.net/fhls/p/1164832/sp/116483200/serveFlavor/entryId/0_qc5xtm8o/v/2/ev/6/flavorId/0_8s0un0lm/name/a.mp4/index.m3u8:River Tv
-#DESCRIPTION River Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtm2mobile.secureswiftcontent.com/Origin02/ngrp%3aRTM2/chunklist_b2096000.m3u8:Rtm Sports (my)
 #DESCRIPTION Rtm Sports (my)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s7.tntendirect.com/rts2/live/playlist.m3u8:Rts Deux
-#DESCRIPTION Rts Deux
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8:Rtsh 1 Hd
-#DESCRIPTION Rtsh 1 Hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv San Marino Sport
 #DESCRIPTION Rtv San Marino Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8:Rtv Sport (san Marino)
@@ -553,50 +333,42 @@
 #DESCRIPTION Sbs Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8:SDI Service
 #DESCRIPTION SDI Service
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/SEC_NETWORK/index.m3u8:Sec Network
-#DESCRIPTION Sec Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.46.127.146%3a8080//SetantaSport/index.m3u8:Setanta Eurasia
-#DESCRIPTION Setanta Eurasia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.46.127.146%3a8080/SetantaSportPlus/index.m3u8:Setanta Eurasia + HD
-#DESCRIPTION Setanta Eurasia + HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.249%3a80/s81/04.m3u8:Setanta Sports
-#DESCRIPTION Setanta Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/index.m3u8:Setanta Sport
+#DESCRIPTION Setanta Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/04.m3u8:Setanta Sports (SD)
 #DESCRIPTION Setanta Sports (SD)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/03.m3u8:Setanta Sports 1
 #DESCRIPTION Setanta Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.204%3a80/s81/index.m3u8:Setanta Sports 1
 #DESCRIPTION Setanta Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.46.127.146%3a8080//SetantaSport/index.m3u8:SETANTA SPORTS 1 HD
+#DESCRIPTION SETANTA SPORTS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.46.127.146%3a8080/SetantaSport/index.m3u8:SETANTA SPORTS 1 HD
+#DESCRIPTION SETANTA SPORTS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.249%3a80/s81/04.m3u8:SETANTA SPORTS 1 SD
+#DESCRIPTION SETANTA SPORTS 1 SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.200/s82/04.m3u8:Setanta Sports 2
 #DESCRIPTION Setanta Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.46.127.146%3a8080/SetantaSport/index.m3u8:Setanta Sports Eurasia HD
-#DESCRIPTION Setanta Sports Eurasia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s82/index.m3u8:Setanta Sports Plus (SD)
-#DESCRIPTION Setanta Sports Plus (SD)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.46.127.146%3a8080/SetantaSportPlus/index.m3u8:SETANTA SPORTS 2 HD
+#DESCRIPTION SETANTA SPORTS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s82/index.m3u8:SETANTA SPORTS 2 SD
+#DESCRIPTION SETANTA SPORTS 2 SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8:Sharjah Sport
 #DESCRIPTION Sharjah Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8:Sharjah Sports
 #DESCRIPTION Sharjah Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8:Sharjah Sports
 #DESCRIPTION Sharjah Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.150.79%3a1935/trunk/SONY-ESPN/playlist.m3u8:Sony Espn  (ind)
-#DESCRIPTION Sony Espn  (ind)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.150.79%3a1935/trunk/SONY-SIX/playlist.m3u8:Sony Six (ind)
-#DESCRIPTION Sony Six (ind)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.si/ts/DSF/stream_iptv_2000k.m3u8:Sport 1 (deu)
-#DESCRIPTION Sport 1 (deu)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportbar.biz/lba/123/g2/pt3sport.m3u8:Sport Tv 3
 #DESCRIPTION Sport Tv 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.244.70.140%3a7000/play/a02y:Sport Tv 4 (opz.2)
-#DESCRIPTION Sport Tv 4 (opz.2)
-#SERVICE 4097:0:1:2B3C:1900:FBFF:820000:0:0:0:https%3a//1.ip2stream.icu/live/sport_italia/playlist.m3u8:Sport Italia
-#DESCRIPTION Sport Italia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8:Sports Max
-#DESCRIPTION Sports Max
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/SPORTSNET_ONE/index.m3u8:Sports Net One
-#DESCRIPTION Sports Net One
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/SPORTSNET_ONTARIO/index.m3u8:Sports Net Ontario
-#DESCRIPTION Sports Net Ontario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8:SPORTS MAX
+#DESCRIPTION SPORTS MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8:SPORTS MAX
+#DESCRIPTION SPORTS MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8:SPORTS MAX
+#DESCRIPTION SPORTS MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8:SPORTS MAX
+#DESCRIPTION SPORTS MAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//blutv-beta.akamaized.net/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8:Sports Tv
 #DESCRIPTION Sports Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_live/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8:Sports Tv
@@ -605,12 +377,6 @@
 #DESCRIPTION Sportscast
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8:Sportskool
 #DESCRIPTION Sportskool
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8:Sportsmax Tv
-#DESCRIPTION Sportsmax Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8:Sportsmax Tv
-#DESCRIPTION Sportsmax Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8:Sportsmax Tv
-#DESCRIPTION Sportsmax Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8:Sportv (opt-1)
 #DESCRIPTION Sportv (opt-1)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcunilive36-lh.akamaihd.net/i/dclive_1@662153/master.m3u8:Sportv (opt-2)
@@ -625,12 +391,6 @@
 #DESCRIPTION Stadium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8:Stadium Sports Usa
 #DESCRIPTION Stadium Sports Usa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//144.217.70.223%3a8080/StarSports_Hd1/index.m3u8:Star Sports 1
-#DESCRIPTION Star Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//globalbd.mywire.org%3a8081/globe/starsports1/chunks.m3u8:Star Sports 1 (ind)
-#DESCRIPTION Star Sports 1 (ind)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//globalbd.mywire.org%3a8081/globe/starsports2/chunks.m3u8:Star Sports 2 (ind)
-#DESCRIPTION Star Sports 2 (ind)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8:Super Soccer Tv
 #DESCRIPTION Super Soccer Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8:Super Soccer Tv
@@ -641,54 +401,22 @@
 #DESCRIPTION Super Soccer Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.126.83.51/uq2663/h/h20/index.m3u8:Super Soccer TV
 #DESCRIPTION Super Soccer TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1.ip2stream.icu/live/supertennis/playlist.m3u8:SuperTennis
-#DESCRIPTION SuperTennis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a8000/tr1:SUPER SPORT
+#DESCRIPTION SUPER SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8:Telecaribe Deportes
 #DESCRIPTION Telecaribe Deportes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8:Telecinco
-#DESCRIPTION Telecinco
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/sport/live/playlist.m3u8:Teleromagna Sport
 #DESCRIPTION Teleromagna Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yrsprts.xyz/hls/m3.m3u8?ch=10:Tennis Court 10
-#DESCRIPTION Tennis Court 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8:Tennis Plus 1
-#DESCRIPTION Tennis Plus 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8:Tennis Plus 2
-#DESCRIPTION Tennis Plus 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8:Tennis Plus 3
-#DESCRIPTION Tennis Plus 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/g.m3u8:Tennis Plus 4
-#DESCRIPTION Tennis Plus 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/c05b21c0-e574-4b34-a26e-c6637dbd0fa5/g.m3u8:Tennis Plus 5
-#DESCRIPTION Tennis Plus 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/735dea87-2128-40b7-8eaa-4252092c6dae/g.m3u8:Tennis Plus 6
-#DESCRIPTION Tennis Plus 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9/g.m3u8:Tennis Plus 7
-#DESCRIPTION Tennis Plus 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-10a5b5ba9d29/g.m3u8:Tennis Plus 8
-#DESCRIPTION Tennis Plus 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//playoutengine.sinclairstoryline.com/playout/202886a0-38bf-4470-9043-6f7e3750a5cf/g.m3u8:Tennis Plus 9
-#DESCRIPTION Tennis Plus 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8:Tf1
-#DESCRIPTION Tf1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8:Tfx
-#DESCRIPTION Tfx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:Tjk Tv
-#DESCRIPTION Tjk Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8:Tmc
-#DESCRIPTION Tmc
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:Trt 1 (tr)
-#DESCRIPTION Trt 1 (tr)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv3.streampulse.eu%3a1935/tilesport/movie1/playlist.m3u8:TILESPORT GREECE
+#DESCRIPTION TILESPORT GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
+#DESCRIPTION TJK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/playlist.m3u8:Trt Spor
 #DESCRIPTION Trt Spor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca:TRT Spor HD
+#DESCRIPTION TRT Spor HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/chunklist.m3u8:Trt Sport Hd (tr)
 #DESCRIPTION Trt Sport Hd (tr)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/TSN2/tracks-v1a1/index.m3u8:Tsn 2
-#DESCRIPTION Tsn 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/TSN2/index.m3u8:Tsn 2
-#DESCRIPTION Tsn 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8:Turkmenistan Sport HD
-#DESCRIPTION Turkmenistan Sport HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004.m3u8:Turkman Sport
 #DESCRIPTION Turkman Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alpha.tv.online.tm/hls/ch004_720/index.m3u8:Turkmenistan Sport
@@ -699,24 +427,16 @@
 #DESCRIPTION Turkmenistan Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8:Turkmenistan Sport
 #DESCRIPTION Turkmenistan Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8:Turkmenistan Sport HD
+#DESCRIPTION Turkmenistan Sport HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8:Tv 2 Play
 #DESCRIPTION Tv 2 Play
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Football
-#DESCRIPTION Football
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_400/index.m3u8:Türkmen Sport
+#DESCRIPTION Türkmen Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unisportslive1-lh.akamaihd.net%3a80/i/boston_042114_1@39543/index_2000_av-b.m3u8:Uni Sports
 #DESCRIPTION Uni Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/UNIVISION/index.m3u8:Univision
-#DESCRIPTION Univision
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/UNIVISION/tracks-v1a1/index.m3u8:Univision (usa)
-#DESCRIPTION Univision (usa)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31acd4b3.ottv.biz/iptv/ZBEVGS7KEW4QZV/160/index.m3u:Viasat Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.50%3a1234:Viasat Sport
 #DESCRIPTION Viasat Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.112.101.69%3a8081/stream55/output.m3u8:Viasat Sport
-#DESCRIPTION Viasat Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.43.207%3a8081/w9/live/playlist.m3u8:W9
-#DESCRIPTION W9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//globalbd.mywire.org%3a8081/globe/willow/playlist.m3u8:Willow Tv
-#DESCRIPTION Willow Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World Of Free Sports Tv
 #DESCRIPTION World Of Free Sports Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamengine.wosn.tv%3a1935/live/WOSNLive_1/playlist.m3u8:Wosn Tv
@@ -725,458 +445,6 @@
 #DESCRIPTION Wwe Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.254.160.4%3a8000/play/a00i/index.m3u8:Zdf (opz.2)
 #DESCRIPTION Zdf (opz.2)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8181/ntvspor.ts:1SPOR LİG TV HD
-#DESCRIPTION 1SPOR LİG TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a8000/tr1:SUPER SPORT
-#DESCRIPTION SUPER SPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8:CBC SPORT
-#DESCRIPTION CBC SPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8:GB GAME
-#DESCRIPTION GB GAME
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8:A SPOR HD
-#DESCRIPTION A SPOR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca:TRT Spor HD
-#DESCRIPTION TRT Spor HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
-#DESCRIPTION TJK TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/index.m3u8:Setanta Sport
-#DESCRIPTION Setanta Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8:SUPER SOCCER TV
-#DESCRIPTION SUPER SOCCER TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/6/live.m3u8:ESPN
-#DESCRIPTION ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8:ESPN 2
-#DESCRIPTION ESPN 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8:ESPN MNF
-#DESCRIPTION ESPN MNF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8:MLB Network
-#DESCRIPTION MLB Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8:MLB Network 2
-#DESCRIPTION MLB Network 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8:MLB USA
-#DESCRIPTION MLB USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8:MLB TV
-#DESCRIPTION MLB TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8:Red Bull TV HD
-#DESCRIPTION Red Bull TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8:Redbull TV HD
-#DESCRIPTION Redbull TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8:Fight Sports
-#DESCRIPTION Fight Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8:Stadium
-#DESCRIPTION Stadium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1:AD Sports 1 HD
-#DESCRIPTION AD Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:AD Sports 2 HD
-#DESCRIPTION AD Sports 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:AD Sports 1 HD
-#DESCRIPTION AD Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:AD Sports 2 HD
-#DESCRIPTION AD Sports 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1:Al Kass Sports 1
-#DESCRIPTION Al Kass Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2:Al Kass Sports 2
-#DESCRIPTION Al Kass Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3:Al Kass Sports 3
-#DESCRIPTION Al Kass Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4:Al Kass Sports 4
-#DESCRIPTION Al Kass Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5:Al Kass Sports 5
-#DESCRIPTION Al Kass Sports 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmi.mangomolo.com%3a1935/dubaisports/smil%3adubaisports.smil/master.m3u8:Dubai Sports
-#DESCRIPTION Dubai Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmivll.mangomolo.com/dubaisports/smil%3adubaisports.smil/playlist.m3u8:DUBAI SPORTS
-#DESCRIPTION DUBAI SPORTS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_400/index.m3u8:Türkmen Sport
-#DESCRIPTION Türkmen Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8:YAS Sports
-#DESCRIPTION YAS Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.50%3a1234:Viasat Sport
-#DESCRIPTION Viasat Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
-#DESCRIPTION 100 Automoto Bulgaria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8084:LIVE MOTOR SPORT
-#DESCRIPTION LIVE MOTOR SPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/rbetislive/smil%3atelevision.smil/playlist.m3u8:Betis TV HD
-#DESCRIPTION Betis TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on:Real.M
-#DESCRIPTION Real.M
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8:R.Madrid TV
-#DESCRIPTION R.Madrid TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8:R.MADRID TV
-#DESCRIPTION R.MADRID TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8:Garage TV
-#DESCRIPTION Garage TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv3.streampulse.eu%3a1935/tilesport/movie1/playlist.m3u8:TILESPORT GREECE
-#DESCRIPTION TILESPORT GREECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8:A Spor
-#DESCRIPTION A Spor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8?fluxustv.m3u8:A Spor
-#DESCRIPTION A Spor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_360p.m3u8:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_360p.m3u8?v=3157566659:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_480p.m3u8:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&;e=1495397980:Abu Dhabi Sports
-#DESCRIPTION Abu Dhabi Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2.m3u8:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_360p.m3u8:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_360p.m3u8?v=3157566659:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_480p.m3u8:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:Abu Dhabi Sports 2
-#DESCRIPTION Abu Dhabi Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3:Abu Dhabi Sports 3
-#DESCRIPTION Abu Dhabi Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4:Abu Dhabi Sports 4
-#DESCRIPTION Abu Dhabi Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5:Abu Dhabi Sports 5
-#DESCRIPTION Abu Dhabi Sports 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6:Abu Dhabi Sports 6
-#DESCRIPTION Abu Dhabi Sports 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1.m3u8:Abudhabi Sports 1
-#DESCRIPTION Abudhabi Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5:Al Kass Five
-#DESCRIPTION Al Kass Five
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/five/master570.m3u8:Al Kass Five
-#DESCRIPTION Al Kass Five
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1:Al Kass One
-#DESCRIPTION Al Kass One
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/alkassone1/master570.m3u8:Al Kass One
-#DESCRIPTION Al Kass One
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlineZI/master570.m3u8:Al Kass Online
-#DESCRIPTION Al Kass Online
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2:Al Kass Two
-#DESCRIPTION Al Kass Two
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alkasmsl4.akamaized.net/hls/live/2003123/alkasstwo/master570.m3u8:Al Kass Two
-#DESCRIPTION Al Kass Two
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f1cbe63db89.streamlock.net%3a1443/dgrau/_definst_/dgrau/media.m3u8:All Sports
-#DESCRIPTION All Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8:ATG
-#DESCRIPTION ATG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.105.4.106%3a1935/live/Bahrain Sports/chunklist.m3u8?v=1548640033:Bahrain Sport 1
-#DESCRIPTION Bahrain Sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.105.4.106%3a1935/live/Bahrain Sports/chunklist.m3u8?v=1558393494:Bahrain Sport 1
-#DESCRIPTION Bahrain Sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//0s.ha2s4mjtgixdkmzogu3a.cmle.ru/azerbaijan/cbc_sport_hd/playlist.m3u8:CBC Sport
-#DESCRIPTION CBC Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8:CBC Sport
-#DESCRIPTION CBC Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8:CBC Sport
-#DESCRIPTION CBC Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv:CDO
-#DESCRIPTION CDO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8:D Sport
-#DESCRIPTION D Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8:DD Sports
-#DESCRIPTION DD Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8:DD Sports
-#DESCRIPTION DD Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8:DSport
-#DESCRIPTION DSport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmisvthvll.cdn.mangomolo.com/events/smil%3aevents.smil/chunklist.m3u8:Dubai Racing
-#DESCRIPTION Dubai Racing
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmisvthvll.cdn.mangomolo.com/events/smil%3aevents.smil/chunklist_b1600000.m3u8:Dubai Racing
-#DESCRIPTION Dubai Racing
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8:Dubai Racing
-#DESCRIPTION Dubai Racing
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports:Dubai Sports
-#DESCRIPTION Dubai Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist.m3u8:Dubai Sports 2
-#DESCRIPTION Dubai Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmivll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/playlist.m3u8:Dubai Sports 2
-#DESCRIPTION Dubai Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd5/smil%3adubaisportshd5.smil/chunklist.m3u8:Dubai Sports 3
-#DESCRIPTION Dubai Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8:EDGEsport
-#DESCRIPTION EDGEsport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/ESPN_NEWS/index.m3u8:ESPNews
-#DESCRIPTION ESPNews
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3aes3_web/chunklist_b1296000_DVR.m3u8:ESport3
-#DESCRIPTION ESport3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp%3aes3_web/chunklist.m3u8:ESport3
-#DESCRIPTION ESport3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp%3aes3_web/playlist.m3u8:ESport3
-#DESCRIPTION ESport3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1.ip2stream.icu/live/eurosport_1_hd/playlist.m3u8:Eurosport 1
-#DESCRIPTION Eurosport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.151.233.20%3a8000/dna-6069-tv-pc/hls/4001v105.m3u8:EuroSports 1
-#DESCRIPTION EuroSports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s79/04.m3u8:Fast &; Fun Box
-#DESCRIPTION Fast &; Fun Box
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s79/index.m3u8:Fast &; Fun Box
-#DESCRIPTION Fast &; Fun Box
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8:Fight Sports
-#DESCRIPTION Fight Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/uq2663/h/h05/01.m3u8:Fight Sports
-#DESCRIPTION Fight Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/uq2663/h/h05/index.m3u8:Fight Sports
-#DESCRIPTION Fight Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.200/s86/index.m3u8:FightBox
-#DESCRIPTION FightBox
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.249/s86/04.m3u8:FightBox
-#DESCRIPTION FightBox
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8:FightBox
-#DESCRIPTION FightBox
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8:Flow Sports 1
-#DESCRIPTION Flow Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8:Flow Sports 1
-#DESCRIPTION Flow Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8:Flow Sports 1
-#DESCRIPTION Flow Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8:Flow Sports 1
-#DESCRIPTION Flow Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/FOX_SPORTS1/tracks-v1a1/index.m3u8:FOX Sports 1
-#DESCRIPTION FOX Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8:Fox Sports News
-#DESCRIPTION Fox Sports News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/GOL_TV/index.m3u8:GOL TV
-#DESCRIPTION GOL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8:Horizon Sports
-#DESCRIPTION Horizon Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.32.140.155/irctv/mp4%3airctv/playlist.m3u8:IRC Sport TV
-#DESCRIPTION IRC Sport TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/irctv/mp4%3airctv/playlist.m3u8:IRC Sport TV
-#DESCRIPTION IRC Sport TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.joinvisions.net%3a1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR:Jordan Sport TV
-#DESCRIPTION Jordan Sport TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.joinvisions.net%3a1935/jorlive/sport/playlist.m3u8?DVR:Jordan Sport TV
-#DESCRIPTION Jordan Sport TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.129.115.21%3a1935/edgedol/_definst_/tao129/chunklist_w1957069897.m3u8:JTBC Golf
-#DESCRIPTION JTBC Golf
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3:KTV Sport
-#DESCRIPTION KTV Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8:KTV Sport
-#DESCRIPTION KTV Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/ktvsportslive/smil%3aksports.smil/chunklist.m3u8:KTV Sport
-#DESCRIPTION KTV Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8:MLB Network
-#DESCRIPTION MLB Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8:MLB Network
-#DESCRIPTION MLB Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8:MLB Network
-#DESCRIPTION MLB Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bozztv.com/36bay2/gin/giniko_nbaplus_1000kb_36bay2/tracks-v1a1/mono.m3u8:NBA Plus
-#DESCRIPTION NBA Plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/NBA9/index.m3u8:NBA TV
-#DESCRIPTION NBA TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8:NEWTV Super sports HD
-#DESCRIPTION NEWTV Super sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8181/hls/ntvspor/playlist.m3u8:NTV Spor
-#DESCRIPTION NTV Spor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-live.olympicchannel.com/out/u/OC1_3.m3u8:Olympic Channel
-#DESCRIPTION Olympic Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ott-live.olympicchannel.com/out/u/OC1_1.m3u8:Olympic Channel
-#DESCRIPTION Olympic Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.148.35%3a1935/live/omantv02/chunklist.m3u8:Oman Sport
-#DESCRIPTION Oman Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.148.35%3a1935/live/omantv02/playlist.m3u8:Oman Sport
-#DESCRIPTION Oman Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport:Oman Sport
-#DESCRIPTION Oman Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.151.233.20%3a8000/dna-6428-tv-pc/hls/4001v102.m3u8:Orange Sport
-#DESCRIPTION Orange Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2ng.ru/31y:Orange Sport
-#DESCRIPTION Orange Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1:Pro X
-#DESCRIPTION Pro X
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8:Racing.com
-#DESCRIPTION Racing.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8:Racing.com
-#DESCRIPTION Racing.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8:Racing.com
-#DESCRIPTION Racing.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8:Rai Sport
-#DESCRIPTION Rai Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/rbetislive/smil%3atelevision.smil/playlist.m3u8:Real Betis TV
-#DESCRIPTION Real Betis TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8:Real Madrid TV
-#DESCRIPTION Real Madrid TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8:Real Madrid TV
-#DESCRIPTION Real Madrid TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net%3a80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8:Real Madrid TV
-#DESCRIPTION Real Madrid TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8:Real Madrid TV
-#DESCRIPTION Real Madrid TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&;amp;rebase=on?iptvgratis?chile.m3u8:Real Madrid TV
-#DESCRIPTION Real Madrid TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&;rebase=on?iptvgratis?chile.m3u8:Real Madrid TV
-#DESCRIPTION Real Madrid TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8:Real Madrid TV
-#DESCRIPTION Real Madrid TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8:Real Madrid TV (English)
-#DESCRIPTION Real Madrid TV (English)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8:Real Madrid TV (English)
-#DESCRIPTION Real Madrid TV (English)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8:Red Bull TV
-#DESCRIPTION Red Bull TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//i.mjh.nz/nz/tv.redbull.tv.m3u8:Red Bull TV
-#DESCRIPTION Red Bull TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8:Red Bull TV
-#DESCRIPTION Red Bull TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8:Red Bull TV
-#DESCRIPTION Red Bull TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8:Red Bull TV
-#DESCRIPTION Red Bull TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8:Red Bull TV
-#DESCRIPTION Red Bull TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8:Red Bull TV
-#DESCRIPTION Red Bull TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8:Red Bull TV (Opt-13)
-#DESCRIPTION Red Bull TV (Opt-13)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8:RTSH Sport
-#DESCRIPTION RTSH Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/playlist.m3u8?fluxustv.m3u8:RTV Sport (San Marino)
-#DESCRIPTION RTV Sport (San Marino)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.129.115.21%3a1935/edgedol/_definst_/tao129/playlist.m3u8:SBS Golf
-#DESCRIPTION SBS Golf
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.204%3a80/s81/index.m3u8:Setanta Sports 1
-#DESCRIPTION Setanta Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/03.m3u8:Setanta Sports 1
-#DESCRIPTION Setanta Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s81/04.m3u8:Setanta Sports 1
-#DESCRIPTION Setanta Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.43.140.200/s82/04.m3u8:Setanta Sports 2
-#DESCRIPTION Setanta Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8:Sharjah Sport
-#DESCRIPTION Sharjah Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8:Sharjah Sports
-#DESCRIPTION Sharjah Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8:Sharjah Sports
-#DESCRIPTION Sharjah Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.129.115.21%3a1935/edgedol/_definst_/tao126/playlist.m3u8:Sky Sports
-#DESCRIPTION Sky Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.150.79%3a1935/trunk/SONY-SIX/playlist.m3u8:Sony Six
-#DESCRIPTION Sony Six
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8:Sport TV 1
-#DESCRIPTION Sport TV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8:Sport TV 2
-#DESCRIPTION Sport TV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8:Sport TV 3
-#DESCRIPTION Sport TV 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8:Sport TV 4
-#DESCRIPTION Sport TV 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8:Sport TV 5
-#DESCRIPTION Sport TV 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8:Sport TV 6
-#DESCRIPTION Sport TV 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8:Sportal HD
-#DESCRIPTION Sportal HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.246.209.109%3a8080/SPORTSNET_ONTARIO/index.m3u8:Sports Net Ontario
-#DESCRIPTION Sports Net Ontario
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_live/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8:Sports TV
-#DESCRIPTION Sports TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8:Sportskool
-#DESCRIPTION Sportskool
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8:SportsMax TV
-#DESCRIPTION SportsMax TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8:SportsMax TV
-#DESCRIPTION SportsMax TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8:SportsMax TV
-#DESCRIPTION SportsMax TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8:STAD'AFRIC
-#DESCRIPTION STAD'AFRIC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_480p/chunks.m3u8:STAD'AFRIC
-#DESCRIPTION STAD'AFRIC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8:Stadium
-#DESCRIPTION Stadium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8:Stadium
-#DESCRIPTION Stadium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.3.242.186%3a1935//trunk4/STAR-SP-FIRST/playlist.m3u8:Star Sports First
-#DESCRIPTION Star Sports First
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8:Super Soccer TV
-#DESCRIPTION Super Soccer TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8:Super Soccer TV
-#DESCRIPTION Super Soccer TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/uq2663/h/h20/01.m3u8:SuperSoccer TV
-#DESCRIPTION SuperSoccer TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/uq2663/h/h20/index.m3u8:SuperSoccer TV
-#DESCRIPTION SuperSoccer TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.126.83.51/uq2663/h/h20/index.m3u8:SuperSoccer TV
-#DESCRIPTION SuperSoccer TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1.ip2stream.icu/live/supertennis/playlist.m3u8:SuperTennis
-#DESCRIPTION SuperTennis
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn02.upstream-cloud.ch/sstvlinear/ngrp%3asstvlinear_all/chunklist_w2102582891_b6628000.m3u8:Swiss Sport TV
-#DESCRIPTION Swiss Sport TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8:Telecaribe Deportes
-#DESCRIPTION Telecaribe Deportes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
-#DESCRIPTION TJK TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/playlist.m3u8:TRT Spor
-#DESCRIPTION TRT Spor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8:TV 2 Play
-#DESCRIPTION TV 2 Play
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Football Channel
-#DESCRIPTION Football Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/hls/ch004_720/index.m3u8:Türkmenistan Sport
-#DESCRIPTION Türkmenistan Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_720/index.m3u8:Türkmenistan Sport
-#DESCRIPTION Türkmenistan Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alpha.tv.online.tm/hls/ch004_720/index.m3u8:Türkmenistan Sport
-#DESCRIPTION Türkmenistan Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8:Türkmenistan Sport
-#DESCRIPTION Türkmenistan Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8:World Of Free Sports TV
-#DESCRIPTION World Of Free Sports TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamengine.wosn.tv%3a1935/live/WOSNLive_1/playlist.m3u8:WOSN TV
-#DESCRIPTION WOSN TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.211.143.214/astrakhanrusporthd/tracks-v2a1/index.m3u8:Ru Sport
-#DESCRIPTION Ru Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.211.143.214/astrakhanrusporthd/tracks-v3a1/index.m3u8:Ru Sport
-#DESCRIPTION Ru Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8:Ru Sport
-#DESCRIPTION Ru Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8:Ru Sport
-#DESCRIPTION Ru Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8:Ru Sport
-#DESCRIPTION Ru Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.boxingtvru.cdnvideo.ru/boxingtvru/smil%3aboxingtvru.smil/playlist.m3u8:boxingtvru
-#DESCRIPTION boxingtvru
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onlinetv.ktrk.kg%3a1935/live/myStream4/playlist.m3u8:match
-#DESCRIPTION match
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.114.16.54%3a80/match/index.m3u8:match
-#DESCRIPTION match
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uiptv.do.am/1ufc/000000003/playlist.m3u8:match
-#DESCRIPTION match
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3477/395381/10217.m3u8:match-football-2
-#DESCRIPTION match-football-2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gcore.silatv.ru/streams/3431_1488/480n/index.m3u8:Strength
-#DESCRIPTION Strength
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8:Strength
-#DESCRIPTION Strength
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gcore.silatv.ru/streams/3431_1488/720n/index.m3u8:Strength
-#DESCRIPTION Strength
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm.yandex.ru/kal/start/start0.m3u8:Start
-#DESCRIPTION Start
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8:Start
-#DESCRIPTION Start
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm.yandex.ru/kal/start/start0_169_480p.json/index-v1-a1.m3u8:Start
-#DESCRIPTION Start
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8:Start
-#DESCRIPTION Start
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.98.152.116%3a8081/fft/fft/chunks.m3u8:TV FOOTBALL
-#DESCRIPTION TV FOOTBALL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/04.m3u8:Football
-#DESCRIPTION Football
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s41/index.m3u8:Football
-#DESCRIPTION Football
 #SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8:ABC News
@@ -2347,6 +1615,12 @@
 #DESCRIPTION Super TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.67.13.54%3a1935/sylt1/sylt1_high.stream/chunklist.m3u8:SYLT1
 #DESCRIPTION SYLT1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8:Tf1
+#DESCRIPTION Tf1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8:Tfx
+#DESCRIPTION Tfx
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8:Tmc
+#DESCRIPTION Tmc
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//201.219.100.30%3a1935/telpintv/ttv.stream_720p/live.m3u8:T HD
 #DESCRIPTION T HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8:tagesschau 24
