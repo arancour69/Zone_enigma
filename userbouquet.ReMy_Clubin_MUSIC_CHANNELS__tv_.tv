@@ -17,6 +17,12 @@
 #DESCRIPTION KRAL POP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b2328000.m3u8:KRAL WORLD TV
 #DESCRIPTION KRAL WORLD TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/226.m3u8/Level(545259)?start=LIVE&amp;end=END&amp;time=1472768812494:MOOZ DANCE
+#DESCRIPTION MOOZ DANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/226.m3u8/Level(545259)?start=LIVE&amp;end=END&amp;time=1472768553044:MOOZ HD
+#DESCRIPTION MOOZ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/226.m3u8/Level(545259)?start=LIVE&amp;end=END&amp;time=1472768646553:MOOZ HITS
+#DESCRIPTION MOOZ HITS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:1Music HU
 #DESCRIPTION 1Music HU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albmusic.dyndns.tv%3a1935/albuk/albmus.stream/playlist.m3u8:ALB MUSIC HD
@@ -233,8 +239,8 @@
 #DESCRIPTION KRAL FM  ALEMIN KRALI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.201%3a80:KRAL POP
 #DESCRIPTION KRAL POP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
-#DESCRIPTION Kral Türk FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Turk
+#DESCRIPTION Kral Turk
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/30/:ANKARA HAVALARI
 #DESCRIPTION ANKARA HAVALARI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//37.247.100.100/best//babaradyo.stream:Baba Radyo

@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF:-1,ReMy_ReMy_ULUSAL
 ReMy_ReMy_ULUSAL 
 #EXTINF:-1 group-title="ReMy_ULUSAL",KANAL D
@@ -1095,6 +1095,12 @@ https://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
 http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KRAL WORLD TV
 https://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b2328000.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MOOZ DANCE 
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768812494 
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MOOZ HD 
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",MOOZ HITS 
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553 
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",1Music HU
 http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ALB MUSIC HD
