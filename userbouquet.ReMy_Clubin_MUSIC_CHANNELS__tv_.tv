@@ -17,14 +17,16 @@
 #DESCRIPTION KRAL POP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b2328000.m3u8:KRAL WORLD TV
 #DESCRIPTION KRAL WORLD TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/226.m3u8/Level(545259)?start=LIVE&amp;end=END&amp;time=1472768812494:MOOZ DANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768812494:MOOZ DANCE
 #DESCRIPTION MOOZ DANCE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/226.m3u8/Level(545259)?start=LIVE&amp;end=END&amp;time=1472768553044:MOOZ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044:MOOZ HD
 #DESCRIPTION MOOZ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/226.m3u8/Level(545259)?start=LIVE&amp;end=END&amp;time=1472768646553:MOOZ HITS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/226.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553:MOOZ HITS
 #DESCRIPTION MOOZ HITS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:1Music HU
 #DESCRIPTION 1Music HU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
+#DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albmusic.dyndns.tv%3a1935/albuk/albmus.stream/playlist.m3u8:ALB MUSIC HD
 #DESCRIPTION ALB MUSIC HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/:Box Hits
@@ -45,6 +47,8 @@
 #DESCRIPTION CzWORKA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8:Deejay TV (IT)
 #DESCRIPTION Deejay TV (IT)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.onestreaming.com%3a8081/deltatv/live/playlist.m3u8:DELTA TV GREECE
+#DESCRIPTION DELTA TV GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza5.video-streams.nl%3a1935/denhaag/denhaag/playlist.m3u8:DHTV denhaag tv
 #DESCRIPTION DHTV denhaag tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.artcom-venture.de%3a1322/dmf/tv_360.m3u8:DMF
@@ -119,6 +123,8 @@
 #DESCRIPTION First Music Channel HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300:First Music Channel Russia HD
 #DESCRIPTION First Music Channel Russia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.214.130.95%3a8080/live/stream.m3u8:Gigante TV
+#DESCRIPTION Gigante TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ec.playmedia.fr%3a1935/gong-base/live/playlist.m3u8:Gong Base
 #DESCRIPTION Gong Base
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8:Hit TV HD
@@ -137,6 +143,8 @@
 #DESCRIPTION Kcn 3 Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8:Kronehit TV HD
 #DESCRIPTION Kronehit TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8:KRONEHIT TV HD
+#DESCRIPTION KRONEHIT TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kmusic/kmusic3/TeamBlue.m3u8:KURIAKOS MUSIC
 #DESCRIPTION KURIAKOS MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net%3a80/i/m2oTv_1@186074/index_600_av-b.m3u8:m2otv
@@ -205,8 +213,12 @@
 #DESCRIPTION ROMAN TV Tr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/rocktv/playlist.m3u8:Rock TV
 #DESCRIPTION Rock TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.56.10%3a1935/rtk4stream/rtk4.stream/playlist.m3u8:RTK 4 Kosovo
+#DESCRIPTION RTK 4 Kosovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/playlist.m3u8:RTV Zik
 #DESCRIPTION RTV Zik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.148.117.134%3a1935/radios/radiosweb.stream live=1:Sarajevo 1 Tv
+#DESCRIPTION Sarajevo 1 Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk
 #DESCRIPTION Sky Folk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webmobile.xdev.ro%3a81/tv12/playlist.m3u8:Somax TV
@@ -225,6 +237,8 @@
 #DESCRIPTION TRACE Toca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8:TRACE Tropical
 #DESCRIPTION TRACE Tropical
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//141.136.14.18/kanal1/kanal1.m3u8:TV+
+#DESCRIPTION TV+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//ip.tvtetova.net%3a5119/live/tvtetova:TV Tetova
 #DESCRIPTION TV Tetova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8:UTV
