@@ -781,14 +781,14 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",Fuengirola TV 
 https://secure.todostreaming.es/live/nerja-livestream.m3u8
+#EXTINF:-1 group-title="ReMy_Espana",GH Dúo 24h FHD 
+https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8
+#EXTINF:-1 group-title="ReMy_Espana",GH Dúo 24h HD 
+https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",GH Dúo 24h
 https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_2.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",GH Dúo 24h 
 https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8
-#EXTINF:-1 group-title="ReMy_Espana",GH Dúo 24h HD 
-https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8
-#EXTINF:-1 group-title="ReMy_Espana",GH Dúo 24h HD 
-https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",Gigante TV 
 http://85.214.130.95:8080/live/stream.m3u8
 #EXTINF:-1 group-title="ReMy_Espana",Huesca TV 
