@@ -879,61 +879,61 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m
 https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",ReMy_WORLD
 ReMy_WORLD
-#EXTINF:0, 3 News
+#EXTINF:-1 group-title="ReMy_WORLD",3 News
 http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:0, 3AW Melbourne
+#EXTINF:-1 group-title="ReMy_WORLD",3AW Melbourne
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-#EXTINF:0, 4BC Brisbane
+#EXTINF:-1 group-title="ReMy_WORLD",4BC Brisbane
 http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
-#EXTINF:0, Al Jazeera HD
+#EXTINF:-1 group-title="ReMy_WORLD",Al Jazeera HD
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:0, BBC
+#EXTINF:-1 group-title="ReMy_WORLD",BBC world News
 http://213.252.252.17/live/eds/BBC/HLS_encr/index.m3u8
-#EXTINF:0, BBC News
+#EXTINF:-1 group-title="ReMy_WORLD",BBC
 https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
-#EXTINF:0, CBN HD
+#EXTINF:-1 group-title="ReMy_WORLD",CBN HD
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-p.m3u8?sd=10
-#EXTINF:0, CBN NEWS
+#EXTINF:-1 group-title="ReMy_WORLD",CBN NEWS
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
-#EXTINF:0, CBS
+#EXTINF:-1 group-title="ReMy_WORLD",CBS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-#EXTINF:0,MTV
+#EXTINF:-1 group-title="ReMy_WORLD",MTV
 http://31.177.62.139:8011/play/s28
-#EXTINF:0,Comedy Central/VIVA
+#EXTINF:-1 group-title="ReMy_WORLD",Comedy Central/VIVA
 http://31.177.62.139:8011/play/s27
-#EXTINF:0,CC, MTV, NIck
+#EXTINF:-1 group-title="ReMy_WORLD",CC, MTV, NIck
 http://31.177.62.139:8011/playlist.m3u8
-#EXTINF:0, Cheddar Big News
+#EXTINF:-1 group-title="ReMy_WORLD",Cheddar Big News
 https://live.chdrstatic.com/cbn/primary/1.m3u8
-#EXTINF:0, English: ABP Hindi news
+#EXTINF:-1 group-title="ReMy_WORLD",English: ABP Hindi news
 http://hindiabp-lh.akamaihd.net:80/i/hindiabp1new_1@192103/index_300_av-p.m3u8
-#EXTINF:0, Fox News
+#EXTINF:-1 group-title="ReMy_WORLD",Fox News
 http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8
-#EXTINF:0, Impact Wrestling HD USA
+#EXTINF:-1 group-title="ReMy_WORLD",Impact Wrestling HD USA
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0, Inspiration TV (USA)
+#EXTINF:-1 group-title="ReMy_WORLD",Inspiration TV (USA)
 http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
-#EXTINF:0, KMTV 3 NEWS
+#EXTINF:-1 group-title="ReMy_WORLD",KMTV 3 NEWS
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:0, MUSIC CHOICE USA
+#EXTINF:-1 group-title="ReMy_WORLD",MUSIC CHOICE USA
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:0, NBC 11 News
+#EXTINF:-1 group-title="ReMy_WORLD",NBC 11 News
 http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/index_1286_av-p.m3u8
-#EXTINF:0, NBS News
+#EXTINF:-1 group-title="ReMy_WORLD",NBS News
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:0, News 12 (The Bronx)
+#EXTINF:-1 group-title="ReMy_WORLD",News 12 (The Bronx)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
-#EXTINF:0, Newsmax TV HD
+#EXTINF:-1 group-title="ReMy_WORLD",Newsmax TV HD
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-#EXTINF:0, NHK World
+#EXTINF:-1 group-title="ReMy_WORLD",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-#EXTINF:0, North Bent Washington USA
+#EXTINF:-1 group-title="ReMy_WORLD",North Bent Washington USA
 http://74.93.101.73:80/mjpg/video.mjpg
-#EXTINF:0, Sintel
+#EXTINF:-1 group-title="ReMy_WORLD",Sintel
 http://51.15.253.75:8008/manifest.m3u8
-#EXTINF:0, The Weather Channel
+#EXTINF:-1 group-title="ReMy_WORLD",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
-#EXTINF:0, The Weather Network
+#EXTINF:-1 group-title="ReMy_WORLD",The Weather Network
 http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",1+1
 http://188.35.9.11:2001
