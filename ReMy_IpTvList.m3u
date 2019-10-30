@@ -1,20 +1,18 @@
 #EXTM3U
 #EXTINF:-1,ReMy_ReMy_ULUSAL
-ReMy_ReMy_ULUSAL 
-#EXTINF:-1 group-title="ReMy_ULUSAL",KANAL D
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",KANAL D
-http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",KANAL D
-http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",KANAL D
-http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",KANAL D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+ReMy_ReMy_ULUSAL
+#EXTINF:-1 group-title="ReMy_ULUSAL",FX HD
+https://blutv-beta.akamaized.net/fx/fx.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",TLC TV HD
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",DMAX HD
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",ATV HD
+https://blutv-beta.akamaized.net/atvhd/atvhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TURK
-http://mn-l.mncdn.com/showturktv/showturktv2/ip.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",SHOW TV
+http://94.20.74.243:4022/udp/239.254.10.123:1234
 #EXTINF:-1 group-title="ReMy_ULUSAL",Star TV HD
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",STAR TV
@@ -27,16 +25,20 @@ https://stream-03.ix7.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrW-fNlYqEelNIl8Kdo
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",EURO STAR TV
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",FOX HD
+http://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",BEYAZ TV HD
 https://stream-09.ix7.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzHIWsAYQcYqCoLBBs8eDiVY)/dm/3/x4kopfq/d/live-3.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",FLASH TV
 http://98.142.98.125:1935/flashtv/flashtvmob/chunklist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",HABER TURK
+https://blutv-beta.akamaized.net/haberturkhd/haberturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_ULUSAL",BLOOMBERG TV
+https://blutv-beta.akamaized.net/bloomberghd/bloomberghd.smil/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",UCAN KUS TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",FLASH TV
 http://98.142.98.125:1935/flashtv/flashtvmob/chunklist.m3u8
-#EXTINF:-1 group-title="ReMy_ULUSAL",TLC TV HD
-http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",Aile TV
 http://ms.n1.tvkur.noccdn.com/cdn/558d0f34918a2/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_ULUSAL",CIFTCI TV
@@ -157,28 +159,6 @@ http://23.237.22.82:8086/udp/127.0.0.1:56022
 http://23.237.22.82:8086/udp/127.0.0.1:56021
 #EXTINF:-1 group-title="ReMy_SPORT",beIN Sports 1
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV 1
-rtmp://89.163.224.168:80/live/sporttv1
-#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV 2
-rtmp://89.163.224.168:80/live/sporttv2
-#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV 3
-rtmp://89.163.224.168:80/live/sporttv3
-#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV 4
-https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=Kzq_daAyt6ejfYRi2nh2UA&e=1562105938
-#EXTINF:-1 group-title="ReMy_SPORT",SPORT TV 5
-rtmp://89.163.224.168:80/live/sporttv5
-#EXTINF:-1 group-title="ReMy_SPORT",Sport TV 1
-https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Sport TV 2
-https://5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Sport TV 3
-https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Sport TV 4
-https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Sport TV 5
-https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Sport TV 6
-https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",TRT Spor HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 #EXTINF:-1 group-title="ReMy_SPORT",TRT_spor
