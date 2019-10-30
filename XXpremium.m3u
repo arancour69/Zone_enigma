@@ -1,6 +1,40 @@
 #EXTM3U
+#EXTINF:-1 group-title="ReMy_RUS",Barely Legal TV (18+) 
+http://91.212.80.14/channel/289.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",Brazzers TV (18+) 
+http://91.212.80.14/channel/53.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",Candy (18+) 
+http://91.212.80.14/channel/57.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",Hustler HD (18+) 
+http://91.212.80.14/channel/52.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",Nuart TV (18+) 
+http://91.212.80.14/channel/55.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",PassionXXX (18+) 
+http://91.212.80.14/channel/292.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",Penthouse Passion (18+) 
+http://91.212.80.14/channel/283.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",Pinko TV (18+) 
+http://91.212.80.14/channel/287.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",Playboy TV (18+) 
+http://91.212.80.14/channel/56.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",Private TV (18+) 
+http://91.212.80.14/channel/282.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",Prive (18+) 
+http://91.212.80.14/channel/291.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",Redlight HD (18+) 
+http://91.212.80.14/channel/51.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",Vivid Red (18+) 
+http://91.212.80.14/channel/284.m3u8
+#EXTINF:-1 group-title="ReMy_RUS",X (18+) 
+http://91.212.80.14/channel/50.m3u8
+#EXTINF:-1 group-title="ReMy_RUS", Russian night (18+)
+http://91.212.80.14/channel/54.m3u8
 #EXTINF:-1,RussNoch
 http://188.35.9.11:21051/udp/071l
+#EXTINF:-1,Private TV HD
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1,Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1,Babestation 24 (DE) (18+)
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8
 #EXTINF:-1,Jasmin TV HD (18+)
@@ -21,6 +55,14 @@ http://91.204.234.3:8000/play/a00p/index.m3u8
 rtmp://62.210.55.60/stream3xVJ/3x08
 #EXTINF:-1 tvg-logo="http://www.number1guru.com/adult/tv-logo/DreamPornTV.png" group-title="Adult TV",Dream Porn
 http://jazoora.net:8000/192527549057/5c0d5eba06355/2395
+#EXTINF:-1,XXX: Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1,XXX: Zest TV
+http://188.35.9.5:10007/stolen/214g/parasite.install 
+#EXTINF:-1 tvg-logo="https://www.tgirls.porn/tour/custom_assets/images/logo.png" group-title="Adult TV",Trans
+rtmp://62.210.55.60/stream3xVJ/3x03
+#EXTINF:-1 tvg-logo="https://fi1.ypncdn.com/static/channel/logo/882545349.jpg" group-title="Adult TV",Trans 500
+rtmp://62.210.55.60/stream3xVJ/3x08
 #EXTINF:-1 tvg-logo="http://number1guru.com/adult//tv-logo/MilfTV.PNG" group-title="Adult TV",Milf
 http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1 tvg-logo="https://virtualrealporn.com/wp-content/uploads/sites/5/2017/01/slider-russian-shower.jpg" group-title="Adult TV",Russian
@@ -53,10 +95,6 @@ http://live.redtraffic.xyz/latina.m3u8
 http://live.redtraffic.xyz/cuckold.m3u8
 #EXTINF:-1 tvg-logo="https://ei.rdtcdn.com/media/pics/users/001/412/262/avatar48856227/logo_19f92982de1b00a5a7cf8307f1c704ac.png" group-title="Adult TV",Blowjob
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-logo="https://www.tgirls.porn/tour/custom_assets/images/logo.png" group-title="Adult TV",Trans
-rtmp://62.210.55.60/stream3xVJ/3x03
-#EXTINF:-1 tvg-logo="https://fi1.ypncdn.com/static/channel/logo/882545349.jpg" group-title="Adult TV",Trans 500
-rtmp://62.210.55.60/stream3xVJ/3x08
 #EXTINF:-1,RedTraffic Big Ass (18+)
 http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1,RedTraffic Big Dick (18+)
@@ -821,12 +859,14 @@ https://ovhv20.twincdn.com/videos/prime/00/01/88/22.mp4
 https://ovhv20.twincdn.com/videos/prime/00/01/81/22.mp4
 #EXTINF:0,HİREMCO X VOD  117
 https://ovhv20.twincdn.com/videos/prime/00/01/99/22.mp4
-#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2011/09/xxx.jpg" group-title="XXX",Hairy Asian twathttps://ovhv20.twincdn.com/videos/prime/00/01/88/22.mp4
+#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2011/09/xxx.jpg" group-title="XXX",Hairy Asian twat
+https://ovhv20.twincdn.com/videos/prime/00/01/88/22.mp4
 #EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2011/09/xxx.jpg" group-title="XXX",Chubby maid sucks her boss
 https://ovhv27.twincdn.com/videos/prime/00/01/88/48.mp4
 #EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2011/09/xxx.jpg" group-title="XXX",Asian girl pisses after sex
 https://ovhv28.twincdn.com/videos/prime/00/01/91/60.mp4
-#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2011/09/xxx.jpg" group-title="XXX",Two hairy cunts to fuckhttps://ovhv23.twincdn.com/videos/prime/00/01/88/20.mp4
+#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2011/09/xxx.jpg" group-title="XXX",Two hairy cunts to fuck
+https://ovhv23.twincdn.com/videos/prime/00/01/88/20.mp4
 #EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2011/09/xxx.jpg" group-title="XXX",Beaver from Asia is to be banged
 https://ovhv19.twincdn.com/videos/prime/00/01/89/81.mp4
 #EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2011/09/xxx.jpg" group-title="XXX",Her Asian pussy waits for a horny cock
@@ -1743,10 +1783,6 @@ http://stream2.fastcdn.me/flv/193.mp4
 http://stream2.fastcdn.me/flv/422.mp4
 #EXTINF:1199,STREAM 9
 http://stream2.fastcdn.me/flv/414.mp4
-#EXTINF:-1,XXX: Super One HD
-http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1,XXX: Zest TV
-http://188.35.9.5:10007/stolen/214g/parasite.install 
 #EXTINF: -1, Robot Woman (1980)
 https://video1.tizam.cc/films/Femme-objet.mp4
 #EXTINF: -1, Catherine and her wild stallions 1 (1983)
