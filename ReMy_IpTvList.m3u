@@ -2020,8 +2020,6 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TRACE Tropical
 http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",TV Tetova
-rtmp://ip.tvtetova.net:5119/live/tvtetova
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",UTV
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",YU PLANET
