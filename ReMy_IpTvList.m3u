@@ -1978,6 +1978,8 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",RETRO
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ROMA TV
+http://185.46.161.3/hls/sd.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ROMAN TV Tr
 http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Radio 105 TV
