@@ -1898,12 +1898,16 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/226.m3u8/Level(545259)?st
 http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ALB MUSIC HD
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Capital Radio
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",ch au tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Chanson TV
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",City TV
+https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",CMC TV
 http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Company TV
@@ -1928,6 +1932,8 @@ http://rtmp.one.by:1200
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",First Music Channel Russia HD
 http://rtmp.one.by:2300
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Gigante TV
+http://85.214.130.95:8080/live/stream.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Gong Base
 http://ec.playmedia.fr:1935/gong-base/live/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",H!T Music Channel
@@ -2004,6 +2010,8 @@ http://tv.105.net/live/rmc3/playlist.m3u8
 http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",RTV Zeri
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Sarajevo 1 Tv
+rtmp://91.148.117.134:1935/radios/radiosweb.stream live=1
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Sky Folk
 http://skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Somax TV
