@@ -982,6 +982,34 @@ https://aldirect.hls.huya.com/huyalive/30765679-2523205260-10837084072795176960-
 Https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",ReMy_WORLD
 ReMy_WORLD
+#EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesFamily
+http://95.170.215.118:80/hls/m3u8/Sky-MoviesFamily.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesDrama
+http://95.170.215.118:80/hls/m3u8/Sky-MoviesDrama.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesAction
+http://95.170.215.118:80/hls/m3u8/Sky-MoviesAction.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesPremie
+http://95.170.215.118:80/hls/m3u8/Sky-MoviesPremie.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Sky-Spo-football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesDisney
+http://95.170.215.118:80/hls/m3u8/Sky-MoviesDisney.m3u8
+#EXTINF:-1 tvg-logo="https://www.newmediafilmfestival.com/img/hbo.png" group-title="USA",HBO (Asia)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF: -1 tvg-id = "709" tvg-logo = "https://i.imgur.com/cJaeQA7.png" group-title = "USA", 4U occidental
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:-1 group-title="FILM",Flight
+http://www.deadlyblogger.com/NewRelease/flight1.mp4
+#EXTINF:-1 group-title="FILM",CINDERELLA (1950)
+http://www.deadlyblogger.com/NewRelease/cinder1.mp4
+#EXTINF:-1 group-title="FILM",JUMANJI
+http://www.deadlyblogger.com/NewRelease/Jumanji1.mp4
+#EXTINF:-1 group-title="FILM",ROBIN HOOD
+http://www.deadlyblogger.com/NewRelease/robinhood1.mp4
+#EXTINF:-1 group-title="FILM",SAVING MR BANKS
+http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
+#EXTINF:-1 group-title="FILM",SLEEPING BEAUTY
+http://www.deadlyblogger.com/NewRelease/beauty1.mp4
 #EXTINF:-1 group-title="ReMy_WORLD",3 News
 http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",3AW Melbourne
@@ -2424,6 +2452,12 @@ rtmp://91.93.118.165/tempotv/livestream
 http://yayin3.canlitv.com:1935/live/kontv/playlist.m3u8
 #EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"","Adult TV Dorcel Tv"
 "Adult TV Dorcel Tv"
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title=""Adult TV Dorcel Tv"",FTV Midnight Secrets (HD) (New!)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title=""Adult TV Dorcel Tv"",FTV Midnight Secrets (FHD) (New!)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title=""Adult TV Dorcel Tv"",FTV Midnight Secrets (UHD) (New!)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",Jasmin TV (18+)
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",Jasmin TV HD (18+)
