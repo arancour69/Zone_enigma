@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U USA
 #EXTINF:-1,ReMy_ReMy_ULUSAL
 ReMy_ReMy_ULUSAL
 #EXTINF:-1 group-title="ReMy_ULUSAL",FX HD
@@ -994,21 +994,21 @@ http://95.170.215.118:80/hls/m3u8/Sky-MoviesPremie.m3u8
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",Sky-MoviesDisney
 http://95.170.215.118:80/hls/m3u8/Sky-MoviesDisney.m3u8
-#EXTINF:-1 tvg-logo="https://www.newmediafilmfestival.com/img/hbo.png" group-title="USA",HBO (Asia)
+#EXTINF:-1 group-title="ReMy_WORLD",HBO (Asia)
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF: -1 tvg-id = "709" tvg-logo = "https://i.imgur.com/cJaeQA7.png" group-title = "USA", 4U occidental
+#EXTINF:-1 group-title="ReMy_WORLD",4U occidental
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-#EXTINF:-1 group-title="FILM",Flight
+#EXTINF:-1 group-title="ReMy_WORLD",Flight
 http://www.deadlyblogger.com/NewRelease/flight1.mp4
-#EXTINF:-1 group-title="FILM",CINDERELLA (1950)
+#EXTINF:-1 group-title="ReMy_WORLD",CINDERELLA (1950)
 http://www.deadlyblogger.com/NewRelease/cinder1.mp4
-#EXTINF:-1 group-title="FILM",JUMANJI
+#EXTINF:-1 group-title="ReMy_WORLD",JUMANJI
 http://www.deadlyblogger.com/NewRelease/Jumanji1.mp4
-#EXTINF:-1 group-title="FILM",ROBIN HOOD
+#EXTINF:-1 group-title="ReMy_WORLD",ROBIN HOOD
 http://www.deadlyblogger.com/NewRelease/robinhood1.mp4
-#EXTINF:-1 group-title="FILM",SAVING MR BANKS
+#EXTINF:-1 group-title="ReMy_WORLD",SAVING MR BANKS
 http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
-#EXTINF:-1 group-title="FILM",SLEEPING BEAUTY
+#EXTINF:-1 group-title="ReMy_WORLD",SLEEPING BEAUTY
 http://www.deadlyblogger.com/NewRelease/beauty1.mp4
 #EXTINF:-1 group-title="ReMy_WORLD",3 News
 http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
