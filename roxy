@@ -1039,6 +1039,416 @@ http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Newtv Chinese Kung Fu
 http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",CCTV-14
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229157/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",CCTV-15
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229103/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",ZJ-shaoer
+http://112.17.40.140/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",ZJ_shumashidai
+http://112.17.40.140/PLTV/88888888/224/3221226638/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",CCTV1
+http://112.17.40.140/PLTV/88888888/224/3221226595/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",CCTV1
+http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Hollywood Filmleri 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Hollywood Filmleri 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Hollywood Filmleri 8 
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Kuroko Basketbol ​​
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Reality TV 2 
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",5 HD 3 
+http://ax.micaesoft.com/YMitv/YMITV_CN_CNcctv05_2.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",5 HD 4 
+http://ax.micaesoft.com/YMitv/YMITV_CN_CNcctv05_3.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AAA 
+http://dianjianglive.cbg.cn:8010/hls/stream/dxxwp33w.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Aniu TV 
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR Hollywood Filmleri 11 
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR Hollywood Filmleri 7 
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 11 
+https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 12 
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 15 
+https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 2 
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 4 
+http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 4 
+https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLMİ 6 
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR FİLM 7 
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR Filmi 9 
+http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",AYSAR Filmi 9 
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",BABY ebeveyn-çocuk 
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",bestTV 4K 
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",bestTV Sporları FHD 
+http://117.148.187.37/PLTV/88888888/224/3221226685/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",BesTV 
+http://39.134.52.162/wh7f454c46tw3730304110_1867932700/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226031/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Fox filmleri asya 
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 15 
+http://live.streamingfast.net/osmflivech15.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 16 
+http://live.streamingfast.net/osmflivech16.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 17 
+http://live.streamingfast.net/osmflivech17.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 18 
+http://live.streamingfast.net/osmflivech18.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 19 
+http://live.streamingfast.net/osmflivech19.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 20 
+http://live.streamingfast.net/osmflivech20.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 21 
+http://live.streamingfast.net/osmflivech21.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 22 
+http://live.streamingfast.net/osmflivech22.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 23 
+http://live.streamingfast.net/osmflivech23.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 24 
+http://live.streamingfast.net/osmflivech24.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 25 
+http://live.streamingfast.net/osmflivech25.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 26 
+http://live.streamingfast.net/osmflivech26.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 27 
+http://live.streamingfast.net/osmflivech27.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 28 
+http://live.streamingfast.net/osmflivech28.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 29 
+http://live.streamingfast.net/osmflivech29.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 30 
+http://live.streamingfast.net/osmflivech30.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 31 
+http://live.streamingfast.net/osmflivech31.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 32 
+http://live.streamingfast.net/osmflivech32.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 33 
+http://live.streamingfast.net/osmflivech33.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 34 
+http://live.streamingfast.net/osmflivech34.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 35 
+http://live.streamingfast.net/osmflivech35.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 36 
+http://live.streamingfast.net/osmflivech36.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 37 
+http://live.streamingfast.net/osmflivech37.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 38 
+http://live.streamingfast.net/osmflivech38.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 39 
+http://live.streamingfast.net/osmflivech39.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 41 
+http://live.streamingfast.net/osmflivech41.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 42 
+http://live.streamingfast.net/osmflivech42.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 43 
+http://live.streamingfast.net/osmflivech43.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 45 
+http://live.streamingfast.net/osmflivech45.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 46 
+http://live.streamingfast.net/osmflivech46.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 47 
+http://live.streamingfast.net/osmflivech47.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 48 
+http://live.streamingfast.net/osmflivech48.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 49 
+http://live.streamingfast.net/osmflivech49.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV 50 
+http://live.streamingfast.net/osmflivech50.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV gerçek istasyonu 
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",İyi TV kompleksi 
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HBO 
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 group-title="ReMy_CHINA",Umut Kanalı 
+http://bcliveuniv-lh.akamaihd.net:80/i/Live_1@384161/index_500_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HRB Eğlence 
+http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HRB filmi 
+http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HRB Haber Sentezi 
+http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HRB Life 
+http://111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",HRB bilgileri 
+http://111.40.205.87/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",ICS Şangay Yabancı Dil 
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV5 + 
+http://117.156.28.119/270000001111/1110000054/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV8 + 
+http://117.156.28.119/270000001111/1110000057/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Askeri İnceleme 
+http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Askeri Tiyatrosu 
+http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV aksiyon filmi 
+http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Animasyon Krallığı 
+http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Kostüm Tiyatrosu 
+http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Ev Sineması 
+http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV’nin sürpriz endişesi 
+http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV yıldızı gişe rekorları kıran 
+http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV hukukun üstünlüğü 
+http://117.156.28.119/270000001111/1110000111/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Denizaşırı Tiyatrosu 
+http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Aşk Komedisi 
+http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV çizgi roman deneyi 
+http://117.156.28.119/270000001111/1110000112/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV butik draması 
+http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV butik filmi 
+http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV butik çeşitliliği 
+http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV butik kaydı 
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Casus Oyun Tiyatrosu 
+http://117.156.28.119/270000001111/1110000110/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",IPTV Altın Çeşitliliği 
+http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",KAKU çocukları 
+http://223.110.242.130:6610/cntv/live1/kakukaton/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",MASTV 
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Max Financial Media 
+http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NBA BesTV Canlı Oda 1HD 
+http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NBA BesTV Live 2HD 
+http://223.110.243.170/PLTV/2/224/3221226797/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NBA BesTV Live 3HD 
+http://223.110.243.170/PLTV/2/224/3221226799/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NBA BesTV Canlı Oda 4HD 
+http://223.110.243.170/PLTV/2/224/3221226801/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NBA BesTV Canlı Oda 5HD 
+http://223.110.243.170/PLTV/2/224/3221226803/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NBA BesTV Canlı Oda 6HD 
+http://223.110.243.170/PLTV/2/224/3221226805/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NBA BesTV Canlı Oda 7HD 
+http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NEWS24 
+http://ax.micaesoft.com/YMitv/YMITV_CN_SHKnews24_1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Blockbusters 
+http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Süper sporları HD 
+http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Suspense 
+http://183.207.249.15/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Çin Kung Fu 
+http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Health'in bir randevusu var 
+http://111.40.205.76/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Askeri İnceleme 
+http://111.40.205.76/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Askeri Tiyatrosu 
+http://111.40.205.76/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV aksiyon filmi 
+http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Canlandırma Krallığı 
+http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Kostüm Tiyatrosu 
+http://111.40.205.76/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aile Tiyatrosu 
+http://111.40.205.76/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV korku 
+http://111.40.205.76/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Dövüş Tiyatrosu 
+http://111.40.205.76/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV yıldızı gişe rekorları kıran 
+http://111.40.205.76/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Denizaşırı Tiyatrosu 
+http://111.40.205.76/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Hyun Dans Geleceği 
+http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aşk Komedi 
+http://111.40.205.76/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV elektriği 
+http://111.40.205.76/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik draması 
+http://111.40.205.76/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik filmi 
+http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik kaydı 
+http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Altın Çeşitliliği 
+http://111.40.205.76/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Çin Kung Fu 
+http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Çin Kung Fu 
+http://183.207.248.71/cntv/live1/SD-1500k-576P-gzkongfu/SD-1500k-576P-gzkongfu
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Health'in bir randevusu var 
+http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Health'in bir randevusu var 
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225545/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Askeri Kanalı 
+http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Askeri Tiyatrosu 
+http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Tarımı zengin 
+http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV aksiyon filmi 
+http://183.207.249.15/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aksiyon Filmi HD 
+http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Animasyon Krallığı 2 
+http://183.207.249.8/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Animasyon Krallığı FHD 
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Animasyon Krallığı HHD 
+http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Kostüm Tiyatrosu 
+http://121.31.30.90:8085/ysten-business/live/guzhuangjc/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV mükemmel oyun 
+http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aile Tiyatrosu
+http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aile Tiyatrosu HHD 
+http://121.31.30.90:8085/ysten-business/live/jiatingjc/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV korku endişesi HD 
+http://121.31.30.90:8085/ysten-business/live/jingsongxy/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",YeniTV savaşı 
+http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Kavgası 
+http://223.110.245.134/PLTV/3/224/3221226656/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Dövüş Tiyatrosu 
+http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV yıldızı gişe rekorları kıran FHD 
+http://117.148.187.37/PLTV/88888888/224/3221226751/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV yıldızı gişe rekorları kıran HD 
+http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Denizaşırı Tiyatrosu 
+http://121.31.30.90:8085/ysten-business/live/xiqumd/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Denizaşırı Tiyatrosu 
+http://183.207.249.16/PLTV/3/224/3221225547/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Chao Ma Baharatlı 
+http://117.148.187.37/PLTV/88888888/224/3221226666/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Chao Ma Baharatlı 
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226983/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aşk Komedi 
+http://121.31.30.90:8085/ysten-business/live/aiqingxj/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Aşk Komedi 
+http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Sports 
+http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Butik Sporları 
+http://183.207.249.8/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Sports
+http://183.207.249.15/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Sports HD 
+http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik draması 
+http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik draması HD 
+http://121.31.30.90:8085/ysten-business/live/jdaju/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik filmi
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Premium Movie HD 
+http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik kaydı 
+http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik kaydı 
+http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Butik Kayıt FHD 
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV butik rekor HHD 
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Süper Filmi 
+http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Altın Çeşitliliği 
+http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NewTV Gold Variety HD 
+http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",CBN Mutlu Tiyatrosu 
+http://42.48.60.248:8082/live/gqys-800k.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",CBN Günlük Sinema 
+http://42.48.60.248:8082/live/gqts-800k.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (
+http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8)
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Bao thanh thiên) 
+http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Chen Xiang 6:30) 
+http://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Cờ bạc quốc gốc) 
+http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Disney) 
+http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Dragon Gate Escort) 
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Doraemon Dorah) 
+http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (
+http://aldirect.hls.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8)
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Lứu Đức Hòa) 
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Di Renjie) 
+http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8)
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (Yitian Shoulong) 
+http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ 55 (Uzun) 
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Phim TQ (RăngđồngắtJiXiaolan) 
+http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",SDETV 
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",SinoVision 
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",SinoVision 
+http://ec.sinovision.net/video/ts/newlv.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Toon Max TV 
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",TVB-8 
+http://tvbilive14-i.akamaihd.net/hls/live/496344/CTVB8/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",TVB Kablosuz Yeşim 
+http://tvbilive17-i.akamaihd.net/hls/live/624328/CJMandarin5/CJMandarin5-04.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",TVB Pearl 
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=PPentu_
+#EXTINF:-1 group-title="ReMy_CHINA",TVB Fei - Yeşil - Tayvan 
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8Fsv_cid=1034&Fsv_chan_hls_se_idx=30Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp?=240veFsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+#EXTINF:-1 group-title="ReMy_CHINA",TVB Jade 
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=PPentu
+#EXTINF:-1 group-title="ReMy_CHINA",TVS2 
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",XMTV 1 
+http://cstvpull.live.wscdns.com/live/xiamen1.flv
+#EXTINF:-1 group-title="ReMy_CHINA",XMTV 2 
+http://cstvpull.live.wscdns.com/live/xiamen2.flv
+#EXTINF:-1 group-title="ReMy_CHINA",XMTV 3 
+http://cstvpull.live.wscdns.com/live/xiamen3.flv
+#EXTINF:-1 group-title="ReMy_CHINA",XMTV Yıldızı 
+http://cstvpull.live.wscdns.com/live/xiamen4.flv
+#EXTINF:-1 group-title="ReMy_CHINA",Xuzhou TV 1 Şangay 
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",Xuzhou TV 2 Şangay 
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8 
 #EXTINF:-1 group-title="ReMy_JAPAN",ReMy_JAPAN
 ReMy_JAPAN
 #EXTINF:-1 group-title="ReMy_JAPAN",Speed ​​and Passion
