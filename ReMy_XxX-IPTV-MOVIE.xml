@@ -2,6 +2,16 @@
 <items>
   <playlist_name><![CDATA[ReMy_XxX-IPTV-MOVIE]]></playlist_name>
 <channel>
+    <title>BBC 1 NORTH IRELAND</title>
+    <description></description>
+    <stream_url><![CDATA[https://www.filmon.com/tv/bbc-1-north-ireland]]></stream_url>
+</channel>
+<channel>
+    <title>Phuket Thailand 4K Full</title>
+    <description></description>
+    <stream_url><![CDATA[https://www.youtube.com/watch?v=c177aGh7VJs]]></stream_url>
+</channel>
+<channel>
     <title>Babestation 24 (DE) (18+)</title>
     <description></description>
     <stream_url><![CDATA[http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8]]></stream_url>
