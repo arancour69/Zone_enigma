@@ -2842,13 +2842,13 @@ rtmp://stream.taksimbilisim.com/tv52/bant1
 rtmp://91.93.118.165/tempotv/livestream
 #EXTINF:-1 group-title="ReMy_YEREL",KONYA KON TV
 http://yayin3.canlitv.com:1935/live/kontv/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"","Adult TV Dorcel Tv"
+#EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv","Adult TV Dorcel Tv"
 "Adult TV Dorcel Tv"
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title=""Adult TV Dorcel Tv"",FTV Midnight Secrets (HD) (New!)
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Adult TV Dorcel Tv",FTV Midnight Secrets (HD) (New!)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title=""Adult TV Dorcel Tv"",FTV Midnight Secrets (FHD) (New!)
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Adult TV Dorcel Tv",FTV Midnight Secrets (FHD) (New!)
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title=""Adult TV Dorcel Tv"",FTV Midnight Secrets (UHD) (New!)
+#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Adult TV Dorcel Tv",FTV Midnight Secrets (UHD) (New!)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Adult TV Dorcel Tv",FashionTelevision.us
@@ -2857,25 +2857,25 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="IDFashion.ua" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3783508_logo_id_fashion.png" group-title="Adult TV Dorcel Tv",[COLOR pink]ID Fashion[/COLOR]
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title=""Adult TV Dorcel Tv"",Runway.us
+#EXTINF:-1 tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="Adult TV Dorcel Tv",Runway.us
 https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",Jasmin TV
+#EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",Jasmin TV
 #http://j.mp/S_JasminTVHD_sly?.m3u8
-#EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",Jasmin TV (18+)
+#EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",Jasmin TV (18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815880410.m3u8
-#EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",Jasmin TV HD (18+)
+#EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",Jasmin TV HD (18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",Jasmin HD
+#EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",Jasmin HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",JASMIN TV
+#EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",JASMIN TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",Miami TV
+#EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",Miami TV
+#EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",Miami TV
 http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",VISIT-X TV
+#EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",VISIT-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",VISIT-X TV (18+)
+#EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",VISIT-X TV (18+)
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 parent-code="1234" group-title=""Adult TV Dorcel Tv"",TelePAVIA
+#EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",TelePAVIA
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
