@@ -2850,7 +2850,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="Adult TV Dorcel Tv",FTV Midnight Secrets (UHD) (New!)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC9iGC7EpU4k5DwN-qGtyic9um6kkM0rnQfkQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Adult TV Dorcel Tv",FashionTelevision.us
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionLifestyle.ua" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="Adult TV Dorcel Tv",Fashion & Lifestyle
@@ -2860,7 +2860,7 @@ http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="Adult TV Dorcel Tv",Runway.us
 https://eu-all7.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
 #EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",Jasmin TV
-#http://j.mp/S_JasminTVHD_sly?.m3u8
+http://j.mp/S_JasminTVHD_sly?.m3u8
 #EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",Jasmin TV (18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815880410.m3u8
 #EXTINF:-1 parent-code="1234" group-title="Adult TV Dorcel Tv",Jasmin TV HD (18+)
