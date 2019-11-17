@@ -247,18 +247,18 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",OutsideTV.uk 3k
-#https://a.jsrdn.com/broadcast/3gT64sH/3000.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",OutsideTV.uk 2k
 https://a.jsrdn.com/broadcast/3gT64sH/2000.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",OutsideTV.uk 3k
+#https://a.jsrdn.com/broadcast/3gT64sH/3000.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Sportskool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Jordan Sport TV
-http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR
-#EXTINF:-1 group-title="ReMy_SPORT",Jordan Sport TV
 http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
+#EXTINF:-1 group-title="ReMy_SPORT",Jordan Sport TV
+http://stream.joinvisions.net:1935/Jordantv/Jordan_Sport/gmswf.m3u8?DVR
 #EXTINF:-1 group-title="ReMy_SPORT",KTV Sport
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 #EXTINF:-1 group-title="ReMy_SPORT",KTV Sport
@@ -386,41 +386,13 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",WOSN TV
 http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Ru Sport
-http://91.211.143.214/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Ru Sport
-http://91.211.143.214/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Ru Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Ru Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",boxingtvru
-http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",match
 http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",match
-http://176.114.16.54:80/match/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",match
-http://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",match-football-2
-http://persik.by/stream/3477/395381/10217.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Strength
-http://gcore.silatv.ru/streams/3431_1488/480n/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Strength
-https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Strength
-https://gcore.silatv.ru/streams/3431_1488/720n/index.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Start
-https://strm.yandex.ru/kal/start/start0.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Start
-https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Start
-https://strm.yandex.ru/kal/start/start0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",Start
-https://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="ReMy_SPORT",TV FOOTBALL
-http://37.98.152.116:8081/fft/fft/chunks.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Football
 http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Football
