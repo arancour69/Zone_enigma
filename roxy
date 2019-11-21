@@ -1398,6 +1398,14 @@ http://www.deadlyblogger.com/NewRelease/robinhood1.mp4
 http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
 #EXTINF:-1 group-title="ReMy_WORLD",SLEEPING BEAUTY
 http://www.deadlyblogger.com/NewRelease/beauty1.mp4
+#EXTINF:-1 group-title="ReMy_WORLD",4S
+http://212.200.108.13:8000/play/a0cu
+#EXTINF:-1 group-title="ReMy_WORLD",jefimija
+http://212.200.108.13:8000/play/a0cs
+#EXTINF:-1 group-title="ReMy_WORLD",K1
+http://212.200.108.13:8000/play/a0ct
+#EXTINF:-1 group-title="ReMy_WORLD",axn clone
+http://212.200.108.13:8000/play/a0dr
 #EXTINF:-1 group-title="ReMy_WORLD",3 News
 http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD",3AW Melbourne
