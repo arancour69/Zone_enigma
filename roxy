@@ -2370,6 +2370,12 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 http://89.36.10.12:8080
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Jefimija HD
 rtmp://212.200.108.253/live/jefimija.flv
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",HQM BALADAS
+https://livelist01.yowi.tv/lista/60bbd07a82cd6bd1f18b4958f9c1b25bbb7b71d7/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",HQM LATINO
+https://livelist01.yowi.tv/lista/beb3dc68b9581e926f166d498fa18fceac8eb346/index-v1-a1.m3u8
+#EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",KARAOKE HD
+http://www.djing.com/tv/karaoke.m3u8
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kcn 2 Tv
 http://212.200.102.3:5000/rtp/239.0.0.2:5000
 #EXTINF:-1 group-title="ReMy_MUSIC_CHANNELS",Kcn 3 Tv
