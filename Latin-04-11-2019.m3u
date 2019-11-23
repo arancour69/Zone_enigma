@@ -21,42 +21,24 @@ https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 #EXTINF:-1,BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1,BONAO TV
-http://ss1.domint.net:2226/btv_str/bonao/chunklist_w1629112127.m3u8
 #EXTINF:-1,CANAL 1 PELICULAS
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 #EXTINF:-1,CANAL 10 CANCUN
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,CANAL 10 NICARAGUA
-http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
 #EXTINF:-1,CANAL 10 RIO NEGRO
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:-1,CANAL 11
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1339977921_b1300000_slesp.m3u8
-#EXTINF:-1,CANAL 11 NICARAGUA
-http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
-#EXTINF:-1,CANAL 12
-http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
 #EXTINF:-1,CANAL 17 MILENIUM
 https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
-#EXTINF:-1,CANAL 2 NICARAGUA
-http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
-#EXTINF:-1,CANAL 2 PELICULAS
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 #EXTINF:-1,CANAL 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1,CANAL 4 NICARAGUA
-http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
 #EXTINF:-1,CANAL 4 SAN JUAN
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
 #EXTINF:-1,CANAL 6 MEXICO
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1,CANAL 8 MADRID
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,CANAL 8 NICARAGUA
-http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
-#EXTINF:-1,CANAL 9 NICARAGUA
-http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
 #EXTINF:-1,CANAL JUDICIAL
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 #EXTINF:-1,CANAL M
@@ -101,8 +83,6 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 #EXTINF:-1,COSMOS
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
-#EXTINF:-1,CTC TV
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 #EXTINF:-1,CUATRO
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
 #EXTINF:-1,CULTURA 24
@@ -139,10 +119,6 @@ http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 http://184.173.181.2:1935/8020/8020/playlist.m3u8
 #EXTINF:-1,FUEGOTV
 http://184.173.181.2:1935/8020/8020/playlist.m3u8
-#EXTINF:-1,HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1,HBO 2 720
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1,HECHOS
 http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1,Historia
@@ -151,10 +127,6 @@ http://184.173.181.2:1935/8062/8062/playlist.m3u8
 https://livelist01.yowi.tv/lista/60bbd07a82cd6bd1f18b4958f9c1b25bbb7b71d7/index-v1-a1.m3u8
 #EXTINF:-1,HQM LATINO
 https://livelist01.yowi.tv/lista/beb3dc68b9581e926f166d498fa18fceac8eb346/index-v1-a1.m3u8
-#EXTINF:-1,IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1,JBN
-http://138.117.4.70:8079/streams/d/Canal-39/playlist.m3u8
 #EXTINF:-1,KARAOKE HD
 http://www.djing.com/tv/karaoke.m3u8
 #EXTINF:-1,La 1 HD
@@ -167,8 +139,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1,LEVANTE
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
-#EXTINF:-1,LOCOMOTION
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1,LOGOS
 http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
 #EXTINF:-1,LUNA TV DOMINICANA
