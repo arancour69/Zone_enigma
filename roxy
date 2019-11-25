@@ -397,6 +397,36 @@ http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
 http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",Football
 http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",WOSNLive_1
+http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",mediasportchannel
+https://streaming.wim.tv/programming/mediasportchannel/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",nile_sp1
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/02.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",nile_sp2
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",arhat sport
+http://arhat.tv/public/360p/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",ktvsportspluslive
+https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",adsport2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8%C3%82
+#EXTINF:-1 group-title="ReMy_SPORT",jordan sport
+http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
+#EXTINF:-1 group-title="ReMy_SPORT",actionsportstv
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",adventure sports network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Bein-Sport-HD1
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Bein-Sport-HD4
+http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Bein-Sport-HD5
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",SporTVL
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",AntiguaSports
+http://143.208.59.12:1935/AntiguaSports/myStream/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",ReMy_WORLD_NEWS
 ReMy_WORLD_NEWS
 #EXTINF:-1 group-title="ReMy_WORLD_NEWS",CNN Turk
