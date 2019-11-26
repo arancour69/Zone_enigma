@@ -1,6 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="Adult TV Live","Adult TV Live"
 "Adult TV Live"
+#EXTINF:-1 group-title="Adult TV Live",Babestation Xtreme (18+)
+http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Adult TV Live",Brazzers
+http://5.9.84.209:8081/torrenttv/channel/Brazzers%20TV.ts
+#EXTINF:-1 group-title="Adult TV Live",Dorcel HD
+http://5.9.84.209:8081/torrenttv/channel/Dorcel%20HD.ts
+#EXTINF:-1 group-title="Adult TV Live",Hustler HD
+http://5.9.84.209:8081/torrenttv/channel/Hustler%20HD%20Europe.ts
+#EXTINF:-1 group-title="Adult TV Live",Nuart
+http://5.9.84.209:8081/torrenttv/channel/Nuart.ts
+#EXTINF:-1 group-title="Adult TV Live",PlayboyTV
+http://5.9.84.209:8081/torrenttv/channel/Playboy%20TV.ts
+#EXTINF:-1 group-title="Adult TV Live",Redlight HD
+http://5.9.84.209:8081/torrenttv/channel/Redlight%20HD.ts
+#EXTINF:-1 group-title="Adult TV Live",Russian night
+http://5.9.84.209:8081/torrenttv/channel/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C.ts
+#EXTINF:-1 group-title="Adult TV Live",Candy
+http://5.9.84.209:8081/torrenttv/channel/Candy%20HD%20.ts
 #EXTINF:-1 group-title="Adult TV Live",Jasmin TV
 #http://j.mp/S_JasminTVHD_sly?.m3u8
 #EXTINF:-1 group-title="Adult TV Live",Jasmin TV (18+)
