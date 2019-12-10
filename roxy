@@ -333,6 +333,34 @@ http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",ReMy_SPORT
 ReMy_SPORT
+#EXTINF:-1 group-title="ReMy_SPORT",Match! Football 1
+http://188.35.9.14:2025
+#EXTINF:-1 group-title="ReMy_SPORT",Match! Football 1 HD
+http://188.35.9.14:2010
+#EXTINF:-1 group-title="ReMy_SPORT",Match! Football 2
+http://188.35.9.14:2026
+#EXTINF:-1 group-title="ReMy_SPORT",Match! Football 2 HD
+http://188.35.9.14:2011
+#EXTINF:-1 group-title="ReMy_SPORT",Match! Football 3
+http://188.35.9.14:2027
+#EXTINF:-1 group-title="ReMy_SPORT",Match! Football 3 HD
+http://188.35.9.14:2012
+#EXTINF:-1 group-title="ReMy_SPORT",Match! Premier
+http://188.191.36.106:8080/hls/nashfutbol.m3u8
+#EXTINF:-1 group-title="ReMy_SPORT",Eurosport 2 HD
+http://84.254.96.194:9981/stream/channelid/61109218?ticket=8FC20779B2330F3E201C7FB123D0E147D030B13C&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 group-title="ReMy_SPORT",FightBox
+http://84.254.96.194:9981/stream/channelid/1729617928?ticket=A0F5C7BD48B1DBF3CA0365DC3CBF79FF31229DDD&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 group-title="ReMy_SPORT",Nova Sport 1 HD
+http://84.254.96.194:9981/stream/channelid/1611977584?ticket=58D6F6F3E1072C27593CD229A147B3B6CFC4C0D1&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 group-title="ReMy_SPORT",Nova Sport 2 HD
+http://84.254.96.194:9981/stream/channelid/1413068538?ticket=FFFFFC8D9CC4BBF8DA096FD8D0D4388768F266E4&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 group-title="ReMy_SPORT",Sport 1 HD
+http://84.254.96.194:9981/stream/channelid/1743839772?ticket=811A8FA33CED4CDBC2DA956DF99F498A59C23F88&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 group-title="ReMy_SPORT",Sport 2 HD
+http://84.254.96.194:9981/stream/channelid/1502877344?ticket=C127092ADB62EA5B44E998824ABEEEE6E3367E4C&profile=webtv-h264-aac-mpegts
+#EXTINF:-1 group-title="ReMy_SPORT",Sport 5
+http://84.254.96.194:9981/stream/channelid/998998054?ticket=0C28CE493CBBC5E5542B3781F898737144F2FE7F&profile=webtv-h264-aac-mpegts
 #EXTINF:-1 group-title="ReMy_SPORT",BEIN SPORT 1
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
 #EXTINF:-1 group-title="ReMy_SPORT",beIN LaLiga
@@ -1016,6 +1044,10 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m
 https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",ReMy_CHINA
 ReMy_CHINA
+#EXTINF:-1 group-title="ReMy_CHINA",CCTV 5 HD
+http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="ReMy_CHINA",NEW TV Super sports HD
+http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",Newtv boutique sports
 http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 group-title="ReMy_CHINA",CCTV-1
