@@ -3,27 +3,21 @@
 *OpenATV Softcam Panel YENILENMISTIR*	
              *★★08-03-2020-★★*
 *ReMy_SOFTCAM_APP ARM-4K VE openATV Softcam Panel UPDATE*
-             *★★04.03.2020★★*
+             *★★07.03.2020★★*
 *TurkVod_10.76 UPDATE*
-             *★★04.03.2020★★*
+             *★★07.03.2020★★*
 *ReMyTeaM PLUGINI_GUNCELLENMISTIR*
-             *★★04.03.2020★★*
+             *★★07.03.2020★★*
 *FreeCccam Plugini UPDATE*
-             *★★04.03.2020★★*
+             *★★07.03.2020★★*
 *IPTV_ChannelList UPDATE*
-             *★★04.03.2020★★*
+             *★★07.03.2020★★*
 *ReMy_M3U_PRO PANELLER YENILENMISTIR*
-             *★★04.03.2020★★*
+             *★★07.03.2020★★*
 *FuLLKeyS UPDATE*
-             *★★04.03.2020★★*
+             *★★07.03.2020★★*
 *ReMy_SATELLITE_ChannelList UPDATE*
              *★★REMY_TEAM DESTEK MAİL★★*
 *enigma2_teknik_servis@hotmail.com*
 ____________________________________________________
             *☪️ ®ReMy EnigmaTurk TeaM ☪️*
-group = 1
-cccversion = 2.3.2
-ccckeepalive = 1
-inactivitytimeout=30
-audisabled = 1
-disablecrccws = 1
